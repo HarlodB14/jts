@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>JTS</title>
+  <meta name="description" content="Job Tracking System: junior IT-vacatures, cv-match en ATS-clean motivatiebrieven.">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><span class="logo">JTS</span><span class="sub">Job Tracking System</span></div>
+    <div class="top-right">
+      <div class="meta" id="meta">laden...</div>
+      <button class="icon-btn" id="btn-refresh" aria-label="Vernieuwen" title="Vernieuwen">↻</button>
+    </div>
+  </header>
+
+  <div class="search"><input id="q" type="search" placeholder="Zoek op functie, bedrijf, skill of plaats" autocomplete="off"></div>
+  <nav class="filters" id="filters">
+    <button data-f="all" class="chip">Alles</button>
+    <button data-f="trainee" class="chip">Traineeships</button>
+    <button data-f="nl" class="chip">NL</button>
+    <button data-f="remote" class="chip">Remote</button>
+    <button data-f="few" class="chip ghost">≤ 25 sollicitanten</button>
+    <button data-f="top" class="chip ghost">Alleen top-match</button>
+    <button data-f="reset" class="chip reset" id="f-reset" hidden>✕ Wis filters</button>
+  </nav>
+
+  <main>
+    <section id="view-swipe" class="view">
+      <div class="deck" id="deck"></div>
+      <div class="swipe-actions">
+        <button class="round no" id="btn-no" aria-label="Overslaan">✕</button>
+        <button class="round save" id="btn-save" aria-label="Bewaren">☆</button>
+        <button class="round yes" id="btn-yes" aria-label="Solliciteren">✓</button>
+      </div>
+      <p class="hint">Swipe rechts om een brief te maken, links om over te slaan.</p>
+    </section>
+
+    <section id="view-list" class="view on">
+      <div class="list" id="list"></div>
+    </section>
+
+    <section id="view-tracker" class="view">
+      <div class="tracker-head">
+        <h2>Tracker</h2>
+        <button class="btn" id="btn-csv">Exporteer CSV</button>
+      </div>
+      <div id="tracker"></div>
+    </section>
+
+    <section id="view-profile" class="view">
+      <h2>Profiel</h2>
+      <p class="muted">Alles hieronder blijft op dit apparaat (localStorage). Niets gaat naar GitHub.</p>
+      <form id="profile" class="form" autocomplete="on">
+        <label>Naam <input name="name" autocomplete="name"></label>
+        <label>E-mail <input name="email" type="email" autocomplete="email"></label>
+        <label>Telefoon <input name="phone" type="tel" autocomplete="tel"></label>
+        <label>Cv als PDF <input type="file" id="cv-file" accept="application/pdf,.txt"></label>
+        <label>Cv-tekst <textarea name="cv" rows="10" placeholder="Plak hier je cv of upload een PDF"></textarea></label>
+        <label>Kernverhaal (rode draad in elke brief)
+          <textarea name="coreStory" rows="6"></textarea>
+        </label>
+        <label>Kernverhaal Engels (voor Engelstalige vacatures)
+          <textarea name="coreStoryEn" rows="6"></textarea>
+        </label>
+        <label>Gemini API-key <input name="key" type="password" autocomplete="off" placeholder="Gratis via Google AI Studio"></label>
+        <label>Gemini-model <input name="model" placeholder="gemini-flash-latest"></label>
+        <h3 style="margin:8px 0 0">Live vernieuwen (optioneel)</h3>
+        <p class="muted" style="margin:0">Met een GitHub-token start ↻ direct de scraper en haalt JTS de nieuwste data rechtstreeks uit je repo. Maak een fine-grained token met alleen toegang tot je JTS-repo: Actions = Read and write, Contents = Read-only.</p>
+        <label>GitHub-repo <input name="ghRepo" placeholder="gebruikersnaam/jts" autocomplete="off"></label>
+        <label>GitHub-token <input name="ghToken" type="password" autocomplete="off" placeholder="github_pat_..."></label>
+        <label>Branch <input name="ghBranch" placeholder="main" autocomplete="off"></label>
+        <label>Minimale matchscore <input name="minScore" type="number" min="0" max="100"></label>
+        <div class="row">
+          <button class="btn primary" type="submit">Opslaan</button>
+          <span class="muted" id="profile-msg"></span>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <nav class="tabs" id="tabs">
+    <button data-v="list" class="on"><span>☰</span>Vacatures</button>
+    <button data-v="swipe"><span>♥</span>Swipe</button>
+    <button data-v="tracker"><span>✓</span>Tracker</button>
+    <button data-v="profile"><span>☺</span>Profiel</button>
+  </nav>
+
+  <div class="sheet-bg" id="sheet-bg"></div>
+  <div class="sheet" id="sheet" role="dialog" aria-modal="true"></div>
+  <div class="toast" id="toast"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="letter.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

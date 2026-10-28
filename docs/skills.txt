@@ -1,0 +1,89 @@
+# Een skill per regel. Alias met | (eerste = weergavenaam)
+Python
+Java
+JavaScript|js
+TypeScript|ts
+C#|csharp
+.NET|dotnet|asp.net
+C++
+C
+PHP
+Go|golang
+Kotlin
+Swift
+Ruby
+Rust
+SQL|mysql|postgresql|postgres|t-sql
+NoSQL|mongodb
+HTML
+CSS|scss|sass
+React|react.js|reactjs
+Angular
+Vue|vue.js
+Next.js|nextjs
+Nuxt|nuxt.js|nuxtjs
+Node.js|nodejs|node
+Express
+Django
+Flask
+FastAPI
+Spring|spring boot
+Laravel
+Symfony
+REST|rest api|restful
+GraphQL
+Git|github|gitlab|bitbucket
+CI/CD|ci-cd|pipelines
+Docker
+Kubernetes|k8s
+Linux
+Bash|shell
+PowerShell
+Azure
+AWS|amazon web services
+GCP|google cloud
+Terraform
+Ansible
+Agile|scrum|kanban
+Jira
+DevOps
+Unit testing|unit tests|pytest|junit|jest
+Selenium
+Playwright|end-to-end tests|e2e
+Cypress
+OOP|object georiënteerd|object oriented
+Microservices
+Machine learning|ml
+AI|artificial intelligence|kunstmatige intelligentie
+LLM|llms|large language models|genai|generative ai
+MCP|model context protocol
+OAuth|oauth 2.0|mfa|sso
+Data analyse|data analysis|data-analyse
+Pandas
+NumPy
+Power BI|powerbi
+Excel
+Tableau
+ETL
+Databricks
+Spark|pyspark
+TensorFlow
+PyTorch
+Scikit-learn|sklearn
+Networking|netwerken|tcp/ip
+Active Directory
+Windows Server|windows server
+Microsoft 365|office 365|m365
+Intune
+ITIL
+Security|cybersecurity|informatiebeveiliging
+Figma
+UX|ui/ux
+API
+Mobile|android|ios
+Testautomatisering|test automation
+Consultancy|consulting
+Requirements|requirements analyse
+Stakeholdermanagement|stakeholder management
+Engels|english
+Nederlands|dutch
