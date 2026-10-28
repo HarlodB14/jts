@@ -216,5 +216,5 @@ max_age_hours: 168       # alleen vacatures jonger dan dit (7 dagen)
 history_days: 7          # zo lang blijven vacatures in jobs.json
 requests_delay_s: 1.5    # pauze tussen requests per bron
 max_jobs_ai_per_run: 120 # max nieuwe vacatures per uur naar Gemini (batches van 8, ~15 requests)
-gemini_model: gemini-flash-latest
+gemini_model: gemini-flash-lite-latest   # snel (~3 s per batch van 8); de gewone flash denkt 30+ s per vraag
 min_score: 55            # onder deze score komt een vacature in "Lage match"

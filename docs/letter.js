@@ -95,15 +95,29 @@
     return out;
   }
 
+  const FALLBACK_MODEL = "gemini-flash-lite-latest";
+
   async function callGemini({ key, model, prompt }) {
+    try {
+      return await callModel({ key, model, prompt });
+    } catch (e) {
+      // Drukte of timeout bij het gekozen model: één keer terugvallen op het snelle lite-model.
+      if (model !== FALLBACK_MODEL && /\b(429|500|503)\b|timeout|aborted/i.test(e.message)) {
+        return callModel({ key, model: FALLBACK_MODEL, prompt });
+      }
+      throw e;
+    }
+  }
+
+  async function callModel({ key, model, prompt }) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+    const generationConfig = { temperature: 0.7, maxOutputTokens: 2048 };
+    if (!/lite/.test(model)) generationConfig.thinkingConfig = { thinkingLevel: "low" };
     const res = await fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": key },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.7, maxOutputTokens: 1024 },
-      }),
+      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig }),
+      signal: AbortSignal.timeout(60000),
     });
     if (!res.ok) {
       const body = await res.text();
@@ -111,7 +125,7 @@
     }
     const data = await res.json();
     const parts = data.candidates?.[0]?.content?.parts || [];
-    return parts.map((p) => p.text || "").join("");
+    return parts.filter((p) => !p.thought).map((p) => p.text || "").join("");
   }
 
   async function generate(opts) {

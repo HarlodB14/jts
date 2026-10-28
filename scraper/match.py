@@ -70,21 +70,25 @@ def local_score(job, cv_skills):
 
 def ask_gemini(key, cv, batch):
     jobs_txt = "\n\n".join(
-        f"[id={j['id']}] {j['title']} bij {j['company']} ({j['location']})\n{j['full_text'][:2500]}" for j in batch)
+        f"[id={j['id']}] {j['title']} bij {j['company']} ({j['location']})\n{j['full_text'][:1500]}" for j in batch)
     body = {
         "contents": [{"parts": [{"text": PROMPT.format(cv=cv[:8000], jobs=jobs_txt)}]}],
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json",
                              "responseSchema": SCHEMA},
     }
-    for attempt in range(3):
-        r = requests.post(API.format(model=CFG["gemini_model"]), params={"key": key}, json=body, timeout=90)
-        if r.status_code == 429:
-            time.sleep(30 * (attempt + 1))
+    for attempt in range(4):
+        try:
+            r = requests.post(API.format(model=CFG["gemini_model"]), params={"key": key}, json=body, timeout=120)
+        except requests.Timeout:
+            time.sleep(10)
+            continue
+        if r.status_code in (429, 500, 503):  # rate limit of drukte bij Google: even wachten en opnieuw
+            time.sleep(20 * (attempt + 1))
             continue
         r.raise_for_status()
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return {item["id"]: item for item in json.loads(text)}
-    raise RuntimeError("Gemini rate limit bleef 429 geven")
+    raise RuntimeError("Gemini bleef niet beschikbaar (429/503/timeout)")
 
 
 def main():
@@ -111,15 +115,15 @@ def main():
             try:
                 got = ask_gemini(key, cv, batch)
             except Exception as e:
-                print(f"Gemini-fout, rest volgende run: {e}", file=sys.stderr)
-                break
+                print(f"Gemini-fout bij batch {i // 8 + 1}, overgeslagen: {e}", file=sys.stderr)
+                continue
             for j in batch:
                 if j["id"] in got:
                     item = got[j["id"]]
                     item.pop("id", None)
                     item["score"] = max(0, min(100, int(item["score"])))
                     results[j["id"]] = item
-            time.sleep(7)  # gratis tier: ruim onder 10 requests per minuut
+            time.sleep(5)  # gratis tier: ruim onder de limiet per minuut
     elif not key:
         print("Geen GEMINI_API_KEY: alleen lokale score.")
 
