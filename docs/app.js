@@ -15,7 +15,9 @@
   // Lokale kopie van alle vacatures (7 dagen), zodat niets verdwijnt als jobs.json ververst of offline is.
   const cache = store.get("jobsCache", {});
   let jobs = Object.values(cache), meta = store.get("meta", {}), skillRes = [], lastLoad = 0;
-  const F = Object.assign({ cat: "all", top: false, few: false, q: "" }, store.get("filters", {}));
+  // Locatievoorkeur: standaard Brabant, Rotterdam en Utrecht.
+  const DEFAULT_LOCS = ["brabant", "rotterdam", "utrecht"];
+  const F = Object.assign({ cat: "all", top: false, few: false, q: "", locs: [...DEFAULT_LOCS] }, store.get("filters", {}));
   let sortBy = store.get("sort", "new");
   // "nieuw" = nog niet gezien op dit apparaat. Wordt bijgewerkt als je de app verlaat.
   const seen = new Set(store.get("seen", []));
@@ -135,16 +137,31 @@
 
   const minScore = () => profile.minScore ?? meta.min_score ?? 55;
   const score = (j) => (j.match ? j.match.score : null);
-  const isVisible = (j) => (j.match ? j.match.is_junior !== false && j.match.score >= minScore() : true);
+  // Alleen een echte AI-beoordeling mag een vacature als "niet junior" verbergen; de lokale schatting niet.
+  const notJunior = (j) => !!(j.match && j.match.ai && j.match.is_junior === false);
+  const isVisible = (j) => (j.match ? !notJunior(j) && j.match.score >= minScore() : true);
   const rank = (j) => (score(j) ?? 50) - hoursOld(j) * 0.4;
 
   const fewApplicants = (j) => j.applicants != null && j.applicants <= 25;
   const CATS = {
     all: () => true,
     trainee: (j) => j.traineeship,
-    nl: (j) => !j.remote || /nederland|netherlands|amsterdam|rotterdam|utrecht|tilburg|eindhoven|den bosch/i.test(j.location),
-    remote: (j) => j.remote,
   };
+  // Regio's op basis van de plaatsnaam. Volgorde telt: de eerste die past wint.
+  const REGIONS = [
+    ["brabant", /brabant|\bnb\b|eindhoven|tilburg|den bosch|hertogenbosch|breda|helmond|\boss\b|\buden\b|veghel|waalwijk|oosterhout|roosendaal|bergen op zoom|veldhoven|boxtel|vught|udenhout|oisterwijk|dongen|etten-leur|valkenswaard|geldrop|nuenen|son en breugel|cuijk|schijndel|drunen|heusden|meierijstad|best, |rosmalen|kaatsheuvel|goirle|bladel|eersel|deurne|boxmeer/i],
+    ["rotterdam", /rotterdam|schiedam|vlaardingen|capelle|barendrecht|ridderkerk|spijkenisse|dordrecht|zwijndrecht|krimpen|maassluis|rhoon|rijnmond|hellevoetsluis|lansingerland|berkel en rodenrijs|bleiswijk/i],
+    ["utrecht", /utrecht|\but\b|amersfoort|nieuwegein|zeist|houten|veenendaal|woerden|ijsselstein|maarssen|de bilt|bunnik|leusden|soest|vianen|baarn|bilthoven|driebergen|culemborg/i],
+    ["amsterdam", /amsterdam|amstelveen|hoofddorp|haarlem|diemen|zaandam|schiphol|\bnh\b|noord-holland|north holland|almere|hilversum|aalsmeer|alkmaar/i],
+    ["denhaag", /den haag|the hague|gravenhage|delft|zoetermeer|rijswijk|leiden|ypenburg|westland|naaldwijk|wassenaar|\bzh\b/i],
+  ];
+  const LOC_LABELS = { brabant: "Brabant", rotterdam: "Rotterdam e.o.", utrecht: "Utrecht e.o.", amsterdam: "Amsterdam e.o.",
+    denhaag: "Den Haag e.o.", remote: "Remote", overig: "Overig NL" };
+  function regionOf(j) {
+    const loc = j.location || "";
+    for (const [key, re] of REGIONS) if (re.test(loc)) return key;
+    return j.remote ? "remote" : "overig";
+  }
   function matchesQuery(j, q) {
     if (!q) return true;
     const hay = `${j.title} ${j.company} ${j.location} ${(j.skills || []).join(" ")} ${j.full_text}`.toLowerCase();
@@ -155,8 +172,9 @@
     return jobs.filter((j) => {
       if (!includeDone && status[j.id] && status[j.id].s !== "saved") return false;
       if ((deck || f.top) && !isVisible(j)) return false;
-      if (j.match && j.match.is_junior === false) return false;
+      if (notJunior(j)) return false;
       if (f.few && !fewApplicants(j)) return false;
+      if (f.locs.length && !f.locs.includes(regionOf(j))) return false;
       return CATS[f.cat](j) && matchesQuery(j, f.q);
     }).sort(deck || sortBy === "match" ? (a, b) => rank(b) - rank(a) : (a, b) => hoursOld(a) - hoursOld(b));
   }
@@ -172,7 +190,15 @@
       const n = k in CATS ? count({ cat: k }) : count({ [k]: true });
       c.textContent = `${c.dataset.label} (${n})`;
     });
-    const active = F.cat !== "all" || F.top || F.few || F.q;
+    // Locatiechips: aan/uit per regio, met aantallen.
+    const locChips = Object.keys(LOC_LABELS).map((k) => {
+      const n = count({ locs: [k] });
+      return `<button class="chip loc${F.locs.includes(k) ? " on" : ""}" data-l="${k}">${LOC_LABELS[k]} (${n})</button>`;
+    });
+    $("#locs").innerHTML = `<span class="row-label">Locatie</span>` +
+      `<button class="chip loc${F.locs.length ? "" : " on"}" data-l="*">Overal (${count({ locs: [] })})</button>` + locChips.join("");
+    const defaultLocs = F.locs.length === DEFAULT_LOCS.length && DEFAULT_LOCS.every((l) => F.locs.includes(l));
+    const active = F.cat !== "all" || F.top || F.few || F.q || !defaultLocs;
     $("#f-reset").hidden = !active;
     if ($("#q").value !== F.q) $("#q").value = F.q;
   }
@@ -211,8 +237,18 @@
       ${ignored}`;
   }
 
+  // Kaart vult de ruimte tussen filters en knoppen, op elk scherm.
+  function sizeDeck() {
+    const deck = $("#deck");
+    if (!deck.offsetParent) return;
+    const top = deck.getBoundingClientRect().top;
+    const below = $(".swipe-actions").offsetHeight + ($(".hint").offsetHeight || 0) + $("#tabs").offsetHeight + 28;
+    deck.style.height = Math.max(280, Math.min(680, innerHeight - top - below)) + "px";
+  }
+  addEventListener("resize", sizeDeck);
   function renderDeck() {
     const deck = $("#deck");
+    requestAnimationFrame(sizeDeck);
     const list = filtered({ deck: true });
     deck.innerHTML = "";
     if (!list.length) {
@@ -389,20 +425,93 @@
   }
 
   // ---------- profiel ----------
+  if (!profile.ghRepo && location.hostname.endsWith(".github.io")) {
+    profile.ghRepo = `${location.hostname.split(".")[0]}/${location.pathname.split("/")[1] || ""}`.replace(/\/$/, "");
+  }
   function fillProfile() {
     const f = $("#profile");
     for (const k of ["name", "email", "phone", "cv", "coreStory", "coreStoryEn", "key", "model", "ghRepo", "ghToken", "ghBranch"]) f.elements[k].value = profile[k] || "";
     f.elements.minScore.value = profile.minScore ?? "";
   }
-  $("#profile").onsubmit = (e) => {
-    e.preventDefault();
-    const f = e.target;
+  function saveProfile(msg) {
+    const f = $("#profile");
     for (const k of ["name", "email", "phone", "cv", "coreStory", "coreStoryEn", "key", "model", "ghRepo", "ghToken", "ghBranch"]) profile[k] = f.elements[k].value.trim();
     profile.minScore = f.elements.minScore.value === "" ? null : Number(f.elements.minScore.value);
     store.set("profile", profile);
-    $("#profile-msg").textContent = "Opgeslagen";
-    setTimeout(() => ($("#profile-msg").textContent = ""), 2000);
+    $("#profile-msg").textContent = msg;
+  }
+  $("#profile").onsubmit = (e) => { e.preventDefault(); saveProfile("Opgeslagen ✓"); toast("Profiel opgeslagen"); };
+  let saveTimer;
+  $("#profile").oninput = () => { clearTimeout(saveTimer); saveTimer = setTimeout(() => saveProfile("Automatisch opgeslagen ✓"), 600); };
+
+  // ---------- blijvend bewaren ----------
+  async function checkStorage() {
+    const el = $("#storage-status");
+    const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+    let persisted = false;
+    try { persisted = (await navigator.storage?.persisted?.()) || (await navigator.storage?.persist?.()) || false; } catch { /* niet ondersteund */ }
+    const has = !!(profile.cv || profile.key);
+    el.innerHTML = [
+      has ? "✓ Je profiel staat op dit apparaat en blijft bewaard als je JTS opnieuw opent." : "Nog geen profiel op dit apparaat.",
+      persisted ? "✓ De browser bewaart het blijvend." : "",
+      !standalone && /iPhone|iPad/.test(navigator.userAgent)
+        ? "Tip voor iPhone: Safari wist websitegegevens na 7 dagen zonder bezoek. Zet JTS op je beginscherm (Deel → Zet op beginscherm) en vul je gegevens daar één keer in. De beginscherm-app heeft zijn eigen opslag, los van Safari, en die blijft staan." : "",
+    ].filter(Boolean).join("<br>");
+  }
+
+  // ---------- overzetten naar ander apparaat (versleutelde link, geen server) ----------
+  const b64u = {
+    enc: (bytes) => { let s = ""; bytes.forEach((b) => (s += String.fromCharCode(b))); return btoa(s).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, ""); },
+    dec: (str) => Uint8Array.from(atob(str.replace(/-/g, "+").replace(/_/g, "/")), (c) => c.charCodeAt(0)),
   };
+  async function deriveKey(code, salt) {
+    const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(code), "PBKDF2", false, ["deriveKey"]);
+    return crypto.subtle.deriveKey({ name: "PBKDF2", salt, iterations: 250000, hash: "SHA-256" }, base,
+      { name: "AES-GCM", length: 256 }, false, ["encrypt", "decrypt"]);
+  }
+  async function makeTransfer(code) {
+    const payload = new TextEncoder().encode(JSON.stringify({ v: 1, profile, filters: F, status }));
+    const salt = crypto.getRandomValues(new Uint8Array(16));
+    const iv = crypto.getRandomValues(new Uint8Array(12));
+    const ct = new Uint8Array(await crypto.subtle.encrypt({ name: "AES-GCM", iv }, await deriveKey(code, salt), payload));
+    const all = new Uint8Array(28 + ct.length);
+    all.set(salt); all.set(iv, 16); all.set(ct, 28);
+    return `${location.origin}${location.pathname}#import=${b64u.enc(all)}`;
+  }
+  async function applyTransfer(blob, code) {
+    const all = b64u.dec(blob);
+    const plain = await crypto.subtle.decrypt({ name: "AES-GCM", iv: all.slice(16, 28) }, await deriveKey(code, all.slice(0, 16)), all.slice(28));
+    const data = JSON.parse(new TextDecoder().decode(plain));
+    Object.assign(profile, data.profile); store.set("profile", profile);
+    if (data.filters) { Object.assign(F, data.filters); store.set("filters", F); }
+    if (data.status) { Object.assign(status, data.status); store.set("status", status); }
+    fillProfile(); checkStorage(); render();
+  }
+  let xferLink = "";
+  $("#xfer-make").onclick = async () => {
+    const code = $("#xfer-code").value;
+    if (code.length < 6) return toast("Kies een code van minimaal 6 tekens");
+    saveProfile("Opgeslagen ✓");
+    xferLink = await makeTransfer(code);
+    $("#xfer-share").hidden = !navigator.share; $("#xfer-copy").hidden = false;
+    $("#xfer-msg").textContent = "Link gemaakt. Stuur hem naar je andere apparaat (bijv. AirDrop of mail aan jezelf), open hem daar en vul dezelfde code in. Deel de link en de code niet met anderen.";
+  };
+  $("#xfer-share").onclick = () => navigator.share({ title: "JTS overzetlink", url: xferLink }).catch(() => {});
+  $("#xfer-copy").onclick = async () => { try { await navigator.clipboard.writeText(xferLink); toast("Link gekopieerd"); } catch { prompt("Kopieer de link:", xferLink); } };
+  async function importFrom(link) {
+    const m = String(link).match(/#import=([A-Za-z0-9_-]+)/);
+    if (!m) return toast("Dit is geen geldige overzetlink");
+    const code = prompt("Vul de code in die je bij het maken van de overzetlink koos:");
+    if (!code) return;
+    try { await applyTransfer(m[1], code); toast("Gegevens overgezet ✓"); show("list"); }
+    catch { toast("Verkeerde code of beschadigde link"); }
+  }
+  $("#xfer-import").onclick = () => importFrom($("#xfer-paste").value);
+  if (location.hash.startsWith("#import=")) {
+    const link = location.href;
+    history.replaceState(null, "", location.pathname);   // link niet in de adresbalk laten staan
+    setTimeout(() => importFrom(link), 300);
+  }
   $("#cv-file").onchange = async (e) => {
     const file = e.target.files[0];
     if (!file) return;
@@ -430,7 +539,7 @@
   function show(v) {
     document.querySelectorAll(".view").forEach((s) => s.classList.toggle("on", s.id === "view-" + v));
     document.querySelectorAll("#tabs button").forEach((b) => b.classList.toggle("on", b.dataset.v === v));
-    $("#filters").style.display = v === "swipe" || v === "list" ? "" : "none";
+    $("#filterbar").style.display = v === "swipe" || v === "list" ? "" : "none";
     store.set("view", v);
     render();
   }
@@ -445,9 +554,16 @@
   $("#filters").onclick = (e) => {
     const b = e.target.closest("button"); if (!b) return;
     const k = b.dataset.f;
-    if (k === "reset" || k === "all") setFilter({ cat: "all", top: false, few: false, q: "" });
+    if (k === "reset") setFilter({ cat: "all", top: false, few: false, q: "", locs: [...DEFAULT_LOCS] });
+    else if (k === "all") setFilter({ cat: "all", top: false, few: false, q: "" });
     else if (k in CATS) setFilter({ cat: F.cat === k ? "all" : k });
     else setFilter({ [k]: !F[k] });
+  };
+  $("#locs").onclick = (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    const l = b.dataset.l;
+    if (l === "*") return setFilter({ locs: [] });
+    setFilter({ locs: F.locs.includes(l) ? F.locs.filter((x) => x !== l) : [...F.locs, l] });
   };
   let qTimer;
   $("#q").oninput = (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => setFilter({ q: e.target.value.trim() }), 200); };
@@ -474,6 +590,7 @@
     navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then((r) => r.update()).catch(() => {});
   }
   fillProfile();
+  checkStorage();
   updateMeta();
   show(store.get("view", "list"));   // toont direct de lokale kopie
   load();

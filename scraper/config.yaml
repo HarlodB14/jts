@@ -187,6 +187,16 @@ jobspy:
     - data analist
     - hbo ICT starter
     - afgestudeerd informatica
+  # Extra gericht zoeken in de voorkeursregio's (straal ~25 km rond de stad)
+  cities: [Eindhoven, Tilburg, "'s-Hertogenbosch", Breda, Rotterdam, Utrecht]
+  city_distance_km: 25
+  city_queries:
+    - junior developer
+    - junior software engineer
+    - junior IT consultant
+    - junior data
+    - traineeship
+    - starter IT
 
 # LinkedIn via Apify (secret APIFY_TOKEN). Gratis plan = $5 per maand tegoed.
 linkedin_apify:

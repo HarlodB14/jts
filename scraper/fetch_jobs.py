@@ -272,14 +272,18 @@ def src_jobspy():
         print("python-jobspy niet geïnstalleerd (vereist Python 3.10+), JobSpy overgeslagen", file=sys.stderr)
         return []
     sites = list(js["sites"])
+    searches = [(q, "Netherlands", None) for q in js["queries"]]
+    miles = round(js.get("city_distance_km", 25) / 1.609)
+    searches += [(q, city, miles) for city in js.get("cities", []) for q in js.get("city_queries", [])]
     out = []
-    for q in js["queries"]:
+    for q, where, distance in searches:
         try:
-            df = scrape_jobs(site_name=sites, search_term=q, location="Netherlands", country_indeed="netherlands",
+            extra = {"distance": distance} if distance else {}
+            df = scrape_jobs(site_name=sites, search_term=q, location=where, country_indeed="netherlands",
                              results_wanted=js["results_per_query"], hours_old=CFG["max_age_hours"],
-                             description_format="markdown", verbose=0)
+                             description_format="html", verbose=0, **extra)
         except Exception as e:
-            print(f"[jobspy] '{q}': {e}", file=sys.stderr)
+            print(f"[jobspy] '{q}' in {where}: {e}", file=sys.stderr)
             continue
         request_log.append(f"JOBSPY {','.join(sites)}")
         for row in df.fillna("").to_dict("records"):
@@ -289,7 +293,8 @@ def src_jobspy():
                 if row.get("max_amount"):
                     sal += f" - €{int(row['max_amount'])}"
                 if row.get("interval"):
-                    sal += f" per {row['interval']}"
+                    per = {"yearly": "jaar", "monthly": "maand", "weekly": "week", "daily": "dag", "hourly": "uur"}
+                    sal += f" per {per.get(row['interval'], row['interval'])}"
             posted = parse_date(str(row.get("date_posted") or ""))
             site = str(row.get("site") or "").capitalize()
             out.append(make_job("JobSpy", row.get("title"), row.get("company"), row.get("location"),
@@ -384,7 +389,9 @@ def classify(job):
 
 def enrich(job):
     text = job["full_text"]
-    job["short_desc"] = (text[:300].rsplit(" ", 1)[0] + "...") if len(text) > 300 else text
+    clean = re.sub(r"[*_#`>|]+|-{3,}|={3,}|\\", " ", text)   # markdown-resten weg
+    clean = re.sub(r"\s+", " ", clean).strip()
+    job["short_desc"] = (clean[:300].rsplit(" ", 1)[0] + "...") if len(clean) > 300 else clean
     job["benefits"] = [k for k, rx in BENEFIT_RES.items() if rx.search(text)]
     job["skills"] = find_skills(f"{job['title']} {text} {' '.join(map(str, job['tags']))}")
     job["lang"] = detect_lang(text)

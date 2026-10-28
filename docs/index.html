@@ -20,16 +20,17 @@
     </div>
   </header>
 
-  <div class="search"><input id="q" type="search" placeholder="Zoek op functie, bedrijf, skill of plaats" autocomplete="off"></div>
-  <nav class="filters" id="filters">
-    <button data-f="all" class="chip">Alles</button>
-    <button data-f="trainee" class="chip">Traineeships</button>
-    <button data-f="nl" class="chip">NL</button>
-    <button data-f="remote" class="chip">Remote</button>
-    <button data-f="few" class="chip ghost">≤ 25 sollicitanten</button>
-    <button data-f="top" class="chip ghost">Alleen top-match</button>
-    <button data-f="reset" class="chip reset" id="f-reset" hidden>✕ Wis filters</button>
-  </nav>
+  <div class="filterbar" id="filterbar">
+    <div class="search"><input id="q" type="search" placeholder="Zoek op functie, bedrijf, skill of plaats" autocomplete="off"></div>
+    <nav class="filters" id="locs" aria-label="Locatie"></nav>
+    <nav class="filters" id="filters" aria-label="Filters">
+      <button data-f="all" class="chip">Alles</button>
+      <button data-f="trainee" class="chip">Traineeships</button>
+      <button data-f="few" class="chip ghost">≤ 25 sollicitanten</button>
+      <button data-f="top" class="chip ghost">Alleen top-match</button>
+      <button data-f="reset" class="chip reset" id="f-reset" hidden>✕ Wis filters</button>
+    </nav>
+  </div>
 
   <main>
     <section id="view-swipe" class="view">
@@ -79,9 +80,32 @@
         <label>Minimale matchscore <input name="minScore" type="number" min="0" max="100"></label>
         <div class="row">
           <button class="btn primary" type="submit">Opslaan</button>
-          <span class="muted" id="profile-msg"></span>
+          <span class="muted" id="profile-msg">Wijzigingen worden automatisch bewaard</span>
         </div>
       </form>
+
+      <section class="panel">
+        <h3>Bewaren op dit apparaat</h3>
+        <p class="muted" id="storage-status">Controleren...</p>
+      </section>
+
+      <section class="panel">
+        <h3>Overzetten naar ander apparaat</h3>
+        <p class="muted">Er is geen database, dus elk apparaat bewaart zijn eigen gegevens. Met een overzetlink zet je je profiel, keys, filters en tracker in één keer over. De link is versleuteld met een code die alleen jij kent.</p>
+        <label class="field">Kies een code (min. 6 tekens)
+          <input id="xfer-code" type="password" autocomplete="off" minlength="6">
+        </label>
+        <div class="row wrap">
+          <button class="btn primary" id="xfer-make" type="button">Maak overzetlink</button>
+          <button class="btn" id="xfer-share" type="button" hidden>Deel link</button>
+          <button class="btn" id="xfer-copy" type="button" hidden>Kopieer link</button>
+        </div>
+        <p class="muted" id="xfer-msg"></p>
+        <label class="field">Of plak hier een overzetlink (bijv. in de beginscherm-app)
+          <input id="xfer-paste" autocomplete="off" placeholder="https://.../#import=...">
+        </label>
+        <button class="btn" id="xfer-import" type="button">Importeer</button>
+      </section>
     </section>
   </main>
 

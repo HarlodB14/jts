@@ -143,7 +143,7 @@ def main():
                  "matched_skills": sorted(set(j.get("skills", [])) & cv_skills),
                  "missing_realistic": sorted(set(j.get("skills", [])) - cv_skills),
                  "ignored_unrealistic": [], "reason": "Alleen lokale skills-match (nog geen AI-check)."}
-        m["visible"] = bool(m["is_junior"]) and m["score"] >= CFG["min_score"]
+        m["visible"] = (bool(m["is_junior"]) or not m["ai"]) and m["score"] >= CFG["min_score"]
         j["match"] = m
 
     data["min_score"] = CFG["min_score"]
