@@ -26,6 +26,8 @@ SKILLS_FILE = ROOT / "docs" / "skills.txt"
 UA = "Mozilla/5.0 (JTS personal job tracker)"
 NOW = datetime.now(timezone.utc)
 BLOCKED_HOSTS = ("linkedin.com",)
+# Handmatige run met "alle bronnen": ook betaalde/beperkte bronnen buiten hun vaste uren.
+FORCE_ALL = os.getenv("JTS_FORCE_ALL") == "true"
 
 session = requests.Session()
 session.headers["User-Agent"] = UA
@@ -307,7 +309,7 @@ def src_linkedin_apify():
     """LinkedIn-vacatures via een Apify-actor. Apify scrapet de publieke LinkedIn-pagina's op hun servers."""
     token = os.getenv("APIFY_TOKEN")
     li = CFG["linkedin_apify"]
-    if not token or NOW.hour % li["every_hours"] != 0:
+    if not token or (NOW.hour % li["every_hours"] != 0 and not FORCE_ALL):
         return []
     actor = li["actor"].replace("/", "~")
     r = http("POST", f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items",
@@ -328,7 +330,7 @@ def src_jsearch():
     """Google for Jobs via JSearch (RapidAPI): bevat ook LinkedIn-, Indeed- en Glassdoor-vacatures."""
     key = os.getenv("JSEARCH_KEY")
     js = CFG["jsearch"]
-    if not key or NOW.hour % js["every_hours"] != 0:
+    if not key or (NOW.hour % js["every_hours"] != 0 and not FORCE_ALL):
         return []
     q = js["queries"][(NOW.timetuple().tm_yday * 24 + NOW.hour) // js["every_hours"] % len(js["queries"])]
     r = http("GET", "https://jsearch.p.rapidapi.com/search",

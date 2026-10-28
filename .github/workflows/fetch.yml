@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "7 * * * *"   # elk uur
   workflow_dispatch:
+    inputs:
+      alle_bronnen:
+        description: "Ook LinkedIn (Apify) en JSearch nu draaien, buiten hun vaste uren (kost tegoed)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
       - name: Vacatures ophalen
         run: python scraper/fetch_jobs.py
         env:
+          JTS_FORCE_ALL: ${{ inputs.alle_bronnen }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           JSEARCH_KEY: ${{ secrets.JSEARCH_KEY }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
