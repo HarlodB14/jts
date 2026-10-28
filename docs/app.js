@@ -107,33 +107,86 @@
     return added;
   }
 
-  // Vernieuwen: start de scraper op GitHub (als token is ingesteld) en wacht tot er nieuwe data is.
+  // Vernieuwen: haalt direct de nieuwste lijst op en start (met GitHub-token) de scraper op de achtergrond.
+  let scrapeStarted = 0;
   async function refreshNow() {
     const btn = $("#btn-refresh");
     btn.disabled = true; btn.classList.add("spin");
     try {
+      const n = await load();
       if (!gh()) {
-        const n = await load();
         toast(n ? `${n} nieuwe vacature${n > 1 ? "s" : ""}` : "Up-to-date. Voor live scrapen: vul GitHub in bij Profiel");
+        return;
+      }
+      if (Date.now() - scrapeStarted < 4 * 6e4) {
+        toast(n ? `${n} nieuwe vacature${n > 1 ? "s" : ""}, scraper loopt nog` : "Scraper loopt al, nieuwe vacatures komen vanzelf");
         return;
       }
       const r = await fetch(`https://api.github.com/repos/${profile.ghRepo}/actions/workflows/fetch.yml/dispatches`,
         { method: "POST", headers: ghHeaders(), body: JSON.stringify({ ref: profile.ghBranch || "main" }) });
       if (!r.ok) throw new Error(`GitHub ${r.status}`);
-      toast("Scraper gestart, nieuwe vacatures over ±2 min");
-      const before = meta.updated_at;
-      for (let i = 0; i < 24; i++) {          // max ~8 minuten wachten
-        await new Promise((res) => setTimeout(res, 20000));
-        const n = await load({ quiet: true });
-        if (meta.updated_at !== before) { if (!n) toast("Scraper klaar, geen nieuwe vacatures"); return; }
-      }
-      toast("Scraper duurt lang, de lijst ververst vanzelf");
+      scrapeStarted = Date.now();
+      toast((n ? `${n} nieuwe vacature${n > 1 ? "s" : ""}. ` : "") + "Scraper gestart, meer volgt binnen ±5 min");
+      waitForScrape(meta.updated_at);
     } catch (e) {
       toast(`Vernieuwen mislukt: ${e.message}`);
     } finally {
       btn.disabled = false; btn.classList.remove("spin");
     }
   }
+  // Op de achtergrond wachten tot de scraper klaar is; de lijst ververst dan vanzelf.
+  async function waitForScrape(before) {
+    for (let i = 0; i < 30; i++) {            // max ~10 minuten
+      await new Promise((res) => setTimeout(res, 20000));
+      const n = await load({ quiet: true });
+      if (meta.updated_at !== before) { if (!n) toast("Scraper klaar, geen nieuwe vacatures"); return; }
+    }
+  }
+
+  // ---------- trek omlaag om te verversen (zoals TikTok/Instagram) ----------
+  const ptr = document.createElement("div");
+  ptr.className = "ptr";
+  ptr.innerHTML = `<span class="ptr-icon">↓</span><span class="ptr-text"></span>`;
+  document.body.prepend(ptr);
+  const PTR_MAX = 110, PTR_GO = 70;
+  let pStart = null, pDist = 0, pulling = false, ptrBusy = false;
+  function ptrShow(dist, text, cls = "") {
+    ptr.className = "ptr " + cls;
+    ptr.style.transform = `translate(-50%, ${dist}px)`;
+    $(".ptr-text", ptr).textContent = text;
+    $(".ptr-icon", ptr).textContent = cls.includes("loading") ? "↻" : "↓";
+  }
+  function ptrAtTop(target) {
+    const card = target.closest && target.closest(".deck .card");
+    return card ? card.scrollTop <= 0 : window.scrollY <= 0;
+  }
+  addEventListener("touchstart", (e) => {
+    const v = store.get("view", "list");
+    if (ptrBusy || e.touches.length !== 1 || (v !== "list" && v !== "swipe") || $("#sheet").classList.contains("on")) return;
+    if (e.target.closest("input,textarea,button,a") || !ptrAtTop(e.target)) return;
+    pStart = { x: e.touches[0].clientX, y: e.touches[0].clientY }; pDist = 0; pulling = false;
+  }, { passive: true });
+  addEventListener("touchmove", (e) => {
+    if (!pStart) return;
+    const dx = e.touches[0].clientX - pStart.x, dy = e.touches[0].clientY - pStart.y;
+    if (!pulling) {
+      if (dy > 12 && dy > Math.abs(dx) * 1.5) pulling = true;
+      else if (Math.abs(dx) > 12 || dy < -4) { pStart = null; return; }
+      else return;
+    }
+    pDist = Math.min(PTR_MAX, dy * 0.5);
+    ptrShow(pDist, pDist >= PTR_GO ? "Loslaten om te verversen" : "Trek omlaag om te verversen", "dragging" + (pDist >= PTR_GO ? " ready" : ""));
+  }, { passive: true });
+  addEventListener("touchend", async () => {
+    if (!pStart) return;
+    const go = pulling && pDist >= PTR_GO;
+    pStart = null; pulling = false;
+    if (!go) return ptrShow(0, "");
+    ptrBusy = true;
+    ptrShow(PTR_GO, "Nieuwe vacatures ophalen...", "loading");
+    try { await refreshNow(); } finally { ptrBusy = false; ptrShow(0, ""); }
+  });
+  addEventListener("touchcancel", () => { pStart = null; pulling = false; if (!ptrBusy) ptrShow(0, ""); });
 
   const minScore = () => profile.minScore ?? meta.min_score ?? 55;
   const score = (j) => (j.match ? j.match.score : null);
@@ -274,6 +327,7 @@
     });
     el.addEventListener("pointermove", (e) => {
       if (x0 === null) return;
+      if (pulling) { x0 = null; el.classList.remove("dragging"); el.style.transform = ""; return; }  // omlaag trekken = verversen, geen swipe
       dx = e.clientX - x0;
       if (Math.abs(dx) < 8 && Math.abs(e.clientY - y0) > 8) return;
       if (Math.abs(dx) > 8) el.setPointerCapture(e.pointerId);

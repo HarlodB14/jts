@@ -45,7 +45,8 @@ Jij bent de ATS. JTS haalt elk uur junior IT-vacatures en traineeships op, check
   - Let op: filters en zoeken werken op de vacatures die al opgehaald zijn. Ze starten geen nieuwe zoekopdracht.
 - **Verversen**:
   - De app haalt elke 5 minuten zelf nieuwe data op, en ook meteen als je de app weer opent. Nieuwe vacatures worden toegevoegd, oude blijven 7 dagen staan, ook als ze uit de bron verdwijnen. Offline zie je de laatst opgehaalde lijst.
-  - **↻**: zonder GitHub-token ververst dit alleen de lijst (de scraper zelf draait elk uur).
+  - **Trek omlaag** (bovenaan de lijst of op de swipe-kaart) of tik op **↻**: haalt direct de nieuwste lijst op.
+  - Zonder GitHub-token ververst dit alleen de lijst (de scraper zelf draait elk uur).
   - **↻ met GitHub-token**: als je bij Profiel een repo en token invult, start ↻ de scraper direct. De app wacht dan tot de nieuwe vacatures binnen zijn (±2 min) en leest ze rechtstreeks uit je repo, zonder de ~10 minuten cache van GitHub Pages.
   - Het token maak je via GitHub → Settings → Developer settings → Fine-grained tokens, met alleen toegang tot je JTS-repo: *Actions: Read and write* en *Contents: Read-only*.
   - Het token blijft alleen op je eigen apparaat.

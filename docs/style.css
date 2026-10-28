@@ -200,3 +200,13 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px; }
   .sheet { max-width: 760px; bottom: auto; top: 50%; border-radius: 20px; transform: translate(0, 150%); max-height: 88vh; }
   .sheet.on { transform: translate(0, -50%); }
 }
+
+/* ---------- trek omlaag om te verversen ---------- */
+html, body { overscroll-behavior-y: contain; } /* geen eigen browser-reload, wij verversen zelf */
+.ptr { position: fixed; top: -48px; left: 50%; transform: translate(-50%, 0); z-index: 40; display: flex; align-items: center; gap: 8px;
+  background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px;
+  font-size: 13px; white-space: nowrap; box-shadow: var(--shadow); transition: transform .25s ease; pointer-events: none; margin-top: env(safe-area-inset-top); }
+.ptr.dragging { transition: none; }
+.ptr-icon { display: inline-block; color: var(--accent); font-size: 16px; transition: transform .2s; }
+.ptr.ready .ptr-icon { transform: rotate(180deg); }
+.ptr.loading .ptr-icon { animation: spin 1s linear infinite; }
