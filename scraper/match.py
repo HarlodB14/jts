@@ -28,7 +28,7 @@ Beoordeel elke vacature hieronder. Regels:
 - score 0-100: hoe goed past de kandidaat op de realistische eisen. Bij traineeships weegt opleiding, leervermogen en motivatie zwaarder dan bestaande skills.
 - matched_skills: skills/kennis uit het cv die de vacature vraagt.
 - missing_realistic: realistische eisen die de kandidaat mist.
-- reason: één korte zin in het Nederlands, zonder persoonlijke gegevens uit het cv.
+- reason: één korte zin in het Nederlands in de je-vorm (bijv. "Je Laravel-ervaring past goed..."), zonder persoonlijke gegevens uit het cv.
 Verzin niets dat niet in het cv staat.
 
 VACATURES:
