@@ -210,3 +210,5 @@ html, body { overscroll-behavior-y: contain; } /* geen eigen browser-reload, wij
 .ptr-icon { display: inline-block; color: var(--accent); font-size: 16px; transition: transform .2s; }
 .ptr.ready .ptr-icon { transform: rotate(180deg); }
 .ptr.loading .ptr-icon { animation: spin 1s linear infinite; }
+.chip.loc.mine { font-weight: 600; }
+.chip.loc.mine.on { background: var(--accent); color: #fff; border-color: var(--accent); }

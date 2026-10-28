@@ -18,6 +18,8 @@
   // Locatievoorkeur: standaard Brabant, Rotterdam en Utrecht.
   const DEFAULT_LOCS = ["brabant", "rotterdam", "utrecht"];
   const F = Object.assign({ cat: "all", top: false, few: false, q: "", locs: [...DEFAULT_LOCS] }, store.get("filters", {}));
+  if (F.v !== 2) { F.locs = [...DEFAULT_LOCS]; F.v = 2; store.set("filters", F); }   // nieuwe standaard: Mijn regio
+  const isMyRegion = (locs) => locs.length === DEFAULT_LOCS.length && DEFAULT_LOCS.every((l) => locs.includes(l));
   let sortBy = store.get("sort", "new");
   // "nieuw" = nog niet gezien op dit apparaat. Wordt bijgewerkt als je de app verlaat.
   const seen = new Set(store.get("seen", []));
@@ -202,13 +204,16 @@
   };
   // Regio's op basis van de plaatsnaam. Volgorde telt: de eerste die past wint.
   const REGIONS = [
-    ["brabant", /brabant|\bnb\b|eindhoven|tilburg|den bosch|hertogenbosch|breda|helmond|\boss\b|\buden\b|veghel|waalwijk|oosterhout|roosendaal|bergen op zoom|veldhoven|boxtel|vught|udenhout|oisterwijk|dongen|etten-leur|valkenswaard|geldrop|nuenen|son en breugel|cuijk|schijndel|drunen|heusden|meierijstad|best, |rosmalen|kaatsheuvel|goirle|bladel|eersel|deurne|boxmeer/i],
-    ["rotterdam", /rotterdam|schiedam|vlaardingen|capelle|barendrecht|ridderkerk|spijkenisse|dordrecht|zwijndrecht|krimpen|maassluis|rhoon|rijnmond|hellevoetsluis|lansingerland|berkel en rodenrijs|bleiswijk/i],
-    ["utrecht", /utrecht|\but\b|amersfoort|nieuwegein|zeist|houten|veenendaal|woerden|ijsselstein|maarssen|de bilt|bunnik|leusden|soest|vianen|baarn|bilthoven|driebergen|culemborg/i],
+    // Heel Noord-Brabant
+    ["brabant", /brabant|\bnb\b|eindhoven|tilburg|den bosch|hertogenbosch|breda|helmond|\boss\b|\buden\b|veghel|waalwijk|oosterhout|roosendaal|bergen op zoom|veldhoven|boxtel|vught|udenhout|oisterwijk|dongen|etten-leur|valkenswaard|geldrop|nuenen|\bson\b|cuijk|schijndel|drunen|heusden|meierijstad|^best\b|rosmalen|kaatsheuvel|goirle|bladel|eersel|deurne|boxmeer|waalre|someren|gemert|zundert|rucphen|moerdijk|made\b|geertruidenberg|loon op zand|tilburg|berkel-enschot|sint-michielsgestel|vught|haaren|best,|oirschot|reusel|bergeijk|mierlo|asten|laarbeek|veldhoven/i],
+    // Rotterdam en directe ring
+    ["rotterdam", /rotterdam|schiedam|vlaardingen|capelle|barendrecht|ridderkerk|krimpen|rhoon|lansingerland|berkel en rodenrijs|bleiswijk|bergschenhoek|albrandswaard|poortugaal/i],
+    // Utrecht en directe ring
+    ["utrecht", /^utrecht|utrecht binnenstad|utrecht noord|utrecht oost|utrecht zuid|utrecht west|utrecht, |leidsche rijn|vleuten|nieuwegein|zeist|houten|de bilt|bilthoven|maarssen|ijsselstein|odijk|bunnik|groenekan|lopik/i],
     ["amsterdam", /amsterdam|amstelveen|hoofddorp|haarlem|diemen|zaandam|schiphol|\bnh\b|noord-holland|north holland|almere|hilversum|aalsmeer|alkmaar/i],
-    ["denhaag", /den haag|the hague|gravenhage|delft|zoetermeer|rijswijk|leiden|ypenburg|westland|naaldwijk|wassenaar|\bzh\b/i],
+    ["denhaag", /den haag|the hague|gravenhage|delft|zoetermeer|rijswijk|leiden|ypenburg|westland|naaldwijk|wassenaar/i],
   ];
-  const LOC_LABELS = { brabant: "Brabant", rotterdam: "Rotterdam e.o.", utrecht: "Utrecht e.o.", amsterdam: "Amsterdam e.o.",
+  const LOC_LABELS = { brabant: "Noord-Brabant", rotterdam: "Rotterdam e.o.", utrecht: "Utrecht e.o.", amsterdam: "Amsterdam e.o.",
     denhaag: "Den Haag e.o.", remote: "Remote", overig: "Overig NL" };
   function regionOf(j) {
     const loc = j.location || "";
@@ -249,8 +254,9 @@
       return `<button class="chip loc${F.locs.includes(k) ? " on" : ""}" data-l="${k}">${LOC_LABELS[k]} (${n})</button>`;
     });
     $("#locs").innerHTML = `<span class="row-label">Locatie</span>` +
+      `<button class="chip loc mine${isMyRegion(F.locs) ? " on" : ""}" data-l="mine">📍 Mijn regio (${count({ locs: DEFAULT_LOCS })})</button>` +
       `<button class="chip loc${F.locs.length ? "" : " on"}" data-l="*">Overal (${count({ locs: [] })})</button>` + locChips.join("");
-    const defaultLocs = F.locs.length === DEFAULT_LOCS.length && DEFAULT_LOCS.every((l) => F.locs.includes(l));
+    const defaultLocs = isMyRegion(F.locs);
     const active = F.cat !== "all" || F.top || F.few || F.q || !defaultLocs;
     $("#f-reset").hidden = !active;
     if ($("#q").value !== F.q) $("#q").value = F.q;
@@ -617,6 +623,7 @@
     const b = e.target.closest("button"); if (!b) return;
     const l = b.dataset.l;
     if (l === "*") return setFilter({ locs: [] });
+    if (l === "mine") return setFilter({ locs: [...DEFAULT_LOCS] });
     setFilter({ locs: F.locs.includes(l) ? F.locs.filter((x) => x !== l) : [...F.locs, l] });
   };
   let qTimer;

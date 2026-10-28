@@ -41,6 +41,7 @@ Jij bent de ATS. JTS haalt elk uur junior IT-vacatures en traineeships op, check
 
 ## Gebruik
 - **Vacatures** (hoofdscherm): alle vacatures van de afgelopen 7 dagen, nieuwste bovenaan. Je kunt omzetten naar beste match eerst. Wat je nog niet gezien hebt, krijgt het label *nieuw*. Klik op de titel ↗ om de vacature te openen.
+- **Locatie**: standaard staat **📍 Mijn regio** aan: heel Noord-Brabant, Rotterdam en directe ring, Utrecht en directe ring. Je kunt losse regio's aan- en uitzetten of kiezen voor *Overal*. Plaatsen verder weg (bijv. Amersfoort, Dordrecht, Nijmegen) vallen onder *Overig NL*.
 - **Zoeken en filters**: het zoekveld zoekt in titel, bedrijf, plaats, skills en vacaturetekst. De filters zijn Traineeships, NL, Remote, ≤ 25 sollicitanten (alleen LinkedIn) en Alleen top-match. Het getal op elke filter is het aantal vacatures. *Alles* of *✕ Wis filters* zet alles terug.
   - Let op: filters en zoeken werken op de vacatures die al opgehaald zijn. Ze starten geen nieuwe zoekopdracht.
 - **Verversen**:

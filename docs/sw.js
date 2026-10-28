@@ -1,5 +1,5 @@
 // JTS service worker: altijd eerst vers van het netwerk (zonder browsercache), cache alleen als offline-terugval.
-const CACHE = "jts-v6";
+const CACHE = "jts-v7";
 const SHELL = ["./", "index.html", "style.css", "app.js", "letter.js", "skills.txt", "manifest.json", "icon.svg"];
 
 self.addEventListener("install", (e) => {
