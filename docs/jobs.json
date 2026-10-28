@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-28T22:37:40.310705+00:00",
+ "updated_at": "2026-10-28T22:51:27.870750+00:00",
  "sources": {
-  "linkedin_apify": 0,
+  "linkedin_apify": 20,
   "jsearch": 0,
-  "jobspy": 450,
+  "jobspy": 454,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
@@ -12,8 +12,155 @@
   "remotive": 40,
   "himalayas": 2
  },
- "count": 222,
+ "count": 228,
  "jobs": [
+  {
+   "id": "7f26a0786007",
+   "source": "LinkedIn",
+   "title": "Graduation: Building a latency impact framework for the data layer",
+   "company": "Vanderlande",
+   "location": "Veghel, North Brabant, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.linkedin.com/jobs/view/graduation-building-a-latency-impact-framework-for-the-data-layer-at-vanderlande-4474081469?position=6&pageNum=0&refId=MGORO%2BZdASx0WgahFRuUHA%3D%3D&trackingId=WFcq4euWNcEzR26yWwdpjQ%3D%3D",
+   "salary": null,
+   "tags": [
+    "Not Applicable",
+    "Automation Machinery Manufacturing and Industrial Machinery Manufacturing"
+   ],
+   "full_text": "Job Title Graduation Building a latency impact framework for the data layer Job Description Assignment type Graduation (internship is possible, only if you are persuing a master) Start date February 2027 Assignment duration 6 months Location Veghel Education level Bachelor / Master Desired study Data engineering, data science, software engineering, computer science, business IT & management Language Dutch / English Description of assignment Within Vanderlande, we are currently building a new backbone for applications to reliably communicate its data with one another. It establishes common standards for how messages are structured, exchanged, understood, and versioned. Whilst reliability is imperative, we also must satisfy certain latency demands. As this new layer (the Data Layer) is being built, we increasingly want to add more features and functionalities to it. This would expectedly impact the latency of the messages flowing through the Data Layer. Currently, we don’t have any insights in the latency impacts of these updates. The goal of this assignment is to first research what changes impact our latency, and by how much. Then, to set up a framework that essentially shows the (latency) costs of a new feature before implementing it. Scope increases/decreases may naturally be discussed. Department description The Central Data & Analytics department provides Data Analytics products and services (incl. governance) to the entire Vanderlande Organization (mainly internal customers). It is a federated organization, meaning that we centrally set a standard, which is adopted and implemented by decentralized franchises within the business. Next to the analytic platform, we have been building an abstraction layer for transactional data. This data layer will form the backbone of all inter-application communication within Vanderlande. Tasks/responsibilities - Join one of our DevOps teams and actively participate in all standard Scrum events - Contribute to the development and enhancement of the new Data Layer technology - Demonstrate a proactive and entrepreneurial mindset within the team's daily operations - Execute your assignment in close alignment and collaboration with the team's ongoing work - Share insights and findings to provide valuable input on adjacent topics within the Data Layer Team Your profile Our team writes most of the code in Python (and occasionally SQL). Experience with these languages is a hard requirement. Furthermore, knowledge on the following will help you, but is not required - Databricks (Lakehouse and Lakebase). - DevOps tooling like test automation and CI/CD. - Azure tooling such as Azure Functions and Azure Service Busses What we offer - A monthly internship allowance (based on a 40-hour work week) Bachelor €500 per month Master €550 per month - Full commuting allowance, including public transport, depending on whether you have access to free public transport or not - On-site health center with gym - Active employee communities and initiatives - Excellent company restaurant and barista coffee bar Contact Do you recognize yourself in this challenging profile? Are you looking for an internship in our organization? Please fill out the application form and upload your resume and cover letter. For more information, contact us by e-mail internship@vanderlande.com.",
+   "applicants": 25,
+   "publisher": "LinkedIn",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Job Title Graduation Building a latency impact framework for the data layer Job Description Assignment type Graduation (internship is possible, only if you are persuing a master) Start date February 2027 Assignment duration 6 months Location Veghel Education level Bachelor / Master Desired study...",
+   "benefits": [],
+   "skills": [
+    "Python",
+    "SQL",
+    "CI/CD",
+    "Azure",
+    "Agile",
+    "DevOps",
+    "Databricks",
+    "Testautomatisering",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "en",
+   "linkedin": true,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
+  },
+  {
+   "id": "e6d8cf149a4b",
+   "source": "LinkedIn",
+   "title": "Traineeship Launchpad.io Developer",
+   "company": "BPM Company",
+   "location": "Utrecht, Utrecht, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.linkedin.com/jobs/view/traineeship-launchpad-io-developer-at-bpm-company-4462131953?position=7&pageNum=0&refId=MGORO%2BZdASx0WgahFRuUHA%3D%3D&trackingId=inmKVSQdpN9RRNl0zxcT%2BA%3D%3D",
+   "salary": null,
+   "tags": [
+    "Entry level",
+    "IT Services and IT Consulting and Software Development"
+   ],
+   "full_text": "Ben jij net afgestudeerd en klaar om vanaf dag één écht impact te maken? We zijn begin dit jaar gestart met een nieuw bedrijf dat AI gedreven SaaS applicaties realiseert. Bij dit nieuwe start-up team krijg je de kans om je technische skills en creatieve ideeën direct toe te passen. Vanuit ons kantoor in Utrecht werk je mee aan een innovatieve B2B applicatie. We ontwikkelen in het Pega Launchpad platform, het nieuwe low-code platform van Pegasystems waarmee je proces georienteerde software applicaties bouwt. Je doet dit in een hecht team van trainees en professionals, waar jouw input telt, beslissingen snel worden genomen en je elke dag blijft groeien. De Launchpad start-up We willen state-of -the art proces applicaties bouwen voor kleine en middelgrote bedrijven. Deze applicaties kunnen laagdrempelig vanuit de cloud worden aangeschaft en geïmplementeerd. We willen zoveel mogelijk Gen-AI concepten toevoegen zodat werkprocessen met een compleet nieuwe invalshoek en op een disruptieve wijze kunnen worden ingericht. Dit alles om met software meer waarde te creëren en betere resultaten te bereiken voor onze klanten. Momenteel werken we met een klein multidisciplinair team van 7 mensen aan twee oplossingen. Onze focus is het echt anders doen met Gen-AI als katalysator. Jouw rol als trainee Je start het traineeship bij ons in de Academy, waar je in enkele weken wordt klaargestoomd tot gecertificeerd Pega System Architect. Je leert hier niet enkel de technische werking van het Pega Launchpad platform, maar je ontwikkelt ook de vaardigheden om businessvraagstukken te vertalen naar slimme, schaalbare oplossingen. Na je certificering stroom je door naar het Launchpad team, een gezellige en gedreven mix van andere trainees en ervaren professionals. Als Junior Launchpad Developer draag jij direct bij aan de bouw van hoogwaardige applicaties. Je bent analytisch sterk, gericht op kwaliteit en hebt een hands-on mentaliteit. Bij ons team krijg je de kans om jouw technische skills én creatieve ideeën samen te brengen in échte impact. Wie wij zijn Onze grootste passie is het optimaliseren en digitaliseren van bedrijfsprocessen met low-code. Hiermee dragen we bij aan een toekomstbestendige en efficiënte bedrijfsvoering voor onze klanten. Wat ons onderscheidt? Onze focus op kwaliteit en het leveren van resultaat. We investeren volop in jouw ontwikkeling, zodat jij kunt uitgroeien tot een top Pega specialist. Naast onze gedrevenheid, vormen we een hechte, ambitieuze club met een goede dosis gezelligheid: denk aan vrijmibo’s op ons kantoor in Utrecht, BBQ’s, skitrips en meer. Dit breng jij mee - Een afgeronde wo opleiding - Een absolute passie voor IT & het optimaliseren van processen - Affiniteit met (low code) programmeren - De mogelijkheid om elke dag aanwezig te zijn bij ons op het kantoor in Utrecht - Een goede beheersing van de Nederlandse taal - Een drive om jezelf verder te ontwikkelen - Een betrokken en gecommitteerde houding Dit verdien jij - 2800 euro per maand start, na 6 maanden ga je naar 2900 - Resultaat afhankelijke bonus (maximaal 1 maandsalaris) - Reiskostenvergoeding - Onkostenvergoeding - Telefoon + abonnement - Business laptop - 25 vakantiedagen - Intensieve begeleiding in zowel hard als soft skills Testimonial Pien: “Het is een gezellige en gedreven groep mensen, en er wordt serieus geluisterd naar je ideeën.”",
+   "applicants": 56,
+   "publisher": "LinkedIn",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Ben jij net afgestudeerd en klaar om vanaf dag één écht impact te maken? We zijn begin dit jaar gestart met een nieuw bedrijf dat AI gedreven SaaS applicaties realiseert. Bij dit nieuwe start-up team krijg je de kans om je technische skills en creatieve ideeën direct toe te passen. Vanuit ons...",
+   "benefits": [
+    "Opleidingsbudget",
+    "Laptop",
+    "Bonus",
+    "Reiskosten"
+   ],
+   "skills": [
+    "AI",
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": true,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
+  },
+  {
+   "id": "b15dd35eff43",
+   "source": "LinkedIn",
+   "title": "Afstudeerstage Cloud - NL",
+   "company": "Capgemini",
+   "location": "Utrecht, Utrecht, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.linkedin.com/jobs/view/afstudeerstage-cloud-nl-at-capgemini-4484108514?position=5&pageNum=0&refId=V45DwL2mYKumRyNDtahWhA%3D%3D&trackingId=TYAr9cG9%2FYGIyDrmNZ9m0g%3D%3D",
+   "salary": null,
+   "tags": [
+    "Not Applicable",
+    "IT Services and IT Consulting"
+   ],
+   "full_text": "Job Description De laatste loodjes wegen altijd het zwaarst! Wij gaan hier juist een leuke afstudeerperiode van maken! Je komt terecht in een gezellige omgeving waar iedereen vol enthousiasme met zijn passie bezig is. Werken als Stagiair bij Sogeti Je wordt onderdeel van onze Cloud & Development divisie. In deze divisie word je onderdeel van de Cloud community Platform, Workspace en Networking. Met Cloud collega’s die allemaal de drive hebben om voorop te lopen en gave dingen te ontwikkelen. Jij hebt de juiste mensen om je heen om van te leren! Je bent gedreven en je hebt een passie voor public Cloud/Infrastucture met de focus op Microsoft Azure, AWS, Linux of MS365. Uiteindelijk wil je ook na je studie daarin doorgroeien. Zoek je zo’n afstudeeropdracht? Dan zit je bij ons aan het juiste adres! Je krijgt de vrijheid om je eigen opdracht vorm te geven. Wij zorgen dat je hier genoeg input voor krijgt. Met de hulp van inhoudelijke professionals wordt jouw opdracht gefinetuned. Wie ben jij? ✔ Je zit in jouw laatste jaar van jouw IT opleiding; ✔ Je hebt kennis van Cloud/Infrastructure; ✔ Je hebt kennis van Microsoft Azure, AWS, Linux of MS365; ✔ Je beschikt over communicatieve vaardigheden; ✔ Je hebt een uitstekende beheersing van de Nederlandse taal. Dit bieden wij jou ✔ Persoonlijke-, als inhoudelijke begeleiding door middel van inhoudelijke reviews en feedback; ✔ Toegang tot onze Sogeti Academie om trainingen en cursussen te volgen. Hierdoor kan jij een voorsprong krijgen op jouw medestudenten in de arbeidsmarkt; ✔ Een stagevergoeding; ✔ Mogelijkheid tot hybride werken; ✔ Vrijheid in je stage zodat je jouw creativiteit zo optimaal kan toepassen; ✔ FUN! (Online) borrels, Pubquiz en nog veel meer gezelligheid; ✔ Mogelijkheid tot een vast contract met daarin een unieke Business Course in Engeland; Right Here. Right Now. Solliciteer nu! Dus durf jij de uitdaging aan en wil jij afstuderen bij Sogeti? Solliciteer dan direct, want we hebben beperkte plekken beschikbaar. Deze afstudeerstage start per Februari 2027.",
+   "applicants": 25,
+   "publisher": "LinkedIn",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Job Description De laatste loodjes wegen altijd het zwaarst! Wij gaan hier juist een leuke afstudeerperiode van maken! Je komt terecht in een gezellige omgeving waar iedereen vol enthousiasme met zijn passie bezig is. Werken als Stagiair bij Sogeti Je wordt onderdeel van onze Cloud & Development...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Linux",
+    "Azure",
+    "AWS",
+    "Networking",
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": true,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
+  },
+  {
+   "id": "d65d56526b21",
+   "source": "LinkedIn",
+   "title": "Afstudeerstage Cloud",
+   "company": "Sogeti",
+   "location": "Utrecht, Utrecht, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.linkedin.com/jobs/view/afstudeerstage-cloud-at-sogeti-4482540518?position=4&pageNum=0&refId=V45DwL2mYKumRyNDtahWhA%3D%3D&trackingId=%2Blug2Yzz%2B%2FTfg5bgEyni4w%3D%3D",
+   "salary": null,
+   "tags": [
+    "Not Applicable",
+    "IT Services and IT Consulting"
+   ],
+   "full_text": "Job Description De laatste loodjes wegen altijd het zwaarst! Wij gaan hier juist een leuke afstudeerperiode van maken! Je komt terecht in een gezellige omgeving waar iedereen vol enthousiasme met zijn passie bezig is. Werken als Stagiair bij Sogeti Je wordt onderdeel van onze Cloud & Development divisie. In deze divisie word je onderdeel van de Cloud community Platform, Workspace en Networking. Met Cloud collega’s die allemaal de drive hebben om voorop te lopen en gave dingen te ontwikkelen. Jij hebt de juiste mensen om je heen om van te leren! Je bent gedreven en je hebt een passie voor public Cloud/Infrastucture met de focus op Microsoft Azure, AWS, Linux of MS365. Uiteindelijk wil je ook na je studie daarin doorgroeien. Zoek je zo’n afstudeeropdracht? Dan zit je bij ons aan het juiste adres! Je krijgt de vrijheid om je eigen opdracht vorm te geven. Wij zorgen dat je hier genoeg input voor krijgt. Met de hulp van inhoudelijke professionals wordt jouw opdracht gefinetuned. Wie ben jij? ✔ Je zit in jouw laatste jaar van jouw IT opleiding; ✔ Je hebt kennis van Cloud/Infrastructure; ✔ Je hebt kennis van Microsoft Azure, AWS, Linux of MS365; ✔ Je beschikt over communicatieve vaardigheden; ✔ Je hebt een uitstekende beheersing van de Nederlandse taal. Dit bieden wij jou ✔ Persoonlijke-, als inhoudelijke begeleiding door middel van inhoudelijke reviews en feedback; ✔ Toegang tot onze Sogeti Academie om trainingen en cursussen te volgen. Hierdoor kan jij een voorsprong krijgen op jouw medestudenten in de arbeidsmarkt; ✔ Een stagevergoeding; ✔ Mogelijkheid tot hybride werken; ✔ Vrijheid in je stage zodat je jouw creativiteit zo optimaal kan toepassen; ✔ FUN! (Online) borrels, Pubquiz en nog veel meer gezelligheid; ✔ Mogelijkheid tot een vast contract met daarin een unieke Business Course in Engeland; Right Here. Right Now. Solliciteer nu! Dus durf jij de uitdaging aan en wil jij afstuderen bij Sogeti? Solliciteer dan direct, want we hebben beperkte plekken beschikbaar. Deze afstudeerstage start per Februari 2027.",
+   "applicants": 25,
+   "publisher": "LinkedIn",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Job Description De laatste loodjes wegen altijd het zwaarst! Wij gaan hier juist een leuke afstudeerperiode van maken! Je komt terecht in een gezellige omgeving waar iedereen vol enthousiasme met zijn passie bezig is. Werken als Stagiair bij Sogeti Je wordt onderdeel van onze Cloud & Development...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Linux",
+    "Azure",
+    "AWS",
+    "Networking",
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": true,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
+  },
   {
    "id": "a20675708e1b",
    "source": "JobSpy",
@@ -368,6 +515,44 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "2d56c554c78e",
+   "source": "JobSpy",
+   "title": "MuleSoft Developer",
+   "company": "VDL Groep",
+   "location": "Eindhoven, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=a948389fe8619f2d",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Ben jij een MuleSoft Developer die graag systemen, applicaties en data met elkaar verbindt? Bij VDL zorg jij ervoor dat bedrijfskritische applicaties veilig, betrouwbaar en efficiënt samenwerken. Met slimme API's en integraties maak je directe impact op de digitale toekomst van een internationale organisatie. De functie Als MuleSoft Developer binnen het IT Integratieteam ontwikkel en beheer je integraties die onze systemen met elkaar verbinden. Je werkt met het MuleSoft Anypoint Platform en werkt samen met developers, architecten en business stakeholders. Jouw belangrijkste taken: * Ontwikkelen en onderhouden van API's en integraties binnen MuleSoft Anypoint Platform. * Realiseren van koppelingen tussen systemen en databronnen. * Ontwerpen van schaalbare en betrouwbare integratieoplossingen. * Testen, monitoren en optimaliseren van integraties. * Oplossen van verstoringen en analyseren van datastromen. * Meedenken over innovaties en de verdere ontwikkeling van ons integratieplatform. Jouw kracht * HBO- of WO-opleiding in IT, Informatica of vergelijkbaar. * Minimaal 2 jaar ervaring met MuleSoft Anypoint Platform. * Kennis van REST, JSON, XML, SOAP, HTTP, FTP en SQL. * Ervaring met API-ontwikkeling en integraties. * Goede beheersing van Nederlands en Engels. * Een analytische, zelfstandige en proactieve werkhouding. Mooi meegenomen * Ervaring met Postman en Elastic. * Kennis van Salesforce- en/of SAP-integraties. * Ervaring met Event-Driven Architecture. * Ervaring met Agile/Scrum. De kracht van VDL Een uitdagende functie waarin je direct bijdraagt aan het integratielandschap van de organisatie. Een moglijkheid om te groeien als integratie specialist. Je werkt aan oplossingen die door meerdere teams worden gebruikt en hebt daarmee zichtbare impact. Daarnaast bieden wij: * een goed salaris en flexibele werktijden * 25 vakantiedagen en 13 ADV dagen (fulltime) * winstdelingsregeling * een goede pensioenregeling volgens de CAO Metaal en Techniek * diverse collectiviteitsregelingen, personeelsaanbiedingen * deelname aan sportieve activiteiten. https://www.youtube.com/embed/fLoW99JNFkU?si=XrmtTS4OYWYCbjHA Klaar om jezelf uit te dagen? Is je interesse gewekt en voldoe je aan het profiel? Dan ontvangen we graag je cv en motivatie voor deze vacature! Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. #LI-CD1 Vanuit het hoofdkantoor in Eindhoven ondersteunen we vanuit VDL Nederland de meer dan 100 VDL-bedrijven die vallen onder VDL Groep. Dan doen we op het gebied van financiële en juridische zaken, sociale zaken (HR, HR-support, verzuim en salarisadministratie), recruitment, communicatie, IT, milieu, veiligheid, duurzaamheid en subsidies. Met een diversiteit aan bedrijven, markten en locaties betekent dat veel uitdaging en variatie in jouw werkzaamheden. ### **Wij bieden** * Doorgroeimogelijkheden * Open en informele werksfeer * Afwisseling en uitdaging ### **Jij bent** * Een aanpakker * Een teamspeler * Resultaatgericht ### **Waarom VDL?** * Internationaal familiebedrijf * Jouw inbreng telt * Ontwikkeling én productie",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Ben jij een MuleSoft Developer die graag systemen, applicaties en data met elkaar verbindt? Bij VDL zorg jij ervoor dat bedrijfskritische applicaties veilig, betrouwbaar en efficiënt samenwerken. Met slimme API's en integraties maak je directe impact op de digitale toekomst van een internationale...",
+   "benefits": [
+    "Pensioen",
+    "Bonus",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "SQL",
+    "REST",
+    "Agile",
+    "API",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
+  },
+  {
    "id": "92092fca8c93",
    "source": "JobSpy",
    "title": "Technisch implementatie consultant Digizorg",
@@ -469,6 +654,42 @@
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
+   "id": "60b785d7fc51",
+   "source": "JobSpy",
+   "title": "Cybersecurity Consultant (Zoetermeer)",
+   "company": "Good Company",
+   "location": "Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=a7aff10ddd6173e7",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "**Over de functie** Als Cybersecurity Consultant adviseer je organisaties over het verbeteren van hun informatiebeveiliging en het beheersen van ICT-risico's. Je brengt kwetsbaarheden en risico's in bedrijfsprocessen in kaart en vertaalt deze naar concrete maatregelen en verbetertrajecten. Je beweegt je gemakkelijk tussen strategisch advies en de praktische uitvoering. Zo help je organisaties bij het opzetten van beveiligingsprocessen, het verbeteren van hun ICT-architectuur en het voldoen aan relevante normen en regelgeving. Afhankelijk van de opdracht werk je aan onderwerpen zoals informatiebeveiliging, business continuity, identity & access management en cyber resilience. **Jouw werkzaamheden** ---------------------- * Adviseren van directies, managementteams en ICT-specialisten over cybersecurity en risicomanagement; * Identificeren en analyseren van risico's binnen bedrijfsprocessen en IT-omgevingen; * Ontwikkelen en implementeren van passende beveiligingsmaatregelen; * Beoordelen en verbeteren van de beveiliging van ICT-architecturen; * Opzetten en optimaliseren van informatiebeveiligings- en managementprocessen; * Begeleiden van organisaties bij certificeringstrajecten, waaronder ISO 27001 en NEN 7510; * Adviseren over compliance, privacyregelgeving en relevante beveiligingsstandaarden; * Ondersteunen bij de implementatie van Identity & Access Management en dataversleuteling; * Versterken van cyber resilience en de continuïteit van bedrijfsprocessen; * Vergroten van het securitybewustzijn bij medewerkers door middel van advies en begeleiding; * Begeleiden van verbetertrajecten van analyse en ontwerp tot implementatie; * Onderhouden van klantrelaties en signaleren van nieuwe mogelijkheden om opdrachtgevers verder te helpen. **Jouw kwaliteiten** * Een afgeronde hbo- of wo-opleiding; * Meerdere jaren ervaring binnen consultancy, cybersecurity of informatiebeveiliging; * Actuele kennis van ICT-risicomanagement, cybersecurity en business continuity management; * Ervaring met standaarden en frameworks zoals ISO 27001, ISO 2700x, BIO of COBIT; * Kennis van beveiligingsmaatregelen zoals Identity & Access Management en dataversleuteling; * Het vermogen om complexe vraagstukken snel te doorgronden en helder uit te leggen; * Sterke mondelinge en schriftelijke communicatieve vaardigheden in het Nederlands; * Een klantgerichte instelling en plezier in het samenwerken met verschillende stakeholders; * Een proactieve houding en het vermogen om zelfstandig projecten en adviestrajecten op te pakken; * Interesse in nieuwe ontwikkelingen zoals IoT-beveiliging, Security Operations en cyber resilience; * De vaardigheid om data en AI op een gerichte manier in te zetten bij analyses en verbetertrajecten. **De voordelen** * Een competitief salaris, passend bij jouw kennis en ervaring; * Een prestatiegerichte beloningsregeling; * Goede secundaire arbeidsvoorwaarden, waaronder een pensioenregeling en verlof; * Mobiliteitsvoorzieningen; * Een persoonlijk ontwikkelplan met bijbehorende opleidingen en trainingen; * Coaching en kennisdeling met ervaren collega's; * Veel zelfstandigheid en vrijheid om je werkzaamheden flexibel in te richten; * Afwisselende opdrachten bij grote organisaties en complexe klantomgevingen; * Ruimte om je verder te specialiseren binnen cybersecurity en risicomanagement; * Een professionele en open werkomgeving waarin samenwerking centraal staat; * Regelmatige sociale activiteiten, teamdagen en mogelijkheden om collega's beter te leren kennen. **Leer de organisatie kennen** Je komt te werken bij een consultancyorganisatie die bedrijven en overheidsinstellingen helpt bij complexe vraagstukken rondom cybersecurity, risicomanagement en digitale weerbaarheid. De organisatie combineert strategisch advies met praktische uitvoering en ondersteunt opdrachtgevers bij het ontwikkelen en verbeteren van hun informatiebeveiliging. Je werkt samen met ervaren consultants en hebt veel contact met managers, directies en technische specialisten. Er is volop ruimte om je expertise verder te ontwikkelen, verantwoordelijkheid te nemen en bij te dragen aan projecten met zichtbare impact. **Klinkt goed?** Ben jij geïnteresseerd in bovenstaand profiel? Good Company ziet graag jouw sollicitatie tegemoet! Solliciteer via onze website op de vacature van Cybersecurity Consultant (Zoetermeer).",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "**Over de functie** Als Cybersecurity Consultant adviseer je organisaties over het verbeteren van hun informatiebeveiliging en het beheersen van ICT-risico's. Je brengt kwetsbaarheden en risico's in bedrijfsprocessen in kaart en vertaalt deze naar concrete maatregelen en verbetertrajecten. Je...",
+   "benefits": [
+    "Opleidingsbudget",
+    "Pensioen",
+    "Coaching"
+   ],
+   "skills": [
+    "AI",
+    "Security",
+    "Consultancy",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:51:27.870750+00:00"
   },
   {
    "id": "467950212733",
@@ -1700,6 +1921,46 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "16a24379b4d7",
+   "source": "JobSpy",
+   "title": "PHP Developer",
+   "company": "Iris Intranet - triptic",
+   "location": "Eindhoven, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=6ce7d04f50a025cf",
+   "salary": "€3500 - €4800 per monthly",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "**Zoeken wij jou?** Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan Iris Intranet. Een digitale werkplek die dagelijks door honderdduizenden mensen wordt gebruikt bij onder andere gemeenten, zorgorganisaties en onderwijsinstellingen. We bouwen op open-sourcetechnologie, met data in Nederland. Veiligheid, toegankelijkheid en privacy zijn belangrijk. Net als goede code, slimme oplossingen en collega's die graag met elkaar meedenken. **Wat ga je doen?** Als PHP Developer werk je iedere dag aan Iris. Maar gelukkig niet iedere dag aan hetzelfde. Je bouwt nieuwe functionaliteiten, verbetert bestaande onderdelen, duikt in koppelingen en denkt mee over technische keuzes. Ook komt er via onze servicedesk weleens een technisch vraagstuk voorbij waar je wat dieper voor in de code moet duiken. Soms weet je 's ochtends precies waar je aan gaat werken. Soms besluit een API daar gedurende de dag anders over. Je werkt samen met developers en projectadviseurs. Zij weten wat een klant wil bereiken, jij denkt mee over hoe we dat technisch goed kunnen oplossen. En soms ook over waarom we het misschien helemaal niet moeten bouwen zoals het in eerste instantie bedacht was. We vinden het fijn als je verder kijkt dan je ticket. Je denkt mee over architectuur, performance, beveiliging en onderhoudbaarheid. Werkt het? Mooi. Is het veilig, snel en begrijpt een collega over twee jaar nog wat je hebt gedaan? Nog mooier. **Waar werk je technisch aan?** Iris is ons eigen product. Je bouwt dus niet iets om het na oplevering nooit meer terug te zien. Je blijft erbij betrokken en ziet hoe het zich verder ontwikkelt. Iris draait op een eigen PHP-framework waarin we steeds meer Symfony-componenten gebruiken. Het is een volwassen applicatie die we stap voor stap moderniseren, zonder uit het oog te verliezen dat honderdduizenden mensen er ondertussen gewoon mee moeten kunnen werken. We kijken ook vooruit. Voor dynamischere onderdelen, zoals onze AI-chatbot, onderzoeken we welke technieken bij ons en de toekomst passen. We volgen niet elke hype. We kiezen wat Iris en haar gebruikers echt helpt. **En ja, AI** AI hoort inmiddels ook bij hoe we ontwikkelen. We zijn bijvoorbeeld enthousiast over Claude Code. Gebruik je AI-tools al dagelijks? Leuk. Nog nauwelijks? Ook prima. We zoeken vooral iemand die nieuwsgierig is én zelf blijft nadenken. AI kan verrassend goed helpen. Het kan ook met indrukwekkend zelfvertrouwen complete onzin produceren. Daarom hebben we jou nog nodig. **Wat bieden wij jou?** Iris komt uit Eindhoven en daar zijn we best trots op. We zijn informeel, betrokken en behoorlijk Brabants in onze manier van doen. We lunchen samen, er wordt gepoold en op donderdagmiddag drinken we graag een borrel. * 32 tot 40 uur per week * € 3.500,- tot € 4.800,- bruto per maand op fulltimebasis * 25 vakantiedagen en een pensioenregeling * Reiskosten- en thuiswerkvergoeding * Hybride werken en goede apparatuur * Werken aan een actieve PHP-applicatie op een LEMP-stack * Ruimte voor opleidingen, AI en nieuwe technieken * Leuke teamuitjes en we gaan een keer per jaar met zijn allen een weekendje op pad * Een betrokken team in Eindhoven met korte lijnen en ruimte voor gezelligheid **Welke skills heb jij?** We kijken liever naar hoe je denkt en programmeert dan naar een lange lijst frameworks op je cv. Wat we belangrijk vinden: * Je hebt ruime ervaring met PHP en weet zelfstandig je weg te vinden in complexe technische vraagstukken * Je krijgt energie van het doorgronden, verbeteren en optimaliseren van bestaande code * Je hebt oog voor veilige, onderhoudbare en kwalitatief hoogwaardige software * Je hebt ervaring met databases, API’s, Git en objectgeoriënteerd programmeren * Je hebt hbo werk- en denkniveau en communiceert goed in het Nederlands, zowel mondeling als schriftelijk * Je bent nieuwsgierig, denkt graag mee en deelt met plezier je kennis en ideeën met collega’s * Je hebt een open houding tegenover AI-ondersteund ontwikkelen Ervaring met Laravel of Symfony? Mooi meegenomen. Belangrijker vinden we dat je begrijpt wat er onder de motorkap gebeurt en code schrijft waar je collega’s later blij van worden. Heb je thuis een homelab, Home Assistant, een eigen project? Vertel vooral! Het is absoluut geen vereiste. We vinden nieuwsgierigheid gewoon leuk. Soort dienstverband: Fulltime, Parttime Salaris: €3.500,00 - €4.800,00 per maand Arbeidsvoorwaarden: * Bedrijfsfeesten * Dienstreizen vergoeding * Fietsplan * Flexibele werkuren * Kerstpakket * Pensioen * Reiskostenvergoeding * Vrijdagmiddagborrel * Werk vanuit huis Taal: * Nederlands (Vereist) Toestemming om in Nederland te werken: * Nederland (Vereist) Werklocatie: Hybride werken in 5614 Eindhoven",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "**Zoeken wij jou?** Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Reiskosten"
+   ],
+   "skills": [
+    "PHP",
+    "Laravel",
+    "Symfony",
+    "Git",
+    "AI",
+    "API",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
    "id": "fd2cdd675eb8",
    "source": "JobSpy",
    "title": "Developer DPW & SoPo",
@@ -1774,46 +2035,6 @@
     "DevOps",
     "Cypress",
     "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "16a24379b4d7",
-   "source": "JobSpy",
-   "title": "PHP Developer",
-   "company": "Iris Intranet - triptic",
-   "location": "Eindhoven, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=6ce7d04f50a025cf",
-   "salary": "€3500 - €4800 per monthly",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "**Zoeken wij jou?** Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan Iris Intranet. Een digitale werkplek die dagelijks door honderdduizenden mensen wordt gebruikt bij onder andere gemeenten, zorgorganisaties en onderwijsinstellingen. We bouwen op open-sourcetechnologie, met data in Nederland. Veiligheid, toegankelijkheid en privacy zijn belangrijk. Net als goede code, slimme oplossingen en collega's die graag met elkaar meedenken. **Wat ga je doen?** Als PHP Developer werk je iedere dag aan Iris. Maar gelukkig niet iedere dag aan hetzelfde. Je bouwt nieuwe functionaliteiten, verbetert bestaande onderdelen, duikt in koppelingen en denkt mee over technische keuzes. Ook komt er via onze servicedesk weleens een technisch vraagstuk voorbij waar je wat dieper voor in de code moet duiken. Soms weet je 's ochtends precies waar je aan gaat werken. Soms besluit een API daar gedurende de dag anders over. Je werkt samen met developers en projectadviseurs. Zij weten wat een klant wil bereiken, jij denkt mee over hoe we dat technisch goed kunnen oplossen. En soms ook over waarom we het misschien helemaal niet moeten bouwen zoals het in eerste instantie bedacht was. We vinden het fijn als je verder kijkt dan je ticket. Je denkt mee over architectuur, performance, beveiliging en onderhoudbaarheid. Werkt het? Mooi. Is het veilig, snel en begrijpt een collega over twee jaar nog wat je hebt gedaan? Nog mooier. **Waar werk je technisch aan?** Iris is ons eigen product. Je bouwt dus niet iets om het na oplevering nooit meer terug te zien. Je blijft erbij betrokken en ziet hoe het zich verder ontwikkelt. Iris draait op een eigen PHP-framework waarin we steeds meer Symfony-componenten gebruiken. Het is een volwassen applicatie die we stap voor stap moderniseren, zonder uit het oog te verliezen dat honderdduizenden mensen er ondertussen gewoon mee moeten kunnen werken. We kijken ook vooruit. Voor dynamischere onderdelen, zoals onze AI-chatbot, onderzoeken we welke technieken bij ons en de toekomst passen. We volgen niet elke hype. We kiezen wat Iris en haar gebruikers echt helpt. **En ja, AI** AI hoort inmiddels ook bij hoe we ontwikkelen. We zijn bijvoorbeeld enthousiast over Claude Code. Gebruik je AI-tools al dagelijks? Leuk. Nog nauwelijks? Ook prima. We zoeken vooral iemand die nieuwsgierig is én zelf blijft nadenken. AI kan verrassend goed helpen. Het kan ook met indrukwekkend zelfvertrouwen complete onzin produceren. Daarom hebben we jou nog nodig. **Wat bieden wij jou?** Iris komt uit Eindhoven en daar zijn we best trots op. We zijn informeel, betrokken en behoorlijk Brabants in onze manier van doen. We lunchen samen, er wordt gepoold en op donderdagmiddag drinken we graag een borrel. * 32 tot 40 uur per week * € 3.500,- tot € 4.800,- bruto per maand op fulltimebasis * 25 vakantiedagen en een pensioenregeling * Reiskosten- en thuiswerkvergoeding * Hybride werken en goede apparatuur * Werken aan een actieve PHP-applicatie op een LEMP-stack * Ruimte voor opleidingen, AI en nieuwe technieken * Leuke teamuitjes en we gaan een keer per jaar met zijn allen een weekendje op pad * Een betrokken team in Eindhoven met korte lijnen en ruimte voor gezelligheid **Welke skills heb jij?** We kijken liever naar hoe je denkt en programmeert dan naar een lange lijst frameworks op je cv. Wat we belangrijk vinden: * Je hebt ruime ervaring met PHP en weet zelfstandig je weg te vinden in complexe technische vraagstukken * Je krijgt energie van het doorgronden, verbeteren en optimaliseren van bestaande code * Je hebt oog voor veilige, onderhoudbare en kwalitatief hoogwaardige software * Je hebt ervaring met databases, API’s, Git en objectgeoriënteerd programmeren * Je hebt hbo werk- en denkniveau en communiceert goed in het Nederlands, zowel mondeling als schriftelijk * Je bent nieuwsgierig, denkt graag mee en deelt met plezier je kennis en ideeën met collega’s * Je hebt een open houding tegenover AI-ondersteund ontwikkelen Ervaring met Laravel of Symfony? Mooi meegenomen. Belangrijker vinden we dat je begrijpt wat er onder de motorkap gebeurt en code schrijft waar je collega’s later blij van worden. Heb je thuis een homelab, Home Assistant, een eigen project? Vertel vooral! Het is absoluut geen vereiste. We vinden nieuwsgierigheid gewoon leuk. Soort dienstverband: Fulltime, Parttime Salaris: €3.500,00 - €4.800,00 per maand Arbeidsvoorwaarden: * Bedrijfsfeesten * Dienstreizen vergoeding * Fietsplan * Flexibele werkuren * Kerstpakket * Pensioen * Reiskostenvergoeding * Vrijdagmiddagborrel * Werk vanuit huis Taal: * Nederlands (Vereist) Toestemming om in Nederland te werken: * Nederland (Vereist) Werklocatie: Hybride werken in 5614 Eindhoven",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "**Zoeken wij jou?** Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Reiskosten"
-   ],
-   "skills": [
-    "PHP",
-    "Laravel",
-    "Symfony",
-    "Git",
-    "AI",
-    "API",
-    "Nederlands"
    ],
    "lang": "nl",
    "linkedin": false,
@@ -2107,34 +2328,42 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
-   "id": "960ab2498767",
+   "id": "49a759d3e0ef",
    "source": "JobSpy",
-   "title": "Informatie Analist Data",
-   "company": "Gemeente Utrecht",
-   "location": "Utrecht Binnenstad, UT, Netherlands",
+   "title": "Modelling & Simulation Engineer",
+   "company": "TNO",
+   "location": "Den Haag, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-10-27T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=b328155a5658ba72",
-   "salary": "€4132 - €5947 per monthly",
+   "url": "https://nl.indeed.com/viewjob?jk=da77da32a25ff0ea",
+   "salary": "€3533 - €8072 per monthly",
    "tags": [
     "",
-    "parttime"
+    "parttime, fulltime"
    ],
-   "full_text": "**Utrecht heeft jou nodig!** Jij zorgt ervoor dat data bruikbaar wordt voor collega's die werken aan de stad. Zo help je teams om betere keuzes te maken voor inwoners en organisaties in Utrecht. In deze functie verbind je de vragen uit de organisatie met slimme dataoplossingen. Je werkt aan uiteenlopende maatschappelijke onderwerpen en krijgt veel ruimte om mee te denken over de toekomst van data binnen de gemeente. Tegelijk ontwikkel je jezelf samen met collega's die graag kennis delen. **Dit is je werk** ------------------ Als informatieanalist ben jij de schakel tussen de organisatie en het datateam. Je werkt voor uiteenlopende afdelingen, zoals Publiekszaken, Werk en Inkomen, Openbare Ruimte en de interne bedrijfsvoering. Je brengt informatiebehoeften in kaart, vertaalt deze naar ontwerpen voor het datawarehouse en zorgt ervoor dat gebruikers en dataengineers elkaar goed begrijpen. Daarnaast denk je mee over hoe data slimmer kan worden ingezet en hoe informatieanalyse verder kan worden geprofessionaliseerd. Ook draag je bij aan de doorontwikkeling van het datalandschap en de transitie naar de cloud. **Je houdt je onder andere bezig met:** * Het ophalen en analyseren van informatiebehoeften bij interne opdrachtgevers. * Het vertalen van wensen naar datamodellen en ontwerpen voor het datawarehouse. * Het opstellen en uitwerken van Entity Relationship Diagrams (ERD's). * Het toepassen van SQL om datavraagstukken te analyseren en te onderbouwen. * Het afstemmen met dataengineers over ontwerpen en technische oplossingen. * Het ondersteunen van afdelingen bij het ontwikkelen van dashboards en rapportages. * Het adviseren over mogelijkheden om data slimmer en effectiever in te zetten. * Het bijdragen aan de professionalisering en standaardisering van informatieanalyse. * Het meewerken aan de verdere ontwikkeling van het dataplatform en de transitie naar de cloud. **Dit is je werkplek** ---------------------- De gemeente Utrecht biedt ruimte aan iedereen. We zien talent als basis en diversiteit als kracht om samen betere resultaten te behalen. Voor jou is er plek bij DomstadIT, de centrale IT-afdeling van de gemeente Utrecht. Met ongeveer 275 medewerkers ontwikkelt, beheert en levert DomstadIT IT-diensten voor de hele organisatie. Je komt terecht in het BI-team van de voorziening Datadistributie en analyse. Dit team bestaat uit dataengineers, beheerders, informatieanalisten, een product owner, een scrummaster en een manager. Samen zorgen jullie ervoor dat collega's binnen de gemeente kunnen beschikken over betrouwbare en bruikbare data. De gegevens die jullie ontsluiten worden dagelijks gebruikt voor de uitvoering, bedrijfsvoering en maatschappelijke opgaven van de stad. Jullie werken voor uiteenlopende afdelingen, zoals Publiekszaken, Werk en Inkomen, Openbare Ruimte en de interne bedrijfsvoering. Daardoor krijg je een goed beeld van de verschillende processen en opgaven binnen de gemeente. Je werkt zowel vanuit huis als op het Stadskantoor en krijgt daarbij ondersteuning van ervaren collega's. *Als gemeente streven we naar een diverse en inclusieve organisatie, omdat we ervan overtuigd zijn dat verschillende perspectieven zorgen voor meer innovatie, creativiteit en betere samenwerking. Ben je benieuwd hoe wij dat doen? Lees dat op deze pagina:* *https://www.werkenbijutrecht.nl/over-ons/diversiteit-en-inclusiviteit/* **Dit is jouw inbreng** ----------------------- Bij de gemeente Utrecht vinden we het belangrijk dat jij jezelf kunt zijn. Daarom zijn wij benieuwd naar wie jij bent. Voor deze vacature is het belangrijk dat jij informatiebehoeften kunt doorgronden en vertaalt naar heldere en bruikbare dataoplossingen. Je schakelt makkelijk tussen collega's uit de organisatie en technische specialisten en weet verschillende belangen met elkaar te verbinden. Complexe vraagstukken analyseer je gestructureerd, waarbij je hoofd- en bijzaken goed onderscheidt. Je hebt oog voor wat er speelt binnen de organisatie en vertaalt dit naar passende adviezen. Daarnaast neem je initiatief om verbeterkansen te signaleren en draag je bij aan de verdere ontwikkeling van informatieanalyse en datagedreven werken binnen de gemeente. Daarnaast breng je het volgende mee: * hbo werk- en denkniveau. * Ruim aantoonbare ervaring met informatieanalyse en het vertalen van informatiebehoeften naar datamodellen. * Ervaring met SQL en het analyseren van datavraagstukken. * Ervaring met datawarehouses, datamodellering en het opstellen van ERD's. * Goede kennis van de Nederlandse taal, zowel mondeling als schriftelijk. **Dit bieden we je** -------------------- Bij ons ga je werken aan jouw persoonlijke ontwikkeling, met uitdagende verantwoordelijkheden en in een omgeving met gedreven collega’s. Jij gaat niet alleen werken voor de gemeente, maar je zet je in voor de ruim 370.000 inwoners van onze mooie stad. Jouw bijdrage doet er dus toe! Dit alles gebeurt op ons stadskantoor met uitzicht over de stad waar jij voor werkt Tegelijk hoort daar een goed pakket aan arbeidsvoorwaarden bij: * Een 36-urige werkweek met een bruto maandsalaris tussen € € 4.132,- en € 5.947,- (schaal 10A), inschaling stemmen we samen met jou af afhankelijk van je kennis en ervaring. * Wil je 32 uur werken? Dat is zeker bespreekbaar. Je bepaalt zelf je werktijden en indeling: 5 dagen werken met elke week een middag vrij, 4 dagen werken met afwisselend een vrije dag, of bijvoorbeeld 4×9. * Een Individueel Keuzebudget (IKB) van 17,05% bovenop het standaard salaris. Dat betekent extra financiële ruimte om jouw arbeidsvoorwaarden zelf vorm te geven, bijvoorbeeld voor het kopen van extra verlofdagen, een fiets of extra (vakantie)geld. * Ruimte en budget voor jouw ontwikkeling: je krijgt alle mogelijkheden om je vakkennis actueel te houden en verder te groeien. Of het nu gaat om een securitycertificering, een verdiepende training of een inspirerende cursus, wij stimuleren en faciliteren jouw ontwikkeling. * Hybride werken op jouw manier: je hebt de vrijheid om i",
+   "full_text": "**About this position** ----------------------- As part of the Modelling of Tactical Operations department, you will contribute to technically and scientifically challenging research projects aimed at helping Defence make better decisions. These projects cover a wide range of topics, from the acquisition and maintenance of onboard naval equipment to the preparation and execution of military operations. Together with your colleagues, you will analyze data from simulations you have developed and executed, design concepts and algorithms, and provide recommendations that have a real impact on military units, policymakers, and decision-makers, both nationally and internationally. **What will be your role?** --------------------------- You will join the JROADS team, where you will help further develop an existing software simulation application in Java. Working in multidisciplinary project teams, you will collaborate with experts from various TNO departments to model land, maritime, and air systems, as well as threats, within the Defence domain. Together with analysts and end users, you will develop new concepts and translate them into functional sub-models and software solutions that support analyses, exercises, and experiments. Defence organizations and other security agencies rely on our expertise to build simulation environments that allow operators to test new concepts or determine the most effective deployment of weapon and radar systems. To ensure you quickly become a fully contributing member of project teams, you will first participate in a general internal training program focused on your personal development and the skills needed to work at TNO. Gradually, you will take on more responsibility, work more independently, and have increasing contact with customers. A typical workday may include visiting military units to gather information or conduct tests and evaluations in the field. **What we expect from you** --------------------------- Are you passionate about technology and innovation? Do you enjoy modelling complex systems and want to contribute to meaningful societal goals? Then this position could be a great fit for you. Experience or affinity with the Defence and Security domain is a plus, but not a requirement. If you are new to the field, you will quickly discover how fascinating and diverse this world is. Because you will be working in an innovative R&D environment, it is important that you have strong analytical skills, an excellent capacity for abstract thinking, and the ability to translate scientific concepts into practical solutions. In addition, you have: * A university-level MSc degree in a technical or scientific discipline, such as Aerospace Engineering, Mechanical Engineering, Applied Mathematics, Computer Science, Physics, or a related field with a relevant specialization (for example, Control & Simulation or Modelling). * A broad interest in technology and demonstrable affinity with developing models and simulations. You combine curiosity and attention to detail with the ability to understand and manage complex systems. * Experience with Java (or alternatively C++ or C#). Experience with Python is considered an advantage. * Excellent command of both Dutch and English, spoken and written. **What you'll get in return** ----------------------------- Challenging and varied work with a real impact. And plenty of opportunities as, at TNO, you are in charge of shaping your career. We offer a gross monthly salary between € 3,533 and € 8,072 (based on your knowledge and experience), 8% holiday pay, a 13th month bonus of 8.33% and a flex budget (5.58% + € 180). In addition, you will be given every opportunity to develop yourself. TNO offers optional employee benefits, enabling you to tailor your benefits package to match your personal situation. You may also expect: * An extremely professional, innovative working environment where colleagues are leading experts in their field. * The opportunity to attend courses, workshops and conferences, and to receive training and coaching based on your needs. * 33 days annual leave plus a flexible holiday that can be used on a cultural, religious, or otherwise important day of your choosing (on a full-time basis). * An employer working towards a respectful, inclusive, and equitable work environment where every employee can flourish, with various initiatives such as Jong TNO, numerous expertise based guilds, Rainbow Community and Round Tables on diverse inclusion topics. * We offer a comprehensive and flexible mobility plan that also includes full compensation for public transportation for commuting and business travel. * Great social events with your team and other TNO colleagues. That’s how you will get to know a lot of people really quickly. * Flexible working hours, the possibility to work parttime (32 or 36 hours) and the possibility of working from home. * A good pension scheme. Read more about tailoring your benefits package. **TNO as an employer** ---------------------- Our people are at the heart of TNO. Their curiosity, expertise and entrepreneurial mindset make it possible to deliver high-impact research and innovations that contribute to society’s sustainable wellbeing and prosperity. That is why we invest in an inspiring and inclusive working environment where colleagues can excel, have autonomy and continue to grow. Your talent and ambition have every opportunity to flourish at TNO. You work with experts (both within and beyond TNO), have access to advanced technology and the freedom to explore, experiment and innovate. Our strength lies in independence, reliability and collaboration. We find each other in wonder and ingenuity. We are driven to push boundaries. By working with businesses and government, and by connecting different perspectives, we strengthen our innovative capability and create responsible, meaningful results. At TNO, we believe this is our time to help society, government and business move forward faster",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "**Utrecht heeft jou nodig!** Jij zorgt ervoor dat data bruikbaar wordt voor collega's die werken aan de stad. Zo help je teams om betere keuzes te maken voor inwoners en organisaties in Utrecht. In deze functie verbind je de vragen uit de organisatie met slimme dataoplossingen. Je werkt aan...",
+   "short_desc": "**About this position** ----------------------- As part of the Modelling of Tactical Operations department, you will contribute to technically and scientifically challenging research projects aimed at helping Defence make better decisions. These projects cover a wide range of topics, from the...",
    "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "32-36 uur"
+    "Pensioen",
+    "32-36 uur",
+    "Bonus",
+    "Coaching"
    ],
    "skills": [
-    "SQL"
+    "Python",
+    "Java",
+    "C#",
+    "C++",
+    "Excel",
+    "Security",
+    "Engels",
+    "Nederlands"
    ],
-   "lang": "nl",
+   "lang": "en",
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
@@ -2166,6 +2395,39 @@
     "Excel"
    ],
    "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
+   "id": "960ab2498767",
+   "source": "JobSpy",
+   "title": "Informatie Analist Data",
+   "company": "Gemeente Utrecht",
+   "location": "Utrecht Binnenstad, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=b328155a5658ba72",
+   "salary": "€4132 - €5947 per monthly",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "**Utrecht heeft jou nodig!** Jij zorgt ervoor dat data bruikbaar wordt voor collega's die werken aan de stad. Zo help je teams om betere keuzes te maken voor inwoners en organisaties in Utrecht. In deze functie verbind je de vragen uit de organisatie met slimme dataoplossingen. Je werkt aan uiteenlopende maatschappelijke onderwerpen en krijgt veel ruimte om mee te denken over de toekomst van data binnen de gemeente. Tegelijk ontwikkel je jezelf samen met collega's die graag kennis delen. **Dit is je werk** ------------------ Als informatieanalist ben jij de schakel tussen de organisatie en het datateam. Je werkt voor uiteenlopende afdelingen, zoals Publiekszaken, Werk en Inkomen, Openbare Ruimte en de interne bedrijfsvoering. Je brengt informatiebehoeften in kaart, vertaalt deze naar ontwerpen voor het datawarehouse en zorgt ervoor dat gebruikers en dataengineers elkaar goed begrijpen. Daarnaast denk je mee over hoe data slimmer kan worden ingezet en hoe informatieanalyse verder kan worden geprofessionaliseerd. Ook draag je bij aan de doorontwikkeling van het datalandschap en de transitie naar de cloud. **Je houdt je onder andere bezig met:** * Het ophalen en analyseren van informatiebehoeften bij interne opdrachtgevers. * Het vertalen van wensen naar datamodellen en ontwerpen voor het datawarehouse. * Het opstellen en uitwerken van Entity Relationship Diagrams (ERD's). * Het toepassen van SQL om datavraagstukken te analyseren en te onderbouwen. * Het afstemmen met dataengineers over ontwerpen en technische oplossingen. * Het ondersteunen van afdelingen bij het ontwikkelen van dashboards en rapportages. * Het adviseren over mogelijkheden om data slimmer en effectiever in te zetten. * Het bijdragen aan de professionalisering en standaardisering van informatieanalyse. * Het meewerken aan de verdere ontwikkeling van het dataplatform en de transitie naar de cloud. **Dit is je werkplek** ---------------------- De gemeente Utrecht biedt ruimte aan iedereen. We zien talent als basis en diversiteit als kracht om samen betere resultaten te behalen. Voor jou is er plek bij DomstadIT, de centrale IT-afdeling van de gemeente Utrecht. Met ongeveer 275 medewerkers ontwikkelt, beheert en levert DomstadIT IT-diensten voor de hele organisatie. Je komt terecht in het BI-team van de voorziening Datadistributie en analyse. Dit team bestaat uit dataengineers, beheerders, informatieanalisten, een product owner, een scrummaster en een manager. Samen zorgen jullie ervoor dat collega's binnen de gemeente kunnen beschikken over betrouwbare en bruikbare data. De gegevens die jullie ontsluiten worden dagelijks gebruikt voor de uitvoering, bedrijfsvoering en maatschappelijke opgaven van de stad. Jullie werken voor uiteenlopende afdelingen, zoals Publiekszaken, Werk en Inkomen, Openbare Ruimte en de interne bedrijfsvoering. Daardoor krijg je een goed beeld van de verschillende processen en opgaven binnen de gemeente. Je werkt zowel vanuit huis als op het Stadskantoor en krijgt daarbij ondersteuning van ervaren collega's. *Als gemeente streven we naar een diverse en inclusieve organisatie, omdat we ervan overtuigd zijn dat verschillende perspectieven zorgen voor meer innovatie, creativiteit en betere samenwerking. Ben je benieuwd hoe wij dat doen? Lees dat op deze pagina:* *https://www.werkenbijutrecht.nl/over-ons/diversiteit-en-inclusiviteit/* **Dit is jouw inbreng** ----------------------- Bij de gemeente Utrecht vinden we het belangrijk dat jij jezelf kunt zijn. Daarom zijn wij benieuwd naar wie jij bent. Voor deze vacature is het belangrijk dat jij informatiebehoeften kunt doorgronden en vertaalt naar heldere en bruikbare dataoplossingen. Je schakelt makkelijk tussen collega's uit de organisatie en technische specialisten en weet verschillende belangen met elkaar te verbinden. Complexe vraagstukken analyseer je gestructureerd, waarbij je hoofd- en bijzaken goed onderscheidt. Je hebt oog voor wat er speelt binnen de organisatie en vertaalt dit naar passende adviezen. Daarnaast neem je initiatief om verbeterkansen te signaleren en draag je bij aan de verdere ontwikkeling van informatieanalyse en datagedreven werken binnen de gemeente. Daarnaast breng je het volgende mee: * hbo werk- en denkniveau. * Ruim aantoonbare ervaring met informatieanalyse en het vertalen van informatiebehoeften naar datamodellen. * Ervaring met SQL en het analyseren van datavraagstukken. * Ervaring met datawarehouses, datamodellering en het opstellen van ERD's. * Goede kennis van de Nederlandse taal, zowel mondeling als schriftelijk. **Dit bieden we je** -------------------- Bij ons ga je werken aan jouw persoonlijke ontwikkeling, met uitdagende verantwoordelijkheden en in een omgeving met gedreven collega’s. Jij gaat niet alleen werken voor de gemeente, maar je zet je in voor de ruim 370.000 inwoners van onze mooie stad. Jouw bijdrage doet er dus toe! Dit alles gebeurt op ons stadskantoor met uitzicht over de stad waar jij voor werkt Tegelijk hoort daar een goed pakket aan arbeidsvoorwaarden bij: * Een 36-urige werkweek met een bruto maandsalaris tussen € € 4.132,- en € 5.947,- (schaal 10A), inschaling stemmen we samen met jou af afhankelijk van je kennis en ervaring. * Wil je 32 uur werken? Dat is zeker bespreekbaar. Je bepaalt zelf je werktijden en indeling: 5 dagen werken met elke week een middag vrij, 4 dagen werken met afwisselend een vrije dag, of bijvoorbeeld 4×9. * Een Individueel Keuzebudget (IKB) van 17,05% bovenop het standaard salaris. Dat betekent extra financiële ruimte om jouw arbeidsvoorwaarden zelf vorm te geven, bijvoorbeeld voor het kopen van extra verlofdagen, een fiets of extra (vakantie)geld. * Ruimte en budget voor jouw ontwikkeling: je krijgt alle mogelijkheden om je vakkennis actueel te houden en verder te groeien. Of het nu gaat om een securitycertificering, een verdiepende training of een inspirerende cursus, wij stimuleren en faciliteren jouw ontwikkeling. * Hybride werken op jouw manier: je hebt de vrijheid om i",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "**Utrecht heeft jou nodig!** Jij zorgt ervoor dat data bruikbaar wordt voor collega's die werken aan de stad. Zo help je teams om betere keuzes te maken voor inwoners en organisaties in Utrecht. In deze functie verbind je de vragen uit de organisatie met slimme dataoplossingen. Je werkt aan...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "32-36 uur"
+   ],
+   "skills": [
+    "SQL"
+   ],
+   "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
@@ -2890,47 +3152,6 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
-   "id": "49a759d3e0ef",
-   "source": "JobSpy",
-   "title": "Modelling & Simulation Engineer",
-   "company": "TNO",
-   "location": "Den Haag, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=da77da32a25ff0ea",
-   "salary": "€3533 - €8072 per monthly",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "**About this position** ----------------------- As part of the Modelling of Tactical Operations department, you will contribute to technically and scientifically challenging research projects aimed at helping Defence make better decisions. These projects cover a wide range of topics, from the acquisition and maintenance of onboard naval equipment to the preparation and execution of military operations. Together with your colleagues, you will analyze data from simulations you have developed and executed, design concepts and algorithms, and provide recommendations that have a real impact on military units, policymakers, and decision-makers, both nationally and internationally. **What will be your role?** --------------------------- You will join the JROADS team, where you will help further develop an existing software simulation application in Java. Working in multidisciplinary project teams, you will collaborate with experts from various TNO departments to model land, maritime, and air systems, as well as threats, within the Defence domain. Together with analysts and end users, you will develop new concepts and translate them into functional sub-models and software solutions that support analyses, exercises, and experiments. Defence organizations and other security agencies rely on our expertise to build simulation environments that allow operators to test new concepts or determine the most effective deployment of weapon and radar systems. To ensure you quickly become a fully contributing member of project teams, you will first participate in a general internal training program focused on your personal development and the skills needed to work at TNO. Gradually, you will take on more responsibility, work more independently, and have increasing contact with customers. A typical workday may include visiting military units to gather information or conduct tests and evaluations in the field. **What we expect from you** --------------------------- Are you passionate about technology and innovation? Do you enjoy modelling complex systems and want to contribute to meaningful societal goals? Then this position could be a great fit for you. Experience or affinity with the Defence and Security domain is a plus, but not a requirement. If you are new to the field, you will quickly discover how fascinating and diverse this world is. Because you will be working in an innovative R&D environment, it is important that you have strong analytical skills, an excellent capacity for abstract thinking, and the ability to translate scientific concepts into practical solutions. In addition, you have: * A university-level MSc degree in a technical or scientific discipline, such as Aerospace Engineering, Mechanical Engineering, Applied Mathematics, Computer Science, Physics, or a related field with a relevant specialization (for example, Control & Simulation or Modelling). * A broad interest in technology and demonstrable affinity with developing models and simulations. You combine curiosity and attention to detail with the ability to understand and manage complex systems. * Experience with Java (or alternatively C++ or C#). Experience with Python is considered an advantage. * Excellent command of both Dutch and English, spoken and written. **What you'll get in return** ----------------------------- Challenging and varied work with a real impact. And plenty of opportunities as, at TNO, you are in charge of shaping your career. We offer a gross monthly salary between € 3,533 and € 8,072 (based on your knowledge and experience), 8% holiday pay, a 13th month bonus of 8.33% and a flex budget (5.58% + € 180). In addition, you will be given every opportunity to develop yourself. TNO offers optional employee benefits, enabling you to tailor your benefits package to match your personal situation. You may also expect: * An extremely professional, innovative working environment where colleagues are leading experts in their field. * The opportunity to attend courses, workshops and conferences, and to receive training and coaching based on your needs. * 33 days annual leave plus a flexible holiday that can be used on a cultural, religious, or otherwise important day of your choosing (on a full-time basis). * An employer working towards a respectful, inclusive, and equitable work environment where every employee can flourish, with various initiatives such as Jong TNO, numerous expertise based guilds, Rainbow Community and Round Tables on diverse inclusion topics. * We offer a comprehensive and flexible mobility plan that also includes full compensation for public transportation for commuting and business travel. * Great social events with your team and other TNO colleagues. That’s how you will get to know a lot of people really quickly. * Flexible working hours, the possibility to work parttime (32 or 36 hours) and the possibility of working from home. * A good pension scheme. Read more about tailoring your benefits package. **TNO as an employer** ---------------------- Our people are at the heart of TNO. Their curiosity, expertise and entrepreneurial mindset make it possible to deliver high-impact research and innovations that contribute to society’s sustainable wellbeing and prosperity. That is why we invest in an inspiring and inclusive working environment where colleagues can excel, have autonomy and continue to grow. Your talent and ambition have every opportunity to flourish at TNO. You work with experts (both within and beyond TNO), have access to advanced technology and the freedom to explore, experiment and innovate. Our strength lies in independence, reliability and collaboration. We find each other in wonder and ingenuity. We are driven to push boundaries. By working with businesses and government, and by connecting different perspectives, we strengthen our innovative capability and create responsible, meaningful results. At TNO, we believe this is our time to help society, government and business move forward faster",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "**About this position** ----------------------- As part of the Modelling of Tactical Operations department, you will contribute to technically and scientifically challenging research projects aimed at helping Defence make better decisions. These projects cover a wide range of topics, from the...",
-   "benefits": [
-    "Pensioen",
-    "32-36 uur",
-    "Bonus",
-    "Coaching"
-   ],
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "C++",
-    "Excel",
-    "Security",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
    "id": "ca14a9e51443",
    "source": "JobSpy",
    "title": "Workday Financials Configuration and Reporting Analyst",
@@ -3174,6 +3395,43 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "01dc37b99148",
+   "source": "JobSpy",
+   "title": "Junior data engineer",
+   "company": "Canisius Wilhelmina Ziekenhuis Nijmegen",
+   "location": "Nijmegen, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=46f0c3fa2d98adbd",
+   "salary": "€3903 - €5503 per monthly",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "Junior data engineer Wil jij ontdekken hoe data kan bijdragen aan betere zorg? En lijkt het je leuk om jezelf verder te ontwikkelen binnen de wereld van data engineering? Als junior data engineer bij CWZ werk je aan betrouwbare data die collega's helpt om de juiste inzichten te krijgen en beslissingen te nemen. Je krijgt de ruimte om te leren, mee te denken en jezelf stap voor stap te ontwikkelen binnen ons betrokken BI-team. **Heb je een vraag?** Petra Eichelsheim, manager bedrijfsvoering T: 06 5234 6895 M: p.eichelsheim@cwz.nl HBO 32 - 36 uren per week 3.903 - 5.503 (FWG 55) Reageren voor 17-11-2026 Het werk en je collega's Als junior data engineer werk je mee aan het beheren, ontwikkelen en verbeteren van onze dataomgeving. Je ontwikkelt en beheert ETL-processen en data-integraties en bent betrokken bij zowel het beheer als nieuwe aanvragen binnen het Santeon ETL-traject. Daarnaast help je bij het oplossen van incidenten en storingen en bewaak je de kwaliteit en betrouwbaarheid van onze data. Ook denk je mee over verbeteringen en ondersteun je collega's bij technische werkzaamheden binnen de dataomgeving. Hierbij werk je met verschillende systemen en technieken, waaronder Microsoft SSIS, SQL Server, Analysis Services en Power BI. Je komt terecht in ons BI-team binnen het cluster finance & control. Samen met je collega's zorg je ervoor dat betrouwbare data beschikbaar is voor verschillende afdelingen binnen CWZ. Daarbij werken we nauw samen met collega's uit de bedrijfsvoering én het primaire zorgproces. Je werkt in een klein en betrokken team waarin collega's elkaar helpen en kennis delen. Er is volop ruimte om vragen te stellen, nieuwe dingen te leren en steeds meer verantwoordelijkheid te nemen. Jouw ideeën en inbreng worden gewaardeerd en je krijgt de kans om actief bij te dragen aan de verdere ontwikkeling van onze dataomgeving. Wat neem je mee? * Hbo-werk- en denkniveau, bij voorkeur in de richting van Informatica, Data Science, Business IT & Management of een vergelijkbare opleiding. * Basiskennis van SQL en interesse in datawarehouses, databases, ETL en data-integratie. * Ervaring met datawarehousing, ETL-tooling, Azure Data Platform of vergelijkbare technologieën is mooi meegenomen, maar geen vereiste. * Een analytische blik en een nauwkeurige, gestructureerde manier van werken. * Nieuwsgierigheid, leergierigheid en de motivatie om jezelf verder te ontwikkelen binnen data engineering. * Goede communicatieve vaardigheden en het vermogen om technische onderwerpen helder uit te leggen. * Een zelfstandige en proactieve werkhouding, waarbij je ook graag samenwerkt met collega's. * Goede beheersing van de Nederlandse taal, zowel mondeling als schriftelijk. Wat bieden wij? * Contract voor de duur van 12 maanden met uitzicht op verlenging. * De mogelijkheid om hybride te werken, met een goede balans tussen thuiswerken en werken op locatie. * Een salaris conform de Cao Ziekenhuizen met goede arbeidsvoorwaarden. * Naast je reguliere salaris een vakantietoeslag én eindejaarsuitkering van 8,33%. * 144 vakantie-uren én 57 vrij inzetbare PLB uren op basis van een werkweek van 36 uur. * Een goede opbouw van pensioen bij Pensioenfonds Zorg en Welzijn waaraan de werkgever de helft bijdraagt. * Voordelige verzekeringen en een aantrekkelijk belastingvoordeel bij de aanschaf van o.a. een fiets, laptop of je sportschoolabonnement. * Als topklinisch ziekenhuis is er ruimte en aandacht voor ontwikkeling- en opleidingsmogelijkheden. * Een gemoedelijke en informele werkplek waar we elkaar dagelijks proberen te inspireren en uitdagen. * Ruimte voor persoonlijke en professionele ontwikkeling, onder andere via onze CWZ Academie. * Een uitgebreid vitaliteitsprogramma, loopbaanbegeleiding en een actieve personeelsvereniging. Enthousiast geworden? Zie jij jezelf als junior data engineer bij CWZ? Dan maken we graag kennis met je! Solliciteer vóór 17-11-2026 via de ‘Solliciteren’ knop. We zijn benieuwd naar jouw motivatie en wat jou aanspreekt in deze functie. De sollicitatie mag je richten aan Petra Eichelsheim, manager bedrijfsvoering. Wil je eerst meer weten over de functie, het team of hoe een werkdag eruitziet? Neem dan contact op met Petra Eichelsheim via 06 5234 6895 of p.eichelsheim@cwz.nl. We vertellen je graag meer. De vacatures worden tegelijkertijd intern en extern gedeeld, waarbij geldt dat interne kandidaten voorrang hebben op externe kandidaten. We werven zelf voor deze vacature. Deel je de vacature in je netwerk? Graag! Acquisitie stellen we niet op prijs. Past deze vacature bij jou?",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Junior data engineer Wil jij ontdekken hoe data kan bijdragen aan betere zorg? En lijkt het je leuk om jezelf verder te ontwikkelen binnen de wereld van data engineering? Als junior data engineer bij CWZ werk je aan betrouwbare data die collega's helpt om de juiste inzichten te krijgen en...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Laptop"
+   ],
+   "skills": [
+    "SQL",
+    "Azure",
+    "Power BI",
+    "ETL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
    "id": "85941b25501f",
    "source": "JobSpy",
    "title": "Junior RevOps Data Engineer (NL)",
@@ -3261,47 +3519,40 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
-   "id": "2fdad2d1a8e7",
+   "id": "d1ffdd7d94a9",
    "source": "JobSpy",
-   "title": "Backend developer NPO Player (m/v/x)",
-   "company": "NPO",
-   "location": "Hilversum, NH, Netherlands",
+   "title": "Java Developer",
+   "company": "MediReva Revalidatie",
+   "location": "Maastricht, LI, Netherlands",
    "remote": false,
    "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=0ceaae2d2a9ced89",
-   "salary": "€3995 - €6103 per monthly",
+   "url": "https://nl.indeed.com/viewjob?jk=e4ec07ffb83c53c6",
+   "salary": "€2879 - €4578 per monthly",
    "tags": [
     "",
-    "fulltime"
+    "parttime, fulltime"
    ],
-   "full_text": "#### **Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek!** #### **Dit ga je bij ons doen** Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online content binnen de publieke omroep. Deze services ondersteunen onder meer NPO Start, NPO Luister en de websites van de omroepen. We gebruiken Node.js / Typescript en programmeren object-georiënteerd. Als backend developer denk je actief mee over de architectuur, designpatterns en de integratie van testing. Binnen het team helpen we elkaar door code te reviewen en checken daarbij op zaken zoals unit-tests en SOLID code. Ervaring met het automatiseren van deployments (CI/CD) is onderdeel van jouw werkzaamheden. In het team is er veel ruimte voor eigen inbreng en krijg je volledige ownership over de ontwikkeling van de services. Als onderdeel van de afdeling Data & AI werk je nauw samen met de teams AI en Metadata. Samen vertaal je gedeelde technische en inhoudelijke vraagstukken naar betrouwbare services voor de NPO-platforms. #### **Hier herken je jezelf in** * je bent een backend developer met: + ruime ervaring met Node.js, TypeScript en AWS-services zoals CDK, SQS, Lambda en DynamoDB; + ruime ervaring met Data Modeling, REST / Microservices Architectuur, CI/CD; + ervaring met High-traffic Services; + ervaring met agile ontwikkelmethodes (o.a. scrum); * pré, je hebt ervaring met Kafka en SPARQL Als backend developer heb je een focus op Security, Privacy, Scalability, Performance, Metrics, Logging, Als je nieuwsgierig bent naar techniek en voortdurend op de hoogte wil zijn van AI, frameworks en oplossingen pas je goed bij ons. Je komt in een hecht en compact team te werken met de voordelen van een grote organisatie. Jouw collega’s vinden het leuk als je een visie en mening hebt over waar de technologie naartoe gaat. Je staat open voor discussie en veranderingen wanneer er nieuwe ideeën worden aangedragen en natuurlijk is er alle ruimte om ook zelf met input te komen. #### **Arbeidsvoorwaarden** * Iedereen is welkom, ook als je bijvoorbeeld een arbeidsbeperking hebt en er aanpassingen nodig zijn; * bij de NPO werken we hybride en kennen we flexibele werktijden; * je ontvangt een vaste eindejaarsuitkering van 6% over het jaarsalaris; * je krijgt 200 vakantie-uren (o.b.v. 36 uur); * wij hebben een NPO Academy zodat je jezelf verder kunt ontwikkelen. De functie van backend developer is een vaste baan (jaarcontract) voor 36 uur per week en kent een salaris tussen € 3.995,43 en € 6.103,97 bruto per maand op basis van 36 uur. We schalen in op basis van opleiding, ervaring en hanteren het principe van gelijke beloning voor gelijk werk (m/v/x). Het gaat om een vaste baan waarbij je start met een jaarcontract. #### **Interesse?** Wil je meer weten over de functie van backend developer neem dan contact op met Nick van Ginkel via 06 – 55784149 Heb **j**e geen vragen en ben je enthousiast, stuur ons dan via werken bij jouw cv en motivatie (t.a.v. Nick van Ginkel). *Wil je weten hoe het is om te werken bij de NPO? Check dan onder meer onze missie en kernwaarden op onze website.* *Wij zijn zelf prima in staat om onze vacatures in te vullen en stellen acquisitie niet op prijs.* #### **Wanneer ontvang je een reactie?** Je kunt tot en met maandag 2 november 2026 solliciteren. 3 november 2026: terugkoppeling sollicitatie 5 november 2026: 1e ronde sollicitatiegesprekken 6 november 2026: terugkoppeling eerste sollicitatiegesprekken 10 november 2026: 2e ronde sollicitatiegesprekken 11 november 2026: terugkoppeling tweede sollicitatiegesprekken 12 november 2026: aanbod arbeidsvoorwaarden (per telefoon en mail) Bij het tweede gesprek zullen wij meer de diepte ingaan en kan een casus ingezet worden. ***Open voor iedereen*** *De NPO heeft een publieke taak: van waarde zijn voor elk individu én voor de samenleving als geheel. De behoeften van ons publiek, met al zijn achtergronden en opvattingen, zijn daarbij leidend. Dat willen we ook weerspiegelen in de personeelsbezetting van onze organisatie. Wij geloven in een inclusieve organisatie, die de kracht van diversiteit gebruikt om tot nog betere resultaten te komen. Want juist doordat we van elkaar verschillen, kunnen we tot nieuwe inzichten en betere oplossingen komen. En dat is precies waar wij als NPO naar op zoek zijn. We zijn benieuwd wie jij bent en welke kwaliteiten en ervaring jij meebrengt. Onze vacatures staan daarom open voor iedereen.*",
+   "full_text": "* Goed salaris * Goed inwerkprogramma * 25 vakantiedagen * FiscFree belastingvoordeel Meer voordelen **Java Developer** ================== **B****ouw mee aan een nieuw platform voor de zorg** Werk aan een toekomstbestendig platform en krijg de ruimte om jezelf technisch verder te ontwikkelen. Bij Medireva Revalidatie bouwen we aan de volgende generatie van ons klantportaal voor zorginstellingen. We staan voor een belangrijke technische vernieuwing: we willen ons bestaande platform opnieuw opbouwen met een moderne, veilige en onderhoudbare architectuur. Daarom zoeken we een Java Developer die graag software bouwt, kritisch meedenkt over technische keuzes en het leuk vindt om nieuwe technologieën te ontdekken. Java vormt het uitgangspunt, maar we vinden het minstens zo belangrijk dat je nieuwsgierig bent, graag leert en openstaat voor andere programmeertalen en technieken. **Jouw uitdaging** Medireva Revalidatie ondersteunt belangrijke processen binnen zorginstellingen. Denk aan reparatiemeldingen, reinigingsverzoeken, het matchen van vervangende hulpmiddelen en rapportages per organisatie, locatie en afdeling. Je helpt mee om deze functionaliteit onder te brengen in een vernieuwd platform. Daarbij denk je niet alleen na over hoe iets werkt, maar ook over hoe we software veilig, schaalbaar en goed onderhoudbaar houden. Je houdt je onder andere bezig met: * Het ontwikkelen van backendfunctionaliteit in Java. * Het ontwerpen en bouwen van API's en koppelingen met andere systemen. * Het meedenken over een toekomstbestendige softwarearchitectuur. * Het zorgvuldig omgaan met privacygevoelige gegevens en beveiliging. * Het verbeteren en moderniseren van bestaande functionaliteit. * Het verkennen en toepassen van andere talen, frameworks en technieken wanneer het project daarom vraagt. **Jouw rol in het team** Je werkt in een klein ontwikkelteam waarin samenwerking, kennisdeling en eigen initiatief belangrijk zijn. Je krijgt ruimte om technische oplossingen voor te stellen, nieuwe dingen uit te proberen en jezelf verder te ontwikkelen. We zoeken geen developer die alles al weet. We zoeken iemand met een goede technische basis, een gezonde dosis nieuwsgierigheid en de motivatie om samen met ons een nieuw platform neer te zetten. **Wat breng je mee?** * Ervaring met Java en objectgeoriënteerd programmeren. * Kennis van API's, databases, Git en softwareontwikkeling in teamverband. * Aandacht voor codekwaliteit, security en onderhoudbaarheid. * Het vermogen om zelfstandig te werken en tegelijkertijd actief samen te werken. * De bereidheid om nieuwe programmeertalen, frameworks en technieken te leren. * Een analytische instelling en de motivatie om problemen structureel op te lossen. * Ervaring met Spring Boot, SQL, Docker, CI/CD of cloudtechnologie is mooi meegenomen. Ook ervaring met andere programmeertalen of het moderniseren van bestaande applicaties is een pré. **Wat bieden we?** * De kans om mee te bouwen aan een vernieuwd platform met maatschappelijke impact. * Een uitdagend technisch traject waarin je kunt meedenken over architectuur en technologie. * Veel ruimte voor eigen initiatief en persoonlijke ontwikkeling. * Een klein en betrokken team met korte lijnen. * Mogelijkheden om nieuwe technologieën te leren en je technische kennis verder uit te breiden. ### **Vacature informatie** Fulltime bruto maandsalaris €2.879 - €4.578 Geplaatst: 26-10-2026 Locatie: Maastricht Uren: 32 - 40 ### **Contact informatie** Team: Team HR Tel nr. 06-42419846",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "#### **Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek!** #### **Dit ga je bij ons doen** Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "32-36 uur",
-    "Flexibele uren"
-   ],
+   "short_desc": "* Goed salaris * Goed inwerkprogramma * 25 vakantiedagen * FiscFree belastingvoordeel Meer voordelen **Java Developer** ================== **B****ouw mee aan een nieuw platform voor de zorg** Werk aan een toekomstbestendig platform en krijg de ruimte om jezelf technisch verder te ontwikkelen. Bij...",
+   "benefits": [],
    "skills": [
-    "JavaScript",
-    "TypeScript",
-    "Node.js",
-    "REST",
+    "Java",
+    "SQL",
+    "Spring",
+    "Git",
     "CI/CD",
-    "AWS",
-    "Agile",
-    "Microservices",
-    "AI",
-    "Security"
+    "Docker",
+    "Security",
+    "API"
    ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:37:40.310705+00:00"
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
    "id": "1fb29068957e",
@@ -3340,6 +3591,35 @@
     "Nederlands"
    ],
    "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
+   "id": "aff308c0b1ee",
+   "source": "JobSpy",
+   "title": "Technisch Ontwikkelaar Werktuigbouwkunde Deadline: 28-10-2026",
+   "company": "Promanteq",
+   "location": "Schiphol, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=b801f36e1d51d64a",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Fulltime * Schiphol , Noord-Holland * 40 uur * Werktuigbouwkunde , Installatietechniek , Techniek , Engineering Wil jij werktuigbouwkundige installatieconcepten ontwikkelen voor één van de meest dynamische technische omgevingen van Nederland? Voor één van onze opdrachtgevers zijn wij op zoek naar een Technisch Ontwikkelaar Werktuigbouwkunde. In deze rol werk je aan complexe gebouwgebonden installaties binnen utiliteitsprojecten op Schiphol. Je vertaalt klantvragen naar technisch haalbare en duurzame oplossingen en geeft richting aan engineers en modelleurs binnen jouw discipline. **Over Promanteq** ------------------ Bij Promanteq vind je een uitgebreid netwerk van technische experts die klaar staan om te helpen met kennis, vaardigheden en capaciteit. Onze professionals zijn no-nonsense en denken proactief mee bij elke uitdaging. Wij ontzorgen onze opdrachtgevers met korte communicatielijnen, transparantie en een focus op duurzame samenwerkingen. Samen met ons bouw je aan een sterke, langdurige relatie. Of het nu gaat om detachering of projectmanagement, bij Promanteq ben je in goede handen! **Locatie** ----------- Je werkt aan verschillende technische projecten op en rondom de luchthaven. Standplaats: Schiphol. **Jouw rol** ------------ Als Technisch Ontwikkelaar Werktuigbouwkunde ontwikkel je werktuigbouwkundige installatieconcepten voor complexe utiliteitsprojecten. Je onderzoekt bestaande situaties, brengt klantbehoeften in kaart en vertaalt deze naar slimme en technisch uitvoerbare ontwerpen. Je bent betrokken vanaf de eerste ontwerpuitgangspunten en werkt ontwerpen uit van SO tot en met TO. Daarbij maak je technische keuzes rondom klimaat-, luchtbehandelings-, verwarmings- en koelinstallaties en werk je nauw samen met elektrotechnische en bouwkundige collega's. **Taken en verantwoordelijkheden** ---------------------------------- ### **Ontwerp en ontwikkeling** * Ontwikkelen van duurzame werktuigbouwkundige installatieconcepten; * Opstellen en uitwerken van ontwerpen van SO tot en met TO; * Vertalen van klantvragen naar technisch haalbare oplossingen; * Onderzoeken van bestaande situaties op locatie; * Meedenken over toekomstbestendige technische oplossingen. ### **Werktuigbouwkundige installaties** * Maken van technische keuzes voor klimaatinstallaties; * Ontwerpen en beoordelen van luchtbehandelingsinstallaties; * Uitwerken van verwarmings- en koelinstallaties; * Beoordelen van dimensioneringen en principeschema's; * Uitvoeren, aansturen of controleren van VABI-berekeningen. ### **Coördinatie en samenwerking** * Aansturen van engineers en modelleurs binnen de werktuigbouwkundige discipline; * Samenwerken met elektrotechnische en bouwkundige collega's; * Afstemmen met projectleiders, ontwerpers en opdrachtgevers; * Bijdragen aan integrale multidisciplinaire ontwerpen; * Bewaken van technische samenhang tussen verschillende disciplines. ### **Projectondersteuning** * Ondersteunen bij technische haalbaarheidsstudies; * Bijdragen aan projectplanningen; * Meewerken aan plannen van aanpak; * Signaleren van technische risico's en aandachtspunten; * Bijdragen aan een goede overgang van ontwerp naar realisatie. **Jouw profiel** ---------------- * Afgeronde HBO-opleiding Werktuigbouwkunde, Installatietechniek of vergelijkbaar; * Ervaring met utiliteitsbouw en gebouwgebonden installaties; * Kennis van installatieontwerp, dimensionering en principeschema's; * Ervaring met VABI-berekeningen of het controleren en aansturen hiervan; * Ervaring met multidisciplinaire ontwerptrajecten; * Ervaring met stakeholdermanagement; * Je combineert technisch inzicht met sterk analytisch vermogen. **Wat je meeneemt** ------------------- * Technische diepgang; * Analytisch vermogen; * Ontwerpvaardigheden; * Organisatorisch vermogen; * Communicatieve vaardigheden; * Samenwerkingsgerichtheid; * Oplossingsgerichtheid; * Eigenaarschap; * Oog voor duurzaamheid en technische kwaliteit. **Wat bieden wij?** ------------------- * Werken aan technisch uitdagende projecten op een unieke locatie; * Een functie voor 40 uur per week; * Start op korte termijn; * Een initiële periode van maximaal 12 maanden / 1.680 uur; * Daarna is indiensttreding bij de opdrachtgever het uitgangspunt; * Werken aan uiteenlopende projecten binnen utiliteit en gebouwgebonden installaties; * Ruimte om jezelf technisch en professioneel verder te ontwikkelen; * Persoonlijke begeleiding vanuit Promanteq; * Inzet via deta-vast. **Sollicitatieprocedure** ------------------------- Wil jij als Technisch Ontwikkelaar Werktuigbouwkunde jouw technische kennis inzetten voor complexe en duurzame installaties op Schiphol? Stuur ons jouw CV en motivatie. Wij nemen graag contact met je op om de functie, projecten en jouw ervaring verder te bespreken.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Fulltime * Schiphol , Noord-Holland * 40 uur * Werktuigbouwkunde , Installatietechniek , Techniek , Engineering Wil jij werktuigbouwkundige installatieconcepten ontwikkelen voor één van de meest dynamische technische omgevingen van Nederland? Voor één van onze opdrachtgevers zijn wij op zoek naar...",
+   "benefits": [],
+   "skills": [
+    "Stakeholdermanagement"
+   ],
+   "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
@@ -3434,6 +3714,41 @@
     "AI",
     "LLM",
     "Data analyse"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
+   "id": "da21176ada20",
+   "source": "JobSpy",
+   "title": "Systeembeheerder",
+   "company": "Huijbregts Groep",
+   "location": "Helmond, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=73a9d1be945fe966",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "**Niet alleen beheren, maar bouwen, verbeteren en automatiseren.** Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor je! IT is onmisbaar voor onze productie. Van ERP-systemen en servers tot netwerken en storage: alles moet betrouwbaar en veilig functioneren. Als Systeembeheerder zorg jij niet alleen dat alles blijft draaien, maar denk je ook actief mee over hoe het slimmer en beter kan. **Wat ga je doen?** * Je beheert, beveiligt en verbetert onze IT-infrastructuur. * Je automatiseert terugkerende werkzaamheden. * Je signaleert knelpunten en voorkomt problemen. * Je denkt mee over technische verbeteringen en architectuur. * Je pakt IT-projecten zelfstandig op, van idee tot implementatie. **Met welke techniek werk je?** Je werkt onder andere met HPE-servers, VMware/Proxmox, Windows Server, Linux, Fortinet, Cisco, Aruba en Active Directory. Je hoeft niet overal specialist in te zijn. Belangrijker is dat je begrijpt hoe systemen samenwerken en graag nieuwe oplossingen bedenkt. **Wat breng je mee?** * Mbo-4-werk- en denkniveau of hoger, bij voorkeur ICT. * Ervaring met systeembeheer en IT-infrastructuur. * Kennis van Windows Server, Active Directory en virtualisatie. * Basiskennis van netwerken, firewalls en security. * Interesse in automatisering en scripting. * Een zelfstandige, analytische en proactieve instelling. **Wat mag je van ons verwachten?** * Een passend salaris. * 8,5% vakantiegeld en leuke personeelsactiviteiten. * Een informele werksfeer binnen een groeiend internationaal familiebedrijf. * Een gezellig en betrokken team met korte lijnen en ruimte voor eigen initiatief. * Alle ruimte om nieuwe dingen te leren en jezelf verder te ontwikkelen. * Je start met een jaarcontract, met uitzicht op een vast dienstverband. **Klaar voor de volgende stap?** Wil jij niet alleen beheren, maar onze IT-omgeving ook echt beter maken? Dan maken we graag kennis met je! Stuur je reactie naar vacature@huijbregts.nl. We vertellen je graag meer over de functie en onze technische omgeving. Arbeidsvoorwaarden: * Bedrijfsfeesten * Pensioen Werklocatie: Fysiek",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "**Niet alleen beheren, maar bouwen, verbeteren en automatiseren.** Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging...",
+   "benefits": [
+    "Pensioen"
+   ],
+   "skills": [
+    "Linux",
+    "Networking",
+    "Active Directory",
+    "Windows Server",
+    "Security"
    ],
    "lang": "nl",
    "linkedin": false,
@@ -3582,6 +3897,49 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "2fdad2d1a8e7",
+   "source": "JobSpy",
+   "title": "Backend developer NPO Player (m/v/x)",
+   "company": "NPO",
+   "location": "Hilversum, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=0ceaae2d2a9ced89",
+   "salary": "€3995 - €6103 per monthly",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "#### **Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek!** #### **Dit ga je bij ons doen** Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online content binnen de publieke omroep. Deze services ondersteunen onder meer NPO Start, NPO Luister en de websites van de omroepen. We gebruiken Node.js / Typescript en programmeren object-georiënteerd. Als backend developer denk je actief mee over de architectuur, designpatterns en de integratie van testing. Binnen het team helpen we elkaar door code te reviewen en checken daarbij op zaken zoals unit-tests en SOLID code. Ervaring met het automatiseren van deployments (CI/CD) is onderdeel van jouw werkzaamheden. In het team is er veel ruimte voor eigen inbreng en krijg je volledige ownership over de ontwikkeling van de services. Als onderdeel van de afdeling Data & AI werk je nauw samen met de teams AI en Metadata. Samen vertaal je gedeelde technische en inhoudelijke vraagstukken naar betrouwbare services voor de NPO-platforms. #### **Hier herken je jezelf in** * je bent een backend developer met: + ruime ervaring met Node.js, TypeScript en AWS-services zoals CDK, SQS, Lambda en DynamoDB; + ruime ervaring met Data Modeling, REST / Microservices Architectuur, CI/CD; + ervaring met High-traffic Services; + ervaring met agile ontwikkelmethodes (o.a. scrum); * pré, je hebt ervaring met Kafka en SPARQL Als backend developer heb je een focus op Security, Privacy, Scalability, Performance, Metrics, Logging, Als je nieuwsgierig bent naar techniek en voortdurend op de hoogte wil zijn van AI, frameworks en oplossingen pas je goed bij ons. Je komt in een hecht en compact team te werken met de voordelen van een grote organisatie. Jouw collega’s vinden het leuk als je een visie en mening hebt over waar de technologie naartoe gaat. Je staat open voor discussie en veranderingen wanneer er nieuwe ideeën worden aangedragen en natuurlijk is er alle ruimte om ook zelf met input te komen. #### **Arbeidsvoorwaarden** * Iedereen is welkom, ook als je bijvoorbeeld een arbeidsbeperking hebt en er aanpassingen nodig zijn; * bij de NPO werken we hybride en kennen we flexibele werktijden; * je ontvangt een vaste eindejaarsuitkering van 6% over het jaarsalaris; * je krijgt 200 vakantie-uren (o.b.v. 36 uur); * wij hebben een NPO Academy zodat je jezelf verder kunt ontwikkelen. De functie van backend developer is een vaste baan (jaarcontract) voor 36 uur per week en kent een salaris tussen € 3.995,43 en € 6.103,97 bruto per maand op basis van 36 uur. We schalen in op basis van opleiding, ervaring en hanteren het principe van gelijke beloning voor gelijk werk (m/v/x). Het gaat om een vaste baan waarbij je start met een jaarcontract. #### **Interesse?** Wil je meer weten over de functie van backend developer neem dan contact op met Nick van Ginkel via 06 – 55784149 Heb **j**e geen vragen en ben je enthousiast, stuur ons dan via werken bij jouw cv en motivatie (t.a.v. Nick van Ginkel). *Wil je weten hoe het is om te werken bij de NPO? Check dan onder meer onze missie en kernwaarden op onze website.* *Wij zijn zelf prima in staat om onze vacatures in te vullen en stellen acquisitie niet op prijs.* #### **Wanneer ontvang je een reactie?** Je kunt tot en met maandag 2 november 2026 solliciteren. 3 november 2026: terugkoppeling sollicitatie 5 november 2026: 1e ronde sollicitatiegesprekken 6 november 2026: terugkoppeling eerste sollicitatiegesprekken 10 november 2026: 2e ronde sollicitatiegesprekken 11 november 2026: terugkoppeling tweede sollicitatiegesprekken 12 november 2026: aanbod arbeidsvoorwaarden (per telefoon en mail) Bij het tweede gesprek zullen wij meer de diepte ingaan en kan een casus ingezet worden. ***Open voor iedereen*** *De NPO heeft een publieke taak: van waarde zijn voor elk individu én voor de samenleving als geheel. De behoeften van ons publiek, met al zijn achtergronden en opvattingen, zijn daarbij leidend. Dat willen we ook weerspiegelen in de personeelsbezetting van onze organisatie. Wij geloven in een inclusieve organisatie, die de kracht van diversiteit gebruikt om tot nog betere resultaten te komen. Want juist doordat we van elkaar verschillen, kunnen we tot nieuwe inzichten en betere oplossingen komen. En dat is precies waar wij als NPO naar op zoek zijn. We zijn benieuwd wie jij bent en welke kwaliteiten en ervaring jij meebrengt. Onze vacatures staan daarom open voor iedereen.*",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "#### **Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek!** #### **Dit ga je bij ons doen** Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "32-36 uur",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "REST",
+    "CI/CD",
+    "AWS",
+    "Agile",
+    "Microservices",
+    "AI",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:37:40.310705+00:00"
+  },
+  {
    "id": "9b512716f593",
    "source": "JobSpy",
    "title": "BI-Analyst",
@@ -3718,43 +4076,6 @@
    "short_desc": "",
    "benefits": [],
    "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "01dc37b99148",
-   "source": "JobSpy",
-   "title": "Junior data engineer",
-   "company": "Canisius Wilhelmina Ziekenhuis Nijmegen",
-   "location": "Nijmegen, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=46f0c3fa2d98adbd",
-   "salary": "€3903 - €5503 per monthly",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "Junior data engineer Wil jij ontdekken hoe data kan bijdragen aan betere zorg? En lijkt het je leuk om jezelf verder te ontwikkelen binnen de wereld van data engineering? Als junior data engineer bij CWZ werk je aan betrouwbare data die collega's helpt om de juiste inzichten te krijgen en beslissingen te nemen. Je krijgt de ruimte om te leren, mee te denken en jezelf stap voor stap te ontwikkelen binnen ons betrokken BI-team. **Heb je een vraag?** Petra Eichelsheim, manager bedrijfsvoering T: 06 5234 6895 M: p.eichelsheim@cwz.nl HBO 32 - 36 uren per week 3.903 - 5.503 (FWG 55) Reageren voor 17-11-2026 Het werk en je collega's Als junior data engineer werk je mee aan het beheren, ontwikkelen en verbeteren van onze dataomgeving. Je ontwikkelt en beheert ETL-processen en data-integraties en bent betrokken bij zowel het beheer als nieuwe aanvragen binnen het Santeon ETL-traject. Daarnaast help je bij het oplossen van incidenten en storingen en bewaak je de kwaliteit en betrouwbaarheid van onze data. Ook denk je mee over verbeteringen en ondersteun je collega's bij technische werkzaamheden binnen de dataomgeving. Hierbij werk je met verschillende systemen en technieken, waaronder Microsoft SSIS, SQL Server, Analysis Services en Power BI. Je komt terecht in ons BI-team binnen het cluster finance & control. Samen met je collega's zorg je ervoor dat betrouwbare data beschikbaar is voor verschillende afdelingen binnen CWZ. Daarbij werken we nauw samen met collega's uit de bedrijfsvoering én het primaire zorgproces. Je werkt in een klein en betrokken team waarin collega's elkaar helpen en kennis delen. Er is volop ruimte om vragen te stellen, nieuwe dingen te leren en steeds meer verantwoordelijkheid te nemen. Jouw ideeën en inbreng worden gewaardeerd en je krijgt de kans om actief bij te dragen aan de verdere ontwikkeling van onze dataomgeving. Wat neem je mee? * Hbo-werk- en denkniveau, bij voorkeur in de richting van Informatica, Data Science, Business IT & Management of een vergelijkbare opleiding. * Basiskennis van SQL en interesse in datawarehouses, databases, ETL en data-integratie. * Ervaring met datawarehousing, ETL-tooling, Azure Data Platform of vergelijkbare technologieën is mooi meegenomen, maar geen vereiste. * Een analytische blik en een nauwkeurige, gestructureerde manier van werken. * Nieuwsgierigheid, leergierigheid en de motivatie om jezelf verder te ontwikkelen binnen data engineering. * Goede communicatieve vaardigheden en het vermogen om technische onderwerpen helder uit te leggen. * Een zelfstandige en proactieve werkhouding, waarbij je ook graag samenwerkt met collega's. * Goede beheersing van de Nederlandse taal, zowel mondeling als schriftelijk. Wat bieden wij? * Contract voor de duur van 12 maanden met uitzicht op verlenging. * De mogelijkheid om hybride te werken, met een goede balans tussen thuiswerken en werken op locatie. * Een salaris conform de Cao Ziekenhuizen met goede arbeidsvoorwaarden. * Naast je reguliere salaris een vakantietoeslag én eindejaarsuitkering van 8,33%. * 144 vakantie-uren én 57 vrij inzetbare PLB uren op basis van een werkweek van 36 uur. * Een goede opbouw van pensioen bij Pensioenfonds Zorg en Welzijn waaraan de werkgever de helft bijdraagt. * Voordelige verzekeringen en een aantrekkelijk belastingvoordeel bij de aanschaf van o.a. een fiets, laptop of je sportschoolabonnement. * Als topklinisch ziekenhuis is er ruimte en aandacht voor ontwikkeling- en opleidingsmogelijkheden. * Een gemoedelijke en informele werkplek waar we elkaar dagelijks proberen te inspireren en uitdagen. * Ruimte voor persoonlijke en professionele ontwikkeling, onder andere via onze CWZ Academie. * Een uitgebreid vitaliteitsprogramma, loopbaanbegeleiding en een actieve personeelsvereniging. Enthousiast geworden? Zie jij jezelf als junior data engineer bij CWZ? Dan maken we graag kennis met je! Solliciteer vóór 17-11-2026 via de ‘Solliciteren’ knop. We zijn benieuwd naar jouw motivatie en wat jou aanspreekt in deze functie. De sollicitatie mag je richten aan Petra Eichelsheim, manager bedrijfsvoering. Wil je eerst meer weten over de functie, het team of hoe een werkdag eruitziet? Neem dan contact op met Petra Eichelsheim via 06 5234 6895 of p.eichelsheim@cwz.nl. We vertellen je graag meer. De vacatures worden tegelijkertijd intern en extern gedeeld, waarbij geldt dat interne kandidaten voorrang hebben op externe kandidaten. We werven zelf voor deze vacature. Deel je de vacature in je netwerk? Graag! Acquisitie stellen we niet op prijs. Past deze vacature bij jou?",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Junior data engineer Wil jij ontdekken hoe data kan bijdragen aan betere zorg? En lijkt het je leuk om jezelf verder te ontwikkelen binnen de wereld van data engineering? Als junior data engineer bij CWZ werk je aan betrouwbare data die collega's helpt om de juiste inzichten te krijgen en...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Laptop"
-   ],
-   "skills": [
-    "SQL",
-    "Azure",
-    "Power BI",
-    "ETL"
-   ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
@@ -3972,42 +4293,6 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
-   "id": "d1ffdd7d94a9",
-   "source": "JobSpy",
-   "title": "Java Developer",
-   "company": "MediReva Revalidatie",
-   "location": "Maastricht, LI, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=e4ec07ffb83c53c6",
-   "salary": "€2879 - €4578 per monthly",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "* Goed salaris * Goed inwerkprogramma * 25 vakantiedagen * FiscFree belastingvoordeel Meer voordelen **Java Developer** ================== **B****ouw mee aan een nieuw platform voor de zorg** Werk aan een toekomstbestendig platform en krijg de ruimte om jezelf technisch verder te ontwikkelen. Bij Medireva Revalidatie bouwen we aan de volgende generatie van ons klantportaal voor zorginstellingen. We staan voor een belangrijke technische vernieuwing: we willen ons bestaande platform opnieuw opbouwen met een moderne, veilige en onderhoudbare architectuur. Daarom zoeken we een Java Developer die graag software bouwt, kritisch meedenkt over technische keuzes en het leuk vindt om nieuwe technologieën te ontdekken. Java vormt het uitgangspunt, maar we vinden het minstens zo belangrijk dat je nieuwsgierig bent, graag leert en openstaat voor andere programmeertalen en technieken. **Jouw uitdaging** Medireva Revalidatie ondersteunt belangrijke processen binnen zorginstellingen. Denk aan reparatiemeldingen, reinigingsverzoeken, het matchen van vervangende hulpmiddelen en rapportages per organisatie, locatie en afdeling. Je helpt mee om deze functionaliteit onder te brengen in een vernieuwd platform. Daarbij denk je niet alleen na over hoe iets werkt, maar ook over hoe we software veilig, schaalbaar en goed onderhoudbaar houden. Je houdt je onder andere bezig met: * Het ontwikkelen van backendfunctionaliteit in Java. * Het ontwerpen en bouwen van API's en koppelingen met andere systemen. * Het meedenken over een toekomstbestendige softwarearchitectuur. * Het zorgvuldig omgaan met privacygevoelige gegevens en beveiliging. * Het verbeteren en moderniseren van bestaande functionaliteit. * Het verkennen en toepassen van andere talen, frameworks en technieken wanneer het project daarom vraagt. **Jouw rol in het team** Je werkt in een klein ontwikkelteam waarin samenwerking, kennisdeling en eigen initiatief belangrijk zijn. Je krijgt ruimte om technische oplossingen voor te stellen, nieuwe dingen uit te proberen en jezelf verder te ontwikkelen. We zoeken geen developer die alles al weet. We zoeken iemand met een goede technische basis, een gezonde dosis nieuwsgierigheid en de motivatie om samen met ons een nieuw platform neer te zetten. **Wat breng je mee?** * Ervaring met Java en objectgeoriënteerd programmeren. * Kennis van API's, databases, Git en softwareontwikkeling in teamverband. * Aandacht voor codekwaliteit, security en onderhoudbaarheid. * Het vermogen om zelfstandig te werken en tegelijkertijd actief samen te werken. * De bereidheid om nieuwe programmeertalen, frameworks en technieken te leren. * Een analytische instelling en de motivatie om problemen structureel op te lossen. * Ervaring met Spring Boot, SQL, Docker, CI/CD of cloudtechnologie is mooi meegenomen. Ook ervaring met andere programmeertalen of het moderniseren van bestaande applicaties is een pré. **Wat bieden we?** * De kans om mee te bouwen aan een vernieuwd platform met maatschappelijke impact. * Een uitdagend technisch traject waarin je kunt meedenken over architectuur en technologie. * Veel ruimte voor eigen initiatief en persoonlijke ontwikkeling. * Een klein en betrokken team met korte lijnen. * Mogelijkheden om nieuwe technologieën te leren en je technische kennis verder uit te breiden. ### **Vacature informatie** Fulltime bruto maandsalaris €2.879 - €4.578 Geplaatst: 26-10-2026 Locatie: Maastricht Uren: 32 - 40 ### **Contact informatie** Team: Team HR Tel nr. 06-42419846",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "* Goed salaris * Goed inwerkprogramma * 25 vakantiedagen * FiscFree belastingvoordeel Meer voordelen **Java Developer** ================== **B****ouw mee aan een nieuw platform voor de zorg** Werk aan een toekomstbestendig platform en krijg de ruimte om jezelf technisch verder te ontwikkelen. Bij...",
-   "benefits": [],
-   "skills": [
-    "Java",
-    "SQL",
-    "Spring",
-    "Git",
-    "CI/CD",
-    "Docker",
-    "Security",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
    "id": "8b39b0a8eb2a",
    "source": "JobSpy",
    "title": "Business Developer Cows",
@@ -4029,35 +4314,6 @@
    "short_desc": "32-40 uur per week | Apeldoorn of Weert **Ben jij klaar voor een volgende stap in international business development om onze Cows-sector verder uit te bouwen?** Als Business Developer Cows help je ons bij de internationale groei van Dairy Analytics en AgroVision Cows. Je verkent nieuwe markten,...",
    "benefits": [],
    "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "aff308c0b1ee",
-   "source": "JobSpy",
-   "title": "Technisch Ontwikkelaar Werktuigbouwkunde Deadline: 28-10-2026",
-   "company": "Promanteq",
-   "location": "Schiphol, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=b801f36e1d51d64a",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Fulltime * Schiphol , Noord-Holland * 40 uur * Werktuigbouwkunde , Installatietechniek , Techniek , Engineering Wil jij werktuigbouwkundige installatieconcepten ontwikkelen voor één van de meest dynamische technische omgevingen van Nederland? Voor één van onze opdrachtgevers zijn wij op zoek naar een Technisch Ontwikkelaar Werktuigbouwkunde. In deze rol werk je aan complexe gebouwgebonden installaties binnen utiliteitsprojecten op Schiphol. Je vertaalt klantvragen naar technisch haalbare en duurzame oplossingen en geeft richting aan engineers en modelleurs binnen jouw discipline. **Over Promanteq** ------------------ Bij Promanteq vind je een uitgebreid netwerk van technische experts die klaar staan om te helpen met kennis, vaardigheden en capaciteit. Onze professionals zijn no-nonsense en denken proactief mee bij elke uitdaging. Wij ontzorgen onze opdrachtgevers met korte communicatielijnen, transparantie en een focus op duurzame samenwerkingen. Samen met ons bouw je aan een sterke, langdurige relatie. Of het nu gaat om detachering of projectmanagement, bij Promanteq ben je in goede handen! **Locatie** ----------- Je werkt aan verschillende technische projecten op en rondom de luchthaven. Standplaats: Schiphol. **Jouw rol** ------------ Als Technisch Ontwikkelaar Werktuigbouwkunde ontwikkel je werktuigbouwkundige installatieconcepten voor complexe utiliteitsprojecten. Je onderzoekt bestaande situaties, brengt klantbehoeften in kaart en vertaalt deze naar slimme en technisch uitvoerbare ontwerpen. Je bent betrokken vanaf de eerste ontwerpuitgangspunten en werkt ontwerpen uit van SO tot en met TO. Daarbij maak je technische keuzes rondom klimaat-, luchtbehandelings-, verwarmings- en koelinstallaties en werk je nauw samen met elektrotechnische en bouwkundige collega's. **Taken en verantwoordelijkheden** ---------------------------------- ### **Ontwerp en ontwikkeling** * Ontwikkelen van duurzame werktuigbouwkundige installatieconcepten; * Opstellen en uitwerken van ontwerpen van SO tot en met TO; * Vertalen van klantvragen naar technisch haalbare oplossingen; * Onderzoeken van bestaande situaties op locatie; * Meedenken over toekomstbestendige technische oplossingen. ### **Werktuigbouwkundige installaties** * Maken van technische keuzes voor klimaatinstallaties; * Ontwerpen en beoordelen van luchtbehandelingsinstallaties; * Uitwerken van verwarmings- en koelinstallaties; * Beoordelen van dimensioneringen en principeschema's; * Uitvoeren, aansturen of controleren van VABI-berekeningen. ### **Coördinatie en samenwerking** * Aansturen van engineers en modelleurs binnen de werktuigbouwkundige discipline; * Samenwerken met elektrotechnische en bouwkundige collega's; * Afstemmen met projectleiders, ontwerpers en opdrachtgevers; * Bijdragen aan integrale multidisciplinaire ontwerpen; * Bewaken van technische samenhang tussen verschillende disciplines. ### **Projectondersteuning** * Ondersteunen bij technische haalbaarheidsstudies; * Bijdragen aan projectplanningen; * Meewerken aan plannen van aanpak; * Signaleren van technische risico's en aandachtspunten; * Bijdragen aan een goede overgang van ontwerp naar realisatie. **Jouw profiel** ---------------- * Afgeronde HBO-opleiding Werktuigbouwkunde, Installatietechniek of vergelijkbaar; * Ervaring met utiliteitsbouw en gebouwgebonden installaties; * Kennis van installatieontwerp, dimensionering en principeschema's; * Ervaring met VABI-berekeningen of het controleren en aansturen hiervan; * Ervaring met multidisciplinaire ontwerptrajecten; * Ervaring met stakeholdermanagement; * Je combineert technisch inzicht met sterk analytisch vermogen. **Wat je meeneemt** ------------------- * Technische diepgang; * Analytisch vermogen; * Ontwerpvaardigheden; * Organisatorisch vermogen; * Communicatieve vaardigheden; * Samenwerkingsgerichtheid; * Oplossingsgerichtheid; * Eigenaarschap; * Oog voor duurzaamheid en technische kwaliteit. **Wat bieden wij?** ------------------- * Werken aan technisch uitdagende projecten op een unieke locatie; * Een functie voor 40 uur per week; * Start op korte termijn; * Een initiële periode van maximaal 12 maanden / 1.680 uur; * Daarna is indiensttreding bij de opdrachtgever het uitgangspunt; * Werken aan uiteenlopende projecten binnen utiliteit en gebouwgebonden installaties; * Ruimte om jezelf technisch en professioneel verder te ontwikkelen; * Persoonlijke begeleiding vanuit Promanteq; * Inzet via deta-vast. **Sollicitatieprocedure** ------------------------- Wil jij als Technisch Ontwikkelaar Werktuigbouwkunde jouw technische kennis inzetten voor complexe en duurzame installaties op Schiphol? Stuur ons jouw CV en motivatie. Wij nemen graag contact met je op om de functie, projecten en jouw ervaring verder te bespreken.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Fulltime * Schiphol , Noord-Holland * 40 uur * Werktuigbouwkunde , Installatietechniek , Techniek , Engineering Wil jij werktuigbouwkundige installatieconcepten ontwikkelen voor één van de meest dynamische technische omgevingen van Nederland? Voor één van onze opdrachtgevers zijn wij op zoek naar...",
-   "benefits": [],
-   "skills": [
-    "Stakeholdermanagement"
-   ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
@@ -4195,41 +4451,6 @@
    "short_desc": "",
    "benefits": [],
    "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "da21176ada20",
-   "source": "JobSpy",
-   "title": "Systeembeheerder",
-   "company": "Huijbregts Groep",
-   "location": "Helmond, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=73a9d1be945fe966",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "**Niet alleen beheren, maar bouwen, verbeteren en automatiseren.** Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor je! IT is onmisbaar voor onze productie. Van ERP-systemen en servers tot netwerken en storage: alles moet betrouwbaar en veilig functioneren. Als Systeembeheerder zorg jij niet alleen dat alles blijft draaien, maar denk je ook actief mee over hoe het slimmer en beter kan. **Wat ga je doen?** * Je beheert, beveiligt en verbetert onze IT-infrastructuur. * Je automatiseert terugkerende werkzaamheden. * Je signaleert knelpunten en voorkomt problemen. * Je denkt mee over technische verbeteringen en architectuur. * Je pakt IT-projecten zelfstandig op, van idee tot implementatie. **Met welke techniek werk je?** Je werkt onder andere met HPE-servers, VMware/Proxmox, Windows Server, Linux, Fortinet, Cisco, Aruba en Active Directory. Je hoeft niet overal specialist in te zijn. Belangrijker is dat je begrijpt hoe systemen samenwerken en graag nieuwe oplossingen bedenkt. **Wat breng je mee?** * Mbo-4-werk- en denkniveau of hoger, bij voorkeur ICT. * Ervaring met systeembeheer en IT-infrastructuur. * Kennis van Windows Server, Active Directory en virtualisatie. * Basiskennis van netwerken, firewalls en security. * Interesse in automatisering en scripting. * Een zelfstandige, analytische en proactieve instelling. **Wat mag je van ons verwachten?** * Een passend salaris. * 8,5% vakantiegeld en leuke personeelsactiviteiten. * Een informele werksfeer binnen een groeiend internationaal familiebedrijf. * Een gezellig en betrokken team met korte lijnen en ruimte voor eigen initiatief. * Alle ruimte om nieuwe dingen te leren en jezelf verder te ontwikkelen. * Je start met een jaarcontract, met uitzicht op een vast dienstverband. **Klaar voor de volgende stap?** Wil jij niet alleen beheren, maar onze IT-omgeving ook echt beter maken? Dan maken we graag kennis met je! Stuur je reactie naar vacature@huijbregts.nl. We vertellen je graag meer over de functie en onze technische omgeving. Arbeidsvoorwaarden: * Bedrijfsfeesten * Pensioen Werklocatie: Fysiek",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "**Niet alleen beheren, maar bouwen, verbeteren en automatiseren.** Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging...",
-   "benefits": [
-    "Pensioen"
-   ],
-   "skills": [
-    "Linux",
-    "Networking",
-    "Active Directory",
-    "Windows Server",
-    "Security"
-   ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
@@ -4731,42 +4952,39 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
-   "id": "2eb4641cf664",
+   "id": "b6fbf64f7fe0",
    "source": "JobSpy",
-   "title": "ServiceNow Administrator / Developer (40h per week)",
-   "company": "Applied Medical",
-   "location": "Amersfoort, UT, Netherlands",
+   "title": "Project Ontwikkelaar",
+   "company": "TenneT",
+   "location": "Gouda, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-10-23T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=2c39eb4785c7745c",
-   "salary": null,
+   "url": "https://nl.indeed.com/viewjob?jk=f1ba886e73a179fd",
+   "salary": "€4276 - €8443 per monthly",
    "tags": [
     "",
-    ""
+    "parttime, fulltime"
    ],
-   "full_text": "Overview:Job Description: Are you an organized and analytical professional who builds strong stakeholder relationships and translates their needs into practical solutions? If you have experience with ServiceNow, particularly ITSM processes, and are eager to grow your skills while making a meaningful impact, we’d love to meet you. At Applied Medical’s European headquarters, we’re looking for a ServiceNow Administrator - Developer who will be a trusted partner for internal teams working with ServiceNow. Your role will be centered on interpreting stakeholder needs, explaining options clearly, and designing intuitive workflows and catalogue items that enhance the user experience and support continuous improvement. You’ll start by supporting our IT teams and ITSM functions and gradually expand your impact across departments. *This position is based in Amersfoort (Netherlands) and reports to the Technical Lead, ServiceNow Platform.* **Key Responsibilities** * Engage with stakeholders to understand their needs and co-create ServiceNow solutions, such as flows, catalogue items, and applications * Lead collaborative discussions to clarify requirements, explain available options, and guide teams through practical decision-making with clarity and empathy * Support the quality and usability of ServiceNow data and services, including CMDB configuration items and relationships, data imports, the Service Catalog, Request Management, and IT Asset Management * Maintain the overall health of the ServiceNow environment, including monitoring supporting architecture, overseeing license usage, troubleshooting, and resolving issues * Develop scalable ServiceNow solutions for prioritized IT and business needs, using standard methodologies and patterns and supporting REST, SOAP, and MID Server integrations where needed * Support and improve ITSM processes and ServiceNow functionality, identifying opportunities for continual improvement and applying ITIL best practices where appropriate Requirements: * Bachelors/HBO level education, preferably in Computer Science * 1+ years of ServiceNow System Administration experience * Certified ServiceNow Administrator (Implementation Specialist Certification a plus) * Experience with ITSM processes and implementing ServiceNow processes and functions * Experience with and developing with web technologies (XML, HTML, Angular JS, Web Services, JavaScript etc.) * Fluency in English, both spoken and written Close enough? These criteria are an indication of the profile we are looking for. If your experience is a little different from what we have identified and you think you can bring value to the role, we would love to learn more about you! We Offer: * An international working environment, fueled by respect and a healthy work-life balance tailored to the business and team member’s needs * 27 paid vacation days (based on fulltime contract) with option to purchase five additional days * This is mainly an on-site role with hybrid options * Commuting allowance of €0,25/km or full coverage of public transportation costs * A wide variety of internal trainings and development possibilities and a tuition program for external trainings * The opportunity to pro-actively work on your vitality and fitness * State-of-the-art facilities, including green areas, in-house restaurant and gym * Additional benefits, such as: + Attractive pension scheme (your contribution at 4%, ours at 12%) + €50 net monthly health insurance contribution + Two (paid) days per year dedicated to volunteering activities + Several fun company events and meaningful initiatives organized throughout the year At Applied Medical, we are committed to make a meaningful, positive difference, each and every day. Within our European headquarters in Amersfoort (NL), we develop, manufacture and support the implementation of our advanced medical devices across Europe and the MENA region. Applied’s team members enjoy working in an environmentally friendly and international environment, in which people of diverse backgrounds are valued, challenged, and acknowledged. We support our team members by giving them opportunities of ongoing learning and education, possibilities to take part in community volunteering activities and a variety of onsite exercise classes and health activities. If you are passionate about working in an organization that allows you to make decisions based upon what is right for the patient, customer, community and environment, Applied Medical is the place for you. **Interested?** Would you like to be part of our expanding team? If the answer is yes, we'd love to get to know you and look forward to hearing from you! For more information regarding our hiring process, click here. If you have any questions, feel free to contact us via TA-Europe@appliedmedical.com or +31 (0)33 7548713. Not the right job for you? Take a look at our other vacancies and follow us on LinkedIn.",
+   "full_text": "**Introductie** --------------- De energietransitie vraagt om slimme, daadkrachtige professionals. Binnen het team dat verantwoordelijk is voor de ontwikkeling van nieuwe hoogspanningsverbindingen en stations werken we dagelijks aan het realiseren van uitbreidingen van het elektriciteitsnet, zodat Nederland ook morgen kan rekenen op een betrouwbaar energiesysteem. Draag jij hieraan bij als Projectontwikkelaar? **Jouw rol** ------------ Hoe houd jij Nederland aan? Als Projectontwikkelaar ben jij verantwoordelijk voor het ontwikkelen van complexe netuitbreidingsprojecten, zodat Nederland kan blijven rekenen op betrouwbare, betaalbare en duurzame energie. Je werkt aan projecten in Zuid-Holland en Zeeland en beweegt je dagelijks tussen techniek, ruimtelijke ordening, bestuurlijke besluitvorming en omgevingsmanagement. Daarnaast ben je onder andere verantwoordelijk voor: * Het initiëren en ontwikkelen van hoogspanningsprojecten vanaf de verkenningsfase tot aan de overdracht richting realisatie; * Het uitvoeren van haalbaarheidsstudies en onderzoeken waarbij technische, ruimtelijke, juridische en financiële aspecten samenkomen; * Het coördineren van vergunningstrajecten en ruimtelijke procedures; * Het afstemmen met gemeenten, provincies, ministeries, grondeigenaren, netbeheerders en andere stakeholders; * Het signaleren, analyseren en beheersen van risico’s tijdens de ontwikkelfase; * Het voorbereiden van projecten voor overdracht aan uitvoerende projectteams; * Het bijdragen aan de uitbreiding en toekomstbestendigheid van het Nederlandse hoogspanningsnet. Deze functie is gebaseerd op het Job Grid-profiel Asset Management Specialist en is ingeschaald in schaal 8. **Waar kom je terecht** ----------------------- Onshore zorgt voor de veilige, tijdige en betrouwbare realisatie van nieuwe aansluitingen en netverzwaringen op land. Daarnaast onderhoudt deze divisie het bestaande net en optimaliseert zij het gebruik ervan, zodat overal het licht blijft branden. De kerntaken van Onshore zijn projectontwikkeling en -realisatie, onderhoud en assetmanagement, vergunningen, veiligheid, standaarden en kwaliteitsborging. De focus ligt op samenwerking en voorspelbaarheid voor klanten en andere stakeholders. **Jouw profiel & achtergrond** ------------------------------ **Je bent een stevige gesprekspartner die complexe vraagstukken kan doorgronden en mensen weet te verbinden. Je begrijpt hoe besluitvorming binnen grote organisaties en bestuurlijke omgevingen werkt en kunt daarin effectief opereren. D****aarnaast beschik je over:** -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Een afgeronde hbo- of wo-opleiding; * Bij voorkeur een achtergrond in techniek, energie, infrastructuur, planologie of een vergelijkbare richting; * Ervaring binnen infrastructuur, energie, utilities, netbeheer, ruimtelijke ontwikkeling of een vergelijkbare omgeving; * Ervaring met stakeholdermanagement en samenwerking binnen complexe projecten; * Een uitstekende beheersing van de Nederlandse taal en een goede beheersing van de Engelse taal; * Analytisch vermogen en het vermogen om complexe informatie om te zetten in concrete oplossingen. **Voor deze functie zijn de volgende competenties van groot belang:** --------------------------------------------------------------------- ### * **Organisatiebewust zijn: Je begrijpt de formele en informele verhoudingen binnen organisaties en weet hier effectief op in te spelen.** * **Managen van Complexiteit: Je overziet complexe vraagstukken, brengt afhankelijkheden in kaart en weet structuur aan te brengen in een dynamische omgeving.** * **Overtuigen: Je creëert draagvlak bij verschillende stakeholders en weet mensen mee te nemen in veranderingen, besluiten en projectdoelstellingen.** * **Ownership: Je voelt eigenaarschap voor je werk, neemt verantwoordelijkheid voor resultaten en komt afspraken na.** **Safety Needs Our Energy** **Veiligheid staat bij TenneT altijd op de eerste plaats. Daarom verwachten wij dat je veiligheidsrisico’s actief signaleert, bespreekbaar maakt en meeneemt in je dagelijkse werkzaamheden en besluitvorming. Zo draag je bij aan een veilige werkomgeving voor jezelf, collega’s en partners.** ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ **Arbeidsvoorwaarden** ---------------------- Bij TenneT krijg je de kans om dagelijks impact te maken op de energietransitie en te werken aan projecten die van nationaal belang zijn. Wij bieden jou: * Een vast contract met een proeftijd van twee maanden; * Een werkweek van 32 tot 40 uur; * Een salaris in schaal 8 conform de CAO van TenneT met 8% vakantiegeld en 6% eindejaarsuitkering; * Een uitstekend pensioen via ABP, waarbij TenneT 70% van de premie betaalt; * 43 verlofdagen per jaar bij een fulltime dienstverband; * Flexibele en hybride werkmogelijkheden; * Een thuiswerk-, internet- en reiskostenvergoeding; * Ruime opleidings- en ontwikkelmogelijkheden via de TenneT Academy. Wil jij als Projectontwikkelaar bijdragen aan de uitbreiding van het Nederlandse hoogspanningsnet en de energietransitie versnellen? Dan ontvangen wij graag jouw sollicitatie. Heb je vragen over het sollicitatieproces? Neem dan contact op met Bianca Fokken via bianca.fokken@tennet.eu of . Heb je vragen over de functie? Neem dan contact op met Dennis Maissan via dennis.maissan@tennet.eu. **Solliciteren kan uitsluitend via het sollicitatieformulier. E-mails met cv kunnen wij niet in behandeling nemen. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld en zal daaro",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Overview:Job Description: Are you an organized and analytical professional who builds strong stakeholder relationships and translates their needs into practical solutions? If you have experience with ServiceNow, particularly ITSM processes, and are eager to grow your skills while making a...",
+   "short_desc": "**Introductie** --------------- De energietransitie vraagt om slimme, daadkrachtige professionals. Binnen het team dat verantwoordelijk is voor de ontwikkeling van nieuwe hoogspanningsverbindingen en stations werken we dagelijks aan het realiseren van uitbreidingen van het elektriciteitsnet, zodat...",
    "benefits": [
     "Thuiswerken",
-    "Pensioen"
+    "Opleidingsbudget",
+    "Pensioen",
+    "Reiskosten",
+    "Vaste baan"
    ],
    "skills": [
-    "JavaScript",
-    "HTML",
-    "Angular",
-    "REST",
-    "ITIL",
-    "Requirements",
-    "Engels"
+    "Stakeholdermanagement"
    ],
-   "lang": "en",
+   "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:37:40.310705+00:00"
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
    "id": "d88f051e9a78",
@@ -4980,6 +5198,44 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "2eb4641cf664",
+   "source": "JobSpy",
+   "title": "ServiceNow Administrator / Developer (40h per week)",
+   "company": "Applied Medical",
+   "location": "Amersfoort, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-23T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=2c39eb4785c7745c",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Overview:Job Description: Are you an organized and analytical professional who builds strong stakeholder relationships and translates their needs into practical solutions? If you have experience with ServiceNow, particularly ITSM processes, and are eager to grow your skills while making a meaningful impact, we’d love to meet you. At Applied Medical’s European headquarters, we’re looking for a ServiceNow Administrator - Developer who will be a trusted partner for internal teams working with ServiceNow. Your role will be centered on interpreting stakeholder needs, explaining options clearly, and designing intuitive workflows and catalogue items that enhance the user experience and support continuous improvement. You’ll start by supporting our IT teams and ITSM functions and gradually expand your impact across departments. *This position is based in Amersfoort (Netherlands) and reports to the Technical Lead, ServiceNow Platform.* **Key Responsibilities** * Engage with stakeholders to understand their needs and co-create ServiceNow solutions, such as flows, catalogue items, and applications * Lead collaborative discussions to clarify requirements, explain available options, and guide teams through practical decision-making with clarity and empathy * Support the quality and usability of ServiceNow data and services, including CMDB configuration items and relationships, data imports, the Service Catalog, Request Management, and IT Asset Management * Maintain the overall health of the ServiceNow environment, including monitoring supporting architecture, overseeing license usage, troubleshooting, and resolving issues * Develop scalable ServiceNow solutions for prioritized IT and business needs, using standard methodologies and patterns and supporting REST, SOAP, and MID Server integrations where needed * Support and improve ITSM processes and ServiceNow functionality, identifying opportunities for continual improvement and applying ITIL best practices where appropriate Requirements: * Bachelors/HBO level education, preferably in Computer Science * 1+ years of ServiceNow System Administration experience * Certified ServiceNow Administrator (Implementation Specialist Certification a plus) * Experience with ITSM processes and implementing ServiceNow processes and functions * Experience with and developing with web technologies (XML, HTML, Angular JS, Web Services, JavaScript etc.) * Fluency in English, both spoken and written Close enough? These criteria are an indication of the profile we are looking for. If your experience is a little different from what we have identified and you think you can bring value to the role, we would love to learn more about you! We Offer: * An international working environment, fueled by respect and a healthy work-life balance tailored to the business and team member’s needs * 27 paid vacation days (based on fulltime contract) with option to purchase five additional days * This is mainly an on-site role with hybrid options * Commuting allowance of €0,25/km or full coverage of public transportation costs * A wide variety of internal trainings and development possibilities and a tuition program for external trainings * The opportunity to pro-actively work on your vitality and fitness * State-of-the-art facilities, including green areas, in-house restaurant and gym * Additional benefits, such as: + Attractive pension scheme (your contribution at 4%, ours at 12%) + €50 net monthly health insurance contribution + Two (paid) days per year dedicated to volunteering activities + Several fun company events and meaningful initiatives organized throughout the year At Applied Medical, we are committed to make a meaningful, positive difference, each and every day. Within our European headquarters in Amersfoort (NL), we develop, manufacture and support the implementation of our advanced medical devices across Europe and the MENA region. Applied’s team members enjoy working in an environmentally friendly and international environment, in which people of diverse backgrounds are valued, challenged, and acknowledged. We support our team members by giving them opportunities of ongoing learning and education, possibilities to take part in community volunteering activities and a variety of onsite exercise classes and health activities. If you are passionate about working in an organization that allows you to make decisions based upon what is right for the patient, customer, community and environment, Applied Medical is the place for you. **Interested?** Would you like to be part of our expanding team? If the answer is yes, we'd love to get to know you and look forward to hearing from you! For more information regarding our hiring process, click here. If you have any questions, feel free to contact us via TA-Europe@appliedmedical.com or +31 (0)33 7548713. Not the right job for you? Take a look at our other vacancies and follow us on LinkedIn.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Overview:Job Description: Are you an organized and analytical professional who builds strong stakeholder relationships and translates their needs into practical solutions? If you have experience with ServiceNow, particularly ITSM processes, and are eager to grow your skills while making a...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen"
+   ],
+   "skills": [
+    "JavaScript",
+    "HTML",
+    "Angular",
+    "REST",
+    "ITIL",
+    "Requirements",
+    "Engels"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:37:40.310705+00:00"
+  },
+  {
    "id": "d5dfbe871b3f",
    "source": "JobSpy",
    "title": "Java Engineer",
@@ -5141,41 +5397,6 @@
    "benefits": [],
    "skills": [
     "Python"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "b6fbf64f7fe0",
-   "source": "JobSpy",
-   "title": "Project Ontwikkelaar",
-   "company": "TenneT",
-   "location": "Gouda, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-23T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=f1ba886e73a179fd",
-   "salary": "€4276 - €8443 per monthly",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "**Introductie** --------------- De energietransitie vraagt om slimme, daadkrachtige professionals. Binnen het team dat verantwoordelijk is voor de ontwikkeling van nieuwe hoogspanningsverbindingen en stations werken we dagelijks aan het realiseren van uitbreidingen van het elektriciteitsnet, zodat Nederland ook morgen kan rekenen op een betrouwbaar energiesysteem. Draag jij hieraan bij als Projectontwikkelaar? **Jouw rol** ------------ Hoe houd jij Nederland aan? Als Projectontwikkelaar ben jij verantwoordelijk voor het ontwikkelen van complexe netuitbreidingsprojecten, zodat Nederland kan blijven rekenen op betrouwbare, betaalbare en duurzame energie. Je werkt aan projecten in Zuid-Holland en Zeeland en beweegt je dagelijks tussen techniek, ruimtelijke ordening, bestuurlijke besluitvorming en omgevingsmanagement. Daarnaast ben je onder andere verantwoordelijk voor: * Het initiëren en ontwikkelen van hoogspanningsprojecten vanaf de verkenningsfase tot aan de overdracht richting realisatie; * Het uitvoeren van haalbaarheidsstudies en onderzoeken waarbij technische, ruimtelijke, juridische en financiële aspecten samenkomen; * Het coördineren van vergunningstrajecten en ruimtelijke procedures; * Het afstemmen met gemeenten, provincies, ministeries, grondeigenaren, netbeheerders en andere stakeholders; * Het signaleren, analyseren en beheersen van risico’s tijdens de ontwikkelfase; * Het voorbereiden van projecten voor overdracht aan uitvoerende projectteams; * Het bijdragen aan de uitbreiding en toekomstbestendigheid van het Nederlandse hoogspanningsnet. Deze functie is gebaseerd op het Job Grid-profiel Asset Management Specialist en is ingeschaald in schaal 8. **Waar kom je terecht** ----------------------- Onshore zorgt voor de veilige, tijdige en betrouwbare realisatie van nieuwe aansluitingen en netverzwaringen op land. Daarnaast onderhoudt deze divisie het bestaande net en optimaliseert zij het gebruik ervan, zodat overal het licht blijft branden. De kerntaken van Onshore zijn projectontwikkeling en -realisatie, onderhoud en assetmanagement, vergunningen, veiligheid, standaarden en kwaliteitsborging. De focus ligt op samenwerking en voorspelbaarheid voor klanten en andere stakeholders. **Jouw profiel & achtergrond** ------------------------------ **Je bent een stevige gesprekspartner die complexe vraagstukken kan doorgronden en mensen weet te verbinden. Je begrijpt hoe besluitvorming binnen grote organisaties en bestuurlijke omgevingen werkt en kunt daarin effectief opereren. D****aarnaast beschik je over:** -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- * Een afgeronde hbo- of wo-opleiding; * Bij voorkeur een achtergrond in techniek, energie, infrastructuur, planologie of een vergelijkbare richting; * Ervaring binnen infrastructuur, energie, utilities, netbeheer, ruimtelijke ontwikkeling of een vergelijkbare omgeving; * Ervaring met stakeholdermanagement en samenwerking binnen complexe projecten; * Een uitstekende beheersing van de Nederlandse taal en een goede beheersing van de Engelse taal; * Analytisch vermogen en het vermogen om complexe informatie om te zetten in concrete oplossingen. **Voor deze functie zijn de volgende competenties van groot belang:** --------------------------------------------------------------------- ### * **Organisatiebewust zijn: Je begrijpt de formele en informele verhoudingen binnen organisaties en weet hier effectief op in te spelen.** * **Managen van Complexiteit: Je overziet complexe vraagstukken, brengt afhankelijkheden in kaart en weet structuur aan te brengen in een dynamische omgeving.** * **Overtuigen: Je creëert draagvlak bij verschillende stakeholders en weet mensen mee te nemen in veranderingen, besluiten en projectdoelstellingen.** * **Ownership: Je voelt eigenaarschap voor je werk, neemt verantwoordelijkheid voor resultaten en komt afspraken na.** **Safety Needs Our Energy** **Veiligheid staat bij TenneT altijd op de eerste plaats. Daarom verwachten wij dat je veiligheidsrisico’s actief signaleert, bespreekbaar maakt en meeneemt in je dagelijkse werkzaamheden en besluitvorming. Zo draag je bij aan een veilige werkomgeving voor jezelf, collega’s en partners.** ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ **Arbeidsvoorwaarden** ---------------------- Bij TenneT krijg je de kans om dagelijks impact te maken op de energietransitie en te werken aan projecten die van nationaal belang zijn. Wij bieden jou: * Een vast contract met een proeftijd van twee maanden; * Een werkweek van 32 tot 40 uur; * Een salaris in schaal 8 conform de CAO van TenneT met 8% vakantiegeld en 6% eindejaarsuitkering; * Een uitstekend pensioen via ABP, waarbij TenneT 70% van de premie betaalt; * 43 verlofdagen per jaar bij een fulltime dienstverband; * Flexibele en hybride werkmogelijkheden; * Een thuiswerk-, internet- en reiskostenvergoeding; * Ruime opleidings- en ontwikkelmogelijkheden via de TenneT Academy. Wil jij als Projectontwikkelaar bijdragen aan de uitbreiding van het Nederlandse hoogspanningsnet en de energietransitie versnellen? Dan ontvangen wij graag jouw sollicitatie. Heb je vragen over het sollicitatieproces? Neem dan contact op met Bianca Fokken via bianca.fokken@tennet.eu of . Heb je vragen over de functie? Neem dan contact op met Dennis Maissan via dennis.maissan@tennet.eu. **Solliciteren kan uitsluitend via het sollicitatieformulier. E-mails met cv kunnen wij niet in behandeling nemen. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld en zal daaro",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "**Introductie** --------------- De energietransitie vraagt om slimme, daadkrachtige professionals. Binnen het team dat verantwoordelijk is voor de ontwikkeling van nieuwe hoogspanningsverbindingen en stations werken we dagelijks aan het realiseren van uitbreidingen van het elektriciteitsnet, zodat...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Reiskosten",
-    "Vaste baan"
-   ],
-   "skills": [
-    "Stakeholdermanagement"
    ],
    "lang": "nl",
    "linkedin": false,
@@ -6192,6 +6413,42 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00"
   },
   {
+   "id": "e986d78fdb03",
+   "source": "JobSpy",
+   "title": "Business Intelligence Analist",
+   "company": "Maastricht University",
+   "location": "Maastricht, LI, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-22T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=20dc23e801e43ae0",
+   "salary": "€3873 - €5760 per monthly",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "**Business Intelligence Analist** ================================= **Welkom bij de Universiteit Maastricht!** Wil jij met data helpen om de Universiteit Maastricht beter te begrijpen? Hoe ontwikkelt onze studenteninstroom zich? Welke opleidingen groeien of krimpen? Wat zien we terug in studenttevredenheid? Welke ontwikkelingen vragen om aandacht? En hoe zorgen we ervoor dat bestuurders en beleidsmakers op het juiste moment over betrouwbare informatie beschikken? Als Business Intelligence Analist bij Strategie en Beleid (S&B) help je dit soort vragen te beantwoorden. **Business Intelligence Analist** Je werkt met grote hoeveelheden data over onder andere studenten, onderwijs en instroom. Je analyseert ontwikkelingen, bouwt rapportages en dashboards en helpt collega's om van data naar bruikbare informatie te komen. Soms gaat het om een terugkerende rapportage, soms om een concrete vraag die vandaag op tafel komt en waarvoor we snel willen weten wat de cijfers ons vertellen. Tegelijkertijd help je ons om de Power BI-omgeving waarop deze informatievoorziening draait goed te beheren en verder te ontwikkelen. Je houdt datasets, dataflows, semantic models en rapportages in de gaten, helpt bij het oplossen van problemen en zorgt samen met collega's dat onze informatievoorziening betrouwbaar blijft. * **Ons doel:** Strategie en Beleid (S&B) ondersteunt de Universiteit Maastricht bij strategische en beleidsmatige vraagstukken en de informatie die nodig is om hierover goede beslissingen te kunnen nemen. Data speelt daarin een steeds belangrijkere rol. Binnen het team werken we daarom aan betrouwbare en toegankelijke managementinformatie, maar ook aan analyses die helpen om ontwikkelingen te begrijpen en vooruit te kijken. Als Business Intelligence Analist draag je eraan bij dat we niet alleen steeds meer data beschikbaar hebben, maar er vooral steeds betere vragen mee kunnen beantwoorden. * **Jouw collega’s:** Je werkt samen met collega's die zich bezighouden met bestuurlijke informatievoorziening, analyses en strategische en beleidsmatige vraagstukken. Daardoor zie je ook daadwerkelijk waarvoor jouw analyses en rapportages worden gebruikt. We zoeken daarbij vooral iemand die nieuwsgierig is. Iemand die niet alleen wil weten dát iets werkt, maar ook waarom. En die het leuk vindt om regelmatig te onderzoeken welke nieuwe mogelijkheden er zijn binnen Power BI en Microsoft Fabric en vervolgens bij ons binnenloopt met de vraag: \"Hebben jullie dit al gezien? Hier kunnen wij iets mee.\" Je krijgt veel ruimte om te leren, te experimenteren en jezelf verder te ontwikkelen. **Wat je doet** Een belangrijk deel van je werk bestaat uit het beantwoorden van informatievragen vanuit de organisatie. Je bespreekt met collega's wat ze precies willen weten, onderzoekt welke gegevens daarvoor beschikbaar zijn en vertaalt die naar een analyse, rapportage of dashboard. Je werkzaamheden bestaan onder andere uit: * Uitvoeren van analyses over studenten, onderwijs, instroom en andere strategische onderwerpen en beantwoorden van ad-hoc informatievragen vanuit bestuur, beleid en de organisatie; * Signaleren van opvallende ontwikkelingen in de data en deze kunnen uitleggen; * Ontwikkelen en verbeteren van Power BI-rapportages en dashboards en vertalen van vragen van gebruikers naar heldere analyses en informatieproducten; * Verwerken en ontsluiten van interne en externe databronnen; * Functioneel beheren en monitoren van onze Power BI- en Microsoft Fabric-omgeving, waaronder datasets, dataflows, semantic models, pipelines en rapportages; * Signaleren, analyseren en helpen oplossen van problemen bij dataverwerking en verversingen en bewaken en verbeteren van datakwaliteit; * Beheren van masterdata, definities en autorisaties, documenteren van datasets, gegevensstromen en beheerprocessen en actief volgen van ontwikkelingen binnen Power BI, Microsoft Fabric en Business Intelligence. Daarbij verwachten we niet dat je alles vanaf je eerste werkdag al kunt. We vinden het belangrijker dat je wilt begrijpen hoe dingen werken en het leuk vindt om nieuwe technieken en mogelijkheden zelf uit te proberen. **Wat jij meebrengt** We zoeken een analytische en nieuwsgierige collega die plezier krijgt van data en technologie én van de vragen die daarachter zitten. Je hoeft daarvoor nog geen jarenlange werkervaring te hebben. Ook als je net bent afgestudeerd, nodigen we je nadrukkelijk uit om te solliciteren. We zoeken vooral iemand met het vermogen en de motivatie om zich snel te ontwikkelen. Dit breng je mee: * HBO+/academisch werk- en denkniveau; * Sterk analytisch vermogen; * Affiniteit met data, Business Intelligence en informatievoorziening; * Nieuwsgierigheid naar nieuwe technologie en de motivatie om jezelf daarin te blijven ontwikkelen; * Het vermogen om zelfstandig nieuwe onderwerpen en technieken uit te zoeken; * Een nauwkeurige en gestructureerde manier van werken; * Goede communicatieve vaardigheden: je kunt niet alleen met data werken, maar ook met collega's bespreken wat zij daadwerkelijk willen weten; * Goede beheersing van het Nederlands en Engels. Mooi meegenomen: Het is fijn als je al ervaring hebt met één of meer van onderstaande onderwerpen: * Microsoft Power BI; * Power Query; * DAX; * Microsoft Fabric; * SQL; * Datamodellering; * Datavisualisatie; * Het werken met grotere datasets. Maar dit is nadrukkelijk geen afvinklijst. Heb je bijvoorbeeld tijdens je opleiding met data gewerkt en ben je enthousiast om Power BI en Microsoft Fabric verder te leren? Dan horen we ook graag van je. **Wat je van ons mag verwachten** Bij de Universiteit Maastricht werk je in een internationale, open en betrokken omgeving. We bieden: * Een jaarcontract 0,8 – 1,0 fte met uitzicht op een vast contract bij wederzijdse tevredenheid. * Een bruto salaris tussen €3.873 en €5.760 bruto per maand (bij een fulltime dienstverband van 38 uur per week), exclusief 8% vakantiegeld en een 8,3% eindejaarsuitkering. * 29 vakantiedagen (op basis van fulltime), ",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "**Business Intelligence Analist** ================================= **Welkom bij de Universiteit Maastricht!** Wil jij met data helpen om de Universiteit Maastricht beter te begrijpen? Hoe ontwikkelt onze studenteninstroom zich? Welke opleidingen groeien of krimpen? Wat zien we terug in...",
+   "benefits": [
+    "Opleidingsbudget",
+    "Vaste baan"
+   ],
+   "skills": [
+    "SQL",
+    "CI/CD",
+    "Power BI",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00"
+  },
+  {
    "id": "dd65d0091ee1",
    "source": "JobSpy",
    "title": "Data Analist Sociaal Domein",
@@ -6222,42 +6479,6 @@
     "Data analyse",
     "Power BI",
     "Consultancy"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00"
-  },
-  {
-   "id": "e986d78fdb03",
-   "source": "JobSpy",
-   "title": "Business Intelligence Analist",
-   "company": "Maastricht University",
-   "location": "Maastricht, LI, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-22T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=20dc23e801e43ae0",
-   "salary": "€3873 - €5760 per monthly",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "**Business Intelligence Analist** ================================= **Welkom bij de Universiteit Maastricht!** Wil jij met data helpen om de Universiteit Maastricht beter te begrijpen? Hoe ontwikkelt onze studenteninstroom zich? Welke opleidingen groeien of krimpen? Wat zien we terug in studenttevredenheid? Welke ontwikkelingen vragen om aandacht? En hoe zorgen we ervoor dat bestuurders en beleidsmakers op het juiste moment over betrouwbare informatie beschikken? Als Business Intelligence Analist bij Strategie en Beleid (S&B) help je dit soort vragen te beantwoorden. **Business Intelligence Analist** Je werkt met grote hoeveelheden data over onder andere studenten, onderwijs en instroom. Je analyseert ontwikkelingen, bouwt rapportages en dashboards en helpt collega's om van data naar bruikbare informatie te komen. Soms gaat het om een terugkerende rapportage, soms om een concrete vraag die vandaag op tafel komt en waarvoor we snel willen weten wat de cijfers ons vertellen. Tegelijkertijd help je ons om de Power BI-omgeving waarop deze informatievoorziening draait goed te beheren en verder te ontwikkelen. Je houdt datasets, dataflows, semantic models en rapportages in de gaten, helpt bij het oplossen van problemen en zorgt samen met collega's dat onze informatievoorziening betrouwbaar blijft. * **Ons doel:** Strategie en Beleid (S&B) ondersteunt de Universiteit Maastricht bij strategische en beleidsmatige vraagstukken en de informatie die nodig is om hierover goede beslissingen te kunnen nemen. Data speelt daarin een steeds belangrijkere rol. Binnen het team werken we daarom aan betrouwbare en toegankelijke managementinformatie, maar ook aan analyses die helpen om ontwikkelingen te begrijpen en vooruit te kijken. Als Business Intelligence Analist draag je eraan bij dat we niet alleen steeds meer data beschikbaar hebben, maar er vooral steeds betere vragen mee kunnen beantwoorden. * **Jouw collega’s:** Je werkt samen met collega's die zich bezighouden met bestuurlijke informatievoorziening, analyses en strategische en beleidsmatige vraagstukken. Daardoor zie je ook daadwerkelijk waarvoor jouw analyses en rapportages worden gebruikt. We zoeken daarbij vooral iemand die nieuwsgierig is. Iemand die niet alleen wil weten dát iets werkt, maar ook waarom. En die het leuk vindt om regelmatig te onderzoeken welke nieuwe mogelijkheden er zijn binnen Power BI en Microsoft Fabric en vervolgens bij ons binnenloopt met de vraag: \"Hebben jullie dit al gezien? Hier kunnen wij iets mee.\" Je krijgt veel ruimte om te leren, te experimenteren en jezelf verder te ontwikkelen. **Wat je doet** Een belangrijk deel van je werk bestaat uit het beantwoorden van informatievragen vanuit de organisatie. Je bespreekt met collega's wat ze precies willen weten, onderzoekt welke gegevens daarvoor beschikbaar zijn en vertaalt die naar een analyse, rapportage of dashboard. Je werkzaamheden bestaan onder andere uit: * Uitvoeren van analyses over studenten, onderwijs, instroom en andere strategische onderwerpen en beantwoorden van ad-hoc informatievragen vanuit bestuur, beleid en de organisatie; * Signaleren van opvallende ontwikkelingen in de data en deze kunnen uitleggen; * Ontwikkelen en verbeteren van Power BI-rapportages en dashboards en vertalen van vragen van gebruikers naar heldere analyses en informatieproducten; * Verwerken en ontsluiten van interne en externe databronnen; * Functioneel beheren en monitoren van onze Power BI- en Microsoft Fabric-omgeving, waaronder datasets, dataflows, semantic models, pipelines en rapportages; * Signaleren, analyseren en helpen oplossen van problemen bij dataverwerking en verversingen en bewaken en verbeteren van datakwaliteit; * Beheren van masterdata, definities en autorisaties, documenteren van datasets, gegevensstromen en beheerprocessen en actief volgen van ontwikkelingen binnen Power BI, Microsoft Fabric en Business Intelligence. Daarbij verwachten we niet dat je alles vanaf je eerste werkdag al kunt. We vinden het belangrijker dat je wilt begrijpen hoe dingen werken en het leuk vindt om nieuwe technieken en mogelijkheden zelf uit te proberen. **Wat jij meebrengt** We zoeken een analytische en nieuwsgierige collega die plezier krijgt van data en technologie én van de vragen die daarachter zitten. Je hoeft daarvoor nog geen jarenlange werkervaring te hebben. Ook als je net bent afgestudeerd, nodigen we je nadrukkelijk uit om te solliciteren. We zoeken vooral iemand met het vermogen en de motivatie om zich snel te ontwikkelen. Dit breng je mee: * HBO+/academisch werk- en denkniveau; * Sterk analytisch vermogen; * Affiniteit met data, Business Intelligence en informatievoorziening; * Nieuwsgierigheid naar nieuwe technologie en de motivatie om jezelf daarin te blijven ontwikkelen; * Het vermogen om zelfstandig nieuwe onderwerpen en technieken uit te zoeken; * Een nauwkeurige en gestructureerde manier van werken; * Goede communicatieve vaardigheden: je kunt niet alleen met data werken, maar ook met collega's bespreken wat zij daadwerkelijk willen weten; * Goede beheersing van het Nederlands en Engels. Mooi meegenomen: Het is fijn als je al ervaring hebt met één of meer van onderstaande onderwerpen: * Microsoft Power BI; * Power Query; * DAX; * Microsoft Fabric; * SQL; * Datamodellering; * Datavisualisatie; * Het werken met grotere datasets. Maar dit is nadrukkelijk geen afvinklijst. Heb je bijvoorbeeld tijdens je opleiding met data gewerkt en ben je enthousiast om Power BI en Microsoft Fabric verder te leren? Dan horen we ook graag van je. **Wat je van ons mag verwachten** Bij de Universiteit Maastricht werk je in een internationale, open en betrokken omgeving. We bieden: * Een jaarcontract 0,8 – 1,0 fte met uitzicht op een vast contract bij wederzijdse tevredenheid. * Een bruto salaris tussen €3.873 en €5.760 bruto per maand (bij een fulltime dienstverband van 38 uur per week), exclusief 8% vakantiegeld en een 8,3% eindejaarsuitkering. * 29 vakantiedagen (op basis van fulltime), ",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "**Business Intelligence Analist** ================================= **Welkom bij de Universiteit Maastricht!** Wil jij met data helpen om de Universiteit Maastricht beter te begrijpen? Hoe ontwikkelt onze studenteninstroom zich? Welke opleidingen groeien of krimpen? Wat zien we terug in...",
-   "benefits": [
-    "Opleidingsbudget",
-    "Vaste baan"
-   ],
-   "skills": [
-    "SQL",
-    "CI/CD",
-    "Power BI",
-    "Engels",
-    "Nederlands"
    ],
    "lang": "nl",
    "linkedin": false,
