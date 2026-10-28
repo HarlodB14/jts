@@ -61,6 +61,12 @@ exclude_title_terms:
   - product owner
   - specialist
   - freelance
+  - afstudeerstage
+  - afstudeeropdracht
+  - afstuderen
+  - graduation
+  - stageopdracht
+  - thesis
   - business developer
   - project developer
   - accountmanager
@@ -183,15 +189,17 @@ jobspy:
     - afgestudeerd informatica
 
 # LinkedIn via Apify (secret APIFY_TOKEN). Gratis plan = $5 per maand tegoed.
-# Deze actor kost ~$1 per 1000 vacatures: 8 runs per dag x 2 zoekopdrachten x 10 = ~4800 per maand.
 linkedin_apify:
   actor: curious_coder/linkedin-jobs-scraper
-  every_hours: 3
-  limit_per_search: 10
-  # f_E=1,2 stage/entry level, f_TPR=r86400 laatste 24 uur, geoId 102890719 = Nederland
+  # 4 runs per dag x 4 zoekopdrachten x 9 = ~4300 vacatures per maand (~$4,30, binnen het gratis tegoed van $5)
+  every_hours: 6
+  limit_per_search: 9
+  # f_E=2 = entry level, f_TPR=r86400 = laatste 24 uur, geoId 102890719 = Nederland
   search_urls:
-    - https://www.linkedin.com/jobs/search/?keywords=junior%20developer%20OR%20junior%20software%20engineer%20OR%20junior%20consultant&location=Netherlands&geoId=102890719&f_E=1%2C2&f_TPR=r86400
-    - https://www.linkedin.com/jobs/search/?keywords=traineeship%20IT%20OR%20junior%20data%20OR%20junior%20AI%20OR%20junior%20cloud&location=Netherlands&geoId=102890719&f_E=1%2C2&f_TPR=r86400
+    - https://www.linkedin.com/jobs/search/?keywords=developer&location=Netherlands&geoId=102890719&f_E=2&f_TPR=r86400
+    - https://www.linkedin.com/jobs/search/?keywords=software%20engineer&location=Netherlands&geoId=102890719&f_E=2&f_TPR=r86400
+    - https://www.linkedin.com/jobs/search/?keywords=IT%20consultant&location=Netherlands&geoId=102890719&f_E=2&f_TPR=r86400
+    - https://www.linkedin.com/jobs/search/?keywords=data%20OR%20AI%20OR%20cloud%20OR%20traineeship&location=Netherlands&geoId=102890719&f_E=2&f_TPR=r86400
 
 # JSearch via RapidAPI (secret JSEARCH_KEY). Gratis = 200 requests per maand: elke 4 uur 1 zoekopdracht.
 jsearch:
