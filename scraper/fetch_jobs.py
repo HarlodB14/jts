@@ -435,7 +435,11 @@ def main():
     cutoff = NOW - timedelta(days=CFG["history_days"])
     for jid, job in old.items():
         if jid not in merged and parse_date(job.get("first_seen")) and parse_date(job["first_seen"]) > cutoff:
-            merged[jid] = job
+            # Oude vacatures gaan opnieuw door het filter, zodat nieuwe filterregels ook voor hen gelden.
+            if classify(job)[0]:
+                merged[jid] = enrich(job)
+            else:
+                reasons["oud, nu uitgefilterd"] = reasons.get("oud, nu uitgefilterd", 0) + 1
 
     jobs = sorted(merged.values(), key=lambda j: j.get("posted_at") or j["first_seen"], reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
