@@ -24,19 +24,22 @@
     "passionate", "dynamic environment", "i am confident", "seamless", "fast-paced",
     "i am writing to", "furthermore", "moreover",
   ];
-  const MAX_WORDS = 250;
+  const MAX_WORDS = 250;   // halve A4
+  const MIN_WORDS = 170;
+  const DEFAULT_MODEL = "gemini-3.5-flash";
 
   function buildPrompt({ job, cv, profile, coreStory, coreStoryEn, extraKeywords }) {
     const en = job.lang === "en";
     const lines = [
-      `Schrijf een korte motivatiebrief voor deze vacature. Taal: ${en ? "Engels" : "Nederlands"} op B2-niveau.`,
+      `Schrijf een complete, unieke motivatiebrief voor de vacature hieronder. Taal: ${en ? "Engels" : "Nederlands"} op B2-niveau.`,
+      `De brief moet zo specifiek zijn dat hij alleen voor ${job.company} en de functie ${job.title} kan gelden.`,
       "",
       "VASTE REGELS (strikt):",
-      `- Maximaal ${MAX_WORDS} woorden. Platte tekst. Geen kopjes, opsommingstekens, tabellen, emoji of markdown.`,
-      "- Opbouw: aanhef, drie korte alinea's, afsluiting met naam.",
-      "- Alinea 1: waarom deze rol en dit bedrijf, concreet op basis van de vacaturetekst.",
-      "- Alinea 2: het kernverhaal hieronder. Laat zien hoe de stapeling van vmbo via drie versnelde mbo's naar hbo Informatica bewijst dat de kandidaat een gedisciplineerde engineer is, en wat die discipline concreet oplevert in DEZE rol. Verwerk het in eigen woorden, gemengd met de eisen van de vacature. Niet letterlijk kopiëren, en elke brief anders formuleren.",
-      "- Alinea 3: twee of drie concrete skills of projecten uit het cv die passen bij de vacature.",
+      `- Tussen ${MIN_WORDS} en ${MAX_WORDS} woorden (een halve A4). Platte tekst. Geen kopjes, opsommingstekens, tabellen, emoji of markdown.`,
+      `- Opbouw: aanhef (bijv. "Beste team van ${job.company},"), precies drie alinea's, afsluiting met naam.`,
+      `- Alinea 1 (motivatie): waarom je bij ${job.company} als ${job.title} wilt werken. Noem minstens twee concrete dingen uit de vacaturetekst (product, klanten, team, taken of technologie) en zeg wat je daaraan aanspreekt. Begin NIET met het kernverhaal.`,
+      "- Alinea 2 (rode draad): verwerk het kernverhaal hieronder in eigen woorden. Laat zien hoe de stapeling van vmbo via drie versnelde mbo's naar hbo Informatica bewijst dat je een gedisciplineerde engineer bent, en koppel dat aan wat DEZE vacature vraagt. Niet letterlijk kopiëren, elke brief anders formuleren.",
+      "- Alinea 3 (bewijs): twee of drie concrete ervaringen of skills uit het cv die direct aansluiten op de eisen van de vacature, met een korte zin waarom dat helpt in deze rol. Sluit af met een zin over een gesprek.",
       "- Korte zinnen. Gewone woorden. Geen jargon-stapels.",
       "- Gebruik NOOIT: gedachtestreepjes (— of –), puntkomma's, uitroeptekens, of een dubbele punt midden in een zin.",
       `- Vermijd deze woorden en clichés: ${BANNED_PHRASES.join(", ")}.`,
@@ -85,8 +88,18 @@
     return (t.match(/\S+/g) || []).length;
   }
 
-  function problems(t) {
+  // job is optioneel: dan wordt ook gecontroleerd of de brief volledig en vacaturespecifiek is.
+  function problems(t, job) {
     const out = [];
+    const paras = t.split(/\n\s*\n/).filter((p) => wordCount(p) >= 25).length;
+    if (wordCount(t) < MIN_WORDS - 30) out.push(`te kort (${wordCount(t)} woorden)`);
+    if (paras < 3) out.push("minder dan drie volledige alinea's");
+    if (job) {
+      const low0 = t.toLowerCase();
+      const company = String(job.company || "").toLowerCase().split(/[\s(,]/)[0];
+      const titleWord = String(job.title || "").toLowerCase().replace(/junior|medior|\(.*?\)/g, "").trim().split(/\s+/)[0];
+      if (company && company.length > 2 && !low0.includes(company) && titleWord && !low0.includes(titleWord)) out.push("noemt bedrijf en functie niet");
+    }
     if (/[—–;!]/.test(t)) out.push("verboden leesteken");
     const low = t.toLowerCase();
     const hits = BANNED_PHRASES.filter((p) => low.includes(p));
@@ -96,28 +109,40 @@
   }
 
   const FALLBACK_MODEL = "gemini-flash-lite-latest";
+  // Oude of trage modelkeuzes automatisch omzetten naar het snelle standaardmodel.
+  const normalizeModel = (m) => (!m || m === "gemini-flash-latest" ? DEFAULT_MODEL : m);
 
   async function callGemini({ key, model, prompt }) {
     try {
       return await callModel({ key, model, prompt });
     } catch (e) {
       // Drukte of timeout bij het gekozen model: één keer terugvallen op het snelle lite-model.
-      if (model !== FALLBACK_MODEL && /\b(429|500|503)\b|timeout|aborted/i.test(e.message)) {
+      if (model !== FALLBACK_MODEL && /\b(404|429|500|503)\b|timeout|aborted|failed to fetch/i.test(e.message)) {
         return callModel({ key, model: FALLBACK_MODEL, prompt });
       }
       throw e;
     }
   }
 
-  async function callModel({ key, model, prompt }) {
+  // Harde limiet over het hele verzoek (ook als het antwoord halverwege blijft hangen).
+  function withTimeout(promise, ms) {
+    return Promise.race([promise, new Promise((_, rej) => setTimeout(() => rej(new Error("timeout")), ms))]);
+  }
+
+  function callModel(opts) {
+    return withTimeout(callModelRaw(opts), 35000);
+  }
+
+  async function callModelRaw({ key, model, prompt }) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
-    const generationConfig = { temperature: 0.7, maxOutputTokens: 2048 };
-    if (!/lite/.test(model)) generationConfig.thinkingConfig = { thinkingLevel: "low" };
+    const generationConfig = { temperature: 0.8, maxOutputTokens: 3000 };
+    // Minimaal denken: ~4 s per brief. "low" of hoger duurt bij drukte soms meer dan een minuut.
+    if (!/lite/.test(model)) generationConfig.thinkingConfig = { thinkingLevel: "minimal" };
     const res = await fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": key },
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig }),
-      signal: AbortSignal.timeout(60000),
+      signal: AbortSignal.timeout(30000),
     });
     if (!res.ok) {
       const body = await res.text();
@@ -130,12 +155,15 @@
 
   async function generate(opts) {
     const prompt = buildPrompt(opts);
-    let text = sanitize(await callGemini({ key: opts.key, model: opts.model, prompt }));
-    let issues = problems(text);
-    if (issues.length) {
-      const retry = prompt + `\n\nLET OP: een eerdere versie had deze fouten: ${issues.join("; ").replace(/;/g, ",")}. Vermijd ze.`;
-      text = sanitize(await callGemini({ key: opts.key, model: opts.model, prompt: retry }));
-      issues = problems(text);
+    const model = normalizeModel(opts.model);
+    let text = sanitize(await callGemini({ key: opts.key, model, prompt }));
+    let issues = problems(text, opts.job);
+    // Onvolledig of fout? Maximaal twee keer opnieuw, met de fouten erbij als aanwijzing.
+    for (let i = 0; i < 2 && issues.length; i++) {
+      const retry = prompt + `\n\nLET OP: een eerdere versie was afgekeurd (${issues.join(", ")}). Schrijf de VOLLEDIGE brief opnieuw volgens alle regels.`;
+      const again = sanitize(await callGemini({ key: opts.key, model: i ? FALLBACK_MODEL : model, prompt: retry }));
+      const againIssues = problems(again, opts.job);
+      if (againIssues.length <= issues.length) { text = again; issues = againIssues; }
     }
     return { text, issues, words: wordCount(text) };
   }
@@ -151,7 +179,7 @@
     }));
   }
 
-  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, buildPrompt, sanitize, problems, wordCount, generate, coverage };
+  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, DEFAULT_MODEL, normalizeModel, buildPrompt, sanitize, problems, wordCount, generate, coverage };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.JTSLetter = api;
 })(typeof window !== "undefined" ? window : globalThis);

@@ -9,9 +9,10 @@
     set(k, v) { try { localStorage.setItem("jts." + k, JSON.stringify(v)); } catch { /* privé-modus */ } },
   };
   const profile = Object.assign({ name: "", email: "", phone: "", cv: "", coreStory: L.CORE_STORY, coreStoryEn: L.CORE_STORY_EN,
-    key: "", model: "gemini-flash-latest", minScore: null }, store.get("profile", {}));
+    key: "", model: L.DEFAULT_MODEL, minScore: null }, store.get("profile", {}));
+  profile.model = L.normalizeModel(profile.model);   // oude, trage modelkeuze omzetten
   const status = store.get("status", {});      // id -> {s: skip|saved|applied, at, title, company, url}
-  const letters = store.get("letters", {});    // id -> tekst
+  const letters = store.get("letters2", {});   // id -> tekst (nieuwe versie: oude, onvolledige brieven niet hergebruiken)
   // Lokale kopie van alle vacatures (7 dagen), zodat niets verdwijnt als jobs.json ververst of offline is.
   const cache = store.get("jobsCache", {});
   let jobs = Object.values(cache), meta = store.get("meta", {}), skillRes = [], lastLoad = 0;
@@ -407,35 +408,45 @@
   }
 
   // ---------- brief-sheet ----------
+  // Vaste opbouw: kop met titel en sluitknop, scrollbaar midden, vaste knoppenbalk onderin (goed klikbaar op mobiel).
+  function sheetShell(job, body, foot = "") {
+    $("#sheet").innerHTML = `
+      <div class="sheet-head">
+        <div class="sheet-title"><h3>${esc(job.title)}</h3><div class="muted">${esc(job.company)} · ${esc(job.location)}</div></div>
+        <button class="icon-btn" id="sheet-x" aria-label="Sluiten">✕</button>
+      </div>
+      <div class="sheet-body">${body}</div>
+      ${foot ? `<div class="sheet-foot">${foot}</div>` : ""}`;
+    $("#sheet-x").onclick = closeSheet;
+  }
   function closeSheet() {
     $("#sheet").classList.remove("on"); $("#sheet-bg").classList.remove("on");
+    document.body.classList.remove("sheet-open");
     render();
   }
 
   async function openSheet(job, extraKeywords) {
-    const sheet = $("#sheet");
-    $("#sheet-bg").classList.add("on"); sheet.classList.add("on");
-    const head = `<h3>${esc(job.title)}</h3><div class="muted">${esc(job.company)} · ${esc(job.location)}</div>`;
+    $("#sheet-bg").classList.add("on"); $("#sheet").classList.add("on");
+    document.body.classList.add("sheet-open");
+    const openBtn = `<a class="btn" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>`;
     if (!profile.cv || !profile.key) {
-      sheet.innerHTML = head + `<p>Vul eerst je cv en Gemini API-key in bij Profiel.</p>
-        <div class="card-actions"><button class="btn primary" id="go-prof">Naar profiel</button>
-        <a class="btn" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature</a></div>`;
+      sheetShell(job, `<p>Vul eerst je cv en Gemini API-key in bij Profiel.</p>`,
+        `<button class="btn primary" id="go-prof">Naar profiel</button>${openBtn}`);
       $("#go-prof").onclick = () => { closeSheet(); show("profile"); };
       return;
     }
     let text = letters[job.id];
     if (!text || extraKeywords) {
-      sheet.innerHTML = head + `<p><span class="spinner"></span>Brief schrijven...</p>`;
+      sheetShell(job, `<div class="sheet-loading"><span class="spinner"></span>Brief schrijven voor ${esc(job.company)}...<div class="muted">Duurt meestal 5 tot 10 seconden</div></div>`);
       try {
         const res = await L.generate({ job, cv: profile.cv, profile, coreStory: profile.coreStory, coreStoryEn: profile.coreStoryEn,
-          key: profile.key, model: profile.model || "gemini-flash-latest", extraKeywords });
+          key: profile.key, model: profile.model, extraKeywords });
         text = res.text;
-        letters[job.id] = text; store.set("letters", letters);
+        letters[job.id] = text; store.set("letters2", letters);
       } catch (e) {
-        sheet.innerHTML = head + `<p class="issues">Fout bij genereren: ${esc(e.message)}</p>
-          <div class="card-actions"><button class="btn" id="retry">Opnieuw</button><button class="btn" id="close">Sluiten</button></div>`;
+        sheetShell(job, `<p class="issues">Fout bij genereren: ${esc(e.message)}</p>`,
+          `<button class="btn primary" id="retry">Opnieuw proberen</button>${openBtn}`);
         $("#retry").onclick = () => openSheet(job);
-        $("#close").onclick = closeSheet;
         return;
       }
     }
@@ -443,32 +454,30 @@
   }
 
   function renderSheet(job, text) {
-    const sheet = $("#sheet");
     const jobKeywords = (job.skills || []).filter((s) => s !== "Engels" && s !== "Nederlands");
     const cov = L.coverage({ jobKeywords, cv: profile.cv, letter: text }, findSkills);
     const fixable = cov.filter((c) => !c.inLetter && c.inCv).map((c) => c.keyword);
     const tips = cov.filter((c) => !c.inCv).map((c) => c.keyword);
-    const issues = L.problems(text);
-    sheet.innerHTML = `
-      <h3>${esc(job.title)}</h3><div class="muted">${esc(job.company)} · ${esc(job.location)}</div>
-      <textarea id="letter">${esc(text)}</textarea>
+    const issues = L.problems(text, job);
+    const applied = status[job.id]?.s === "applied";
+    sheetShell(job, `
+      <textarea id="letter" aria-label="Motivatiebrief">${esc(text)}</textarea>
       <div class="muted"><span id="wc">${L.wordCount(text)}</span> woorden ${issues.length ? `<span class="issues">· ${esc(issues.join(", "))}</span>` : "· ATS-clean"}</div>
-      ${cov.length ? `<div class="muted" style="margin-top:10px">Keyword-dekking (groen = in brief, oranje = in cv maar niet in brief, doorgestreept = niet in cv)</div>
-      <div class="cov">${cov.map((c) => `<span class="b ${c.inLetter ? "ok" : c.inCv ? "cv" : "no"}">${esc(c.keyword)}</span>`).join("")}</div>` : ""}
-      ${tips.length ? `<div class="muted">Tip: beheers je ${esc(tips.slice(0, 5).join(", "))}? Zet het dan in je cv en LinkedIn-profiel.</div>` : ""}
-      <div class="card-actions">
-        <button class="btn primary" id="copy">Kopieer brief</button>
-        <a class="btn" id="open" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature</a>
-        ${fixable.length ? `<button class="btn" id="fix">Verwerk ontbrekende (${fixable.length})</button>` : ""}
-        <button class="btn" id="regen">Nieuwe versie</button>
+      <div class="sheet-tools">
+        <button class="btn" id="regen">↻ Nieuwe versie</button>
+        ${fixable.length ? `<button class="btn" id="fix">+ Verwerk ontbrekende (${fixable.length})</button>` : ""}
       </div>
-      <div class="card-actions">
-        <button class="btn good" id="applied">${status[job.id]?.s === "applied" ? "Gesolliciteerd ✓" : "Markeer als gesolliciteerd"}</button>
-        <button class="btn" id="close">Sluiten</button>
-      </div>`;
+      ${cov.length ? `<details class="covbox"><summary>Keyword-dekking (${cov.filter((c) => c.inLetter).length}/${cov.length} in brief)</summary>
+        <div class="muted">Groen = in brief, oranje = in cv maar niet in brief, doorgestreept = niet in cv</div>
+        <div class="cov">${cov.map((c) => `<span class="b ${c.inLetter ? "ok" : c.inCv ? "cv" : "no"}">${esc(c.keyword)}</span>`).join("")}</div>
+        ${tips.length ? `<div class="muted">Tip: beheers je ${esc(tips.slice(0, 5).join(", "))}? Zet het dan in je cv en LinkedIn-profiel.</div>` : ""}
+      </details>` : ""}`,
+      `<button class="btn primary" id="copy">Kopieer brief</button>
+       <a class="btn" id="open" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>
+       <button class="btn good wide" id="applied">${applied ? "Gesolliciteerd ✓" : "Markeer als gesolliciteerd"}</button>`);
     const ta = $("#letter");
     ta.oninput = () => {
-      letters[job.id] = ta.value; store.set("letters", letters);
+      letters[job.id] = ta.value; store.set("letters2", letters);
       $("#wc").textContent = L.wordCount(ta.value);
     };
     $("#copy").onclick = async () => {
@@ -481,7 +490,6 @@
     if (fixable.length) $("#fix").onclick = () => openSheet(job, fixable);
     $("#regen").onclick = () => { delete letters[job.id]; openSheet(job); };
     $("#applied").onclick = () => { setStatus(job, "applied"); toast("Opgeslagen in tracker"); closeSheet(); };
-    $("#close").onclick = closeSheet;
   }
 
   // ---------- profiel ----------
