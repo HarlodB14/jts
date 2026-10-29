@@ -2987,6 +2987,119 @@
     "enkele jaren ervaring met AFAS"
    ],
    "reason": "Je mist specifieke ervaring met AFAS en de rol vraagt functioneel beheer in plaats van software engineering."
+  },
+  "19bd7ce9e97f": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Machine Learning"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke achtergrond in Python en softwareontwikkeling, al mis ik specifieke machine learning-ervaring."
+  },
+  "c710f9ea2f37": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "Netwerkproblemen",
+    "Klantcontact"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring bij OGD en je klantgerichte houding sluiten naadloos aan bij deze IT-supportfunctie."
+  },
+  "facfe7be3f7b": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "Siemens PCS7",
+    "TIA Portal",
+    "Procesautomatisering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze specialistische rol in industriële procesautomatisering vraagt specifieke kennis van systemen die niet in je cv staan."
+  },
+  "67ef64efd249": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Klantondersteuning",
+    "Processen"
+   ],
+   "missing_realistic": [
+    "Functioneel beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-achtergrond en communicatieve vaardigheden passen goed bij een rol als functioneel beheerder."
+  },
+  "51a22dbbcee4": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Klantcontact",
+    "Processen"
+   ],
+   "missing_realistic": [
+    "AFAS",
+    "Applicatiebeheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met ondersteuning en processen, maar je mist specifieke kennis van het AFAS-systeem."
+  },
+  "c6241c6215fe": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Data-infrastructuur"
+   ],
+   "missing_realistic": [
+    "ETL",
+    "BI-oplossingen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeer- en datavaardigheden sluiten goed aan bij de basis van deze data-engineeringfunctie."
+  },
+  "693429b4c49d": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Consultancy",
+    "Klantgesprekken",
+    "Nederlands"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je combinatie van technische vaardigheden en sterke communicatieve ervaring past uitstekend bij dit IT-traineeship."
+  },
+  "b77ce9ec44bb": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "IT-affiniteit"
+   ],
+   "missing_realistic": [
+    "Inkoopervaring",
+    "Contractmanagement"
+   ],
+   "ignored_unrealistic": [
+    "Een paar jaar ervaring in inkoop"
+   ],
+   "reason": "Hoewel je IT-kennis hebt, vraag deze functie gerichte inkoopervaring die je nog niet hebt opgebouwd."
   }
  }
 }
