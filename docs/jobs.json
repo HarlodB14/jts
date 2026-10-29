@@ -1,18 +1,18 @@
 {
- "updated_at": "2026-10-28T23:10:37.659529+00:00",
+ "updated_at": "2026-10-29T02:22:29.969112+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 539,
+  "jobspy": 512,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 40,
-  "himalayas": 2
+  "himalayas": 0
  },
- "count": 233,
+ "count": 234,
  "jobs": [
   {
    "id": "a20675708e1b",
@@ -218,6 +218,56 @@
    }
   },
   {
+   "id": "ae50e1acfc6e",
+   "source": "JobSpy",
+   "title": "Traineeship Functioneel Beheerder AFAS Profit",
+   "company": "IJK",
+   "location": "Helmond, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=481da6fca1bf7de3",
+   "salary": "€2850 - €2850 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime, contract"
+   ],
+   "full_text": "In het traineeship tot Functioneel Beheerder AFAS Profit bij IJK ontwikkel je je tot specialist in het optimaliseren van HR-processen. AFAS is een van de meest gebruikte softwareplatformen voor HR-, salaris- en bedrijfsprocessen in Nederland. Als Functioneel Beheerder zorg jij ervoor dat organisaties in het onderwijs, de overheid en de zorg optimaal gebruikmaken van deze software en hun processen steeds slimmer kunnen inrichten. Samen met ervaren collega’s groei je in het vak en pak je steeds meer zelfstandig op. Wat ga je doen als Trainee? Als Functioneel Beheerder zorg jij ervoor dat de AFAS-omgevingen van onze klanten goed zijn ingericht en blijven werken. Je werkt nauw samen met salarisadviseurs en payroll professionals in je team en signaleert proactief waar processen slimmer of efficiënter kunnen. Daarbij vertaal je wensen van klanten en collega’s naar concrete oplossingen en richt je nieuwe functionaliteiten in. Je ontdekt hoe automatisering, workflowoptimalisatie, data en AI organisaties helpen om slimmer te werken en hoe jij deze ontwikkelingen kunt vertalen naar praktische oplossingen. Dankzij jouw werk verlopen belangrijke HR-processen soepel voor duizenden medewerkers binnen onderwijs-, zorg- en overheidsorganisaties. Samen met ervaren collega’s beheer en optimaliseer je AFAS-omgevingen voor verschillende klanten. Door kritisch te kijken naar processen , ontdek je waar het slimmer kan en voer je verbeteringen door. Je hebt direct contact met klanten , denkt mee over vraagstukken en vertaalt hun wensen naar praktische oplossingen in AFAS. Met de begeleiding van je collega’s groei je stap voor stap door naar een zelfstandige rol als Functioneel Beheerder. Het traineeship is pas het begin. Na het traineeship zijn er volop mogelijkheden om je verder te verdiepen in AFAS en door te groeien, bijvoorbeeld naar e-HRM Adviseur. Wie ben jij? Je hoeft nog geen kennis van AFAS te hebben. De motivatie om processen te verbeteren en nieuwe systemen te leren kennen vinden wij veel belangrijker. Verder ben je nieuwsgierig, duik je graag in processen en krijg je energie van het oplossen van vraagstukken. Om succesvol te starten beschik je over hbo werk- en denkniveau. Het traineeship start op 1 april 2027 , vanaf dan ben je beschikbaar om te starten. Om het vak goed te leren , start je de eerste maand met 40 uur per week. Daarna kun je ook 32 uur per week werken. Samen leren we het snelst . Daarom werk je op de vaste opleidingsdagen: woensdag en vrijdag. Verder werk je nauwkeurig, communiceer je helder en houd je ook in een dynamische omgeving het overzicht. Wat wij jou bieden Bij IJK doen we het samen. We werken hard, maar maken ook volop ruimte voor plezier. We lunchen dagelijks samen in onze eigen brasserie (gratis en uitgebreid!) en vieren successen met borrels, teamuitjes en andere activiteiten. Natuurlijk kun je daarnaast rekenen op goede arbeidsvoorwaarden: Een startsalaris van € 2.850 bruto per maand op basis van 40 uur, aangevuld met een keuzebudget van 19,7% (inclusief vakantiegeld, 13e maand en extra budget); Extra salarisgroei : naast je reguliere beoordeling ontvang je de eerste drie jaar jaarlijks 4% extra salarisverhoging; Een jaarcontract met uitzicht op een vast dienstverband; Een thuiswerk- en reiskostenvergoeding; Wettelijke vakantiedagen (op basis van fulltime) en de mogelijkheid om extra verlof te kopen via het keuzebudget; Een goede pensioenregeling en korting op sportabonnementen; ✔ Bekijk het volledige arbeidsvoorwaardenpakket. Over IJK Bij IJK maken we HR, IT en bedrijfsvoering slimmer en efficiënter, zodat organisaties in overheid, onderwijs en zorg meer tijd hebben voor wat écht belangrijk is. Dat doen we met slimme HR-software én betrokken dienstverlening. De tijd van je leven Met ongeveer 250 collega’s helpen we onze klanten vooruit en IJK groeit door. Bij IJK krijg je de ruimte om te leren, verantwoordelijkheid te nemen en samen impact te maken. We staan voor elkaar klaar, vieren successen en maken tijd voor verbinding. Zo heb je niet alleen een baan, maar de tijd van je leven, professioneel én persoonlijk. Alvast meer zien van de sfeer bij IJK? Bekijk dan eens onze Instagram of neem een kijkje in het pand. Interesse? We zoeken slechts een beperkt aantal trainees voor de lichting van april en de plekken vullen zich snel. Heb je inhoudelijke vragen over de functie of wil je meer weten over de sollicitatieprocedure? Neem dan contact op met Roy Reutelingsperger, Corporate Recruiter via roy.reutelingsperger@ijk.nl of 06 19 40 35 36. Acquisitie naar aanleiding van deze advertentie wordt niet op prijs gesteld.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "In het traineeship tot Functioneel Beheerder AFAS Profit bij IJK ontwikkel je je tot specialist in het optimaliseren van HR-processen. AFAS is een van de meest gebruikte softwareplatformen voor HR-, salaris- en bedrijfsprocessen in Nederland. Als Functioneel Beheerder zorg jij ervoor dat...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten"
+   ],
+   "skills": [
+    "AI"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 80,
+    "matched_skills": [
+     "procesoptimalisatie",
+     "klantgerichtheid",
+     "analytisch vermogen"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Dit traineeship past goed vanwege de combinatie van IT-kennis en sterke communicatieve vaardigheden.",
+    "local_score": 100,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "f644814ec1da",
    "source": "JobSpy",
    "title": "Traineeship Business Analyst Pegasystems (G)",
@@ -270,56 +320,6 @@
     "ignored_unrealistic": [],
     "reason": "De kandidaat past sterk in dit traineeship dankzij zijn klantgerichte achtergrond en analytische opleiding.",
     "local_score": 77,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "ae50e1acfc6e",
-   "source": "JobSpy",
-   "title": "Traineeship Functioneel Beheerder AFAS Profit",
-   "company": "IJK",
-   "location": "Helmond, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=481da6fca1bf7de3",
-   "salary": "€2850 - €2850 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime, contract"
-   ],
-   "full_text": "In het traineeship tot Functioneel Beheerder AFAS Profit bij IJK ontwikkel je je tot specialist in het optimaliseren van HR-processen. AFAS is een van de meest gebruikte softwareplatformen voor HR-, salaris- en bedrijfsprocessen in Nederland. Als Functioneel Beheerder zorg jij ervoor dat organisaties in het onderwijs, de overheid en de zorg optimaal gebruikmaken van deze software en hun processen steeds slimmer kunnen inrichten. Samen met ervaren collega’s groei je in het vak en pak je steeds meer zelfstandig op. Wat ga je doen als Trainee? Als Functioneel Beheerder zorg jij ervoor dat de AFAS-omgevingen van onze klanten goed zijn ingericht en blijven werken. Je werkt nauw samen met salarisadviseurs en payroll professionals in je team en signaleert proactief waar processen slimmer of efficiënter kunnen. Daarbij vertaal je wensen van klanten en collega’s naar concrete oplossingen en richt je nieuwe functionaliteiten in. Je ontdekt hoe automatisering, workflowoptimalisatie, data en AI organisaties helpen om slimmer te werken en hoe jij deze ontwikkelingen kunt vertalen naar praktische oplossingen. Dankzij jouw werk verlopen belangrijke HR-processen soepel voor duizenden medewerkers binnen onderwijs-, zorg- en overheidsorganisaties. Samen met ervaren collega’s beheer en optimaliseer je AFAS-omgevingen voor verschillende klanten. Door kritisch te kijken naar processen , ontdek je waar het slimmer kan en voer je verbeteringen door. Je hebt direct contact met klanten , denkt mee over vraagstukken en vertaalt hun wensen naar praktische oplossingen in AFAS. Met de begeleiding van je collega’s groei je stap voor stap door naar een zelfstandige rol als Functioneel Beheerder. Het traineeship is pas het begin. Na het traineeship zijn er volop mogelijkheden om je verder te verdiepen in AFAS en door te groeien, bijvoorbeeld naar e-HRM Adviseur. Wie ben jij? Je hoeft nog geen kennis van AFAS te hebben. De motivatie om processen te verbeteren en nieuwe systemen te leren kennen vinden wij veel belangrijker. Verder ben je nieuwsgierig, duik je graag in processen en krijg je energie van het oplossen van vraagstukken. Om succesvol te starten beschik je over hbo werk- en denkniveau. Het traineeship start op 1 april 2027 , vanaf dan ben je beschikbaar om te starten. Om het vak goed te leren , start je de eerste maand met 40 uur per week. Daarna kun je ook 32 uur per week werken. Samen leren we het snelst . Daarom werk je op de vaste opleidingsdagen: woensdag en vrijdag. Verder werk je nauwkeurig, communiceer je helder en houd je ook in een dynamische omgeving het overzicht. Wat wij jou bieden Bij IJK doen we het samen. We werken hard, maar maken ook volop ruimte voor plezier. We lunchen dagelijks samen in onze eigen brasserie (gratis en uitgebreid!) en vieren successen met borrels, teamuitjes en andere activiteiten. Natuurlijk kun je daarnaast rekenen op goede arbeidsvoorwaarden: Een startsalaris van € 2.850 bruto per maand op basis van 40 uur, aangevuld met een keuzebudget van 19,7% (inclusief vakantiegeld, 13e maand en extra budget); Extra salarisgroei : naast je reguliere beoordeling ontvang je de eerste drie jaar jaarlijks 4% extra salarisverhoging; Een jaarcontract met uitzicht op een vast dienstverband; Een thuiswerk- en reiskostenvergoeding; Wettelijke vakantiedagen (op basis van fulltime) en de mogelijkheid om extra verlof te kopen via het keuzebudget; Een goede pensioenregeling en korting op sportabonnementen; ✔ Bekijk het volledige arbeidsvoorwaardenpakket. Over IJK Bij IJK maken we HR, IT en bedrijfsvoering slimmer en efficiënter, zodat organisaties in overheid, onderwijs en zorg meer tijd hebben voor wat écht belangrijk is. Dat doen we met slimme HR-software én betrokken dienstverlening. De tijd van je leven Met ongeveer 250 collega’s helpen we onze klanten vooruit en IJK groeit door. Bij IJK krijg je de ruimte om te leren, verantwoordelijkheid te nemen en samen impact te maken. We staan voor elkaar klaar, vieren successen en maken tijd voor verbinding. Zo heb je niet alleen een baan, maar de tijd van je leven, professioneel én persoonlijk. Alvast meer zien van de sfeer bij IJK? Bekijk dan eens onze Instagram of neem een kijkje in het pand. Interesse? We zoeken slechts een beperkt aantal trainees voor de lichting van april en de plekken vullen zich snel. Heb je inhoudelijke vragen over de functie of wil je meer weten over de sollicitatieprocedure? Neem dan contact op met Roy Reutelingsperger, Corporate Recruiter via roy.reutelingsperger@ijk.nl of 06 19 40 35 36. Acquisitie naar aanleiding van deze advertentie wordt niet op prijs gesteld.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "In het traineeship tot Functioneel Beheerder AFAS Profit bij IJK ontwikkel je je tot specialist in het optimaliseren van HR-processen. AFAS is een van de meest gebruikte softwareplatformen voor HR-, salaris- en bedrijfsprocessen in Nederland. Als Functioneel Beheerder zorg jij ervoor dat...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten"
-   ],
-   "skills": [
-    "AI"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 80,
-    "matched_skills": [
-     "procesoptimalisatie",
-     "klantgerichtheid",
-     "analytisch vermogen"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Dit traineeship past goed vanwege de combinatie van IT-kennis en sterke communicatieve vaardigheden.",
-    "local_score": 100,
     "ai": true,
     "check": false,
     "visible": true
@@ -535,63 +535,6 @@
    }
   },
   {
-   "id": "92092fca8c93",
-   "source": "JobSpy",
-   "title": "Technisch implementatie consultant Digizorg",
-   "company": "Erasmus MC",
-   "location": "Rotterdam, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=76ad454529a20ab2",
-   "salary": "€3724 - €5867 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Functie inhoud Als technisch implementatie consultant ondersteun je ziekenhuizen en andere zorgaanbieders bij de technische inrichting van Digizorg. Je werkt samen met een implementatie manager die de coördinatie van de functionele implementatie en de adoptie coördineert. Geen project is hetzelfde: jij analyseert de IT-omgeving van de klant, stelt een passend technisch plan op en voert dit samen met de klant uit. Elke succesvolle implementatie draagt bij aan het verbeteren van de zorg. Je haalt als technisch implementatie consultant voldoening uit het verder helpen van zorgaanbieders met technische expertise en het opleveren van goed werkende systemen. Jouw verantwoordelijkheden: Technische inrichting van Digizorg bij zorgaanbieders, met focus op SSO-koppelingen, data-integraties en data mapping. Uitvoeren van technische tests en acceptatietests van features en integraties, en bewaking van de technische kwaliteit. Troubleshooting en probleemoplossing bij technische incidenten tijdens en na de implementatie. Ontwikkelen van user stories voor debugging tools en technische verbeteringen in nauwe samenwerking met ontwikkelaars, product owners en functioneel beheerders. Aanspreekpunt voor IT-afdelingen van klanten: helder communiceren over technische vraagstukken en voortgang. Bijdragen aan de optimalisatie van de technische implementatiemethodiek en interne kennisdeling. Zorgen voor een soepele overdracht van geïmplementeerde oplossingen naar het Service & Support team, zodat de continuïteit en ondersteuning na livegang geborgd zijn. Werkomgeving Digizorg is het platform dat zorgverleners en patiënten helpt slimmer, eenvoudiger en mensgerichter samen te werken. Wat in 2022 begon als een initiatief in de regio Rijnmond, groeide uit tot een landelijk platform waarin ziekenhuizen, huisartsen, VVT‑organisaties en apotheken samenwerken. De organisatie groeit hard en professionaliseert. Als technisch implementatie consultant werk je intensief samen met implementatiemanagers, Product Owners, Service & Support en de ontwikkelteams. Het is een dynamische omgeving met snelle releases en wisselende klantcontexten. Jij brengt technische rust en structuur én helpt je collega's om de technische lat steeds hoger te leggen. Profiel Als technisch implementatie consultant communiceer je duidelijk over technische onderwerpen, zowel naar IT-specialisten als naar minder technische gesprekspartners. Je snapt de complexiteit van de zorg en weet hoe je samenwerkt met IT-afdelingen in grote organisaties. Je werkt zelfstandig, houdt overzicht in complexe situaties en schakelt soepel tussen meerdere lopende implementaties. Daarnaast: Heb je een afgeronde hbo-opleiding en aantoonbare ervaring met technische implementaties, systeemintegraties of IT-projecten, bij voorkeur in een enterprise-omgeving of in de zorg. Heb je kennis van en ervaring met SSO-standaarden (zoals SAML, OAuth of OpenID Connect), API-integraties en data mapping. Ben je bedreven in technisch testen en troubleshooting en werkt gestructureerd bij het opsporen en oplossen van problemen. Heb je ervaring met het schrijven van user stories en het samenwerken in een agile ontwikkelomgeving. Voel je je thuis in een samenwerkingsgerichte, groeiende organisatie waar je eigen initiatief gewaardeerd wordt en zelfstandig werken voorop staat. Wat bieden wij Een jaarcontract met uitzicht op verlenging. Een bruto maandsalaris tussen de € 3.724,- en € 5.867,- (schaal 10) bij een volledige werkweek van 36 uur. Een cao-salarisverhoging van 3,5% per mei 2027. Doorgroeimogelijkheden en opleidingsmogelijkheden. Hybride werken en flexibele werktijden; 4×9 uur werken is mogelijk. Een betrokken, ambitieus team dat samen werkt aan digitale zorg voor heel Nederland. Een 13e maand die we in november uitkeren en een reiskostenvergoeding. Een pensioenverzekering bij het ABP. Wij betalen 70% van je pensioenpremie waardoor je netto salaris hoger uitvalt dan je misschien denkt. Daarnaast zijn er fijne extra’s zoals een inhouse sportschool, fietsenmaker en gratis fysiotherapie. Of koop extra vakantie-uren of uren voor bijvoorbeeld mantelzorg. Check alle verlofregelingen en andere arbeidsvoorwaarden via onderstaande link. Meer informatie Maak van deze vacature jouw nieuwe baan! Solliciteer nu via de sollicitatiebutton. Het begint met doen. Inhoudelijke vragen over de vacature? Aart-Jan Boor, programma manager, beantwoordt deze graag via email.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Functie inhoud Als technisch implementatie consultant ondersteun je ziekenhuizen en andere zorgaanbieders bij de technische inrichting van Digizorg. Je werkt samen met een implementatie manager die de coördinatie van de functionele implementatie en de adoptie coördineert. Geen project is hetzelfde:...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten",
-    "Flexibele uren"
-   ],
-   "skills": [
-    "Rust",
-    "Agile",
-    "OAuth",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "REST API's",
-     "OAuth / MFA",
-     "SQL",
-     "Git"
-    ],
-    "missing_realistic": [
-     "ervaring met ziekenhuis-IT"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Een uitstekende match vanwege de combinatie van IT-achtergrond, klantgerichtheid en technische integratiekennis.",
-    "local_score": 82,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "f9f249ef3c97",
    "source": "JobSpy",
    "title": "Functional Consultant Ticketing",
@@ -696,50 +639,6 @@
    }
   },
   {
-   "id": "467950212733",
-   "source": "JobSpy",
-   "title": "Systeembeheerder / netwerkbeheerder",
-   "company": "Gflex",
-   "location": "Nijkerk, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=ece2996517d861bb",
-   "salary": "€2300 - €4100 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Vacature Systeembeheerder / netwerkbeheerder Voor wie graag grip houdt én verder denkt Bij Gflex werk je niet zomaar aan systemen. Je werkt aan de basis van het MKB. Onze klanten rekenen op je. Niet alleen voor het oplossen van storingen, maar vooral om hun werk slimmer, veiliger en zorgelozer te maken. Je komt terecht in een hecht team van vakmensen. Mensen die hun werk serieus nemen, maar zichzelf niet té serieus. We delen kennis, vertrouwen op elkaar en houden de lijntjes kort. Jij brengt jouw expertise mee, en ontwikkelt verder in jouw eigen specialisme. Dat doen we samen, op een manier die werkt voor jou én voor de klant. Regelmatig plannen we een moment om te bespreken wat er speelt. Zowel technisch als persoonlijk. Zo bouwen we aan een werkomgeving waarin je jezelf kunt zijn, fouten mag maken en sterker wordt. En voordat we alles tot in de puntjes uitleggen… kom gewoon langs voor koffie. Dan merk je vanzelf of het klikt. Wat we van jou vragen: Je houdt van je vak en wil blijven leren Je bent flexibel, net als wij Je hebt geen papiertje nodig om te laten zien wat je kunt Rijbewijs B is handig, want onze klanten zitten door het hele land Wat je van ons krijgt: Collega’s die weten waar ze mee bezig zijn Een goed salaris Ruimte om jezelf te ontwikkelen Een veilige werkplek Echte aandacht voor mensen, niet alleen systemen Flexibiliteit en vertrouwen Geen onnodige hiërarchie, wel korte lijntjes Afwisseling in klanten en omgevingen binnen het MKB Soort dienstverband: Fulltime, Parttime, Vaste baan Salaris: €2.300,00 - €4.100,00 per maand Werklocatie: Fysiek",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Vacature Systeembeheerder / netwerkbeheerder Voor wie graag grip houdt én verder denkt Bij Gflex werk je niet zomaar aan systemen. Je werkt aan de basis van het MKB. Onze klanten rekenen op je. Niet alleen voor het oplossen van storingen, maar vooral om hun werk slimmer, veiliger en zorgelozer te...",
-   "benefits": [],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 90,
-    "matched_skills": [
-     "Windows Server",
-     "Active Directory",
-     "Ubuntu / Linux",
-     "Netwerken"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Sluit naadloos aan op de afgeronde mbo ICT-beheerdersopleiding en jarenlange servicedesk- en beheerervaring.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "e45559223db4",
    "source": "JobSpy",
    "title": "Functioneel beheerder EPD",
@@ -790,6 +689,63 @@
     "ai": true,
     "check": false,
     "visible": false
+   }
+  },
+  {
+   "id": "92092fca8c93",
+   "source": "JobSpy",
+   "title": "Technisch implementatie consultant Digizorg",
+   "company": "Erasmus MC",
+   "location": "Rotterdam, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=76ad454529a20ab2",
+   "salary": "€3724 - €5867 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Functie inhoud Als technisch implementatie consultant ondersteun je ziekenhuizen en andere zorgaanbieders bij de technische inrichting van Digizorg. Je werkt samen met een implementatie manager die de coördinatie van de functionele implementatie en de adoptie coördineert. Geen project is hetzelfde: jij analyseert de IT-omgeving van de klant, stelt een passend technisch plan op en voert dit samen met de klant uit. Elke succesvolle implementatie draagt bij aan het verbeteren van de zorg. Je haalt als technisch implementatie consultant voldoening uit het verder helpen van zorgaanbieders met technische expertise en het opleveren van goed werkende systemen. Jouw verantwoordelijkheden: Technische inrichting van Digizorg bij zorgaanbieders, met focus op SSO-koppelingen, data-integraties en data mapping. Uitvoeren van technische tests en acceptatietests van features en integraties, en bewaking van de technische kwaliteit. Troubleshooting en probleemoplossing bij technische incidenten tijdens en na de implementatie. Ontwikkelen van user stories voor debugging tools en technische verbeteringen in nauwe samenwerking met ontwikkelaars, product owners en functioneel beheerders. Aanspreekpunt voor IT-afdelingen van klanten: helder communiceren over technische vraagstukken en voortgang. Bijdragen aan de optimalisatie van de technische implementatiemethodiek en interne kennisdeling. Zorgen voor een soepele overdracht van geïmplementeerde oplossingen naar het Service & Support team, zodat de continuïteit en ondersteuning na livegang geborgd zijn. Werkomgeving Digizorg is het platform dat zorgverleners en patiënten helpt slimmer, eenvoudiger en mensgerichter samen te werken. Wat in 2022 begon als een initiatief in de regio Rijnmond, groeide uit tot een landelijk platform waarin ziekenhuizen, huisartsen, VVT‑organisaties en apotheken samenwerken. De organisatie groeit hard en professionaliseert. Als technisch implementatie consultant werk je intensief samen met implementatiemanagers, Product Owners, Service & Support en de ontwikkelteams. Het is een dynamische omgeving met snelle releases en wisselende klantcontexten. Jij brengt technische rust en structuur én helpt je collega's om de technische lat steeds hoger te leggen. Profiel Als technisch implementatie consultant communiceer je duidelijk over technische onderwerpen, zowel naar IT-specialisten als naar minder technische gesprekspartners. Je snapt de complexiteit van de zorg en weet hoe je samenwerkt met IT-afdelingen in grote organisaties. Je werkt zelfstandig, houdt overzicht in complexe situaties en schakelt soepel tussen meerdere lopende implementaties. Daarnaast: Heb je een afgeronde hbo-opleiding en aantoonbare ervaring met technische implementaties, systeemintegraties of IT-projecten, bij voorkeur in een enterprise-omgeving of in de zorg. Heb je kennis van en ervaring met SSO-standaarden (zoals SAML, OAuth of OpenID Connect), API-integraties en data mapping. Ben je bedreven in technisch testen en troubleshooting en werkt gestructureerd bij het opsporen en oplossen van problemen. Heb je ervaring met het schrijven van user stories en het samenwerken in een agile ontwikkelomgeving. Voel je je thuis in een samenwerkingsgerichte, groeiende organisatie waar je eigen initiatief gewaardeerd wordt en zelfstandig werken voorop staat. Wat bieden wij Een jaarcontract met uitzicht op verlenging. Een bruto maandsalaris tussen de € 3.724,- en € 5.867,- (schaal 10) bij een volledige werkweek van 36 uur. Een cao-salarisverhoging van 3,5% per mei 2027. Doorgroeimogelijkheden en opleidingsmogelijkheden. Hybride werken en flexibele werktijden; 4×9 uur werken is mogelijk. Een betrokken, ambitieus team dat samen werkt aan digitale zorg voor heel Nederland. Een 13e maand die we in november uitkeren en een reiskostenvergoeding. Een pensioenverzekering bij het ABP. Wij betalen 70% van je pensioenpremie waardoor je netto salaris hoger uitvalt dan je misschien denkt. Daarnaast zijn er fijne extra’s zoals een inhouse sportschool, fietsenmaker en gratis fysiotherapie. Of koop extra vakantie-uren of uren voor bijvoorbeeld mantelzorg. Check alle verlofregelingen en andere arbeidsvoorwaarden via onderstaande link. Meer informatie Maak van deze vacature jouw nieuwe baan! Solliciteer nu via de sollicitatiebutton. Het begint met doen. Inhoudelijke vragen over de vacature? Aart-Jan Boor, programma manager, beantwoordt deze graag via email.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Functie inhoud Als technisch implementatie consultant ondersteun je ziekenhuizen en andere zorgaanbieders bij de technische inrichting van Digizorg. Je werkt samen met een implementatie manager die de coördinatie van de functionele implementatie en de adoptie coördineert. Geen project is hetzelfde:...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "Rust",
+    "Agile",
+    "OAuth",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "REST API's",
+     "OAuth / MFA",
+     "SQL",
+     "Git"
+    ],
+    "missing_realistic": [
+     "ervaring met ziekenhuis-IT"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Een uitstekende match vanwege de combinatie van IT-achtergrond, klantgerichtheid en technische integratiekennis.",
+    "local_score": 82,
+    "ai": true,
+    "check": false,
+    "visible": true
    }
   },
   {
@@ -852,6 +808,60 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "59bc65cabd6f",
+   "source": "JobSpy",
+   "title": "Functioneel beheerder (Nederland)",
+   "company": "BK CONSULTING",
+   "location": "Leusden, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=06557dbcc268a060",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Jij, de AFAS-held. Ben jij die analytische verbinder die AFAS niet alleen begrijpt, maar laat dansen op het ritme van onze opdrachtgevers? Bij BK Consulting ben jij hét aanspreekpunt voor alles wat met AFAS te maken heeft. Van procesoptimalisatie tot releasebegeleiding, jij regelt het. Wat ga je doen? Procesdokter : Jij legt processen onder de loep, ziet waar het beter kan en vertaalt dat naar AFAS. Incidentenfixer : Van kleine issues tot grote wijzigingsverzoeken. Jij analyseert, lost op en stemt af. Projectbaas : Upgrades, migraties, autorisatiebeheer of nieuwe modules? Jij zorgt dat AFAS futureproof blijft. Stakeholderfluisteraar : Je onderhoudt contact met afdelingen, leveranciers en management en levert dashboards waar je leidinggevenden écht iets aan hebben. Wat breng je mee? Een hbo-diploma (Business IT, Technische Bedrijfskunde, HR, Finance of vergelijkbaar). Enkele jaren ervaring met AFAS. Analytisch scherpe skills, sterke communicatieve vaardigheden en een oplossingsgericht denkvermogen. Vloeiende Nederlandse taalbeheersing en je kan prima uit de voeten met Engels. Wat krijg je van ons? 30 vakantiedagen om op tijd je batterijen op te laden. Elektrische leasewagen met laadkaart zodra je declarabel bent. Laptop en telefoon naar keuze om overal bereikbaar te zijn (Android of iPhone). Opleidingen die jou nóg slimmer maken. Gratis lunch van onze chef (en ja, echt lekker en gezond). Sportfaciliteiten, meditatieruimte en wekelijkse vrijmibo (wat wil je nog meer?) Waarom BK Consulting? Wij zijn geen kantoortuin-volgers of vinkjeszetters. We zeggen wat we denken, doen wat we beloven en vieren samen wat we bereiken. Jij krijgt hier geen keurslijf, maar speelruimte. Geen micromanagement, maar vertrouwen. Ben jij klaar om AFAS niet alleen te beheren, maar te beheersen? Druk op die sollicitatieknop en claim je plek in ons team (plaatsen zijn beperkt ). Vragen? Mail Bart op HR@bkconsulting.nl. Hij bijt niet, tenzij je AFAS ‘gewoon een programmaatje’ noemt.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Jij, de AFAS-held. Ben jij die analytische verbinder die AFAS niet alleen begrijpt, maar laat dansen op het ritme van onze opdrachtgevers? Bij BK Consulting ben jij hét aanspreekpunt voor alles wat met AFAS te maken heeft. Van procesoptimalisatie tot releasebegeleiding, jij regelt het. Wat ga je...",
+   "benefits": [
+    "Opleidingsbudget",
+    "Laptop"
+   ],
+   "skills": [
+    "Mobile",
+    "Consultancy",
+    "Engels"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-29T02:22:29.969112+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 30,
+    "matched_skills": [
+     "Nederlands",
+     "Engels",
+     "communicatieve vaardigheden"
+    ],
+    "missing_realistic": [
+     "ervaring met AFAS"
+    ],
+    "ignored_unrealistic": [
+     "enkele jaren ervaring met AFAS"
+    ],
+    "reason": "Je mist specifieke ervaring met AFAS en de rol vraagt functioneel beheer in plaats van software engineering.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
    }
   },
   {
@@ -1075,6 +1085,50 @@
     "ignored_unrealistic": [],
     "reason": "Mooie junior AI-transformatierol die past bij de interesse in AI-koppelingen en adviesvaardigheden.",
     "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "467950212733",
+   "source": "JobSpy",
+   "title": "Systeembeheerder / netwerkbeheerder",
+   "company": "Gflex",
+   "location": "Nijkerk, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=ece2996517d861bb",
+   "salary": "€2300 - €4100 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Vacature Systeembeheerder / netwerkbeheerder Voor wie graag grip houdt én verder denkt Bij Gflex werk je niet zomaar aan systemen. Je werkt aan de basis van het MKB. Onze klanten rekenen op je. Niet alleen voor het oplossen van storingen, maar vooral om hun werk slimmer, veiliger en zorgelozer te maken. Je komt terecht in een hecht team van vakmensen. Mensen die hun werk serieus nemen, maar zichzelf niet té serieus. We delen kennis, vertrouwen op elkaar en houden de lijntjes kort. Jij brengt jouw expertise mee, en ontwikkelt verder in jouw eigen specialisme. Dat doen we samen, op een manier die werkt voor jou én voor de klant. Regelmatig plannen we een moment om te bespreken wat er speelt. Zowel technisch als persoonlijk. Zo bouwen we aan een werkomgeving waarin je jezelf kunt zijn, fouten mag maken en sterker wordt. En voordat we alles tot in de puntjes uitleggen… kom gewoon langs voor koffie. Dan merk je vanzelf of het klikt. Wat we van jou vragen: Je houdt van je vak en wil blijven leren Je bent flexibel, net als wij Je hebt geen papiertje nodig om te laten zien wat je kunt Rijbewijs B is handig, want onze klanten zitten door het hele land Wat je van ons krijgt: Collega’s die weten waar ze mee bezig zijn Een goed salaris Ruimte om jezelf te ontwikkelen Een veilige werkplek Echte aandacht voor mensen, niet alleen systemen Flexibiliteit en vertrouwen Geen onnodige hiërarchie, wel korte lijntjes Afwisseling in klanten en omgevingen binnen het MKB Soort dienstverband: Fulltime, Parttime, Vaste baan Salaris: €2.300,00 - €4.100,00 per maand Werklocatie: Fysiek",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Vacature Systeembeheerder / netwerkbeheerder Voor wie graag grip houdt én verder denkt Bij Gflex werk je niet zomaar aan systemen. Je werkt aan de basis van het MKB. Onze klanten rekenen op je. Niet alleen voor het oplossen van storingen, maar vooral om hun werk slimmer, veiliger en zorgelozer te...",
+   "benefits": [],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "Windows Server",
+     "Active Directory",
+     "Ubuntu / Linux",
+     "Netwerken"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Sluit naadloos aan op de afgeronde mbo ICT-beheerdersopleiding en jarenlange servicedesk- en beheerervaring.",
+    "local_score": 50,
     "ai": true,
     "check": false,
     "visible": true
@@ -3695,64 +3749,6 @@
    }
   },
   {
-   "id": "16a24379b4d7",
-   "source": "JobSpy",
-   "title": "PHP Developer",
-   "company": "Iris Intranet - triptic",
-   "location": "Eindhoven, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=6ce7d04f50a025cf",
-   "salary": "€3500 - €4800 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Zoeken wij jou? Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan Iris Intranet. Een digitale werkplek die dagelijks door honderdduizenden mensen wordt gebruikt bij onder andere gemeenten, zorgorganisaties en onderwijsinstellingen. We bouwen op open-sourcetechnologie, met data in Nederland. Veiligheid, toegankelijkheid en privacy zijn belangrijk. Net als goede code, slimme oplossingen en collega's die graag met elkaar meedenken. Wat ga je doen? Als PHP Developer werk je iedere dag aan Iris. Maar gelukkig niet iedere dag aan hetzelfde. Je bouwt nieuwe functionaliteiten, verbetert bestaande onderdelen, duikt in koppelingen en denkt mee over technische keuzes. Ook komt er via onze servicedesk weleens een technisch vraagstuk voorbij waar je wat dieper voor in de code moet duiken. Soms weet je 's ochtends precies waar je aan gaat werken. Soms besluit een API daar gedurende de dag anders over. Je werkt samen met developers en projectadviseurs. Zij weten wat een klant wil bereiken, jij denkt mee over hoe we dat technisch goed kunnen oplossen. En soms ook over waarom we het misschien helemaal niet moeten bouwen zoals het in eerste instantie bedacht was. We vinden het fijn als je verder kijkt dan je ticket. Je denkt mee over architectuur, performance, beveiliging en onderhoudbaarheid. Werkt het? Mooi. Is het veilig, snel en begrijpt een collega over twee jaar nog wat je hebt gedaan? Nog mooier. Waar werk je technisch aan? Iris is ons eigen product. Je bouwt dus niet iets om het na oplevering nooit meer terug te zien. Je blijft erbij betrokken en ziet hoe het zich verder ontwikkelt. Iris draait op een eigen PHP-framework waarin we steeds meer Symfony-componenten gebruiken. Het is een volwassen applicatie die we stap voor stap moderniseren, zonder uit het oog te verliezen dat honderdduizenden mensen er ondertussen gewoon mee moeten kunnen werken. We kijken ook vooruit. Voor dynamischere onderdelen, zoals onze AI-chatbot, onderzoeken we welke technieken bij ons en de toekomst passen. We volgen niet elke hype. We kiezen wat Iris en haar gebruikers echt helpt. En ja, AI AI hoort inmiddels ook bij hoe we ontwikkelen. We zijn bijvoorbeeld enthousiast over Claude Code. Gebruik je AI-tools al dagelijks? Leuk. Nog nauwelijks? Ook prima. We zoeken vooral iemand die nieuwsgierig is én zelf blijft nadenken. AI kan verrassend goed helpen. Het kan ook met indrukwekkend zelfvertrouwen complete onzin produceren. Daarom hebben we jou nog nodig. Wat bieden wij jou? Iris komt uit Eindhoven en daar zijn we best trots op. We zijn informeel, betrokken en behoorlijk Brabants in onze manier van doen. We lunchen samen, er wordt gepoold en op donderdagmiddag drinken we graag een borrel. 32 tot 40 uur per week € 3.500,- tot € 4.800,- bruto per maand op fulltimebasis 25 vakantiedagen en een pensioenregeling Reiskosten- en thuiswerkvergoeding Hybride werken en goede apparatuur Werken aan een actieve PHP-applicatie op een LEMP-stack Ruimte voor opleidingen, AI en nieuwe technieken Leuke teamuitjes en we gaan een keer per jaar met zijn allen een weekendje op pad Een betrokken team in Eindhoven met korte lijnen en ruimte voor gezelligheid Welke skills heb jij? We kijken liever naar hoe je denkt en programmeert dan naar een lange lijst frameworks op je cv. Wat we belangrijk vinden: Je hebt ruime ervaring met PHP en weet zelfstandig je weg te vinden in complexe technische vraagstukken Je krijgt energie van het doorgronden, verbeteren en optimaliseren van bestaande code Je hebt oog voor veilige, onderhoudbare en kwalitatief hoogwaardige software Je hebt ervaring met databases, API’s, Git en objectgeoriënteerd programmeren Je hebt hbo werk- en denkniveau en communiceert goed in het Nederlands, zowel mondeling als schriftelijk Je bent nieuwsgierig, denkt graag mee en deelt met plezier je kennis en ideeën met collega’s Je hebt een open houding tegenover AI-ondersteund ontwikkelen Ervaring met Laravel of Symfony? Mooi meegenomen. Belangrijker vinden we dat je begrijpt wat er onder de motorkap gebeurt en code schrijft waar je collega’s later blij van worden. Heb je thuis een homelab, Home Assistant, een eigen project? Vertel vooral! Het is absoluut geen vereiste. We vinden nieuwsgierigheid gewoon leuk. Soort dienstverband: Fulltime, Parttime Salaris: €3.500,00 - €4.800,00 per maand Arbeidsvoorwaarden: Bedrijfsfeesten Dienstreizen vergoeding Fietsplan Flexibele werkuren Kerstpakket Pensioen Reiskostenvergoeding Vrijdagmiddagborrel Werk vanuit huis Taal: Nederlands (Vereist) Toestemming om in Nederland te werken: Nederland (Vereist) Werklocatie: Hybride werken in 5614 Eindhoven",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Zoeken wij jou? Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Reiskosten"
-   ],
-   "skills": [
-    "PHP",
-    "Laravel",
-    "Symfony",
-    "Git",
-    "AI",
-    "API",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 90,
-    "matched_skills": [
-     "PHP / Laravel",
-     "JavaScript",
-     "REST API’s",
-     "Git",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "De kandidaat heeft directe praktijkervaring met PHP, Laravel en webdevelopment opgedaan in zijn huidige junior rol.",
-    "local_score": 88,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "fd2cdd675eb8",
    "source": "JobSpy",
    "title": "Developer DPW & SoPo",
@@ -3807,6 +3803,64 @@
     ],
     "reason": "De eis van twee jaar werkervaring is onrealistisch voor een junior vacature en wordt genegeerd, waardoor de kandidaat redelijk aansluit.",
     "local_score": 69,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "16a24379b4d7",
+   "source": "JobSpy",
+   "title": "PHP Developer",
+   "company": "Iris Intranet - triptic",
+   "location": "Eindhoven, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=6ce7d04f50a025cf",
+   "salary": "€3500 - €4800 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Zoeken wij jou? Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan Iris Intranet. Een digitale werkplek die dagelijks door honderdduizenden mensen wordt gebruikt bij onder andere gemeenten, zorgorganisaties en onderwijsinstellingen. We bouwen op open-sourcetechnologie, met data in Nederland. Veiligheid, toegankelijkheid en privacy zijn belangrijk. Net als goede code, slimme oplossingen en collega's die graag met elkaar meedenken. Wat ga je doen? Als PHP Developer werk je iedere dag aan Iris. Maar gelukkig niet iedere dag aan hetzelfde. Je bouwt nieuwe functionaliteiten, verbetert bestaande onderdelen, duikt in koppelingen en denkt mee over technische keuzes. Ook komt er via onze servicedesk weleens een technisch vraagstuk voorbij waar je wat dieper voor in de code moet duiken. Soms weet je 's ochtends precies waar je aan gaat werken. Soms besluit een API daar gedurende de dag anders over. Je werkt samen met developers en projectadviseurs. Zij weten wat een klant wil bereiken, jij denkt mee over hoe we dat technisch goed kunnen oplossen. En soms ook over waarom we het misschien helemaal niet moeten bouwen zoals het in eerste instantie bedacht was. We vinden het fijn als je verder kijkt dan je ticket. Je denkt mee over architectuur, performance, beveiliging en onderhoudbaarheid. Werkt het? Mooi. Is het veilig, snel en begrijpt een collega over twee jaar nog wat je hebt gedaan? Nog mooier. Waar werk je technisch aan? Iris is ons eigen product. Je bouwt dus niet iets om het na oplevering nooit meer terug te zien. Je blijft erbij betrokken en ziet hoe het zich verder ontwikkelt. Iris draait op een eigen PHP-framework waarin we steeds meer Symfony-componenten gebruiken. Het is een volwassen applicatie die we stap voor stap moderniseren, zonder uit het oog te verliezen dat honderdduizenden mensen er ondertussen gewoon mee moeten kunnen werken. We kijken ook vooruit. Voor dynamischere onderdelen, zoals onze AI-chatbot, onderzoeken we welke technieken bij ons en de toekomst passen. We volgen niet elke hype. We kiezen wat Iris en haar gebruikers echt helpt. En ja, AI AI hoort inmiddels ook bij hoe we ontwikkelen. We zijn bijvoorbeeld enthousiast over Claude Code. Gebruik je AI-tools al dagelijks? Leuk. Nog nauwelijks? Ook prima. We zoeken vooral iemand die nieuwsgierig is én zelf blijft nadenken. AI kan verrassend goed helpen. Het kan ook met indrukwekkend zelfvertrouwen complete onzin produceren. Daarom hebben we jou nog nodig. Wat bieden wij jou? Iris komt uit Eindhoven en daar zijn we best trots op. We zijn informeel, betrokken en behoorlijk Brabants in onze manier van doen. We lunchen samen, er wordt gepoold en op donderdagmiddag drinken we graag een borrel. 32 tot 40 uur per week € 3.500,- tot € 4.800,- bruto per maand op fulltimebasis 25 vakantiedagen en een pensioenregeling Reiskosten- en thuiswerkvergoeding Hybride werken en goede apparatuur Werken aan een actieve PHP-applicatie op een LEMP-stack Ruimte voor opleidingen, AI en nieuwe technieken Leuke teamuitjes en we gaan een keer per jaar met zijn allen een weekendje op pad Een betrokken team in Eindhoven met korte lijnen en ruimte voor gezelligheid Welke skills heb jij? We kijken liever naar hoe je denkt en programmeert dan naar een lange lijst frameworks op je cv. Wat we belangrijk vinden: Je hebt ruime ervaring met PHP en weet zelfstandig je weg te vinden in complexe technische vraagstukken Je krijgt energie van het doorgronden, verbeteren en optimaliseren van bestaande code Je hebt oog voor veilige, onderhoudbare en kwalitatief hoogwaardige software Je hebt ervaring met databases, API’s, Git en objectgeoriënteerd programmeren Je hebt hbo werk- en denkniveau en communiceert goed in het Nederlands, zowel mondeling als schriftelijk Je bent nieuwsgierig, denkt graag mee en deelt met plezier je kennis en ideeën met collega’s Je hebt een open houding tegenover AI-ondersteund ontwikkelen Ervaring met Laravel of Symfony? Mooi meegenomen. Belangrijker vinden we dat je begrijpt wat er onder de motorkap gebeurt en code schrijft waar je collega’s later blij van worden. Heb je thuis een homelab, Home Assistant, een eigen project? Vertel vooral! Het is absoluut geen vereiste. We vinden nieuwsgierigheid gewoon leuk. Soort dienstverband: Fulltime, Parttime Salaris: €3.500,00 - €4.800,00 per maand Arbeidsvoorwaarden: Bedrijfsfeesten Dienstreizen vergoeding Fietsplan Flexibele werkuren Kerstpakket Pensioen Reiskostenvergoeding Vrijdagmiddagborrel Werk vanuit huis Taal: Nederlands (Vereist) Toestemming om in Nederland te werken: Nederland (Vereist) Werklocatie: Hybride werken in 5614 Eindhoven",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Zoeken wij jou? Kun jij nét iets te enthousiast worden als een ingewikkeld technisch probleem eindelijk op z'n plek valt? En moet je de oplossing dan eigenlijk ook meteen even aan een collega laten zien? Mooi. Dan hebben we blijkbaar hetzelfde idee van ‘leuk’. Bij Iris in Eindhoven bouwen we aan...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Reiskosten"
+   ],
+   "skills": [
+    "PHP",
+    "Laravel",
+    "Symfony",
+    "Git",
+    "AI",
+    "API",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "PHP / Laravel",
+     "JavaScript",
+     "REST API’s",
+     "Git",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "De kandidaat heeft directe praktijkervaring met PHP, Laravel en webdevelopment opgedaan in zijn huidige junior rol.",
+    "local_score": 88,
     "ai": true,
     "check": false,
     "visible": true
@@ -6176,6 +6230,72 @@
    }
   },
   {
+   "id": "2fdad2d1a8e7",
+   "source": "JobSpy",
+   "title": "Backend developer NPO Player (m/v/x)",
+   "company": "NPO",
+   "location": "Hilversum, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=0ceaae2d2a9ced89",
+   "salary": "€3995 - €6103 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek! Dit ga je bij ons doen Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online content binnen de publieke omroep. Deze services ondersteunen onder meer NPO Start, NPO Luister en de websites van de omroepen. We gebruiken Node.js / Typescript en programmeren object-georiënteerd. Als backend developer denk je actief mee over de architectuur, designpatterns en de integratie van testing. Binnen het team helpen we elkaar door code te reviewen en checken daarbij op zaken zoals unit-tests en SOLID code. Ervaring met het automatiseren van deployments (CI/CD) is onderdeel van jouw werkzaamheden. In het team is er veel ruimte voor eigen inbreng en krijg je volledige ownership over de ontwikkeling van de services. Als onderdeel van de afdeling Data & AI werk je nauw samen met de teams AI en Metadata. Samen vertaal je gedeelde technische en inhoudelijke vraagstukken naar betrouwbare services voor de NPO-platforms. Hier herken je jezelf in je bent een backend developer met: ruime ervaring met Node.js, TypeScript en AWS-services zoals CDK, SQS, Lambda en DynamoDB; ruime ervaring met Data Modeling, REST / Microservices Architectuur, CI/CD; ervaring met High-traffic Services; ervaring met agile ontwikkelmethodes (o.a. scrum); pré, je hebt ervaring met Kafka en SPARQL Als backend developer heb je een focus op Security, Privacy, Scalability, Performance, Metrics, Logging, Als je nieuwsgierig bent naar techniek en voortdurend op de hoogte wil zijn van AI, frameworks en oplossingen pas je goed bij ons. Je komt in een hecht en compact team te werken met de voordelen van een grote organisatie. Jouw collega’s vinden het leuk als je een visie en mening hebt over waar de technologie naartoe gaat. Je staat open voor discussie en veranderingen wanneer er nieuwe ideeën worden aangedragen en natuurlijk is er alle ruimte om ook zelf met input te komen. Arbeidsvoorwaarden Iedereen is welkom, ook als je bijvoorbeeld een arbeidsbeperking hebt en er aanpassingen nodig zijn; bij de NPO werken we hybride en kennen we flexibele werktijden; je ontvangt een vaste eindejaarsuitkering van 6% over het jaarsalaris; je krijgt 200 vakantie-uren (o.b.v. 36 uur); wij hebben een NPO Academy zodat je jezelf verder kunt ontwikkelen. De functie van backend developer is een vaste baan (jaarcontract) voor 36 uur per week en kent een salaris tussen € 3.995,43 en € 6.103,97 bruto per maand op basis van 36 uur. We schalen in op basis van opleiding, ervaring en hanteren het principe van gelijke beloning voor gelijk werk (m/v/x). Het gaat om een vaste baan waarbij je start met een jaarcontract. Interesse? Wil je meer weten over de functie van backend developer neem dan contact op met Nick van Ginkel via 06 – 55784149 Heb j e geen vragen en ben je enthousiast, stuur ons dan via werken bij jouw cv en motivatie (t.a.v. Nick van Ginkel). Wil je weten hoe het is om te werken bij de NPO? Check dan onder meer onze missie en kernwaarden op onze website. Wij zijn zelf prima in staat om onze vacatures in te vullen en stellen acquisitie niet op prijs. Wanneer ontvang je een reactie? Je kunt tot en met maandag 2 november 2026 solliciteren. 3 november 2026: terugkoppeling sollicitatie 5 november 2026: 1e ronde sollicitatiegesprekken 6 november 2026: terugkoppeling eerste sollicitatiegesprekken 10 november 2026: 2e ronde sollicitatiegesprekken 11 november 2026: terugkoppeling tweede sollicitatiegesprekken 12 november 2026: aanbod arbeidsvoorwaarden (per telefoon en mail) Bij het tweede gesprek zullen wij meer de diepte ingaan en kan een casus ingezet worden. Open voor iedereen De NPO heeft een publieke taak: van waarde zijn voor elk individu én voor de samenleving als geheel. De behoeften van ons publiek, met al zijn achtergronden en opvattingen, zijn daarbij leidend. Dat willen we ook weerspiegelen in de personeelsbezetting van onze organisatie. Wij geloven in een inclusieve organisatie, die de kracht van diversiteit gebruikt om tot nog betere resultaten te komen. Want juist doordat we van elkaar verschillen, kunnen we tot nieuwe inzichten en betere oplossingen komen. En dat is precies waar wij als NPO naar op zoek zijn. We zijn benieuwd wie jij bent en welke kwaliteiten en ervaring jij meebrengt. Onze vacatures staan daarom open voor iedereen.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek! Dit ga je bij ons doen Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "32-36 uur",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "REST",
+    "CI/CD",
+    "AWS",
+    "Agile",
+    "Microservices",
+    "AI",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:37:40.310705+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     "REST API’s",
+     "AWS",
+     "Git / Bitbucket",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [
+     "Node.js",
+     "TypeScript",
+     "ruime backend ervaring"
+    ],
+    "ignored_unrealistic": [
+     "ruime ervaring met AWS-services zoals CDK, SQS, Lambda en DynamoDB"
+    ],
+    "reason": "De vacature vraagt om ruime backend ervaring met Node.js en TypeScript, terwijl de kandidaat een starter is in C#/PHP.",
+    "local_score": 79,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "b1f88eaeb9cb",
    "source": "JobSpy",
    "title": "Support Engineer & Software Tester",
@@ -6275,103 +6395,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "23c3a167887a",
-   "source": "JobSpy",
-   "title": "Junior Adviseur Strategie & Ontwikkeling bij JIVC IT-PSM",
-   "company": "Ministerie van Defensie",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=1311d5bfb39fdf3c",
-   "salary": "€3913 - €6244 per maand",
-   "tags": [
-    "",
-    "contract"
-   ],
-   "full_text": "Vacature kenmerken Standplaats Utrecht - Kromhoutkazerne Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Uren per week 38 Maandsalaris €3.913,00 - €6.244,00 Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Niveau HBO Bachelor Vakgebied ICT Vacaturenummer 82280 Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling Functiegroep Burger Dit ga je doen Wil jij bijdragen aan een goed georganiseerde en toekomstgerichte afdeling? Ben je nieuwsgierig, pak je graag werkzaamheden op en vind je het leuk om mee te werken aan projecten en verbeteringen? Als Junior Adviseur Strategie & Ontwikkeling ondersteun je het management en de sectie Strategie & Ontwikkeling bij de bedrijfsvoering van IT Performance & Sourcing Management (IT-PSM). Je ontwikkelt je breed en draagt bij aan de verdere professionalisering van een afdeling die Defensie met de IT-markt verbindt. n jouw rol ben je verantwoordelijk voor onder andere: Bedrijfsvoering analyseren en verbeteren Je verzamelt en analyseert gegevens over bedrijfsvoeringsprocessen. Daarbij signaleer je operationele knelpunten, risico’s en verbetermogelijkheden. Oorzaken van procesproblemen onderzoek je en je doet voorstellen om processen, instrumenten en werkwijzen te verbeteren. Werkprocessen en procedures help je te actualiseren en implementeren. Ook ondersteun je bij het naleven en borgen van interne kaders en relevante regelgeving. Informatie en rapportages inzichtelijk maken Gegevens verzamel en verwerk je tot betrouwbare managementinformatie. Je stelt rapportages, notities en overzichten op ter ondersteuning van sturing, besluitvorming en verantwoording. Bij overleggen en besluitvorming draag je bij aan de voorbereiding en vastlegging. Afwijkingen ten opzichte van geldende kaders en regelgeving signaleer je tijdig. Waar relevant help je informatie over leveranciers, risico’s en ontwikkelingen in de IT-markt te verzamelen, structureren en inzichtelijk te maken. Bedrijfsvoeringsprojecten en verbeteringen ondersteunen Je ondersteunt bij en voert werkzaamheden uit binnen bedrijfsvoeringsprojecten. Daarbij bewaak je de voortgang en resultaten van toegewezen activiteiten. Basisformats en templates ontwikkel en onderhoud je waar nodig. Je ondersteunt bij data- en informatiegestuurd werken binnen de afdeling. Knelpunten signaleer je en je draagt bij aan verbeteringen in kwaliteit. Planning, control en verantwoording ondersteunen Informatie voor planning- en rapportagemomenten verzamel en controleer je. Je ondersteunt bij het opstellen van rapportages en verantwoordingsinformatie. Ook voer je administratieve processen binnen de bedrijfsvoering uit. De voortgang en deadlines van informatieaanlevering houd je in de gaten. Samenwerken en informatie delen Je stemt met interne stakeholders af over informatiebehoeften en de uitvoering van processen. Knelpunten in de samenwerking signaleer je en koppel je terug aan betrokkenen. Je ondersteunt activiteiten gericht op kennisdeling en samenwerking. Daarbij help je de informatie-uitwisseling tussen medewerkers en teams soepel te laten verlopen. Zie jij jezelf als: iemand die nieuwsgierig is naar hoe bedrijfsvoering en processen werken en waar het beter kan; iemand die proactief is, initiatief toont en werkzaamheden graag zelf oppakt; iemand die graag informatie verzamelt, analyseert en overzichtelijk maakt; een nauwkeurige professional die knelpunten en afwijkingen snel signaleert; iemand die graag samenwerkt en van collega’s én de praktijk wil leren; iemand die niet alleen analyseert, maar ook energie krijgt van aanpakken en het uitvoeren van concrete verbeteringen? Wil jij je verder ontwikkelen in bedrijfsvoering en tegelijkertijd bijdragen aan een organisatie waarin betrouwbare en toekomstbestendige IT direct ondersteunt bij de taak van Defensie? Dan maken we graag kennis met je. Dit vragen wij Wij zoeken een proactieve professional die zich verder wil ontwikkelen binnen bedrijfsvoering en graag zelf aan de slag gaat. Je kunt informatie nauwkeurig verzamelen, structureren en analyseren en vindt het leuk om vervolgens ook iets met die inzichten te doen. Je werkt binnen bestaande kaders en processen, neemt verantwoordelijkheid voor toegewezen werkzaamheden en weet tijdig knelpunten en verbetermogelijkheden te signaleren. Je bent nieuwsgierig, praktisch ingesteld en vindt het leuk om samen met collega’s te werken aan het steeds verder verbeteren van de bedrijfsvoering. Wij zoeken iemand met de volgende ervaring, kennis en opleiding: Opleiding Een afgeronde HBO-opleiding (bachelor), bij voorkeur bedrijfskunde, informatica of vergelijkbaar; óf HBO werk- en denkniveau, aantoonbaar door een combinatie van kennis, opleiding en ervaring, zo nodig toetsbaar in een assessment. Ervaring Minimaal 1 jaar ervaring in een vergelijkbare rol binnen bedrijfsvoering; minimaal 1 jaar ervaring met (verbeter)processen of -projecten, risicomanagement en kwaliteitsmanagement. Daarnaast is het een pré als je beschikt over: ervaring met verantwoordings- en rapportagecycli en informatievoorziening; ervaring in projectmanagement; aantoonbare affiniteit met IT en de IT-markt. Competenties Organisatiegericht Analyseren Resultaatgericht Plannen en organiseren Communiceren Nauwkeurig Dit krijg je Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Salarisomschrijving Het genoemde salaris is gebaseerd op een volledige werkweek van 38 uur. Je inschaling wordt gebaseerd op je werkervaring en opleidingsachtergrond. Maandsalaris €3.913,00 - €6.244,00 Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Maximaal aantal uren per week 38 Dit bieden we nog meer Defensie hecht sterk aan persoonlijke groei en kent goede studiefaciliteiten, hierdoor sta je nooit stil. Je krijgt alle ruimte om jezelf te ontwikkelen en door te groeien. Bij Defensie bouw je elke maand 16,33% van het bruto salaris op in het In",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Vacature kenmerken Standplaats Utrecht - Kromhoutkazerne Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Uren per week 38 Maandsalaris €3.913,00 - €6.244,00 Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Niveau HBO Bachelor Vakgebied ICT Vacaturenummer...",
-   "benefits": [
-    "Vaste baan"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 70,
-    "matched_skills": [
-     "Nederlands Moedertaal of tweetalig",
-     "Engels Volledige professionele vaardigheid"
-    ],
-    "missing_realistic": [
-     "ervaring met inkoop- en aanbestedingstrajecten"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Een geschikte junior beleids- en bedrijfsrol, hoewel de focus meer op IT-beheer en ontwikkeling ligt dan op inkoop.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "da21176ada20",
-   "source": "JobSpy",
-   "title": "Systeembeheerder",
-   "company": "Huijbregts Groep",
-   "location": "Helmond, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=e815e5a5bdd305bd",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Niet alleen beheren, maar bouwen, verbeteren en automatiseren. Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor je! IT is onmisbaar voor onze productie. Van ERP-systemen en servers tot netwerken en storage: alles moet betrouwbaar en veilig functioneren. Als Systeembeheerder zorg jij niet alleen dat alles blijft draaien, maar denk je ook actief mee over hoe het slimmer en beter kan. Wat ga je doen? Je beheert, beveiligt en verbetert onze IT-infrastructuur. Je automatiseert terugkerende werkzaamheden. Je signaleert knelpunten en voorkomt problemen. Je denkt mee over technische verbeteringen en architectuur. Je pakt IT-projecten zelfstandig op, van idee tot implementatie. Met welke techniek werk je? Je werkt onder andere met HPE-servers, VMware/Proxmox, Windows Server, Linux, Fortinet, Cisco, Aruba en Active Directory. Je hoeft niet overal specialist in te zijn. Belangrijker is dat je begrijpt hoe systemen samenwerken en graag nieuwe oplossingen bedenkt. Klaar voor de volgende stap? Wil jij niet alleen beheren, maar onze IT-omgeving ook echt beter maken? Dan maken we graag kennis met je! Stuur je reactie naar vacature@huijbregts.nl. We vertellen je graag meer over de functie en onze technische omgeving. Wat breng je mee? Mbo-4-werk- en denkniveau of hoger, bij voorkeur ICT. Ervaring met systeembeheer en IT-infrastructuur. Kennis van Windows Server, Active Directory en virtualisatie. Basiskennis van netwerken, firewalls en security. Interesse in automatisering en scripting. Een zelfstandige, analytische en proactieve instelling. Wat mag je van ons verwachten? Een passend salaris. 8,5% vakantiegeld en leuke personeelsactiviteiten. Een informele werksfeer binnen een groeiend internationaal familiebedrijf. Een gezellig en betrokken team met korte lijnen en ruimte voor eigen initiatief. Alle ruimte om nieuwe dingen te leren en jezelf verder te ontwikkelen. Je start met een jaarcontract, met uitzicht op een vast dienstverband.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Niet alleen beheren, maar bouwen, verbeteren en automatiseren. Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor...",
-   "benefits": [],
-   "skills": [
-    "Linux",
-    "Networking",
-    "Active Directory",
-    "Windows Server",
-    "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "Windows Server",
-     "Active Directory",
-     "Ubuntu / Linux",
-     "Mbo 4 ICT-beheerder",
-     "Nederlands Moedertaal of tweetalig"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Goede match voor systeembeheer op basis van de behaalde mbo-opleiding en praktijkervaring in de IT-infrastructuur.",
-    "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -6634,69 +6657,100 @@
    }
   },
   {
-   "id": "2fdad2d1a8e7",
+   "id": "23c3a167887a",
    "source": "JobSpy",
-   "title": "Backend developer NPO Player (m/v/x)",
-   "company": "NPO",
-   "location": "Hilversum, NH, Netherlands",
+   "title": "Junior Adviseur Strategie & Ontwikkeling bij JIVC IT-PSM",
+   "company": "Ministerie van Defensie",
+   "location": "Utrecht, UT, Netherlands",
    "remote": false,
    "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=0ceaae2d2a9ced89",
-   "salary": "€3995 - €6103 per monthly",
+   "url": "https://nl.indeed.com/viewjob?jk=1311d5bfb39fdf3c",
+   "salary": "€3913 - €6244 per maand",
+   "tags": [
+    "",
+    "contract"
+   ],
+   "full_text": "Vacature kenmerken Standplaats Utrecht - Kromhoutkazerne Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Uren per week 38 Maandsalaris €3.913,00 - €6.244,00 Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Niveau HBO Bachelor Vakgebied ICT Vacaturenummer 82280 Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling Functiegroep Burger Dit ga je doen Wil jij bijdragen aan een goed georganiseerde en toekomstgerichte afdeling? Ben je nieuwsgierig, pak je graag werkzaamheden op en vind je het leuk om mee te werken aan projecten en verbeteringen? Als Junior Adviseur Strategie & Ontwikkeling ondersteun je het management en de sectie Strategie & Ontwikkeling bij de bedrijfsvoering van IT Performance & Sourcing Management (IT-PSM). Je ontwikkelt je breed en draagt bij aan de verdere professionalisering van een afdeling die Defensie met de IT-markt verbindt. n jouw rol ben je verantwoordelijk voor onder andere: Bedrijfsvoering analyseren en verbeteren Je verzamelt en analyseert gegevens over bedrijfsvoeringsprocessen. Daarbij signaleer je operationele knelpunten, risico’s en verbetermogelijkheden. Oorzaken van procesproblemen onderzoek je en je doet voorstellen om processen, instrumenten en werkwijzen te verbeteren. Werkprocessen en procedures help je te actualiseren en implementeren. Ook ondersteun je bij het naleven en borgen van interne kaders en relevante regelgeving. Informatie en rapportages inzichtelijk maken Gegevens verzamel en verwerk je tot betrouwbare managementinformatie. Je stelt rapportages, notities en overzichten op ter ondersteuning van sturing, besluitvorming en verantwoording. Bij overleggen en besluitvorming draag je bij aan de voorbereiding en vastlegging. Afwijkingen ten opzichte van geldende kaders en regelgeving signaleer je tijdig. Waar relevant help je informatie over leveranciers, risico’s en ontwikkelingen in de IT-markt te verzamelen, structureren en inzichtelijk te maken. Bedrijfsvoeringsprojecten en verbeteringen ondersteunen Je ondersteunt bij en voert werkzaamheden uit binnen bedrijfsvoeringsprojecten. Daarbij bewaak je de voortgang en resultaten van toegewezen activiteiten. Basisformats en templates ontwikkel en onderhoud je waar nodig. Je ondersteunt bij data- en informatiegestuurd werken binnen de afdeling. Knelpunten signaleer je en je draagt bij aan verbeteringen in kwaliteit. Planning, control en verantwoording ondersteunen Informatie voor planning- en rapportagemomenten verzamel en controleer je. Je ondersteunt bij het opstellen van rapportages en verantwoordingsinformatie. Ook voer je administratieve processen binnen de bedrijfsvoering uit. De voortgang en deadlines van informatieaanlevering houd je in de gaten. Samenwerken en informatie delen Je stemt met interne stakeholders af over informatiebehoeften en de uitvoering van processen. Knelpunten in de samenwerking signaleer je en koppel je terug aan betrokkenen. Je ondersteunt activiteiten gericht op kennisdeling en samenwerking. Daarbij help je de informatie-uitwisseling tussen medewerkers en teams soepel te laten verlopen. Zie jij jezelf als: iemand die nieuwsgierig is naar hoe bedrijfsvoering en processen werken en waar het beter kan; iemand die proactief is, initiatief toont en werkzaamheden graag zelf oppakt; iemand die graag informatie verzamelt, analyseert en overzichtelijk maakt; een nauwkeurige professional die knelpunten en afwijkingen snel signaleert; iemand die graag samenwerkt en van collega’s én de praktijk wil leren; iemand die niet alleen analyseert, maar ook energie krijgt van aanpakken en het uitvoeren van concrete verbeteringen? Wil jij je verder ontwikkelen in bedrijfsvoering en tegelijkertijd bijdragen aan een organisatie waarin betrouwbare en toekomstbestendige IT direct ondersteunt bij de taak van Defensie? Dan maken we graag kennis met je. Dit vragen wij Wij zoeken een proactieve professional die zich verder wil ontwikkelen binnen bedrijfsvoering en graag zelf aan de slag gaat. Je kunt informatie nauwkeurig verzamelen, structureren en analyseren en vindt het leuk om vervolgens ook iets met die inzichten te doen. Je werkt binnen bestaande kaders en processen, neemt verantwoordelijkheid voor toegewezen werkzaamheden en weet tijdig knelpunten en verbetermogelijkheden te signaleren. Je bent nieuwsgierig, praktisch ingesteld en vindt het leuk om samen met collega’s te werken aan het steeds verder verbeteren van de bedrijfsvoering. Wij zoeken iemand met de volgende ervaring, kennis en opleiding: Opleiding Een afgeronde HBO-opleiding (bachelor), bij voorkeur bedrijfskunde, informatica of vergelijkbaar; óf HBO werk- en denkniveau, aantoonbaar door een combinatie van kennis, opleiding en ervaring, zo nodig toetsbaar in een assessment. Ervaring Minimaal 1 jaar ervaring in een vergelijkbare rol binnen bedrijfsvoering; minimaal 1 jaar ervaring met (verbeter)processen of -projecten, risicomanagement en kwaliteitsmanagement. Daarnaast is het een pré als je beschikt over: ervaring met verantwoordings- en rapportagecycli en informatievoorziening; ervaring in projectmanagement; aantoonbare affiniteit met IT en de IT-markt. Competenties Organisatiegericht Analyseren Resultaatgericht Plannen en organiseren Communiceren Nauwkeurig Dit krijg je Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Salarisomschrijving Het genoemde salaris is gebaseerd op een volledige werkweek van 38 uur. Je inschaling wordt gebaseerd op je werkervaring en opleidingsachtergrond. Maandsalaris €3.913,00 - €6.244,00 Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Maximaal aantal uren per week 38 Dit bieden we nog meer Defensie hecht sterk aan persoonlijke groei en kent goede studiefaciliteiten, hierdoor sta je nooit stil. Je krijgt alle ruimte om jezelf te ontwikkelen en door te groeien. Bij Defensie bouw je elke maand 16,33% van het bruto salaris op in het In",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Vacature kenmerken Standplaats Utrecht - Kromhoutkazerne Contractduur Betreft een tijdelijke aanstelling met uitzicht op een vast contract Uren per week 38 Maandsalaris €3.913,00 - €6.244,00 Salarisniveau Burgerschaal IBBAD 10 - Burgerschaal IBBAD 10 Niveau HBO Bachelor Vakgebied ICT Vacaturenummer...",
+   "benefits": [
+    "Vaste baan"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 70,
+    "matched_skills": [
+     "Nederlands Moedertaal of tweetalig",
+     "Engels Volledige professionele vaardigheid"
+    ],
+    "missing_realistic": [
+     "ervaring met inkoop- en aanbestedingstrajecten"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Een geschikte junior beleids- en bedrijfsrol, hoewel de focus meer op IT-beheer en ontwikkeling ligt dan op inkoop.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "da21176ada20",
+   "source": "JobSpy",
+   "title": "Systeembeheerder",
+   "company": "Huijbregts Groep",
+   "location": "Helmond, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=e815e5a5bdd305bd",
+   "salary": null,
    "tags": [
     "",
     "fulltime"
    ],
-   "full_text": "#### **Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek!** #### **Dit ga je bij ons doen** Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online content binnen de publieke omroep. Deze services ondersteunen onder meer NPO Start, NPO Luister en de websites van de omroepen. We gebruiken Node.js / Typescript en programmeren object-georiënteerd. Als backend developer denk je actief mee over de architectuur, designpatterns en de integratie van testing. Binnen het team helpen we elkaar door code te reviewen en checken daarbij op zaken zoals unit-tests en SOLID code. Ervaring met het automatiseren van deployments (CI/CD) is onderdeel van jouw werkzaamheden. In het team is er veel ruimte voor eigen inbreng en krijg je volledige ownership over de ontwikkeling van de services. Als onderdeel van de afdeling Data & AI werk je nauw samen met de teams AI en Metadata. Samen vertaal je gedeelde technische en inhoudelijke vraagstukken naar betrouwbare services voor de NPO-platforms. #### **Hier herken je jezelf in** * je bent een backend developer met: + ruime ervaring met Node.js, TypeScript en AWS-services zoals CDK, SQS, Lambda en DynamoDB; + ruime ervaring met Data Modeling, REST / Microservices Architectuur, CI/CD; + ervaring met High-traffic Services; + ervaring met agile ontwikkelmethodes (o.a. scrum); * pré, je hebt ervaring met Kafka en SPARQL Als backend developer heb je een focus op Security, Privacy, Scalability, Performance, Metrics, Logging, Als je nieuwsgierig bent naar techniek en voortdurend op de hoogte wil zijn van AI, frameworks en oplossingen pas je goed bij ons. Je komt in een hecht en compact team te werken met de voordelen van een grote organisatie. Jouw collega’s vinden het leuk als je een visie en mening hebt over waar de technologie naartoe gaat. Je staat open voor discussie en veranderingen wanneer er nieuwe ideeën worden aangedragen en natuurlijk is er alle ruimte om ook zelf met input te komen. #### **Arbeidsvoorwaarden** * Iedereen is welkom, ook als je bijvoorbeeld een arbeidsbeperking hebt en er aanpassingen nodig zijn; * bij de NPO werken we hybride en kennen we flexibele werktijden; * je ontvangt een vaste eindejaarsuitkering van 6% over het jaarsalaris; * je krijgt 200 vakantie-uren (o.b.v. 36 uur); * wij hebben een NPO Academy zodat je jezelf verder kunt ontwikkelen. De functie van backend developer is een vaste baan (jaarcontract) voor 36 uur per week en kent een salaris tussen € 3.995,43 en € 6.103,97 bruto per maand op basis van 36 uur. We schalen in op basis van opleiding, ervaring en hanteren het principe van gelijke beloning voor gelijk werk (m/v/x). Het gaat om een vaste baan waarbij je start met een jaarcontract. #### **Interesse?** Wil je meer weten over de functie van backend developer neem dan contact op met Nick van Ginkel via 06 – 55784149 Heb **j**e geen vragen en ben je enthousiast, stuur ons dan via werken bij jouw cv en motivatie (t.a.v. Nick van Ginkel). *Wil je weten hoe het is om te werken bij de NPO? Check dan onder meer onze missie en kernwaarden op onze website.* *Wij zijn zelf prima in staat om onze vacatures in te vullen en stellen acquisitie niet op prijs.* #### **Wanneer ontvang je een reactie?** Je kunt tot en met maandag 2 november 2026 solliciteren. 3 november 2026: terugkoppeling sollicitatie 5 november 2026: 1e ronde sollicitatiegesprekken 6 november 2026: terugkoppeling eerste sollicitatiegesprekken 10 november 2026: 2e ronde sollicitatiegesprekken 11 november 2026: terugkoppeling tweede sollicitatiegesprekken 12 november 2026: aanbod arbeidsvoorwaarden (per telefoon en mail) Bij het tweede gesprek zullen wij meer de diepte ingaan en kan een casus ingezet worden. ***Open voor iedereen*** *De NPO heeft een publieke taak: van waarde zijn voor elk individu én voor de samenleving als geheel. De behoeften van ons publiek, met al zijn achtergronden en opvattingen, zijn daarbij leidend. Dat willen we ook weerspiegelen in de personeelsbezetting van onze organisatie. Wij geloven in een inclusieve organisatie, die de kracht van diversiteit gebruikt om tot nog betere resultaten te komen. Want juist doordat we van elkaar verschillen, kunnen we tot nieuwe inzichten en betere oplossingen komen. En dat is precies waar wij als NPO naar op zoek zijn. We zijn benieuwd wie jij bent en welke kwaliteiten en ervaring jij meebrengt. Onze vacatures staan daarom open voor iedereen.*",
+   "full_text": "Niet alleen beheren, maar bouwen, verbeteren en automatiseren. Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor je! IT is onmisbaar voor onze productie. Van ERP-systemen en servers tot netwerken en storage: alles moet betrouwbaar en veilig functioneren. Als Systeembeheerder zorg jij niet alleen dat alles blijft draaien, maar denk je ook actief mee over hoe het slimmer en beter kan. Wat ga je doen? Je beheert, beveiligt en verbetert onze IT-infrastructuur. Je automatiseert terugkerende werkzaamheden. Je signaleert knelpunten en voorkomt problemen. Je denkt mee over technische verbeteringen en architectuur. Je pakt IT-projecten zelfstandig op, van idee tot implementatie. Met welke techniek werk je? Je werkt onder andere met HPE-servers, VMware/Proxmox, Windows Server, Linux, Fortinet, Cisco, Aruba en Active Directory. Je hoeft niet overal specialist in te zijn. Belangrijker is dat je begrijpt hoe systemen samenwerken en graag nieuwe oplossingen bedenkt. Klaar voor de volgende stap? Wil jij niet alleen beheren, maar onze IT-omgeving ook echt beter maken? Dan maken we graag kennis met je! Stuur je reactie naar vacature@huijbregts.nl. We vertellen je graag meer over de functie en onze technische omgeving. Wat breng je mee? Mbo-4-werk- en denkniveau of hoger, bij voorkeur ICT. Ervaring met systeembeheer en IT-infrastructuur. Kennis van Windows Server, Active Directory en virtualisatie. Basiskennis van netwerken, firewalls en security. Interesse in automatisering en scripting. Een zelfstandige, analytische en proactieve instelling. Wat mag je van ons verwachten? Een passend salaris. 8,5% vakantiegeld en leuke personeelsactiviteiten. Een informele werksfeer binnen een groeiend internationaal familiebedrijf. Een gezellig en betrokken team met korte lijnen en ruimte voor eigen initiatief. Alle ruimte om nieuwe dingen te leren en jezelf verder te ontwikkelen. Je start met een jaarcontract, met uitzicht op een vast dienstverband.",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Kom samen met ons bouwen aan de NPO, de plek waarmee we met onze publiek content impact blijven realiseren voor ons miljoenen publiek! Dit ga je bij ons doen Als backend developer in het team Player & Metadata werk je aan de services die zorgen voor het correct en betrouwbaar afspelen van online...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "32-36 uur",
-    "Flexibele uren"
-   ],
+   "short_desc": "Niet alleen beheren, maar bouwen, verbeteren en automatiseren. Ben jij een IT’er die liever problemen structureel oplost dan steeds hetzelfde werk doet? Denk je graag vooruit en krijg je energie van een goed ingerichte IT-infrastructuur? Dan hebben we bij Huijbregts Groep een mooie uitdaging voor...",
+   "benefits": [],
    "skills": [
-    "JavaScript",
-    "TypeScript",
-    "Node.js",
-    "REST",
-    "CI/CD",
-    "AWS",
-    "Agile",
-    "Microservices",
-    "AI",
+    "Linux",
+    "Networking",
+    "Active Directory",
+    "Windows Server",
     "Security"
    ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:37:40.310705+00:00",
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
    "match": {
-    "is_junior": false,
-    "score": 40,
+    "is_junior": true,
+    "score": 85,
     "matched_skills": [
-     "REST API’s",
-     "AWS",
-     "Git / Bitbucket",
-     "Agile/Scrum"
+     "Windows Server",
+     "Active Directory",
+     "Ubuntu / Linux",
+     "Mbo 4 ICT-beheerder",
+     "Nederlands Moedertaal of tweetalig"
     ],
-    "missing_realistic": [
-     "Node.js",
-     "TypeScript",
-     "ruime backend ervaring"
-    ],
-    "ignored_unrealistic": [
-     "ruime ervaring met AWS-services zoals CDK, SQS, Lambda en DynamoDB"
-    ],
-    "reason": "De vacature vraagt om ruime backend ervaring met Node.js en TypeScript, terwijl de kandidaat een starter is in C#/PHP.",
-    "local_score": 79,
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Goede match voor systeembeheer op basis van de behaalde mbo-opleiding en praktijkervaring in de IT-infrastructuur.",
+    "local_score": 100,
     "ai": true,
     "check": false,
-    "visible": false
+    "visible": true
    }
   },
   {

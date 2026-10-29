@@ -2971,6 +2971,22 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Deze rol is te specifiek gericht op data engineering en finance, terwijl het profiel van de kandidaat meer op software development en consultancy is gericht."
+  },
+  "59bc65cabd6f": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Nederlands",
+    "Engels",
+    "communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "ervaring met AFAS"
+   ],
+   "ignored_unrealistic": [
+    "enkele jaren ervaring met AFAS"
+   ],
+   "reason": "Je mist specifieke ervaring met AFAS en de rol vraagt functioneel beheer in plaats van software engineering."
   }
  }
 }
