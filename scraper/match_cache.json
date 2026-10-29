@@ -3100,6 +3100,190 @@
     "Een paar jaar ervaring in inkoop"
    ],
    "reason": "Hoewel je IT-kennis hebt, vraag deze functie gerichte inkoopervaring die je nog niet hebt opgebouwd."
+  },
+  "459ccaccd465": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "hbo-ICT"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt de juiste hbo-achtergrond en C#/.NET ervaring om direct aan de slag te gaan als junior .NET developer."
+  },
+  "d2ff963a4c5a": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "wetenschappelijke softwareontwikkeling",
+    "astronomie kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie is te wetenschappelijk en niet specifiek ingericht als junior softwareontwikkeltraject."
+  },
+  "ce594ce11c64": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "Azure"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sluit met je C#-, .NET- en Azure-kennis goed aan bij deze rol voor maatschappelijke zorg-IT."
+  },
+  "148bc8938695": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    ".NET",
+    "C#"
+   ],
+   "missing_realistic": [
+    "Angular",
+    "ervaring met zware rijksbrede migratietrajecten"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De schaal 10 inschaling duidt op een medior/senior niveau dat nog te hoog gegrepen is."
+  },
+  "bb4e791591a2": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Microsoft Azure",
+    "klantadvies",
+    "AI"
+   ],
+   "missing_realistic": [
+    "ervaring als zelfstandig consultant"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en IT-achtergrond passen bij een adviesrol, hoewel consultancy nieuw voor je is."
+  },
+  "3d37768e6742": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "support",
+    "Windows Server",
+    "netwerken"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide servicedesk- en supportachtergrond sluit naadloos aan bij deze ondersteunende rol."
+  },
+  "22c354d8c34f": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "MBO 3",
+    "systeembeheer",
+    "servers"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt de vereiste MBO-achtergrond en relevante stage- en werkervaring in systeembeheer."
+  },
+  "c893781e86ae": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "IT-processen"
+   ],
+   "missing_realistic": [
+    "ervaring met Planon",
+    "functioneel beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De salarisschaal en verantwoordelijkheden wijzen op een medior/senior functie in plaats van een startersfunctie."
+  },
+  "f4689b868c87": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Active Directory",
+    "Windows Server",
+    "Linux"
+   ],
+   "missing_realistic": [
+    "specifieke zorgapplicatie-kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al goede ervaring met IT-beheer en systemen, waardoor je de rol van functioneel beheerder snel eigen kunt maken."
+  },
+  "07c4a74f6fe3": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "uitgebreide UX-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke achtergrond in frontend-ontwikkeling en klantcontact past goed bij de rol van business analist voor klantportalen."
+  },
+  "704ab2f0d8b7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "diepgaande data-analyse-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met Python en SQL vanuit je studie, maar mist gerichte ervaring als data-analist in de zorg."
+  },
+  "187df752f1c8": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "ervaring met ISAE 3402 en risicobeheersing"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een solide technische basis, maar mist specifieke ervaring met kwaliteits- en risicocontroles binnen de financiële sector."
+  },
+  "9be5e725c209": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "JavaScript",
+    "REST API’s",
+    "MCP / AI-koppelingen"
+   ],
+   "missing_realistic": [
+    "TypeScript"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring met AI-koppelingen, API's en development sluit naadloos aan bij deze automatiseringsrol."
+  },
+  "820adb4aad21": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "jarenbarende ervaring met enterprise architectuur"
+   ],
+   "ignored_unrealistic": [
+    "know the Boomi ecosystem cold",
+    "track record of clearing architectural hurdles"
+   ],
+   "reason": "Deze rol vraagt senior enterprise-ervaring en diepgaande kennis van een specifiek ecosysteem die je als starter nog niet hebt."
   }
  }
 }
