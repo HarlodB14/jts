@@ -3284,6 +3284,132 @@
     "track record of clearing architectural hurdles"
    ],
    "reason": "Deze rol vraagt senior enterprise-ervaring en diepgaande kennis van een specifiek ecosysteem die je als starter nog niet hebt."
+  },
+  "31459214084b": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "REST API’s",
+    "MCP / AI-koppelingen"
+   ],
+   "missing_realistic": [
+    "Ervaring met business consultancy en organisatietransformaties"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met AI en klantcontact, maar de rol vraagt meer consultancy-ervaring dan je technische achtergrond."
+  },
+  "813fced4cc2c": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Logistieke processen",
+    "Business Intelligence (BI) dashboards"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt programmeer- en SQL-ervaring, maar de logistieke en BI-focus van deze rol sluit minder direct aan bij je achtergrond."
+  },
+  "1c8d987df7c3": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "JavaScript",
+    "Git / Bitbucket",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Android-ontwikkeling (Java/Kotlin voor mobiel)"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede programmeerskills, maar specifieke Android-ontwikkeling ontbreekt in je cv."
+  },
+  "fde71866bbcd": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Active Directory",
+    "Windows Server"
+   ],
+   "missing_realistic": [
+    "Ervaring met specifiek beheer van Jira en Confluence"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-beheerachtergrond sluit goed aan bij functioneel beheer, al heb je specifiek met Jira en Confluence minder gewerkt."
+  },
+  "1db02a1b8e2a": {
+   "is_junior": true,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Laboratoriumervaring",
+    "Chemie en farmaceutische analyse"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze laboratoriumfunctie past niet bij je IT- en softwareontwikkeling-achtergrond."
+  },
+  "70ea01576bcf": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "Linux"
+   ],
+   "missing_realistic": [
+    "Grondradar-systemen",
+    "Landmeten en AutoCAD"
+   ],
+   "ignored_unrealistic": [
+    "Ervaring met ground radar"
+   ],
+   "reason": "Je technische basis is sterk, maar veldwerk met grondradar en landmeten ligt te ver af van jouw softwareprofiel."
+  },
+  "998d157f7dfd": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Datagovernance en datakwaliteitsbeleid"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met data, maar de rol vraagt meer specifieke ervaring met datastewardship en governance."
+  },
+  "3a9a48a74204": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Enterprise BI-architectuur",
+    "Ervaring als System Analyst"
+   ],
+   "ignored_unrealistic": [
+    "Enterprise-level BI-architectuur ontwerpen"
+   ],
+   "reason": "Dit is een medior/senior enterprise-rol die te zwaar is voor een starter."
+  },
+  "bd26dd06fa95": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Linux",
+    "AWS",
+    "Azure"
+   ],
+   "missing_realistic": [
+    "ervaring met network operations",
+    "data-analysetools en dashboards",
+    "financiële en partner-rapportages"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol richt zich op business- en netwerkoperations in plaats van software engineering, waardoor je profiel minder goed aansluit."
   }
  }
 }
