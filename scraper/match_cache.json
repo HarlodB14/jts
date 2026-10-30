@@ -3537,6 +3537,110 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt al ervaring met klantgesprekken en procesanalyse, wat goed aansluit bij deze junior rol."
+  },
+  "125837866020": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "C#"
+   ],
+   "missing_realistic": [
+    "C++",
+    "Embedded software"
+   ],
+   "ignored_unrealistic": [
+    "enkele jaren ervaring"
+   ],
+   "reason": "Je hebt wel programmeerervaring, maar je mist C++ en specifieke achtergrond in embedded software."
+  },
+  "a40ba2f1a3eb": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "JavaScript",
+    "C#",
+    "SQL",
+    "REST API’s",
+    "Vue / Nuxt"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke vaardigheden in webdevelopment en .NET die direct aansluiten bij deze rol."
+  },
+  "c6bb2df22c0e": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "Linux"
+   ],
+   "missing_realistic": [
+    "ervaring met fysieke machines of robotica"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-kennis sluit goed aan, hoewel je nog ervaring moet opbrengen met machinebesturing in de praktijk."
+  },
+  "6fea9273d203": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "juridische achtergrond",
+    "compliance ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze juridische compliance rol sluit niet aan bij jouw technische IT-achtergrond."
+  },
+  "e884ac9ffb00": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "AWS",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "jarenlange senior systeembeheerervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een mbo ICT-beheerafsluiting en servicedeskervaring, maar mist de senior diepgang voor een complexe overheidsinfrastructuur."
+  },
+  "3b5df36d59b0": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "ervaring met zorgapplicaties zoals Care4"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met zorg-IT en applicaties, waardoor je goed past binnen deze functioneel beheer rol."
+  },
+  "22874979b8ca": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "opleiding chemie",
+    "laboratoriumervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een IT-achtergrond en geen chemische opleiding, waardoor deze functie niet past."
+  },
+  "de41f415a459": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke Python- en SQL-vaardigheden passen uitstekend bij deze data- en settlementanalyse."
   }
  }
 }
