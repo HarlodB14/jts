@@ -168,6 +168,22 @@
     return { text, issues, words: wordCount(text) };
   }
 
+  // Eigen vacature: haalt functie, bedrijf, plaats en taal uit een geplakte vacaturetekst.
+  async function extractJob({ key, model, text }) {
+    const prompt = [
+      "Lees de vacaturetekst hieronder. Geef ALLEEN dit JSON-object terug, zonder uitleg of markdown:",
+      '{"title": "functietitel", "company": "bedrijfsnaam", "location": "plaats of Remote", "lang": "nl of en"}',
+      "lang is de taal waarin de vacature geschreven is. Staat iets er niet in, geef dan een lege string.",
+      "",
+      String(text).slice(0, 6000),
+    ].join("\n");
+    const raw = await callGemini({ key, model: normalizeModel(model), prompt });
+    let out = {};
+    try { out = JSON.parse((raw.match(/\{[\s\S]*\}/) || ["{}"])[0]); } catch { /* lege velden */ }
+    const s = (v) => String(v || "").trim().slice(0, 120);
+    return { title: s(out.title), company: s(out.company), location: s(out.location), lang: out.lang === "en" ? "en" : "nl" };
+  }
+
   // Keyword-dekking: welke vacature-kernwoorden staan in brief / cv.
   function coverage({ jobKeywords, cv, letter }, skillMatcher) {
     const cvSet = new Set(skillMatcher(cv));
@@ -179,7 +195,7 @@
     }));
   }
 
-  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, DEFAULT_MODEL, normalizeModel, buildPrompt, sanitize, problems, wordCount, generate, coverage };
+  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, DEFAULT_MODEL, normalizeModel, buildPrompt, extractJob, sanitize, problems, wordCount, generate, coverage };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.JTSLetter = api;
 })(typeof window !== "undefined" ? window : globalThis);

@@ -97,6 +97,7 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px; }
 .btn { border: 1px solid var(--line); background: var(--surface); border-radius: 10px; padding: 8px 14px; font-size: 14px; }
 .btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
 .btn.good { background: var(--good); color: #fff; border-color: var(--good); }
+.btn.small { min-height: 0; padding: 4px 10px; font-size: 12px; margin-top: 4px; }
 .btn:disabled { opacity: .5; cursor: default; }
 
 /* sheet */

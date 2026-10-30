@@ -52,6 +52,8 @@ Jij bent de ATS. JTS haalt elk uur junior IT-vacatures en traineeships op, check
   - Het token maak je via GitHub → Settings → Developer settings → Fine-grained tokens, met alleen toegang tot je JTS-repo: *Actions: Read and write* en *Contents: Read-only*.
   - Het token blijft alleen op je eigen apparaat.
 - **Swipe rechts** (of ✓ / pijltje rechts): de brief wordt gemaakt. Daarna *Kopieer brief* → *Open vacature* → plakken en zelf versturen → *Markeer als gesolliciteerd*.
+- **＋ Eigen vacature** (knop bovenin): vacature gevonden die niet in JTS staat? Tik op ＋, plak de vacaturetekst en tik *Lees vacature en schrijf brief*. Gemini leest functie, bedrijf, plaats en taal uit en schrijft meteen de brief, met dezelfde regels en keyword-dekking. De vacature komt als *bewaard* in de tracker, met een knop *Brief* om hem later weer te openen.
+  - Op Android (app op beginscherm) kun je ook vanuit de browser of LinkedIn-app **Delen → JTS** kiezen. Wordt alleen een link gedeeld, plak dan nog de vacaturetekst: JTS kan de pagina zelf niet openen.
 - **Swipe links**: overslaan. **☆**: bewaren in de tracker.
 - **Keyword-dekking**: groen staat al in je brief. Oranje staat in je cv maar nog niet in je brief, en met *Verwerk ontbrekende* komt het erin. Doorgestreept staat niet in je cv.
 

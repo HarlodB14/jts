@@ -13,6 +13,7 @@
   profile.model = L.normalizeModel(profile.model);   // oude, trage modelkeuze omzetten
   const status = store.get("status", {});      // id -> {s: skip|saved|applied, at, title, company, url}
   const letters = store.get("letters2", {});   // id -> tekst (nieuwe versie: oude, onvolledige brieven niet hergebruiken)
+  const ownJobs = store.get("ownJobs", {});    // id -> zelf geplakte vacature
   // Lokale kopie van alle vacatures (7 dagen), zodat niets verdwijnt als jobs.json ververst of offline is.
   const cache = store.get("jobsCache", {});
   let jobs = Object.values(cache), meta = store.get("meta", {}), skillRes = [], lastLoad = 0;
@@ -391,11 +392,14 @@
   function renderTracker() {
     const rows = Object.entries(status).filter(([, v]) => v.s !== "skip").sort((a, b) => b[1].at.localeCompare(a[1].at));
     const label = { saved: "bewaard", applied: "gesolliciteerd" };
-    $("#tracker").innerHTML = rows.length ? rows.map(([, v]) => `
-      <div class="trow"><div><a href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener">${esc(v.title)}</a><div class="muted">${esc(v.company)}</div></div>
-      <div class="st">${label[v.s]}<div class="muted">${new Date(v.at).toLocaleDateString("nl-NL")}</div></div></div>`).join("")
+    $("#tracker").innerHTML = rows.length ? rows.map(([id, v]) => `
+      <div class="trow"><div>${v.url ? `<a href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener">${esc(v.title)}</a>` : esc(v.title)}
+        <div class="muted">${esc(v.company)}${ownJobs[id] ? " · eigen vacature" : ""}</div></div>
+      <div class="st">${label[v.s]}<div class="muted">${new Date(v.at).toLocaleDateString("nl-NL")}</div>
+        ${findJob(id) ? `<button class="btn small" data-letter="${esc(id)}">Brief</button>` : ""}</div></div>`).join("")
       : `<div class="empty">Nog niets gesolliciteerd of bewaard.</div>`;
   }
+  const findJob = (id) => ownJobs[id] || jobs.find((j) => j.id === id);
 
   function exportCsv() {
     const q = (s) => `"${String(s ?? "").replace(/"/g, '""')}"`;
@@ -412,7 +416,7 @@
   function sheetShell(job, body, foot = "") {
     $("#sheet").innerHTML = `
       <div class="sheet-head">
-        <div class="sheet-title"><h3>${esc(job.title)}</h3><div class="muted">${esc(job.company)} · ${esc(job.location)}</div></div>
+        <div class="sheet-title"><h3>${esc(job.title)}</h3><div class="muted">${esc([job.company, job.location].filter(Boolean).join(" · "))}</div></div>
         <button class="icon-btn" id="sheet-x" aria-label="Sluiten">✕</button>
       </div>
       <div class="sheet-body">${body}</div>
@@ -428,7 +432,7 @@
   async function openSheet(job, extraKeywords) {
     $("#sheet-bg").classList.add("on"); $("#sheet").classList.add("on");
     document.body.classList.add("sheet-open");
-    const openBtn = `<a class="btn" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>`;
+    const openBtn = job.url ? `<a class="btn" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>` : "";
     if (!profile.cv || !profile.key) {
       sheetShell(job, `<p>Vul eerst je cv en Gemini API-key in bij Profiel.</p>`,
         `<button class="btn primary" id="go-prof">Naar profiel</button>${openBtn}`);
@@ -473,7 +477,7 @@
         ${tips.length ? `<div class="muted">Tip: beheers je ${esc(tips.slice(0, 5).join(", "))}? Zet het dan in je cv en LinkedIn-profiel.</div>` : ""}
       </details>` : ""}`,
       `<button class="btn primary" id="copy">Kopieer brief</button>
-       <a class="btn" id="open" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>
+       ${job.url ? `<a class="btn" id="open" href="${esc(safeUrl(job.url))}" target="_blank" rel="noopener">Open vacature ↗</a>` : ""}
        <button class="btn good wide" id="applied">${applied ? "Gesolliciteerd ✓" : "Markeer als gesolliciteerd"}</button>`);
     const ta = $("#letter");
     ta.oninput = () => {
@@ -486,10 +490,65 @@
       catch { ta.value = clean; ta.select(); document.execCommand("copy"); }
       toast("Brief gekopieerd");
     };
-    $("#open").onclick = () => { if (!status[job.id]) setStatus(job, "saved"); };
+    if ($("#open")) $("#open").onclick = () => { if (!status[job.id]) setStatus(job, "saved"); };
     if (fixable.length) $("#fix").onclick = () => openSheet(job, fixable);
     $("#regen").onclick = () => { delete letters[job.id]; openSheet(job); };
     $("#applied").onclick = () => { setStatus(job, "applied"); toast("Opgeslagen in tracker"); closeSheet(); };
+  }
+
+  // ---------- eigen vacature: tekst plakken, JTS leest hem uit en schrijft direct de brief ----------
+  const OWN = { title: "Eigen vacature", company: "Plak een vacaturetekst, JTS schrijft er direct een brief bij" };
+  const looksEnglish = (t) => (t.match(/\b(the|and|you|your|with|we|our|will)\b/gi) || []).length >
+    (t.match(/\b(de|het|een|en|je|jouw|wij|met|van)\b/gi) || []).length;
+
+  function openOwnSheet(pre = {}, msg = "") {
+    $("#sheet-bg").classList.add("on"); $("#sheet").classList.add("on");
+    document.body.classList.add("sheet-open");
+    if (!profile.cv || !profile.key) {
+      sheetShell(OWN, `<p>Vul eerst je cv en Gemini API-key in bij Profiel.</p>`, `<button class="btn primary" id="go-prof">Naar profiel</button>`);
+      $("#go-prof").onclick = () => { closeSheet(); show("profile"); };
+      return;
+    }
+    const open = !!(pre.title || pre.company || pre.location || pre.url || msg);
+    sheetShell(OWN, `
+      ${msg ? `<p class="issues">${esc(msg)}</p>` : ""}
+      <textarea id="own-text" aria-label="Vacaturetekst" placeholder="Plak hier de hele vacaturetekst (functie, bedrijf, taken en eisen)">${esc(pre.text || "")}</textarea>
+      <div class="sheet-tools">${navigator.clipboard?.readText ? `<button class="btn" id="own-paste">Plak van klembord</button>` : ""}</div>
+      <details class="covbox"${open ? " open" : ""}><summary>Functie, bedrijf en link (optioneel, anders leest JTS ze zelf uit)</summary>
+        <label class="field">Functie <input id="own-title" value="${esc(pre.title || "")}"></label>
+        <label class="field">Bedrijf <input id="own-company" value="${esc(pre.company || "")}"></label>
+        <label class="field">Plaats <input id="own-loc" value="${esc(pre.location || "")}"></label>
+        <label class="field">Link naar vacature <input id="own-url" type="url" value="${esc(pre.url || "")}" placeholder="https://..."></label>
+      </details>`,
+      `<button class="btn primary wide" id="own-go">Lees vacature en schrijf brief</button>`);
+    if ($("#own-paste")) $("#own-paste").onclick = async () => {
+      try { $("#own-text").value = await navigator.clipboard.readText(); } catch { toast("Plakken niet toegestaan, houd het veld ingedrukt en kies Plakken"); }
+    };
+    $("#own-go").onclick = () => makeOwnJob({
+      text: $("#own-text").value.trim(), title: $("#own-title").value.trim(), company: $("#own-company").value.trim(),
+      location: $("#own-loc").value.trim(), url: $("#own-url").value.trim(),
+    });
+  }
+
+  async function makeOwnJob(f) {
+    if (f.text.length < 80) return openOwnSheet(f, "Plak eerst de vacaturetekst. Een link alleen is niet genoeg, JTS kan de pagina zelf niet openen.");
+    let lang = looksEnglish(f.text) ? "en" : "nl";
+    if (!f.title || !f.company || !f.location) {
+      sheetShell(OWN, `<div class="sheet-loading"><span class="spinner"></span>Vacature lezen...<div class="muted">Functie, bedrijf en plaats uitlezen</div></div>`);
+      try {
+        const x = await L.extractJob({ key: profile.key, model: profile.model, text: f.text });
+        f.title ||= x.title; f.company ||= x.company; f.location ||= x.location; lang = x.lang;
+      } catch { /* zelf invullen */ }
+    }
+    if (!f.company || !f.title) return openOwnSheet(f, "JTS kon functie of bedrijf niet vinden. Vul ze hieronder zelf in.");
+    const job = {
+      id: "own-" + Date.now().toString(36), title: f.title, company: f.company, location: f.location, lang,
+      url: /^https?:\/\//i.test(f.url) ? f.url : "", full_text: f.text, skills: findSkills(f.text),
+      source: "Eigen vacature", first_seen: new Date().toISOString(),
+    };
+    ownJobs[job.id] = job; store.set("ownJobs", ownJobs);
+    setStatus(job, "saved");   // staat meteen in de tracker, ook als je de brief later afmaakt
+    openSheet(job);
   }
 
   // ---------- profiel ----------
@@ -637,6 +696,8 @@
   let qTimer;
   $("#q").oninput = (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => setFilter({ q: e.target.value.trim() }), 200); };
   $("#btn-refresh").onclick = refreshNow;
+  $("#btn-own").onclick = () => openOwnSheet();
+  $("#tracker").onclick = (e) => { const b = e.target.closest("[data-letter]"); if (b) openSheet(findJob(b.dataset.letter)); };
   $("#btn-no").onclick = () => decide("no");
   $("#btn-yes").onclick = () => decide("yes");
   $("#btn-save").onclick = () => decide("save");
@@ -657,6 +718,14 @@
       if (hadController && !reloaded) { reloaded = true; location.reload(); }
     });
     navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then((r) => r.update()).catch(() => {});
+  }
+  const shared = new URLSearchParams(location.search);
+  if (["title", "text", "url"].some((k) => shared.get(k))) {
+    history.replaceState(null, "", location.pathname);
+    const txt = [shared.get("title"), shared.get("text")].filter(Boolean).join("\n\n");
+    const url = shared.get("url") || (txt.match(/https?:\/\/\S+/) || [""])[0];
+    const text = txt.replace(url, "").trim();
+    setTimeout(() => openOwnSheet({ text, url }, text.length < 80 ? "Link ontvangen. Kopieer nu ook de vacaturetekst en plak die hieronder." : ""), 300);
   }
   fillProfile();
   checkStorage();
