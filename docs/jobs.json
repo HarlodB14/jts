@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-30T09:21:01.527989+00:00",
+ "updated_at": "2026-10-30T09:31:36.092800+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 545,
+  "jobspy": 546,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
@@ -66,6 +66,125 @@
     "ignored_unrealistic": [],
     "reason": "Je hebt al ervaring met klantgesprekken en procesanalyse, wat goed aansluit bij deze junior rol.",
     "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "dc1714ea14d8",
+   "source": "JobSpy",
+   "title": "Developer Java & springboot",
+   "company": "Justitiële Informatiedienst (Justid)",
+   "location": "Leeuwarden, FR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-30T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7494aaa4597048f2",
+   "salary": "€4132 - €6275 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg je in ons Agile team van gevarieerde expertises waar we met een gezonde dosis humor en de inzet om elkaar verder te helpen blijven werken aan het veiliger maken van Nederland. WAT GA JE DOEN? Miljoenen records, complexe ketens, uitdagende maatschappelijk kritische applicaties op het gebied van privacy en identiteit: dat is het landschap van de StrafrechtKetenDataBank (SKDB). Deze applicaties gaan al een tijdje mee, en zijn toe aan vernieuwing. Met jouw expertise in recente Java- en Spring Boot-ontwikkelingen help je het team dat de centrale spil van de strafrechtketen moderniseert en migreert naar toekomstbestendige oplossingen. Je komt in een gevarieerd team van expertises, met een gezonde dosis humor en de inzet om elkaar verder te helpen. Belangrijk, want je werk is vertrouwelijk en niet met anderen dan je collega's te delen. Lijkt het je interessant om met ons samen te werken, kennis te delen en jezelf te blijven ontwikkelen? Neem dan contact met ons op voor een vrijblijvende kennismaking. Concreet betekent dat: Samen met het scrumteam, in een sprint, userstories tot een opleverbaar product verwerken. Proactief verbeteringen en innovaties signaleren en bespreken. Je kennis overdragen aan collega's Gevraagd en ongevraagd op constructieve wijze jouw visie op een beter product delen. Volgens afgesproken processen werken en investeren in een goede samenwerking. Een bijdrage leveren aan het verhogen van de kwaliteit van onze dienstverlening. Actief bijdragen aan (de ontwikkeling van) Agile werken. Let op als je gaat solliciteren: Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 11 €4.132 - €6.275 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor in Leeuwarden werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij Wat lezen we op jouw CV? Ruime en recente ervaring met Java en Spring Boot Kennis van CI/CD Je hebt kennis van API, Rest- en Webservices Je hebt kennis van relationele databases Ervaring met containerisatie; ervaring met Kubernetes en Argo CD Pré: Ervaring met front-end, met name Angular Waarmee maak jij het verschil? Je bent nieuwsgierig om je steeds verder te blijven ontwikkelen in Java en Spring Boot. Met deze technologieën help je de SKDB te moderniseren en verbeteren. Dankzij jouw ruime Java-ervaring ben je een stevige samenwerkingspartner en vraagbaak voor je collega’s. Je ademt SOLID. Je zorgt voor een goede dynamiek in het Agile-team. Je begrijpt dat je kwaliteit bij de bron moet realiseren, en dat fouten voorkomen aan het begin van het voortbrengingsproces essentieel is om zo vroeg mogelijk de kwaliteitseisen te kunnen invullen. Je durft ook stelling te nemen als kwaliteit onder druk staat en weet, zonder relaties te schaden, toch het gewenste resultaat te bereiken. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het Busdevopsteam SKDB, waarin je komt te werken, verzorgt het goed functioneren van de strafrechtketendatabank (SKDB). In de SKDB worden de administratieve persoonsgegevens van een justitiabele opgeslagen onder een uniek strafrechtketennummer. Daarnaast heeft de databank verwijzingen en koppelingen met de gehele strafrechtketen. Het is bijvoorbeeld mogelijk om na te gaan of een persoon gedetineerd is, een actuele OM zaak heeft, bekend is bij de Raad voor de Kinderbescherming of nog een werkstraf moet uitvoeren",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Java",
+    "Angular",
+    "Spring",
+    "REST",
+    "CI/CD",
+    "Kubernetes",
+    "Agile",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-30T08:32:28.375111+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 30,
+    "matched_skills": [
+     "Java"
+    ],
+    "missing_realistic": [
+     "Spring Boot",
+     "medior/senior niveau"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt.",
+    "local_score": 74,
+    "ai": true,
+    "check": true,
+    "visible": false
+   }
+  },
+  {
+   "id": "ee3f607a9ed4",
+   "source": "JobSpy",
+   "title": "Ontwikkelaar Business Intelligence",
+   "company": "St. Antonius Ziekenhuis",
+   "location": "Utrecht Leidsche Rijn, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-30T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=b5155f1dc33b1a78",
+   "salary": "€3903 - €5503 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Waarom kiezen voor deze baan? Werk waarin je technische kennis bijdraagt aan betere patiëntenzorg in ons ziekenhuis. Een bewuste keuze voor een ICT-baan met maatschappelijke betekenis. Ruimte om jouw expertise en ideeën in te brengen en mee te denken over de verdere ontwikkeling van ons BI-platform. Een BI-afdeling met zo'n 35 collega's en verschillende specialismen om mee te sparren, gecombineerd met de mogelijkheid om deels vanuit huis te werken. Hybride werken, flexibele werktijden en vaste samenwerkdagen op maandag en donderdag in Utrecht Wat ga je doen als Ontwikkelaar Business Intelligence? Als BI-ontwikkelaar bouw je aan informatieproducten die binnen én buiten het ziekenhuis worden gebruikt. Denk aan dashboards voor zorgprofessionals en managers, datasets voor wetenschappelijk onderzoek en gegevensleveringen voor landelijke analyses. Met deze informatie kunnen zorgprofessionals behandeluitkomsten vergelijken en onderzoeken waar verbeteringen mogelijk zijn. Zo hebben analyses onder andere bijgedragen aan het verkorten van de opnameduur en het verminderen van complicaties na operaties. Dat maakt jouw ontwikkelwerk niet alleen technisch interessant, maar geeft het ook betekenis voor de patiëntenzorg. Je werkt in een scrumteam aan ons BI-platform en de informatieproducten die daarop worden ontwikkeld. Samen met informatieanalisten onderzoek je welke oplossing het beste aansluit bij de vraag van de gebruiker. Vervolgens vertaal je functionele specificaties naar technische oplossingen die je samen met andere ontwikkelaars en eindgebruikers uitwerkt. Daarbij houd je je onder andere bezig met: Het ontwikkelen van dashboards, datasets en andere informatieproducten voor zorg, onderzoek en bedrijfsvoering. Het vertalen van functionele specificaties naar technische oplossingen, inclusief data-analyse en datamodellering. Het ontwerpen van nieuwe oplossingen binnen de bestaande architectuur, in samenwerking met onze architect. Het verbeteren van ons BI-platform, waaronder de OTAP-omgeving, ETL-processen, ontwikkelstandaarden en bestaande informatieproducten. Het uitvoeren van unit-, integratie- en performancetesten, zodat onze informatieproducten betrouwbaar werken. Het delen van kennis en betrekken van collega's bij nieuwe technieken en verbeteringen. Ook kijk je continu hoe we ons platform en onze manier van ontwikkelen verder kunnen verbeteren. Goede ideeën bespreek je met je team en werk je samen uit. Jouw toekomstige werkplek Je gaat aan de slag bij de afdeling Business Intelligence, onderdeel van Informatiemanagement & ICT (I&I). Hier werken we aan betrouwbare en toegankelijke informatie voor de hele organisatie: van zorgprofessionals op de werkvloer tot het management en de Raad van Bestuur. We gebruiken gegevens uit verschillende systemen, waaronder ons elektronisch patiëntendossier Epic, AFAS en Ortec. Deze gegevens brengen we samen in ons eigen datawarehouse, dat is ontwikkeld met Microsoft-technologie. Voor rapportages en analyses maken we onder andere gebruik van Power BI. Een belangrijk onderdeel van ons werk is het ontwikkelen van informatieproducten waarmee collega's zelf toegang krijgen tot de gegevens en inzichten die zij nodig hebben. Daarbij richten we ons zowel op patiëntenzorg en onderzoek als op de bedrijfsvoering van het ziekenhuis. Ook werken we samen met Santeon, een samenwerkingsverband van zeven topklinische ziekenhuizen. De gegevens die we aanleveren, worden onder andere gebruikt om behandeluitkomsten tussen ziekenhuizen te vergelijken en de zorg verder te verbeteren. De BI-afdeling bestaat uit ongeveer 35 collega's, verdeeld over verschillende teams en specialismen, waaronder AI, Epic workflow en BI-ontwikkeling. Je werkt samen met ontwikkelaars, informatieanalisten en andere specialisten. Dat biedt volop mogelijkheden om technische vraagstukken te bespreken, kennis uit te wisselen en van elkaar te leren. We werken hybride. Donderdag is onze vaste samen werkdag op locatie in Utrecht. Op de andere dagen stemmen we met collega's af of we thuis of op locatie werken. Dit bieden we jou Een salaris tussen € 3.903 - € 5.503,- bruto p/m (FWG-schaal 55 Cao Ziekenhuizen), op basis van 36 uur per week. Je salaris stemmen we af op je opleiding en werkervaring. Een jaarcontract voor 36 uur per week , aansluitend bespreken we graag eventuele mogelijkheden met je, 8,33% eindejaarsuitkering in december en 8,33% vakantiegeld . Een pensioenregeling bij PFZW , waarbij St. Antonius 50% van de pensioenpremie betaalt. Jaarlijks 57 uur Persoonlijk Levensfasebudget bij een 36-urige werkweek, dat je kunt inzetten op een manier die past bij jouw levensfase. Fiscaal voordeel via ons Meerkeuzesysteem Arbeidsvoorwaarden . Hiermee kun je een deel van je brutoloon inzetten voor bijvoorbeeld een fiets, fitness en sport, studiekosten, extra reiskosten of een device. Veel ruimte om je vakinhoudelijk en persoonlijk te ontwikkelen via ons uitgebreide leerplatform met live trainingen en e-learnings. Via Epassi, Benefits at Work en Tickets for Good krijg je toegang tot activiteiten, workshops, evenementen en culturele uitjes, vaak tegen alleen administratiekosten. Jouw talenten Je krijgt energie van complexe informatievraagstukken vertalen naar technische oplossingen. Daarbij kijk je verder dan alleen de code. Je wilt begrijpen wat gebruikers nodig hebben en hoe je een oplossing ontwikkelt die goed werkt én onderhouden kan worden. Samenwerken in een scrumteam gaat je goed af. Je neemt verantwoordelijkheid voor je werk, denkt mee over technische verbeteringen en deelt je kennis met collega's. Ook kun je jouw technische keuzes helder uitleggen aan mensen met verschillende achtergronden. Verder breng je mee: Academisch werk- en denkniveau. Meerdere jaren aantoonbare ervaring met Microsoft SQL Server, SQL Server Integration Services (SSIS) en SQL Server Analysis Services (SSAS) Tabular. Kennis van Power BI, Azure DevOps en Excel. Ervaring met T-SQL, DAX, PowerShell en dimensioneel modelleren volgens Kimbal",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Waarom kiezen voor deze baan? Werk waarin je technische kennis bijdraagt aan betere patiëntenzorg in ons ziekenhuis. Een bewuste keuze voor een ICT-baan met maatschappelijke betekenis. Ruimte om jouw expertise en ideeën in te brengen en mee te denken over de verdere ontwikkeling van ons...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "SQL",
+    "PowerShell",
+    "Azure",
+    "DevOps",
+    "AI",
+    "Data analyse",
+    "Power BI",
+    "Excel",
+    "ETL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-30T08:32:28.375111+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Business Intelligence",
+     "Power BI"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt ervaring met SQL en data-analyse, maar mist specifieke Business Intelligence-ervaring voor deze rol.",
+    "local_score": 53,
     "ai": true,
     "check": false,
     "visible": true
@@ -292,125 +411,6 @@
     "ai": true,
     "check": false,
     "visible": true
-   }
-  },
-  {
-   "id": "ee3f607a9ed4",
-   "source": "JobSpy",
-   "title": "Ontwikkelaar Business Intelligence",
-   "company": "St. Antonius Ziekenhuis",
-   "location": "Utrecht Leidsche Rijn, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-30T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=b5155f1dc33b1a78",
-   "salary": "€3903 - €5503 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Waarom kiezen voor deze baan? Werk waarin je technische kennis bijdraagt aan betere patiëntenzorg in ons ziekenhuis. Een bewuste keuze voor een ICT-baan met maatschappelijke betekenis. Ruimte om jouw expertise en ideeën in te brengen en mee te denken over de verdere ontwikkeling van ons BI-platform. Een BI-afdeling met zo'n 35 collega's en verschillende specialismen om mee te sparren, gecombineerd met de mogelijkheid om deels vanuit huis te werken. Hybride werken, flexibele werktijden en vaste samenwerkdagen op maandag en donderdag in Utrecht Wat ga je doen als Ontwikkelaar Business Intelligence? Als BI-ontwikkelaar bouw je aan informatieproducten die binnen én buiten het ziekenhuis worden gebruikt. Denk aan dashboards voor zorgprofessionals en managers, datasets voor wetenschappelijk onderzoek en gegevensleveringen voor landelijke analyses. Met deze informatie kunnen zorgprofessionals behandeluitkomsten vergelijken en onderzoeken waar verbeteringen mogelijk zijn. Zo hebben analyses onder andere bijgedragen aan het verkorten van de opnameduur en het verminderen van complicaties na operaties. Dat maakt jouw ontwikkelwerk niet alleen technisch interessant, maar geeft het ook betekenis voor de patiëntenzorg. Je werkt in een scrumteam aan ons BI-platform en de informatieproducten die daarop worden ontwikkeld. Samen met informatieanalisten onderzoek je welke oplossing het beste aansluit bij de vraag van de gebruiker. Vervolgens vertaal je functionele specificaties naar technische oplossingen die je samen met andere ontwikkelaars en eindgebruikers uitwerkt. Daarbij houd je je onder andere bezig met: Het ontwikkelen van dashboards, datasets en andere informatieproducten voor zorg, onderzoek en bedrijfsvoering. Het vertalen van functionele specificaties naar technische oplossingen, inclusief data-analyse en datamodellering. Het ontwerpen van nieuwe oplossingen binnen de bestaande architectuur, in samenwerking met onze architect. Het verbeteren van ons BI-platform, waaronder de OTAP-omgeving, ETL-processen, ontwikkelstandaarden en bestaande informatieproducten. Het uitvoeren van unit-, integratie- en performancetesten, zodat onze informatieproducten betrouwbaar werken. Het delen van kennis en betrekken van collega's bij nieuwe technieken en verbeteringen. Ook kijk je continu hoe we ons platform en onze manier van ontwikkelen verder kunnen verbeteren. Goede ideeën bespreek je met je team en werk je samen uit. Jouw toekomstige werkplek Je gaat aan de slag bij de afdeling Business Intelligence, onderdeel van Informatiemanagement & ICT (I&I). Hier werken we aan betrouwbare en toegankelijke informatie voor de hele organisatie: van zorgprofessionals op de werkvloer tot het management en de Raad van Bestuur. We gebruiken gegevens uit verschillende systemen, waaronder ons elektronisch patiëntendossier Epic, AFAS en Ortec. Deze gegevens brengen we samen in ons eigen datawarehouse, dat is ontwikkeld met Microsoft-technologie. Voor rapportages en analyses maken we onder andere gebruik van Power BI. Een belangrijk onderdeel van ons werk is het ontwikkelen van informatieproducten waarmee collega's zelf toegang krijgen tot de gegevens en inzichten die zij nodig hebben. Daarbij richten we ons zowel op patiëntenzorg en onderzoek als op de bedrijfsvoering van het ziekenhuis. Ook werken we samen met Santeon, een samenwerkingsverband van zeven topklinische ziekenhuizen. De gegevens die we aanleveren, worden onder andere gebruikt om behandeluitkomsten tussen ziekenhuizen te vergelijken en de zorg verder te verbeteren. De BI-afdeling bestaat uit ongeveer 35 collega's, verdeeld over verschillende teams en specialismen, waaronder AI, Epic workflow en BI-ontwikkeling. Je werkt samen met ontwikkelaars, informatieanalisten en andere specialisten. Dat biedt volop mogelijkheden om technische vraagstukken te bespreken, kennis uit te wisselen en van elkaar te leren. We werken hybride. Donderdag is onze vaste samen werkdag op locatie in Utrecht. Op de andere dagen stemmen we met collega's af of we thuis of op locatie werken. Dit bieden we jou Een salaris tussen € 3.903 - € 5.503,- bruto p/m (FWG-schaal 55 Cao Ziekenhuizen), op basis van 36 uur per week. Je salaris stemmen we af op je opleiding en werkervaring. Een jaarcontract voor 36 uur per week , aansluitend bespreken we graag eventuele mogelijkheden met je, 8,33% eindejaarsuitkering in december en 8,33% vakantiegeld . Een pensioenregeling bij PFZW , waarbij St. Antonius 50% van de pensioenpremie betaalt. Jaarlijks 57 uur Persoonlijk Levensfasebudget bij een 36-urige werkweek, dat je kunt inzetten op een manier die past bij jouw levensfase. Fiscaal voordeel via ons Meerkeuzesysteem Arbeidsvoorwaarden . Hiermee kun je een deel van je brutoloon inzetten voor bijvoorbeeld een fiets, fitness en sport, studiekosten, extra reiskosten of een device. Veel ruimte om je vakinhoudelijk en persoonlijk te ontwikkelen via ons uitgebreide leerplatform met live trainingen en e-learnings. Via Epassi, Benefits at Work en Tickets for Good krijg je toegang tot activiteiten, workshops, evenementen en culturele uitjes, vaak tegen alleen administratiekosten. Jouw talenten Je krijgt energie van complexe informatievraagstukken vertalen naar technische oplossingen. Daarbij kijk je verder dan alleen de code. Je wilt begrijpen wat gebruikers nodig hebben en hoe je een oplossing ontwikkelt die goed werkt én onderhouden kan worden. Samenwerken in een scrumteam gaat je goed af. Je neemt verantwoordelijkheid voor je werk, denkt mee over technische verbeteringen en deelt je kennis met collega's. Ook kun je jouw technische keuzes helder uitleggen aan mensen met verschillende achtergronden. Verder breng je mee: Academisch werk- en denkniveau. Meerdere jaren aantoonbare ervaring met Microsoft SQL Server, SQL Server Integration Services (SSIS) en SQL Server Analysis Services (SSAS) Tabular. Kennis van Power BI, Azure DevOps en Excel. Ervaring met T-SQL, DAX, PowerShell en dimensioneel modelleren volgens Kimbal",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Waarom kiezen voor deze baan? Werk waarin je technische kennis bijdraagt aan betere patiëntenzorg in ons ziekenhuis. Een bewuste keuze voor een ICT-baan met maatschappelijke betekenis. Ruimte om jouw expertise en ideeën in te brengen en mee te denken over de verdere ontwikkeling van ons...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten",
-    "Flexibele uren"
-   ],
-   "skills": [
-    "SQL",
-    "PowerShell",
-    "Azure",
-    "DevOps",
-    "AI",
-    "Data analyse",
-    "Power BI",
-    "Excel",
-    "ETL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-30T08:32:28.375111+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Business Intelligence",
-     "Power BI"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt ervaring met SQL en data-analyse, maar mist specifieke Business Intelligence-ervaring voor deze rol.",
-    "local_score": 53,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "dc1714ea14d8",
-   "source": "JobSpy",
-   "title": "Developer Java & springboot",
-   "company": "Justitiële Informatiedienst (Justid)",
-   "location": "Leeuwarden, FR, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-30T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7494aaa4597048f2",
-   "salary": "€4132 - €6275 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg je in ons Agile team van gevarieerde expertises waar we met een gezonde dosis humor en de inzet om elkaar verder te helpen blijven werken aan het veiliger maken van Nederland. WAT GA JE DOEN? Miljoenen records, complexe ketens, uitdagende maatschappelijk kritische applicaties op het gebied van privacy en identiteit: dat is het landschap van de StrafrechtKetenDataBank (SKDB). Deze applicaties gaan al een tijdje mee, en zijn toe aan vernieuwing. Met jouw expertise in recente Java- en Spring Boot-ontwikkelingen help je het team dat de centrale spil van de strafrechtketen moderniseert en migreert naar toekomstbestendige oplossingen. Je komt in een gevarieerd team van expertises, met een gezonde dosis humor en de inzet om elkaar verder te helpen. Belangrijk, want je werk is vertrouwelijk en niet met anderen dan je collega's te delen. Lijkt het je interessant om met ons samen te werken, kennis te delen en jezelf te blijven ontwikkelen? Neem dan contact met ons op voor een vrijblijvende kennismaking. Concreet betekent dat: Samen met het scrumteam, in een sprint, userstories tot een opleverbaar product verwerken. Proactief verbeteringen en innovaties signaleren en bespreken. Je kennis overdragen aan collega's Gevraagd en ongevraagd op constructieve wijze jouw visie op een beter product delen. Volgens afgesproken processen werken en investeren in een goede samenwerking. Een bijdrage leveren aan het verhogen van de kwaliteit van onze dienstverlening. Actief bijdragen aan (de ontwikkeling van) Agile werken. Let op als je gaat solliciteren: Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 11 €4.132 - €6.275 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor in Leeuwarden werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij Wat lezen we op jouw CV? Ruime en recente ervaring met Java en Spring Boot Kennis van CI/CD Je hebt kennis van API, Rest- en Webservices Je hebt kennis van relationele databases Ervaring met containerisatie; ervaring met Kubernetes en Argo CD Pré: Ervaring met front-end, met name Angular Waarmee maak jij het verschil? Je bent nieuwsgierig om je steeds verder te blijven ontwikkelen in Java en Spring Boot. Met deze technologieën help je de SKDB te moderniseren en verbeteren. Dankzij jouw ruime Java-ervaring ben je een stevige samenwerkingspartner en vraagbaak voor je collega’s. Je ademt SOLID. Je zorgt voor een goede dynamiek in het Agile-team. Je begrijpt dat je kwaliteit bij de bron moet realiseren, en dat fouten voorkomen aan het begin van het voortbrengingsproces essentieel is om zo vroeg mogelijk de kwaliteitseisen te kunnen invullen. Je durft ook stelling te nemen als kwaliteit onder druk staat en weet, zonder relaties te schaden, toch het gewenste resultaat te bereiken. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het Busdevopsteam SKDB, waarin je komt te werken, verzorgt het goed functioneren van de strafrechtketendatabank (SKDB). In de SKDB worden de administratieve persoonsgegevens van een justitiabele opgeslagen onder een uniek strafrechtketennummer. Daarnaast heeft de databank verwijzingen en koppelingen met de gehele strafrechtketen. Het is bijvoorbeeld mogelijk om na te gaan of een persoon gedetineerd is, een actuele OM zaak heeft, bekend is bij de Raad voor de Kinderbescherming of nog een werkstraf moet uitvoeren",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "Java",
-    "Angular",
-    "Spring",
-    "REST",
-    "CI/CD",
-    "Kubernetes",
-    "Agile",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-30T08:32:28.375111+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 30,
-    "matched_skills": [
-     "Java"
-    ],
-    "missing_realistic": [
-     "Spring Boot",
-     "medior/senior niveau"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt.",
-    "local_score": 74,
-    "ai": true,
-    "check": true,
-    "visible": false
    }
   },
   {
@@ -783,6 +783,62 @@
    }
   },
   {
+   "id": "d2ff963a4c5a",
+   "source": "JobSpy",
+   "title": "General Open Orbital Dynamics Platform scientific software developer",
+   "company": "Rijksuniversiteit Groningen",
+   "location": "Groningen, GR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-29T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=5815e14d7c2e391c",
+   "salary": "€3706 - €4763 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Deze vacature is alleen beschikbaar in het Engels There is a vacancy for an up to 2 year position for a scientific programmer / software engineer for the General Open Orbital Dynamics Platform project within the OmegaCEN Astronomical Science Data Center at the University of Groningen. This is the expertise center for data-intensive astronomy and astronomical information technology. It is based at the Donald Smits Center for Information Technology and the Kapteyn Astronomical Institute at the University of Groningen and ATG-Europe. Faculty of Science and Engineering Solliciteer uiterlijk: 11 November 2026 23:59 Dutch local time 1 fte €3.706 - €4.763 General Open Orbital Dynamics Platform scientific software developer https://werkenbij.rug.nl/vacature/general-open-orbital-dynamics-platform-scientific-software-developer-2523/ What are you going to do? The developer will be part of a five person team that will develop the The General Open Orbital Dynamics (GOOD) Platform proposal, a major collaborative research initiative between the Delft University of Technology (TU Delft) and the University of Groningen (RUG), has been awarded funding and commenced in the second quarter of 2026. The 36-month project aims to transform the field of orbital dynamics by creating a fully transparent, open, and reproducible platform for data and solution archiving. The team will develop GOOD-WISE components for data models, workflows, and databases used across applications, adapting WISE technology from image surveys to solar system use, including embedding Tudat configurations in automated and user-driven pipelines. The team will coordinate with the Tudat team and the developer will contribute to the preliminary Tudat/GOOD-WISE integration. Application- and model-specific extensions will be made to support digital services and functionalities for human-made objects (spacecraft and space debris) and for natural celestial bodies (planets, moons, asteroids, etc.). This includes interfaces for extracting asteroid tracks from astronomical survey archives like Euclid, LSST, ESO surveys and JWST. This includes completion of complete data models, workflows, and database structures (preliminary before beta launch). Iimplementation of automatic analysis updates Faculty of Science and Engineering Solliciteer uiterlijk: 11 November 2026 23:59 Dutch local time €3.706 - €4.763 Who are you? We are looking for the following qualifications and experience: A PhD or at least university degree in a relevant subject (e.g. astronomy, computer science, software engineering, informatics). Experience in developing optical/near-infrared astronomical data reduction applications in ANSI-C or C++, excellent knowledge of Python, XML and good knowledge of other scripting languages like Perl. The operating system environments are Linux and MacOS. Software engineering experience: setting up and maintaining development environments for software prototyping and software unit & regression testing (e.g., SVN/Git, GNU auto tools). Experience in architectural and detailed software design and data modeling-software engineering experience. Affinity with astronomical instrumentation. Pro-active and independent working attitude. Team player, communicative, experience with distributed software project teams is an advantage. Flexibility in dealing with different organisational cultures and structures. Mastery of the English language, both written and spoken. Prepared to travel to Delft University of Technology partner meetings, and international meetings. What can you expect from us? In accordance with the collective labor agreement for Dutch universities, we offer a salary of at least € 3.706 (salary scale 10) up to a maximum of € 4.763 (salary scale 10.6) gross per month for a full-time employment contract. 232 vacation hours per year, based on a 38-hour workweek (1.0 FTE). You can also work more or fewer hours in exchange for more or fewer free hours. For example, with a 40-hour workweek, you save 96 extra free hours, and with a 36-hour workweek, you lose 96 hours. End-of-year bonus of 8.3% and 8% holiday allowance. Extensive opportunities for personal and professional development. An appointment for 2 years and possibly until December 2029. Where will you be working? At the University of Groningen (UG), you work at a broad top-class university that covers all fields of academia and technology. Support staff members offer a vital contribution to the effort made by lecturers and researchers toward the development of talent and a better, sustainable society. The UG aims to be an open academic community with an inclusive and safe working climate that invites you to add your value. The Faculty of Science and Engineering (FSE) provides teaching and research across a wide range of disciplines, from physics and biology to artificial intelligence, mechanical engineering, and pharmacy. In close collaboration with partners from industry, healthcare, and society, we contribute to the urgent challenges of our time, such as energy, sustainability, digitization, and medical technology. Our community is open and informal, with more than 7,000 students, 1,000 PhD students, and 1,400 staff members from all over the world. If you would like to learn more about the Faculty of Science and Engineering, visit rug.nl/fse. The GOOD Platform will tackle a key barrier in space research: the lack of open-source, scalable software for complex orbital dynamics. It will integrate TU Delft’s open-source orbital dynamics software, Tudat , with the University of Groningen’s WISE -based scalable data-handling system, which provides complete data-lineage and reproducibility. This collaboration will support progress in critical areas, from space situational awareness (ensuring safe spacecraft operations) to planetary science (studying the origin and evolution of solar system bodies). The University of Groningen is a key partner in this proposal, playing a central role in developing the ",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Deze vacature is alleen beschikbaar in het Engels There is a vacancy for an up to 2 year position for a scientific programmer / software engineer for the General Open Orbital Dynamics Platform project within the OmegaCEN Astronomical Science Data Center at the University of Groningen. This is the...",
+   "benefits": [
+    "Bonus"
+   ],
+   "skills": [
+    "Python",
+    "C++",
+    "C",
+    "Git",
+    "CI/CD",
+    "Linux",
+    "AI",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-29T16:52:47.451484+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 20,
+    "matched_skills": [
+     "Python"
+    ],
+    "missing_realistic": [
+     "wetenschappelijke softwareontwikkeling",
+     "astronomie kennis"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze functie is te wetenschappelijk en niet specifiek ingericht als junior softwareontwikkeltraject.",
+    "local_score": 80,
+    "ai": true,
+    "check": true,
+    "visible": false
+   }
+  },
+  {
    "id": "ce594ce11c64",
    "source": "JobSpy",
    "title": "C# .NET Developer (Azure DevOps)",
@@ -837,62 +893,6 @@
     "ai": true,
     "check": false,
     "visible": true
-   }
-  },
-  {
-   "id": "d2ff963a4c5a",
-   "source": "JobSpy",
-   "title": "General Open Orbital Dynamics Platform scientific software developer",
-   "company": "Rijksuniversiteit Groningen",
-   "location": "Groningen, GR, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=5815e14d7c2e391c",
-   "salary": "€3706 - €4763 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Deze vacature is alleen beschikbaar in het Engels There is a vacancy for an up to 2 year position for a scientific programmer / software engineer for the General Open Orbital Dynamics Platform project within the OmegaCEN Astronomical Science Data Center at the University of Groningen. This is the expertise center for data-intensive astronomy and astronomical information technology. It is based at the Donald Smits Center for Information Technology and the Kapteyn Astronomical Institute at the University of Groningen and ATG-Europe. Faculty of Science and Engineering Solliciteer uiterlijk: 11 November 2026 23:59 Dutch local time 1 fte €3.706 - €4.763 General Open Orbital Dynamics Platform scientific software developer https://werkenbij.rug.nl/vacature/general-open-orbital-dynamics-platform-scientific-software-developer-2523/ What are you going to do? The developer will be part of a five person team that will develop the The General Open Orbital Dynamics (GOOD) Platform proposal, a major collaborative research initiative between the Delft University of Technology (TU Delft) and the University of Groningen (RUG), has been awarded funding and commenced in the second quarter of 2026. The 36-month project aims to transform the field of orbital dynamics by creating a fully transparent, open, and reproducible platform for data and solution archiving. The team will develop GOOD-WISE components for data models, workflows, and databases used across applications, adapting WISE technology from image surveys to solar system use, including embedding Tudat configurations in automated and user-driven pipelines. The team will coordinate with the Tudat team and the developer will contribute to the preliminary Tudat/GOOD-WISE integration. Application- and model-specific extensions will be made to support digital services and functionalities for human-made objects (spacecraft and space debris) and for natural celestial bodies (planets, moons, asteroids, etc.). This includes interfaces for extracting asteroid tracks from astronomical survey archives like Euclid, LSST, ESO surveys and JWST. This includes completion of complete data models, workflows, and database structures (preliminary before beta launch). Iimplementation of automatic analysis updates Faculty of Science and Engineering Solliciteer uiterlijk: 11 November 2026 23:59 Dutch local time €3.706 - €4.763 Who are you? We are looking for the following qualifications and experience: A PhD or at least university degree in a relevant subject (e.g. astronomy, computer science, software engineering, informatics). Experience in developing optical/near-infrared astronomical data reduction applications in ANSI-C or C++, excellent knowledge of Python, XML and good knowledge of other scripting languages like Perl. The operating system environments are Linux and MacOS. Software engineering experience: setting up and maintaining development environments for software prototyping and software unit & regression testing (e.g., SVN/Git, GNU auto tools). Experience in architectural and detailed software design and data modeling-software engineering experience. Affinity with astronomical instrumentation. Pro-active and independent working attitude. Team player, communicative, experience with distributed software project teams is an advantage. Flexibility in dealing with different organisational cultures and structures. Mastery of the English language, both written and spoken. Prepared to travel to Delft University of Technology partner meetings, and international meetings. What can you expect from us? In accordance with the collective labor agreement for Dutch universities, we offer a salary of at least € 3.706 (salary scale 10) up to a maximum of € 4.763 (salary scale 10.6) gross per month for a full-time employment contract. 232 vacation hours per year, based on a 38-hour workweek (1.0 FTE). You can also work more or fewer hours in exchange for more or fewer free hours. For example, with a 40-hour workweek, you save 96 extra free hours, and with a 36-hour workweek, you lose 96 hours. End-of-year bonus of 8.3% and 8% holiday allowance. Extensive opportunities for personal and professional development. An appointment for 2 years and possibly until December 2029. Where will you be working? At the University of Groningen (UG), you work at a broad top-class university that covers all fields of academia and technology. Support staff members offer a vital contribution to the effort made by lecturers and researchers toward the development of talent and a better, sustainable society. The UG aims to be an open academic community with an inclusive and safe working climate that invites you to add your value. The Faculty of Science and Engineering (FSE) provides teaching and research across a wide range of disciplines, from physics and biology to artificial intelligence, mechanical engineering, and pharmacy. In close collaboration with partners from industry, healthcare, and society, we contribute to the urgent challenges of our time, such as energy, sustainability, digitization, and medical technology. Our community is open and informal, with more than 7,000 students, 1,000 PhD students, and 1,400 staff members from all over the world. If you would like to learn more about the Faculty of Science and Engineering, visit rug.nl/fse. The GOOD Platform will tackle a key barrier in space research: the lack of open-source, scalable software for complex orbital dynamics. It will integrate TU Delft’s open-source orbital dynamics software, Tudat , with the University of Groningen’s WISE -based scalable data-handling system, which provides complete data-lineage and reproducibility. This collaboration will support progress in critical areas, from space situational awareness (ensuring safe spacecraft operations) to planetary science (studying the origin and evolution of solar system bodies). The University of Groningen is a key partner in this proposal, playing a central role in developing the ",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Deze vacature is alleen beschikbaar in het Engels There is a vacancy for an up to 2 year position for a scientific programmer / software engineer for the General Open Orbital Dynamics Platform project within the OmegaCEN Astronomical Science Data Center at the University of Groningen. This is the...",
-   "benefits": [
-    "Bonus"
-   ],
-   "skills": [
-    "Python",
-    "C++",
-    "C",
-    "Git",
-    "CI/CD",
-    "Linux",
-    "AI",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-29T16:52:47.451484+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 20,
-    "matched_skills": [
-     "Python"
-    ],
-    "missing_realistic": [
-     "wetenschappelijke softwareontwikkeling",
-     "astronomie kennis"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze functie is te wetenschappelijk en niet specifiek ingericht als junior softwareontwikkeltraject.",
-    "local_score": 80,
-    "ai": true,
-    "check": true,
-    "visible": false
    }
   },
   {
@@ -1362,61 +1362,6 @@
    }
   },
   {
-   "id": "c6241c6215fe",
-   "source": "JobSpy",
-   "title": "Data-engineer (36 uur)",
-   "company": "Gemeente Den Helder",
-   "location": "Den Helder, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4e48b8dcfe103b38",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Data-engineer (36 uur) Er is steeds meer behoefte om data slim en effectief in te zetten bij de verschillende vraagstukken waar de gemeente voor staat. Betrouwbare en goed ontsloten data helpt ons om betere inzichten te krijgen, onze dienstverlening verder te verbeteren en onze bedrijfsvoering te ondersteunen. Data en informatie spelen binnen onze organisatie dan ook een steeds grotere rol. We beschikken al over verschillende databronnen, dataproducten en BI-oplossingen, maar er is nog volop ruimte om hierin verder te ontwikkelen. We zijn onderweg om uit te groeien tot een datagedreven organisatie en zetten steeds meer stappen om data organisatie breed beschikbaar en bruikbaar te maken. Als data-engineer help jij ons mee om de organisatie hier verder op in te richten. Wat ga je doen? We bouwen binnen het team Informatie en Techniek aan een stevige data- en BI-omgeving. Als data-engineer speel jij hierin een belangrijke rol. Jij zorgt ervoor dat verschillende databronnen op een betrouwbare en veilige manier worden ontsloten en vertaald naar bruikbare informatie. Je houdt daarbij voortdurend oog voor kwaliteit en betrouwbaarheid. Je richt technische controles en validaties in, signaleert waar data niet aan de verwachtingen voldoet en zoekt samen met collega's naar oplossingen. Ook zorg je ervoor dat gegevens veilig worden verwerkt en opgeslagen en houd je rekening met privacywetgeving, informatiebeveiliging en de technische standaarden binnen onze organisatie. Je werkt nauw samen met de Data-analist, zodat data op de juiste manier beschikbaar komt voor dashboards, rapportages en analyses. Daarnaast ben je een belangrijke gesprekspartner voor collega's met technische datavraagstukken. Onze data-infrastructuur is nog volop in ontwikkeling. Momenteel loopt er een aanbesteding voor ons datafundament. Je krijgt hiermee de kans om zichtbaar bij te dragen aan de inrichting en doorontwikkeling van ons dataplatform. Je denkt mee over architectuur, automatisering en technische verbeteringen en houdt ontwikkelingen binnen het vakgebied actief bij. Verder: Ontwikkel en beheer je het dataplatform en de technische data-infrastructuur; Ontsluit en integreer je data uit verschillende interne en externe bronnen; Ontwerp, bouw en onderhoud je de datapijplijnen, ETL-processen en technische koppelingen; Automatiseer en optimaliseer je datastromen en gegevensverwerking; Bewaak en verbeter je de datakwaliteit door controles en validaties. Wie ben jij? Je bent iemand die graag wil begrijpen hoe data in elkaar zit én wat een organisatie ermee kan bereiken. Je vindt het interessant om een technisch vraagstuk uit te pluizen, maar verliest daarbij het doel niet uit het oog. Je werkt nauwkeurig, bent analytisch en denkt graag mee over hoe dingen slimmer of beter kunnen. Tegelijkertijd sta je er niet alleen voor. Je zoekt actief de samenwerking op met collega's, stelt vragen en legt technische onderwerpen begrijpelijk uit. Je bent nieuwsgierig naar de organisatie en weet verschillende belangen met elkaar te verbinden. Als er iets moet veranderen, krijg je anderen op een prettige en overtuigende manier mee. Voor deze functie vragen we in ieder geval: HBO werk en denkniveau in een relevante richting, zoals Informatica, Data Science, Business IT of vergelijkbaar; Minimaal drie jaar ervaring in een vergelijkbare functie; Interesse in data engineering, BI en datamodellering. Wat bieden wij? Bij onze organisatie krijg je niet alleen een uitdagende baan, maar ook volop kansen om te groeien. We investeren in jouw ontwikkeling en bieden ruimte om opleidingen te volgen. Daarnaast geloven we in een gezonde werk-privébalans: of je nu een keer een schoolvoorstelling wilt bijwonen of tussen de middag wilt hardlopen – bij ons is dat mogelijk! De gemiste uren kun je op een later moment inhalen, zodat je flexibel blijft zonder werk mis te lopen. Wij bieden een salaris, afhankelijk van opleiding en ervaring, van maximaal €5.624,- bruto per maand op basis van een fulltime werkweek. De functie is ingeschaald in schaal 10 CAO Gemeenten. Een andere aantrekkelijke voorwaarde is dat je gebruik kunt maken van 17,05% Individueel keuzebudget (IKB) bovenop het jaarsalaris. Dit budget kan je laten uitbetalen voor extra inkomen of je kunt er extra verlof mee kopen voor die lange reis die je altijd al een keer had willen maken. Verder kunnen wij je het volgende bieden: Een reiskostenvergoeding van € 0,25 per kilometer woon-werk of een volledige vergoeding voor het openbaar vervoer bij kantoordagen; Of een thuiswerkvergoeding van € 3,25 netto per thuiswerkdag; Een pensioen via het ABP-pensioenfonds. Over ons team De collega’s van team Informatie & Techniek werken met vakmanschap en plezier voor onze eigen organisatie en voor onze inwoners. We zijn trots op de juiste toepassing van technologie en informatievoorziening en zien altijd de meerwaarde van samenwerken en kennisdelen. We zoeken steeds meer de integrale samenwerking op binnen de organisatie, met onze partners in het werkveld en met gemeenten in de regio om medewerkers en inwoners van gemeente Den Helder de beste dienstverlening te kunnen bieden. Als data engineer maak je onderdeel uit van het programmateam Data gedreven Werken. Het programmateam Data gedreven Werken werkt aan een organisatie waarin data bewust, verantwoord en structureel wordt ingezet om betere keuzes te maken. Samen zorgen we ervoor dat betrouwbare data en heldere inzichten de basis vormen voor beleid, dienstverlening en bedrijfsvoering. Belangstelling Wil je solliciteren? Wil je liever eerst wat meer informatie? Bel dan naar Ramon Post (teammanager) 06 50 05 68 10. Wordt er niet opgenomen? Laat een Whatsapp bericht achter en je wordt zo snel mogelijk teruggebeld. Heb je vragen over de procedure dan kan je bellen of appen naar Ronald Pasman (Corporate recruiter) via 06 50 19 46 44. De gemeente Den Helder is er voor iedereen. Bij ons tellen alleen je professionele kwaliteiten. Den Helder. De stad van acht kilometer strand, z",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Data-engineer (36 uur) Er is steeds meer behoefte om data slim en effectief in te zetten bij de verschillende vraagstukken waar de gemeente voor staat. Betrouwbare en goed ontsloten data helpt ons om betere inzichten te krijgen, onze dienstverlening verder te verbeteren en onze bedrijfsvoering te...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten"
-   ],
-   "skills": [
-    "ETL",
-    "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-29T09:50:28.575417+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "SQL",
-     "Python",
-     "Data-infrastructuur"
-    ],
-    "missing_realistic": [
-     "ETL",
-     "BI-oplossingen"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je programmeer- en datavaardigheden sluiten goed aan bij de basis van deze data-engineeringfunctie.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "07c4a74f6fe3",
    "source": "JobSpy",
    "title": "Digital Business Analist (Websites & Klantportalen)",
@@ -1468,6 +1413,61 @@
     "ignored_unrealistic": [],
     "reason": "Je sterke achtergrond in frontend-ontwikkeling en klantcontact past goed bij de rol van business analist voor klantportalen.",
     "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "c6241c6215fe",
+   "source": "JobSpy",
+   "title": "Data-engineer (36 uur)",
+   "company": "Gemeente Den Helder",
+   "location": "Den Helder, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-29T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4e48b8dcfe103b38",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Data-engineer (36 uur) Er is steeds meer behoefte om data slim en effectief in te zetten bij de verschillende vraagstukken waar de gemeente voor staat. Betrouwbare en goed ontsloten data helpt ons om betere inzichten te krijgen, onze dienstverlening verder te verbeteren en onze bedrijfsvoering te ondersteunen. Data en informatie spelen binnen onze organisatie dan ook een steeds grotere rol. We beschikken al over verschillende databronnen, dataproducten en BI-oplossingen, maar er is nog volop ruimte om hierin verder te ontwikkelen. We zijn onderweg om uit te groeien tot een datagedreven organisatie en zetten steeds meer stappen om data organisatie breed beschikbaar en bruikbaar te maken. Als data-engineer help jij ons mee om de organisatie hier verder op in te richten. Wat ga je doen? We bouwen binnen het team Informatie en Techniek aan een stevige data- en BI-omgeving. Als data-engineer speel jij hierin een belangrijke rol. Jij zorgt ervoor dat verschillende databronnen op een betrouwbare en veilige manier worden ontsloten en vertaald naar bruikbare informatie. Je houdt daarbij voortdurend oog voor kwaliteit en betrouwbaarheid. Je richt technische controles en validaties in, signaleert waar data niet aan de verwachtingen voldoet en zoekt samen met collega's naar oplossingen. Ook zorg je ervoor dat gegevens veilig worden verwerkt en opgeslagen en houd je rekening met privacywetgeving, informatiebeveiliging en de technische standaarden binnen onze organisatie. Je werkt nauw samen met de Data-analist, zodat data op de juiste manier beschikbaar komt voor dashboards, rapportages en analyses. Daarnaast ben je een belangrijke gesprekspartner voor collega's met technische datavraagstukken. Onze data-infrastructuur is nog volop in ontwikkeling. Momenteel loopt er een aanbesteding voor ons datafundament. Je krijgt hiermee de kans om zichtbaar bij te dragen aan de inrichting en doorontwikkeling van ons dataplatform. Je denkt mee over architectuur, automatisering en technische verbeteringen en houdt ontwikkelingen binnen het vakgebied actief bij. Verder: Ontwikkel en beheer je het dataplatform en de technische data-infrastructuur; Ontsluit en integreer je data uit verschillende interne en externe bronnen; Ontwerp, bouw en onderhoud je de datapijplijnen, ETL-processen en technische koppelingen; Automatiseer en optimaliseer je datastromen en gegevensverwerking; Bewaak en verbeter je de datakwaliteit door controles en validaties. Wie ben jij? Je bent iemand die graag wil begrijpen hoe data in elkaar zit én wat een organisatie ermee kan bereiken. Je vindt het interessant om een technisch vraagstuk uit te pluizen, maar verliest daarbij het doel niet uit het oog. Je werkt nauwkeurig, bent analytisch en denkt graag mee over hoe dingen slimmer of beter kunnen. Tegelijkertijd sta je er niet alleen voor. Je zoekt actief de samenwerking op met collega's, stelt vragen en legt technische onderwerpen begrijpelijk uit. Je bent nieuwsgierig naar de organisatie en weet verschillende belangen met elkaar te verbinden. Als er iets moet veranderen, krijg je anderen op een prettige en overtuigende manier mee. Voor deze functie vragen we in ieder geval: HBO werk en denkniveau in een relevante richting, zoals Informatica, Data Science, Business IT of vergelijkbaar; Minimaal drie jaar ervaring in een vergelijkbare functie; Interesse in data engineering, BI en datamodellering. Wat bieden wij? Bij onze organisatie krijg je niet alleen een uitdagende baan, maar ook volop kansen om te groeien. We investeren in jouw ontwikkeling en bieden ruimte om opleidingen te volgen. Daarnaast geloven we in een gezonde werk-privébalans: of je nu een keer een schoolvoorstelling wilt bijwonen of tussen de middag wilt hardlopen – bij ons is dat mogelijk! De gemiste uren kun je op een later moment inhalen, zodat je flexibel blijft zonder werk mis te lopen. Wij bieden een salaris, afhankelijk van opleiding en ervaring, van maximaal €5.624,- bruto per maand op basis van een fulltime werkweek. De functie is ingeschaald in schaal 10 CAO Gemeenten. Een andere aantrekkelijke voorwaarde is dat je gebruik kunt maken van 17,05% Individueel keuzebudget (IKB) bovenop het jaarsalaris. Dit budget kan je laten uitbetalen voor extra inkomen of je kunt er extra verlof mee kopen voor die lange reis die je altijd al een keer had willen maken. Verder kunnen wij je het volgende bieden: Een reiskostenvergoeding van € 0,25 per kilometer woon-werk of een volledige vergoeding voor het openbaar vervoer bij kantoordagen; Of een thuiswerkvergoeding van € 3,25 netto per thuiswerkdag; Een pensioen via het ABP-pensioenfonds. Over ons team De collega’s van team Informatie & Techniek werken met vakmanschap en plezier voor onze eigen organisatie en voor onze inwoners. We zijn trots op de juiste toepassing van technologie en informatievoorziening en zien altijd de meerwaarde van samenwerken en kennisdelen. We zoeken steeds meer de integrale samenwerking op binnen de organisatie, met onze partners in het werkveld en met gemeenten in de regio om medewerkers en inwoners van gemeente Den Helder de beste dienstverlening te kunnen bieden. Als data engineer maak je onderdeel uit van het programmateam Data gedreven Werken. Het programmateam Data gedreven Werken werkt aan een organisatie waarin data bewust, verantwoord en structureel wordt ingezet om betere keuzes te maken. Samen zorgen we ervoor dat betrouwbare data en heldere inzichten de basis vormen voor beleid, dienstverlening en bedrijfsvoering. Belangstelling Wil je solliciteren? Wil je liever eerst wat meer informatie? Bel dan naar Ramon Post (teammanager) 06 50 05 68 10. Wordt er niet opgenomen? Laat een Whatsapp bericht achter en je wordt zo snel mogelijk teruggebeld. Heb je vragen over de procedure dan kan je bellen of appen naar Ronald Pasman (Corporate recruiter) via 06 50 19 46 44. De gemeente Den Helder is er voor iedereen. Bij ons tellen alleen je professionele kwaliteiten. Den Helder. De stad van acht kilometer strand, z",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Data-engineer (36 uur) Er is steeds meer behoefte om data slim en effectief in te zetten bij de verschillende vraagstukken waar de gemeente voor staat. Betrouwbare en goed ontsloten data helpt ons om betere inzichten te krijgen, onze dienstverlening verder te verbeteren en onze bedrijfsvoering te...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten"
+   ],
+   "skills": [
+    "ETL",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-29T09:50:28.575417+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "SQL",
+     "Python",
+     "Data-infrastructuur"
+    ],
+    "missing_realistic": [
+     "ETL",
+     "BI-oplossingen"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je programmeer- en datavaardigheden sluiten goed aan bij de basis van deze data-engineeringfunctie.",
+    "local_score": 65,
     "ai": true,
     "check": false,
     "visible": true
@@ -2242,6 +2242,57 @@
    }
   },
   {
+   "id": "0372784223de",
+   "source": "JobSpy",
+   "title": "business intelligence ontwikkelaar",
+   "company": "Politie",
+   "location": "Apeldoorn, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4583b6845d6f6380",
+   "salary": "€3735 - €5883 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en): Onderwijs, Bedrijfsvoering Niveau: HBO BACHELOR Wat ga je doen? Als business intelligence ontwikkelaar is jouw primaire taak om maximaal rendement uit informatie en techniek te halen. Dit leidt tot op de bedrijfsvoering afgestemde BI-producten en innovatief gebruik van aanwezige data, informatie en kennis. De Politieacademie kan hierdoor beter inspelen op de steeds verder toenemende vraag naar informatie. Je hebt de kennis om informatieproducten te maken met gebruik van beschikbare bronnen en voorzieningen. Je maakt informatieproducten op basis van gedegen ontwerp. Samen met je collega’s van de Politieacademie en het Politiedienstencentrum ontwikkel je informatieproducten ten behoeve van inzicht, sturing en verantwoording. Je filtert cruciale informatie uit de verschillende systemen, die je met jouw rapportages en instructies toegankelijk maakt voor de Politieacademie en het management van de politie. Je werkzaamheden bestaan o.a. uit: informatieproducten in (op dit moment) Cognos Analytics ontwikkelen en beheren; ad hoc informatieverzoeken snel en efficiënt afhandelen; pro-actief meedenken over verbeteringen. Waar ga je werken? De Politieacademie is het opleidings- en kenniscentrum voor de Nederlandse politie waar competentiegericht onderwijs, kennis en het politiewerkveld samenkomen. De Politieacademie is verantwoordelijk voor het ontwikkelen en verzorgen van het politieonderwijs (inclusief examinering) gericht op de startende beroepsbeoefenaar en zijn/haar definitieve toelating tot een uitvoerende functie in de politiepraktijk. Je gaat aan de slag binnen de Sector Onderwijsbedrijfsvoering, een nieuwe en volop ontwikkelende sector binnen de Politieacademie. Binnen de sector komen bestaande en nieuwe processen samen, met één helder doel: het optimaal ondersteunen van onderwijs- en onderzoeksprocessen. Je bouwt voort op een stevig fundament, terwijl je tegelijkertijd actief bijdraagt aan de verdere professionalisering van BI&K. Het team bestaat uit 8 FTE, bestaand uit tevredenheidsonderzoekers, business intelligence ontwikkelaars en specialisten op gebied van onderwijsinformatie en wordt aangestuurd door een coördinerend business analist. Je werkt in een omgeving waarin samenwerking centraal staat. Team BI&K werkt nauw samen met andere onderdelen binnen de ondersteuningsorganisatie, zoals Staf, om gezamenlijk bij te dragen aan de ambities van de Politieacademie. Wij werken zowel op kantoor als vanuit huis. Wie ben jij? Je bent iemand die goed kan inschatten wat de technische en/of functionele gevolgen zijn van gekozen oplossingen voor de bedrijfsvoering. Samenwerken, maar ook zelfstandig werken gaat je goed af. Je kunt goed analytisch en abstract denken. Daarbij stel je prioriteiten en ben je communicatief vaardig, zowel in de gesprekken met je directe collega’s als met de gebruikers van de informatieproducten. Je herkent en onderzoekt de wensen van de klant samen met het team. Je levert werk van hoge kwaliteit. Daarnaast vragen we om: een hbo (bachelor) werk- en denkniveau; ervaring als BI-ontwikkelaar; kennis van SQL en BI-tooling (zoals Cognos Analytics); bij voorkeur kennis van ETL-processen en datawarehousing. Wat wij bieden De standplaats is Apeldoorn. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.735,- en maximaal € 5.883,- (schaal 10 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). De formele functie binnen het functiegebouw van de politie is bedrijfsvoeringspecialist B. Interesse? Bel of mail met Edward Sleurink, teamchef Onderwijsinformatie (06 - 12 30 62 86, edward.sleurink@politieacademie.nl) ) voor meer informatie over de functie. Voor vragen over de sollicitatieprocedure bel je met Werving & Selectie op 088 - 66 22 300 / bel of mail je met Danielle van den Boom, recruiter (06 - 18 63 85 90, danielle.van.den.boom@politie.nl). Solliciteer uiterlijk 11 november 2026 via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheidsonderzoek maakt deel uit van de selectieprocedure. De politie werkt in een veranderende samenleving waarin uiteenlopende perspectieven essentieel zijn voor goed politiewerk. Daarom is diversiteit voor ons van groot belang. Hoe kunnen we jouw kennis en achtergrond hiervoor inzetten? Je hebt een diploma op hbo (bachelor)-niveau of je bent daaraan gelijkgesteld via EVC. Of je hebt minimaal twee jaar werkervaring op het gevraagde niveau. Dit toon je aan met een erkende functieomschrijving of een formeel vastgestelde vacaturetekst of een ander formeel bewijsstuk. Het bewijsstuk heeft aantoonbaar betrekking op een functie die je daadwerkelijk hebt uitgevoerd en moet herleidbaar zijn tot jouw persoon. Denk aan",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en):...",
+   "benefits": [
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "SQL",
+    "ETL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Cognos Analytics",
+     "Business Intelligence"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De kandidaat heeft een geschikte hbo-opleiding en SQL-kennis, maar mist specifieke ervaring met business intelligence en Cognos.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "efeb61d659f1",
    "source": "JobSpy",
    "title": "RUST Ontwikkelaar Offensieve Software Computer Network Exploitation",
@@ -2297,57 +2348,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "0372784223de",
-   "source": "JobSpy",
-   "title": "business intelligence ontwikkelaar",
-   "company": "Politie",
-   "location": "Apeldoorn, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4583b6845d6f6380",
-   "salary": "€3735 - €5883 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en): Onderwijs, Bedrijfsvoering Niveau: HBO BACHELOR Wat ga je doen? Als business intelligence ontwikkelaar is jouw primaire taak om maximaal rendement uit informatie en techniek te halen. Dit leidt tot op de bedrijfsvoering afgestemde BI-producten en innovatief gebruik van aanwezige data, informatie en kennis. De Politieacademie kan hierdoor beter inspelen op de steeds verder toenemende vraag naar informatie. Je hebt de kennis om informatieproducten te maken met gebruik van beschikbare bronnen en voorzieningen. Je maakt informatieproducten op basis van gedegen ontwerp. Samen met je collega’s van de Politieacademie en het Politiedienstencentrum ontwikkel je informatieproducten ten behoeve van inzicht, sturing en verantwoording. Je filtert cruciale informatie uit de verschillende systemen, die je met jouw rapportages en instructies toegankelijk maakt voor de Politieacademie en het management van de politie. Je werkzaamheden bestaan o.a. uit: informatieproducten in (op dit moment) Cognos Analytics ontwikkelen en beheren; ad hoc informatieverzoeken snel en efficiënt afhandelen; pro-actief meedenken over verbeteringen. Waar ga je werken? De Politieacademie is het opleidings- en kenniscentrum voor de Nederlandse politie waar competentiegericht onderwijs, kennis en het politiewerkveld samenkomen. De Politieacademie is verantwoordelijk voor het ontwikkelen en verzorgen van het politieonderwijs (inclusief examinering) gericht op de startende beroepsbeoefenaar en zijn/haar definitieve toelating tot een uitvoerende functie in de politiepraktijk. Je gaat aan de slag binnen de Sector Onderwijsbedrijfsvoering, een nieuwe en volop ontwikkelende sector binnen de Politieacademie. Binnen de sector komen bestaande en nieuwe processen samen, met één helder doel: het optimaal ondersteunen van onderwijs- en onderzoeksprocessen. Je bouwt voort op een stevig fundament, terwijl je tegelijkertijd actief bijdraagt aan de verdere professionalisering van BI&K. Het team bestaat uit 8 FTE, bestaand uit tevredenheidsonderzoekers, business intelligence ontwikkelaars en specialisten op gebied van onderwijsinformatie en wordt aangestuurd door een coördinerend business analist. Je werkt in een omgeving waarin samenwerking centraal staat. Team BI&K werkt nauw samen met andere onderdelen binnen de ondersteuningsorganisatie, zoals Staf, om gezamenlijk bij te dragen aan de ambities van de Politieacademie. Wij werken zowel op kantoor als vanuit huis. Wie ben jij? Je bent iemand die goed kan inschatten wat de technische en/of functionele gevolgen zijn van gekozen oplossingen voor de bedrijfsvoering. Samenwerken, maar ook zelfstandig werken gaat je goed af. Je kunt goed analytisch en abstract denken. Daarbij stel je prioriteiten en ben je communicatief vaardig, zowel in de gesprekken met je directe collega’s als met de gebruikers van de informatieproducten. Je herkent en onderzoekt de wensen van de klant samen met het team. Je levert werk van hoge kwaliteit. Daarnaast vragen we om: een hbo (bachelor) werk- en denkniveau; ervaring als BI-ontwikkelaar; kennis van SQL en BI-tooling (zoals Cognos Analytics); bij voorkeur kennis van ETL-processen en datawarehousing. Wat wij bieden De standplaats is Apeldoorn. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.735,- en maximaal € 5.883,- (schaal 10 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). De formele functie binnen het functiegebouw van de politie is bedrijfsvoeringspecialist B. Interesse? Bel of mail met Edward Sleurink, teamchef Onderwijsinformatie (06 - 12 30 62 86, edward.sleurink@politieacademie.nl) ) voor meer informatie over de functie. Voor vragen over de sollicitatieprocedure bel je met Werving & Selectie op 088 - 66 22 300 / bel of mail je met Danielle van den Boom, recruiter (06 - 18 63 85 90, danielle.van.den.boom@politie.nl). Solliciteer uiterlijk 11 november 2026 via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheidsonderzoek maakt deel uit van de selectieprocedure. De politie werkt in een veranderende samenleving waarin uiteenlopende perspectieven essentieel zijn voor goed politiewerk. Daarom is diversiteit voor ons van groot belang. Hoe kunnen we jouw kennis en achtergrond hiervoor inzetten? Je hebt een diploma op hbo (bachelor)-niveau of je bent daaraan gelijkgesteld via EVC. Of je hebt minimaal twee jaar werkervaring op het gevraagde niveau. Dit toon je aan met een erkende functieomschrijving of een formeel vastgestelde vacaturetekst of een ander formeel bewijsstuk. Het bewijsstuk heeft aantoonbaar betrekking op een functie die je daadwerkelijk hebt uitgevoerd en moet herleidbaar zijn tot jouw persoon. Denk aan",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en):...",
-   "benefits": [
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "SQL",
-    "ETL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Cognos Analytics",
-     "Business Intelligence"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De kandidaat heeft een geschikte hbo-opleiding en SQL-kennis, maar mist specifieke ervaring met business intelligence en Cognos.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -5396,6 +5396,67 @@
    }
   },
   {
+   "id": "f924613c3081",
+   "source": "JobSpy",
+   "title": "Junior developer Forensische Opsporing",
+   "company": "Politie",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=57b553644974d0ae",
+   "salary": "€3363 - €5418 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Wil jij als fullstack ontwikkelaar bijdragen aan de toekomst van forensisch onderzoek? Bij ons werk je aan oplossingen die direct helpen bij het oplossen van misdrijven zoals inbraken en plofkraken. Ben jij klaar om je in te zetten voor baanbrekende technologieën die Nederland veiliger maken? Specificaties vacature Locatie(s): Utrecht Organisatieonderdeel: Politiedienstencentrum Vakgebied(en): ICT Niveau: HBO BACHELOR Wat ga je doen? Je gaat aan de slag in een van de drie ontwikkelteams binnen het Programma Forensische Opsporing (FO). In dit team word jij een van de ontwikkelaars en werk je nauw samen met de collega-ontwikkelaars, testers en informatieanalist uit je eigen team. In samenwerking met het NFI, TMFI en OM ontwikkelen we een softwareoplossing, waarbij de forensisch onderzoeker de sporen kan vastleggen bij een plaats delict bij bijvoorbeeld een woninginbraak, plofkraak of moord. Het systeem dient als communicatietool tussen de politie, NFI, TMFI, en het Openbaar Ministerie. Daarnaast willen we alle aangetroffen sporen centraal vastleggen die naar een dader leiden. Een interessante ontwikkeling waar jij als full-stack ontwikkelaar een belangrijke bijdrage aan kunt leveren. Als fullstack ontwikkelaar neem jij verantwoordelijkheid voor de (code) kwaliteit en (geautomatiseerd) testen. Je onderneemt initiatieven op deze gebieden en bent in staat mensen op verschillende posities mee te nemen en te overtuigen van jouw ideeën. Jouw werkzaamheden op een rij: het aanhaken bij activiteiten die de ontwikkelteams tijdens een sprint uitvoeren; ontwikkelen van applicaties op het politie platform op basis van web services/JEE web applicaties in de backend en Angular/Typescript applicatie in de front-end; eventuele productie incidenten (samen met het team) onderzoeken en oplossen; refinen van features binnen het project en user story’s binnen het team; pair programming /code reviews en het coördineren van implementatie van ‘team overstijgende’ features; Waar ga je werken? Je gaat aan de slag binnen het Productiehuis waar we cruciale softwareoplossingen ontwikkelen en onderhouden die het politiewerk dagelijks ondersteunen. Je maakt deel uit van Cluster Forensische Opsporing waar je in een multidisciplinair team werkt aan het ontwikkelen van nieuwe functionaliteiten voor operationele politiediensten. We werken agile en hybride, dat betekent dat je twee dagen per week fysiek op locatie in Utrecht te vinden bent en daarnaast thuis kunt werken. De overall sfeer in de FO-teams is open, informeel en we delen onze passie voor het vakgebied. Je komt te werken in een team met veel jonge collega’s die zowel binnen als buiten het werk ook activiteiten met elkaar ondernemen. We zoeken iemand die graag investeert in het leren kennen van zijn/haar collega’s, positieve energie meebrengt en trots is op zijn/haar werk voor de Forensische Opsporing bij de politie. Wie ben jij? Jij bent iemand met een frisse blik en voor kleine of grote uitdagingen draai jij je hand niet om. Je komt namelijk terecht in een omgeving met veel stakeholders, die allemaal bezig zijn met veranderen en verbeteren. Het is fijn als je al ervaring hebt in het werken binnen een multidisciplinair team in een agile/scrum omgeving. Je wilt graag werken in een DevOps-omgeving waar data-integriteit cruciaal is. Je bent initiatiefrijk, hebt een klantgerichte houding, bent besluitvaardig en staat open voor vernieuwing. Daarnaast heb je goede communicatieve vaardigheden. We zoeken een fullstack ontwikkelaar die minimaal een jaar relevante ervaring heeft, bij voorkeur in een grote en complexe organisatie waarbij aan nieuwe functionaliteiten is gewerkt (niet alleen beheer en onderhoud). Verder aanvullende wensen zijn: hbo bachelor werk- en denkniveau* en een ICT-gerelateerde opleiding; ervaring met een Agile-werkwijze, zoals Scrum en DevOps; Bij voorkeur kennis en kunde van: Java, Angular 2.0+, REST Services, HTML5, SCSS, TypeScript, GIT. Wat wij bieden De formele standplaats is Utrecht. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.363,- en maximaal € 5.418,- (schaal 9 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). Het betreft de LFNP-functie bedrijfsvoeringspecialist A, werkterrein informatie- en communicatietechnologie, gewaardeerd in schaal 9 Bbp. Interesse? Bel of mail met Frouke Verburg, personeelscoördinator (06 – 18 19 21 62, frouke.verburg@politie.nl) als je meer informatie over de functie wilt hebben. Voor vragen over de sollicitatieprocedure bel of mail je met Matthijs Reinhard, ICT-recruiter (06 - 39 01 43 75, matthijs.reinhard@politie.nl). Solliciteer uiterlijk 10 november via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheids- en omgevingsonderzoek maakt deel uit van de selectieprocedure. Goed politiewerk heeft verschillende inzichten nodig. Met welke unieke blik kom jij ons versterken? legaal hacken of cybersecurity op https://kombijdepolitie.nl/i Je hebt een dip",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Wil jij als fullstack ontwikkelaar bijdragen aan de toekomst van forensisch onderzoek? Bij ons werk je aan oplossingen die direct helpen bij het oplossen van misdrijven zoals inbraken en plofkraken. Ben jij klaar om je in te zetten voor baanbrekende technologieën die Nederland veiliger maken?...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Java",
+    "TypeScript",
+    "CSS",
+    "Angular",
+    "REST",
+    "Git",
+    "Agile",
+    "DevOps",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "JavaScript",
+     "Java",
+     "Python",
+     "SQL",
+     "REST API’s",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "De kandidaat heeft een relevante IT-bachelor en aantoonbare programmeerervaring die goed aansluit bij deze junior ontwikkelrol.",
+    "local_score": 69,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "4686e302f0c0",
    "source": "JobSpy",
    "title": "Junior I.T Software Developer",
@@ -5495,67 +5556,6 @@
     "ignored_unrealistic": [],
     "reason": "De kandidaat heeft een sterke IT-achtergrond maar mist specifieke BI- en stakeholdergerichte vertaalvaardigheden voor deze rol.",
     "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "f924613c3081",
-   "source": "JobSpy",
-   "title": "Junior developer Forensische Opsporing",
-   "company": "Politie",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-27T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=57b553644974d0ae",
-   "salary": "€3363 - €5418 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Wil jij als fullstack ontwikkelaar bijdragen aan de toekomst van forensisch onderzoek? Bij ons werk je aan oplossingen die direct helpen bij het oplossen van misdrijven zoals inbraken en plofkraken. Ben jij klaar om je in te zetten voor baanbrekende technologieën die Nederland veiliger maken? Specificaties vacature Locatie(s): Utrecht Organisatieonderdeel: Politiedienstencentrum Vakgebied(en): ICT Niveau: HBO BACHELOR Wat ga je doen? Je gaat aan de slag in een van de drie ontwikkelteams binnen het Programma Forensische Opsporing (FO). In dit team word jij een van de ontwikkelaars en werk je nauw samen met de collega-ontwikkelaars, testers en informatieanalist uit je eigen team. In samenwerking met het NFI, TMFI en OM ontwikkelen we een softwareoplossing, waarbij de forensisch onderzoeker de sporen kan vastleggen bij een plaats delict bij bijvoorbeeld een woninginbraak, plofkraak of moord. Het systeem dient als communicatietool tussen de politie, NFI, TMFI, en het Openbaar Ministerie. Daarnaast willen we alle aangetroffen sporen centraal vastleggen die naar een dader leiden. Een interessante ontwikkeling waar jij als full-stack ontwikkelaar een belangrijke bijdrage aan kunt leveren. Als fullstack ontwikkelaar neem jij verantwoordelijkheid voor de (code) kwaliteit en (geautomatiseerd) testen. Je onderneemt initiatieven op deze gebieden en bent in staat mensen op verschillende posities mee te nemen en te overtuigen van jouw ideeën. Jouw werkzaamheden op een rij: het aanhaken bij activiteiten die de ontwikkelteams tijdens een sprint uitvoeren; ontwikkelen van applicaties op het politie platform op basis van web services/JEE web applicaties in de backend en Angular/Typescript applicatie in de front-end; eventuele productie incidenten (samen met het team) onderzoeken en oplossen; refinen van features binnen het project en user story’s binnen het team; pair programming /code reviews en het coördineren van implementatie van ‘team overstijgende’ features; Waar ga je werken? Je gaat aan de slag binnen het Productiehuis waar we cruciale softwareoplossingen ontwikkelen en onderhouden die het politiewerk dagelijks ondersteunen. Je maakt deel uit van Cluster Forensische Opsporing waar je in een multidisciplinair team werkt aan het ontwikkelen van nieuwe functionaliteiten voor operationele politiediensten. We werken agile en hybride, dat betekent dat je twee dagen per week fysiek op locatie in Utrecht te vinden bent en daarnaast thuis kunt werken. De overall sfeer in de FO-teams is open, informeel en we delen onze passie voor het vakgebied. Je komt te werken in een team met veel jonge collega’s die zowel binnen als buiten het werk ook activiteiten met elkaar ondernemen. We zoeken iemand die graag investeert in het leren kennen van zijn/haar collega’s, positieve energie meebrengt en trots is op zijn/haar werk voor de Forensische Opsporing bij de politie. Wie ben jij? Jij bent iemand met een frisse blik en voor kleine of grote uitdagingen draai jij je hand niet om. Je komt namelijk terecht in een omgeving met veel stakeholders, die allemaal bezig zijn met veranderen en verbeteren. Het is fijn als je al ervaring hebt in het werken binnen een multidisciplinair team in een agile/scrum omgeving. Je wilt graag werken in een DevOps-omgeving waar data-integriteit cruciaal is. Je bent initiatiefrijk, hebt een klantgerichte houding, bent besluitvaardig en staat open voor vernieuwing. Daarnaast heb je goede communicatieve vaardigheden. We zoeken een fullstack ontwikkelaar die minimaal een jaar relevante ervaring heeft, bij voorkeur in een grote en complexe organisatie waarbij aan nieuwe functionaliteiten is gewerkt (niet alleen beheer en onderhoud). Verder aanvullende wensen zijn: hbo bachelor werk- en denkniveau* en een ICT-gerelateerde opleiding; ervaring met een Agile-werkwijze, zoals Scrum en DevOps; Bij voorkeur kennis en kunde van: Java, Angular 2.0+, REST Services, HTML5, SCSS, TypeScript, GIT. Wat wij bieden De formele standplaats is Utrecht. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.363,- en maximaal € 5.418,- (schaal 9 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). Het betreft de LFNP-functie bedrijfsvoeringspecialist A, werkterrein informatie- en communicatietechnologie, gewaardeerd in schaal 9 Bbp. Interesse? Bel of mail met Frouke Verburg, personeelscoördinator (06 – 18 19 21 62, frouke.verburg@politie.nl) als je meer informatie over de functie wilt hebben. Voor vragen over de sollicitatieprocedure bel of mail je met Matthijs Reinhard, ICT-recruiter (06 - 39 01 43 75, matthijs.reinhard@politie.nl). Solliciteer uiterlijk 10 november via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheids- en omgevingsonderzoek maakt deel uit van de selectieprocedure. Goed politiewerk heeft verschillende inzichten nodig. Met welke unieke blik kom jij ons versterken? legaal hacken of cybersecurity op https://kombijdepolitie.nl/i Je hebt een dip",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Wil jij als fullstack ontwikkelaar bijdragen aan de toekomst van forensisch onderzoek? Bij ons werk je aan oplossingen die direct helpen bij het oplossen van misdrijven zoals inbraken en plofkraken. Ben jij klaar om je in te zetten voor baanbrekende technologieën die Nederland veiliger maken?...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "Java",
-    "TypeScript",
-    "CSS",
-    "Angular",
-    "REST",
-    "Git",
-    "Agile",
-    "DevOps",
-    "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "JavaScript",
-     "Java",
-     "Python",
-     "SQL",
-     "REST API’s",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "De kandidaat heeft een relevante IT-bachelor en aantoonbare programmeerervaring die goed aansluit bij deze junior ontwikkelrol.",
-    "local_score": 69,
     "ai": true,
     "check": false,
     "visible": true
@@ -7607,6 +7607,62 @@
    }
   },
   {
+   "id": "7b089fc195b5",
+   "source": "JobSpy",
+   "title": "Junior Onderzoeker Toegepaste AI en Data",
+   "company": "Windesheim",
+   "location": "Zwolle, OV, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=aedfd212dbc54681",
+   "salary": "€3826 - €5699 per maand",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "20 uur per week Zwolle min € 3.826,- / max € 5.699,- Introductie Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Als Junior Onderzoeker Toegepaste AI en Data test je modellen en prototypes in de praktijk, samen met ziekenhuizen en zorgorganisaties. Je werkt onder begeleiding van ervaren onderzoekers. Sluit je aan bij het lectoraat ICT-innovaties in de Zorg. Jouw nieuwe baan begint bij hogeschool Windesheim in Zwolle. Aan deze baan geef jij invulling Zinvol werk begint met onderzoek dat er echt toe doet. Als Junior Onderzoeker werk je aan projecten van het lectoraat ICT-innovaties in de Zorg. Je analyseert data, bouwt en test prototypes en vertaalt technische resultaten naar bruikbare inzichten voor zorgprofessionals. Binnen een project krijg je een afgebakende taak. Je pakt onderdelen zelf op en begeleidt studenten. Ervaren onderzoekers staan naast je. Voorbeelden van projecten waar je aan meewerkt: het testen en monitoren van AI-modellen in ziekenhuizen het ontwikkelen en beoordelen van synthetische data AI-ondersteuning bij digitale triage en zorg op afstand veilige verwerking van data uit zorgsensoren Meer in detail ben jij als Junior Onderzoeker bezig met het: verzamelen, opschonen en analyseren van data ontwikkelen en testen van modellen, prototypes en demonstrators uitvoeren van literatuuronderzoek en technische verkenningen opzetten en uitvoeren van experimenten, en vastleggen van de resultaten bespreken van bevindingen met onderzoekers, ontwikkelaars en zorgprofessionals bijdragen aan rapportages, presentaties en andere vormen van kennisdeling begeleiden van studenten bij technische projectopdrachten Welkom bij Windesheim Een hogeschool waar iedereen zich gewaardeerd én thuis mag voelen. Gelijke kansen staan centraal en onze kracht ligt in samenwerking. We dragen bij aan een inclusieve en duurzame samenleving door relevant onderzoek en het opleiden van nieuwe professionals. Met persoonlijke leerroutes en actuele opleidingen bouwen we samen aan de toekomst. Onze campus in Zwolle is een energieke gemeenschap met alle voorzieningen: van een campuswinkel en restaurants tot sportschool en zwembad. Dit alles op een steenworp van het bruisende stadscentrum. Jij sluit je aan bij 15 collega’s van het lectoraat ICT-innovaties in de Zorg. Kenmerkend aan jouw team zijn de korte lijn met de zorgpraktijk en de mix van technische kennis en zorgkennis. Het team doet onderzoek dat direct raakt aan de praktijk, van ziekenhuizen tot zorgorganisaties in de regio. Een indruk krijgen? Bekijk de projecten AI-supported digital triage en remote patient monitoring en LokAI. Jouw bijdrage Wij geloven dat diversiteit onze resultaten versterkt. Voor de rol van Junior Onderzoeker zoeken we een nieuwsgierige professional die zorgvuldig werkt aan onderzoek naar AI en data in de zorg. Je hoeft nog niet op alle onderwerpen ervaring te hebben. Belangrijker is dat je nieuwe technologie wilt onderzoeken en uitproberen, en dat zorg en publieke gezondheid je aanspreken. Daarnaast heb je: een afgeronde bachelor of master, bijvoorbeeld in Artificial Intelligence, Data Science, ICT, Technische Informatica, Bio-informatica of Medische Informatiekunde kennis van programmeren, data-analyse en AI of machine learning ervaring met een onderzoeks- of ontwikkelopdracht, bijvoorbeeld via je afstudeerproject, stage of eerste baan het vermogen om gestructureerd te werken en technische keuzes goed vast te leggen een Verklaring Omtrent Gedrag (VOG) je werkt graag samen met collega’s, studenten en zorgprofessionals met uiteenlopende achtergronden een goede beheersing van het Nederlands (minimaal B2-niveau) Het is een pré als je ervaring hebt met: gezondheids-, sensor- of andere praktijkdata synthetische data, privacy of cybersecurity het begeleiden van studenten Herken je jezelf in deze rol, maar voldoe je niet aan alle punten? Reageer dan gerust. Een informeel (telefoon)gesprek is ook een mooie eerste stap. Je krijgt begeleiding bij het verder ontwikkelen van je onderzoeksvaardigheden en technische kennis. Je leert onder meer om: praktijkvragen te vertalen naar uitvoerbare technische deelonderzoeken passende onderzoeks- en evaluatiemethoden te kiezen samen te werken met zorgorganisaties en andere praktijkpartners resultaten helder te presenteren en vast te leggen stap voor stap meer verantwoordelijkheid te nemen binnen projecten Jouw vooruitzicht Als Junior Onderzoeker Toegepaste AI en Data (20 uur) werk je vanaf 1 januari (of anders in overleg) in een stimulerende omgeving waar je jezelf kunt zijn en impact maakt op de zorg van morgen. Je krijgt: een salaris van € 3.826 - € 5.699 bruto per maand bij een fulltime dienstverband (schaal 10 cao hbo) een contract voor de duur van 12 maanden 428 verlofuren per jaar bij 40 uur (53,5 dagen inclusief feestdagen) 8% vakantiegeld en 8,3% eindejaarsuitkering flexibele reiskostenvergoeding (waarbij het OV volledig wordt vergoed) ruime ontwikkelmogelijkheden via onze corporate academy en GoodHabitz extra's zoals vers fruit, gratis sporten op campus, museumkaart en vakliteratuurvergoeding balans tussen werk en privé door flexibele werktijden en goede verlofregelingen thuiswerkmogelijkheden en een laptop Meer weten over werken bij Windesheim? Bekijk onze arbeidsvoorwaarden hier. Solliciteer en sluit je aan bij Windesheim Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Solliciteer dan uiterlijk zondag 8 november als Junior Onderzoeker Toegepaste AI en Data met je motivatie en cv. Beantwoord in je motivatie in ieder geval onderstaande vragen. Dat helpt ons bij het zo objectief mogelijk werven en selecteren: Aan welk onderzoeks- of ontwikkelproject heb je gewerkt, en welke technische keuzes heb je daarin gemaakt? Hoe ga je te werk als data onvolledig of rommelig is? Geef een voorbeeld. Welke toepassing van AI in de zorg vind jij veelbelovend, en waar zie je risico’s? Hoe leg je een technisch resultaat uit aan iemand zonder technische achtergrond? Wat je kunt",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "20 uur per week Zwolle min € 3.826,- / max € 5.699,- Introductie Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Als Junior Onderzoeker Toegepaste AI en Data test je modellen en prototypes in de praktijk, samen met ziekenhuizen en zorgorganisaties. Je werkt onder begeleiding...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Laptop",
+    "Reiskosten",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "Machine learning",
+    "AI",
+    "Data analyse",
+    "Security",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 70,
+    "matched_skills": [
+     "Python",
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Data science onderzoekservaring"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De junior onderzoeksrol sluit redelijk aan bij de achtergrond, al ligt de focus van de kandidaat meer op software engineering.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "9be5e725c209",
    "source": "JobSpy",
    "title": "Developer AI-automatisering (junior/medior, 16-24 uur)",
@@ -7670,62 +7726,6 @@
    }
   },
   {
-   "id": "7b089fc195b5",
-   "source": "JobSpy",
-   "title": "Junior Onderzoeker Toegepaste AI en Data",
-   "company": "Windesheim",
-   "location": "Zwolle, OV, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=aedfd212dbc54681",
-   "salary": "€3826 - €5699 per maand",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "20 uur per week Zwolle min € 3.826,- / max € 5.699,- Introductie Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Als Junior Onderzoeker Toegepaste AI en Data test je modellen en prototypes in de praktijk, samen met ziekenhuizen en zorgorganisaties. Je werkt onder begeleiding van ervaren onderzoekers. Sluit je aan bij het lectoraat ICT-innovaties in de Zorg. Jouw nieuwe baan begint bij hogeschool Windesheim in Zwolle. Aan deze baan geef jij invulling Zinvol werk begint met onderzoek dat er echt toe doet. Als Junior Onderzoeker werk je aan projecten van het lectoraat ICT-innovaties in de Zorg. Je analyseert data, bouwt en test prototypes en vertaalt technische resultaten naar bruikbare inzichten voor zorgprofessionals. Binnen een project krijg je een afgebakende taak. Je pakt onderdelen zelf op en begeleidt studenten. Ervaren onderzoekers staan naast je. Voorbeelden van projecten waar je aan meewerkt: het testen en monitoren van AI-modellen in ziekenhuizen het ontwikkelen en beoordelen van synthetische data AI-ondersteuning bij digitale triage en zorg op afstand veilige verwerking van data uit zorgsensoren Meer in detail ben jij als Junior Onderzoeker bezig met het: verzamelen, opschonen en analyseren van data ontwikkelen en testen van modellen, prototypes en demonstrators uitvoeren van literatuuronderzoek en technische verkenningen opzetten en uitvoeren van experimenten, en vastleggen van de resultaten bespreken van bevindingen met onderzoekers, ontwikkelaars en zorgprofessionals bijdragen aan rapportages, presentaties en andere vormen van kennisdeling begeleiden van studenten bij technische projectopdrachten Welkom bij Windesheim Een hogeschool waar iedereen zich gewaardeerd én thuis mag voelen. Gelijke kansen staan centraal en onze kracht ligt in samenwerking. We dragen bij aan een inclusieve en duurzame samenleving door relevant onderzoek en het opleiden van nieuwe professionals. Met persoonlijke leerroutes en actuele opleidingen bouwen we samen aan de toekomst. Onze campus in Zwolle is een energieke gemeenschap met alle voorzieningen: van een campuswinkel en restaurants tot sportschool en zwembad. Dit alles op een steenworp van het bruisende stadscentrum. Jij sluit je aan bij 15 collega’s van het lectoraat ICT-innovaties in de Zorg. Kenmerkend aan jouw team zijn de korte lijn met de zorgpraktijk en de mix van technische kennis en zorgkennis. Het team doet onderzoek dat direct raakt aan de praktijk, van ziekenhuizen tot zorgorganisaties in de regio. Een indruk krijgen? Bekijk de projecten AI-supported digital triage en remote patient monitoring en LokAI. Jouw bijdrage Wij geloven dat diversiteit onze resultaten versterkt. Voor de rol van Junior Onderzoeker zoeken we een nieuwsgierige professional die zorgvuldig werkt aan onderzoek naar AI en data in de zorg. Je hoeft nog niet op alle onderwerpen ervaring te hebben. Belangrijker is dat je nieuwe technologie wilt onderzoeken en uitproberen, en dat zorg en publieke gezondheid je aanspreken. Daarnaast heb je: een afgeronde bachelor of master, bijvoorbeeld in Artificial Intelligence, Data Science, ICT, Technische Informatica, Bio-informatica of Medische Informatiekunde kennis van programmeren, data-analyse en AI of machine learning ervaring met een onderzoeks- of ontwikkelopdracht, bijvoorbeeld via je afstudeerproject, stage of eerste baan het vermogen om gestructureerd te werken en technische keuzes goed vast te leggen een Verklaring Omtrent Gedrag (VOG) je werkt graag samen met collega’s, studenten en zorgprofessionals met uiteenlopende achtergronden een goede beheersing van het Nederlands (minimaal B2-niveau) Het is een pré als je ervaring hebt met: gezondheids-, sensor- of andere praktijkdata synthetische data, privacy of cybersecurity het begeleiden van studenten Herken je jezelf in deze rol, maar voldoe je niet aan alle punten? Reageer dan gerust. Een informeel (telefoon)gesprek is ook een mooie eerste stap. Je krijgt begeleiding bij het verder ontwikkelen van je onderzoeksvaardigheden en technische kennis. Je leert onder meer om: praktijkvragen te vertalen naar uitvoerbare technische deelonderzoeken passende onderzoeks- en evaluatiemethoden te kiezen samen te werken met zorgorganisaties en andere praktijkpartners resultaten helder te presenteren en vast te leggen stap voor stap meer verantwoordelijkheid te nemen binnen projecten Jouw vooruitzicht Als Junior Onderzoeker Toegepaste AI en Data (20 uur) werk je vanaf 1 januari (of anders in overleg) in een stimulerende omgeving waar je jezelf kunt zijn en impact maakt op de zorg van morgen. Je krijgt: een salaris van € 3.826 - € 5.699 bruto per maand bij een fulltime dienstverband (schaal 10 cao hbo) een contract voor de duur van 12 maanden 428 verlofuren per jaar bij 40 uur (53,5 dagen inclusief feestdagen) 8% vakantiegeld en 8,3% eindejaarsuitkering flexibele reiskostenvergoeding (waarbij het OV volledig wordt vergoed) ruime ontwikkelmogelijkheden via onze corporate academy en GoodHabitz extra's zoals vers fruit, gratis sporten op campus, museumkaart en vakliteratuurvergoeding balans tussen werk en privé door flexibele werktijden en goede verlofregelingen thuiswerkmogelijkheden en een laptop Meer weten over werken bij Windesheim? Bekijk onze arbeidsvoorwaarden hier. Solliciteer en sluit je aan bij Windesheim Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Solliciteer dan uiterlijk zondag 8 november als Junior Onderzoeker Toegepaste AI en Data met je motivatie en cv. Beantwoord in je motivatie in ieder geval onderstaande vragen. Dat helpt ons bij het zo objectief mogelijk werven en selecteren: Aan welk onderzoeks- of ontwikkelproject heb je gewerkt, en welke technische keuzes heb je daarin gemaakt? Hoe ga je te werk als data onvolledig of rommelig is? Geef een voorbeeld. Welke toepassing van AI in de zorg vind jij veelbelovend, en waar zie je risico’s? Hoe leg je een technisch resultaat uit aan iemand zonder technische achtergrond? Wat je kunt",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "20 uur per week Zwolle min € 3.826,- / max € 5.699,- Introductie Wil jij onderzoeken hoe AI en data de zorg slimmer en veiliger maken? Als Junior Onderzoeker Toegepaste AI en Data test je modellen en prototypes in de praktijk, samen met ziekenhuizen en zorgorganisaties. Je werkt onder begeleiding...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Laptop",
-    "Reiskosten",
-    "Flexibele uren"
-   ],
-   "skills": [
-    "Machine learning",
-    "AI",
-    "Data analyse",
-    "Security",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 70,
-    "matched_skills": [
-     "Python",
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Data science onderzoekservaring"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De junior onderzoeksrol sluit redelijk aan bij de achtergrond, al ligt de focus van de kandidaat meer op software engineering.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "299b0897cd6c",
    "source": "JobSpy",
    "title": "Junior E-learning Developer Contentontwikkelaar",
@@ -7734,53 +7734,6 @@
    "remote": false,
    "posted_at": "2026-10-26T00:00:00+00:00",
    "url": "https://nl.indeed.com/viewjob?jk=bf418546aa6f305e",
-   "salary": "€2600 - €4100 per maand",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "Ondersteunend / Staf Aeres Tech Productions Aalsmeer 0,8 - 1,0 fte Sluitingsdatum: 30-1-2027 Kun jij informatie analyseren en helder vertalen naar tekst en beeld? Lijkt het je leuk om jouw creaties terug te zien in lesboeken, e-learning modules, een virtual reality omgeving of apps? Dan willen we jou graag in ons team! Aeres Tech Productions (ATP) is een snelgroeiend bedrijf met pragmatische en creatieve medewerkers die lesstof ontwikkelen voor het onderwijs en het bedrijfsleven. Omdat de vraag naar (online) leermiddelen toeneemt, zoeken wij voor ons kantoor in Aalsmeer een (Junior) E-learning Developer / Contentontwikkelaar. Wat je gaat doen Als onze nieuwe collega ga je supergave leeroplossingen ontwikkelen voor allerlei klanten. Samen met de klant en de business manager van Aeres Tech Productions bepaal je de leerdoelen. Daarna maak je een product dat helemaal past bij het bedrijf van de klant. Tijdens het project check je regelmatig met iedereen hoe het gaat en zorg je dat alles op rolletjes loopt. Wij bieden Je krijgt bij ons veel vrijheid in het uitvoeren van je functie en volop ruimte voor persoonlijke ontwikkeling. Daarbij kun je profiteren van onze kennis en ervaring: we leren je graag de kneepjes van het vak. Elke dag is anders door de verschillende onderwerpen waar we aan werken, wat het werk altijd boeiend houdt. Naast een gezellige werksfeer en mogelijkheden om door te groeien, bieden wij goede arbeidsvoorwaarden, zoals: Salaris tussen de €2.600 en €4.100; 25 vakantiedagen; Een dienstverband van 0,8 - 1,0 fte; Reiskostenvergoeding van €0,23 per km (tot €247 per maand); Pensioenregeling; Ontwikkelbudget van €1.000 per jaar; Wij vragen Wij zoeken iemand die: Graag e-learning modules of lesmateriaal maakt; Minimaal een mbo-diploma heeft; Uitstekend Nederlands schrijft en spreekt; Zelfstandig kan werken en goed in teamverband functioneert; Die kritisch denkt en oplossingsgericht is en je weet je werkzaamheden goed te plannen en deadlines te bewaken; Heb je ook verstand van techniek en/of lesgeven, en ervaring met Lectora, Moodle, Articulate, Storyline of andere ontwikkeltools, dan is dat super. Waar je gaat werken Ons team: Aeres Tech Productions is een klein, dynamisch bedrijf gevestigd in de studio's in Aalsmeer. Je gaat aan de slag in een team met een business manager, projectmanagers, lesstofontwikkelaars, grafisch vormgevers en een office manager. Wij werken met de nieuwste en leukste leermethodieken en lesmaterialen waardoor onze producten altijd geavanceerd, fris en helemaal van nu zijn. Wij ontwikkelen onder andere: E-learningmodules; AR/VR producties; Apps; Bedieningsinstructies; Interactieve handboeken/werkinstructies; Lesboeken; Interesse Ben je enthousiast over deze functie en sta je te springen om op gesprek te komen? Of heb je vragen naar aanleiding van deze vacature? Bel dan Loes Meijboom via 06-53386960. Sollicitatieprocedure Deze vacature staat open tot en met 29 januari 2027. We beoordelen sollicitaties ook voor de sluitingsdatum. Je kan in de tussentijd dus al worden uitgenodigd voor een kennismakingsgesprek. De vacature blijft gedurende de gehele publicatieperiode openstaan. Als je geïnteresseerd bent kan je tot en met 29 januari 2027 blijven solliciteren.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Ondersteunend / Staf Aeres Tech Productions Aalsmeer 0,8 - 1,0 fte Sluitingsdatum: 30-1-2027 Kun jij informatie analyseren en helder vertalen naar tekst en beeld? Lijkt het je leuk om jouw creaties terug te zien in lesboeken, e-learning modules, een virtual reality omgeving of apps? Dan willen we...",
-   "benefits": [
-    "Pensioen",
-    "Reiskosten"
-   ],
-   "skills": [
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 40,
-    "matched_skills": [],
-    "missing_realistic": [
-     "contentontwikkeling",
-     "e-learning design"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De kandidaat heeft een IT-achtergrond maar mist specifieke ervaring met e-learning en contentontwikkeling.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
-   "id": "146882d2d795",
-   "source": "JobSpy",
-   "title": "Junior E-learning Developer Contentontwikkelaar",
-   "company": "AERES",
-   "location": "Aalsmeer, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=fc3e33a8691b01fa",
    "salary": "€2600 - €4100 per maand",
    "tags": [
     "",
@@ -7880,44 +7833,30 @@
    }
   },
   {
-   "id": "ebcef4351c6a",
+   "id": "146882d2d795",
    "source": "JobSpy",
-   "title": "Junior AI Solution Engineer",
-   "company": "Capgemini",
-   "location": "Utrecht, UT, Netherlands",
+   "title": "Junior E-learning Developer Contentontwikkelaar",
+   "company": "AERES",
+   "location": "Aalsmeer, NH, Netherlands",
    "remote": false,
    "posted_at": "2026-10-26T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=491a458eb0658eca",
-   "salary": "€3720 - €3720 per maand",
+   "url": "https://nl.indeed.com/viewjob?jk=fc3e33a8691b01fa",
+   "salary": "€2600 - €4100 per maand",
    "tags": [
     "",
-    ""
+    "parttime"
    ],
-   "full_text": "Wat ga je doen als Junior AI Solution Engineer Als Junior AI Solution Engineer binnen de ADM practice (Application Development & Maintenance) ontwerp en bouw je AI- en automatiseringsoplossingen van productieniveau. Je ontwikkelt schaalbare, herbruikbare componenten die applicatieontwikkeling en -onderhoud optimaliseren en die binnen klantomgevingen kunnen worden geïntegreerd en uitgerold. Je ontwikkelt AI-gestuurde oplossingen en intelligente automatiseringsworkflows en integreert AI-agents in ITSM-platforms, DevOps-pipelines en bedrijfssystemen. Je bouwt herbruikbare componenten, zoals orchestratieframes en API’s, met aandacht voor compliance, beveiliging, logging, monitoring, veerkracht en schaalbaarheid. Je implementeert oplossingen in productieomgevingen samen met ADM-teams en werkt continu aan het verbeteren en industrialiseren van AI-capaciteiten. Jouw profiel Je hebt een hbo- of wo-opleiding in Business & IT, Bedrijfskunde, Kunstmatige Intelligentie of een vergelijkbare richting. Je bent bekend met softwareontwikkeling in Python, C# of Node.js, en met Git en CI/CD. Je hebt ervaring met API-integratie, waaronder REST, OAuth2 en webhooks. Je hebt ervaring met of kennis van Retrieval-Augmented Generation (RAG)-pipelines en protocollen voor communicatie tussen meerdere agents. Je beheerst het Nederlands op B2/C1-niveau. Ervaring met AI-ondersteunde ontwikkeling, AI-governance, ITSM/DevOps/RPA-ecosystemen of tools zoals Semantic Kernel, LangChain, Microsoft Agent Framework, Azure Foundry of UiPath is een pré. Deze criteria geven een indicatie van het profiel dat we zoeken. Voldoe je niet aan alle criteria maar denk je wel dat dit de juiste functie voor jou is, dan nodigen we je van harte uit om toch te solliciteren of contact op te nemen. Wat bieden wij jou? Direct een vast contract. Een salaris van € 3.720,- bruto, inclusief een mobiliteitsvergoeding van € 750,- en 8% vakantiegeld, op basis van 40 uur. Bij goed functioneren kun je na 11, 19 en 25 maanden een salarisstap maken. Hieraan kunnen geen rechten worden ontleend. 26 vakantiedagen, met de mogelijkheid om extra dagen te kopen. Een pensioenbijdrage van Capgemini en de vrijheid om zelf extra bij te dragen. Blijf jezelf ontwikkelen met onbeperkte toegang tot onze Academy, certificeringen, digitale leerplatforms en de nieuwste AI-trainingen en tools. Leer van collega's en deel kennis binnen expert communities. Flexibele werktijden en hybride werken ter ondersteuning van jouw work-life balance. Pas de nieuwste cloud- en AI-innovaties toe in je klantprojecten. Kom kennismaken tijdens één van onze events Benieuwd naar de cultuur, werkwijze en carrièremogelijkheden binnen Capgemini? Tijdens onze events maak je kennis met collega’s, hoor je hun persoonlijke ervaringen en krijg je een kijkje achter de schermen. Bekijk onze evenementenpagina voor een overzicht van de aankomende events in Utrecht Leidsche Rijn. Recruiter contactgegevens Wil je meer weten over de rol, het team of de mogelijkheden? Lotte Hofstra vertelt je er graag meer over. Lotte.hofstra@capgemini.com www.linkedin.com/in/lotte-hofstra Over Capgemini Capgemini is een wereldwijd opererende partner in bedrijfs- en technologische transformatie, gedreven door AI, die aantoonbare bedrijfswaarde levert. Met de kracht van AI, generatieve AI, cloud, data en technologie helpen we organisaties hun digitale en duurzame ambities waar te maken. Dankzij onze expertise, onze end-to-end diensten en oplossingen, ondersteund door diepgaande sectorkennis en een sterk partner-ecosysteem, creëren we samen met meer dan 420.000 collega’s wereldwijd oplossingen die leiden tot blijvende waarde en tastbare impact. Make it real",
+   "full_text": "Ondersteunend / Staf Aeres Tech Productions Aalsmeer 0,8 - 1,0 fte Sluitingsdatum: 30-1-2027 Kun jij informatie analyseren en helder vertalen naar tekst en beeld? Lijkt het je leuk om jouw creaties terug te zien in lesboeken, e-learning modules, een virtual reality omgeving of apps? Dan willen we jou graag in ons team! Aeres Tech Productions (ATP) is een snelgroeiend bedrijf met pragmatische en creatieve medewerkers die lesstof ontwikkelen voor het onderwijs en het bedrijfsleven. Omdat de vraag naar (online) leermiddelen toeneemt, zoeken wij voor ons kantoor in Aalsmeer een (Junior) E-learning Developer / Contentontwikkelaar. Wat je gaat doen Als onze nieuwe collega ga je supergave leeroplossingen ontwikkelen voor allerlei klanten. Samen met de klant en de business manager van Aeres Tech Productions bepaal je de leerdoelen. Daarna maak je een product dat helemaal past bij het bedrijf van de klant. Tijdens het project check je regelmatig met iedereen hoe het gaat en zorg je dat alles op rolletjes loopt. Wij bieden Je krijgt bij ons veel vrijheid in het uitvoeren van je functie en volop ruimte voor persoonlijke ontwikkeling. Daarbij kun je profiteren van onze kennis en ervaring: we leren je graag de kneepjes van het vak. Elke dag is anders door de verschillende onderwerpen waar we aan werken, wat het werk altijd boeiend houdt. Naast een gezellige werksfeer en mogelijkheden om door te groeien, bieden wij goede arbeidsvoorwaarden, zoals: Salaris tussen de €2.600 en €4.100; 25 vakantiedagen; Een dienstverband van 0,8 - 1,0 fte; Reiskostenvergoeding van €0,23 per km (tot €247 per maand); Pensioenregeling; Ontwikkelbudget van €1.000 per jaar; Wij vragen Wij zoeken iemand die: Graag e-learning modules of lesmateriaal maakt; Minimaal een mbo-diploma heeft; Uitstekend Nederlands schrijft en spreekt; Zelfstandig kan werken en goed in teamverband functioneert; Die kritisch denkt en oplossingsgericht is en je weet je werkzaamheden goed te plannen en deadlines te bewaken; Heb je ook verstand van techniek en/of lesgeven, en ervaring met Lectora, Moodle, Articulate, Storyline of andere ontwikkeltools, dan is dat super. Waar je gaat werken Ons team: Aeres Tech Productions is een klein, dynamisch bedrijf gevestigd in de studio's in Aalsmeer. Je gaat aan de slag in een team met een business manager, projectmanagers, lesstofontwikkelaars, grafisch vormgevers en een office manager. Wij werken met de nieuwste en leukste leermethodieken en lesmaterialen waardoor onze producten altijd geavanceerd, fris en helemaal van nu zijn. Wij ontwikkelen onder andere: E-learningmodules; AR/VR producties; Apps; Bedieningsinstructies; Interactieve handboeken/werkinstructies; Lesboeken; Interesse Ben je enthousiast over deze functie en sta je te springen om op gesprek te komen? Of heb je vragen naar aanleiding van deze vacature? Bel dan Loes Meijboom via 06-53386960. Sollicitatieprocedure Deze vacature staat open tot en met 29 januari 2027. We beoordelen sollicitaties ook voor de sluitingsdatum. Je kan in de tussentijd dus al worden uitgenodigd voor een kennismakingsgesprek. De vacature blijft gedurende de gehele publicatieperiode openstaan. Als je geïnteresseerd bent kan je tot en met 29 januari 2027 blijven solliciteren.",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": true,
    "traineeship": false,
-   "short_desc": "Wat ga je doen als Junior AI Solution Engineer Als Junior AI Solution Engineer binnen de ADM practice (Application Development & Maintenance) ontwerp en bouw je AI- en automatiseringsoplossingen van productieniveau. Je ontwikkelt schaalbare, herbruikbare componenten die applicatieontwikkeling en...",
+   "short_desc": "Ondersteunend / Staf Aeres Tech Productions Aalsmeer 0,8 - 1,0 fte Sluitingsdatum: 30-1-2027 Kun jij informatie analyseren en helder vertalen naar tekst en beeld? Lijkt het je leuk om jouw creaties terug te zien in lesboeken, e-learning modules, een virtual reality omgeving of apps? Dan willen we...",
    "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
     "Pensioen",
-    "Vaste baan",
-    "Flexibele uren"
+    "Reiskosten"
    ],
    "skills": [
-    "Python",
-    "JavaScript",
-    "C#",
-    "Node.js",
-    "REST",
-    "Git",
-    "CI/CD",
-    "Azure",
-    "DevOps",
-    "AI",
-    "API",
     "Nederlands"
    ],
    "lang": "nl",
@@ -7926,25 +7865,18 @@
    "first_seen": "2026-10-28T22:29:12.222025+00:00",
    "match": {
     "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "Python",
-     "C#",
-     "Git",
-     "CI/CD",
-     "REST API’s",
-     "OAuth",
-     "MCP"
-    ],
+    "score": 40,
+    "matched_skills": [],
     "missing_realistic": [
-     "RAG-pipelines"
+     "contentontwikkeling",
+     "e-learning design"
     ],
     "ignored_unrealistic": [],
-    "reason": "De kandidaat past met zijn Python-, C#-, API- en recente AI-ervaring sterk bij deze junior AI-rol.",
-    "local_score": 87,
+    "reason": "De kandidaat heeft een IT-achtergrond maar mist specifieke ervaring met e-learning en contentontwikkeling.",
+    "local_score": 50,
     "ai": true,
     "check": false,
-    "visible": true
+    "visible": false
    }
   },
   {
@@ -8055,6 +7987,74 @@
     "ignored_unrealistic": [],
     "reason": "De kandidaat sluit als junior data- en Python-ontwikkelaar zeer goed aan bij dit starters-traineeship.",
     "local_score": 91,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "ebcef4351c6a",
+   "source": "JobSpy",
+   "title": "Junior AI Solution Engineer",
+   "company": "Capgemini",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=491a458eb0658eca",
+   "salary": "€3720 - €3720 per maand",
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Wat ga je doen als Junior AI Solution Engineer Als Junior AI Solution Engineer binnen de ADM practice (Application Development & Maintenance) ontwerp en bouw je AI- en automatiseringsoplossingen van productieniveau. Je ontwikkelt schaalbare, herbruikbare componenten die applicatieontwikkeling en -onderhoud optimaliseren en die binnen klantomgevingen kunnen worden geïntegreerd en uitgerold. Je ontwikkelt AI-gestuurde oplossingen en intelligente automatiseringsworkflows en integreert AI-agents in ITSM-platforms, DevOps-pipelines en bedrijfssystemen. Je bouwt herbruikbare componenten, zoals orchestratieframes en API’s, met aandacht voor compliance, beveiliging, logging, monitoring, veerkracht en schaalbaarheid. Je implementeert oplossingen in productieomgevingen samen met ADM-teams en werkt continu aan het verbeteren en industrialiseren van AI-capaciteiten. Jouw profiel Je hebt een hbo- of wo-opleiding in Business & IT, Bedrijfskunde, Kunstmatige Intelligentie of een vergelijkbare richting. Je bent bekend met softwareontwikkeling in Python, C# of Node.js, en met Git en CI/CD. Je hebt ervaring met API-integratie, waaronder REST, OAuth2 en webhooks. Je hebt ervaring met of kennis van Retrieval-Augmented Generation (RAG)-pipelines en protocollen voor communicatie tussen meerdere agents. Je beheerst het Nederlands op B2/C1-niveau. Ervaring met AI-ondersteunde ontwikkeling, AI-governance, ITSM/DevOps/RPA-ecosystemen of tools zoals Semantic Kernel, LangChain, Microsoft Agent Framework, Azure Foundry of UiPath is een pré. Deze criteria geven een indicatie van het profiel dat we zoeken. Voldoe je niet aan alle criteria maar denk je wel dat dit de juiste functie voor jou is, dan nodigen we je van harte uit om toch te solliciteren of contact op te nemen. Wat bieden wij jou? Direct een vast contract. Een salaris van € 3.720,- bruto, inclusief een mobiliteitsvergoeding van € 750,- en 8% vakantiegeld, op basis van 40 uur. Bij goed functioneren kun je na 11, 19 en 25 maanden een salarisstap maken. Hieraan kunnen geen rechten worden ontleend. 26 vakantiedagen, met de mogelijkheid om extra dagen te kopen. Een pensioenbijdrage van Capgemini en de vrijheid om zelf extra bij te dragen. Blijf jezelf ontwikkelen met onbeperkte toegang tot onze Academy, certificeringen, digitale leerplatforms en de nieuwste AI-trainingen en tools. Leer van collega's en deel kennis binnen expert communities. Flexibele werktijden en hybride werken ter ondersteuning van jouw work-life balance. Pas de nieuwste cloud- en AI-innovaties toe in je klantprojecten. Kom kennismaken tijdens één van onze events Benieuwd naar de cultuur, werkwijze en carrièremogelijkheden binnen Capgemini? Tijdens onze events maak je kennis met collega’s, hoor je hun persoonlijke ervaringen en krijg je een kijkje achter de schermen. Bekijk onze evenementenpagina voor een overzicht van de aankomende events in Utrecht Leidsche Rijn. Recruiter contactgegevens Wil je meer weten over de rol, het team of de mogelijkheden? Lotte Hofstra vertelt je er graag meer over. Lotte.hofstra@capgemini.com www.linkedin.com/in/lotte-hofstra Over Capgemini Capgemini is een wereldwijd opererende partner in bedrijfs- en technologische transformatie, gedreven door AI, die aantoonbare bedrijfswaarde levert. Met de kracht van AI, generatieve AI, cloud, data en technologie helpen we organisaties hun digitale en duurzame ambities waar te maken. Dankzij onze expertise, onze end-to-end diensten en oplossingen, ondersteund door diepgaande sectorkennis en een sterk partner-ecosysteem, creëren we samen met meer dan 420.000 collega’s wereldwijd oplossingen die leiden tot blijvende waarde en tastbare impact. Make it real",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Wat ga je doen als Junior AI Solution Engineer Als Junior AI Solution Engineer binnen de ADM practice (Application Development & Maintenance) ontwerp en bouw je AI- en automatiseringsoplossingen van productieniveau. Je ontwikkelt schaalbare, herbruikbare componenten die applicatieontwikkeling en...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Vaste baan",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "Python",
+    "JavaScript",
+    "C#",
+    "Node.js",
+    "REST",
+    "Git",
+    "CI/CD",
+    "Azure",
+    "DevOps",
+    "AI",
+    "API",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "Python",
+     "C#",
+     "Git",
+     "CI/CD",
+     "REST API’s",
+     "OAuth",
+     "MCP"
+    ],
+    "missing_realistic": [
+     "RAG-pipelines"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De kandidaat past met zijn Python-, C#-, API- en recente AI-ervaring sterk bij deze junior AI-rol.",
+    "local_score": 87,
     "ai": true,
     "check": false,
     "visible": true
