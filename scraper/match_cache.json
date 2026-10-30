@@ -3522,6 +3522,21 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een goede technische basis met SQL en versiebeheer, maar mist specifieke ervaring met Microsoft Fabric en Power BI."
+  },
+  "fcf8e03af0e7": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Agile/Scrum",
+    "Klantgesprekken",
+    "Urenschattingen",
+    "Analytisch vermogen"
+   ],
+   "missing_realistic": [
+    "Ervaring specifiek als business analist"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met klantgesprekken en procesanalyse, wat goed aansluit bij deze junior rol."
   }
  }
 }
