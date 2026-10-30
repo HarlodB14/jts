@@ -3641,6 +3641,149 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je sterke Python- en SQL-vaardigheden passen uitstekend bij deze data- en settlementanalyse."
+  },
+  "e9c97cdf8162": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Nederlands",
+    "Engels",
+    "Frans"
+   ],
+   "missing_realistic": [
+    "ervaring met e-learning ontwikkelen",
+    "didactische vaardigheden"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je talenkennis sluit goed aan bij deze e-learningrol, maar je mist gerichte ervaring met onderwijsontwikkeling."
+  },
+  "36e0db9524be": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [],
+   "missing_realistic": [
+    "elektrotechniek",
+    "besturingstechniek",
+    "hardware engineering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie richt zich op hardware- en elektrotechniek, terwijl jouw achtergrond specifiek in software engineering en IT-beheer ligt."
+  },
+  "93ba8142d4f7": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [],
+   "missing_realistic": [
+    "elektrotechniek",
+    "besturingstechniek",
+    "hardware engineering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt diepgaande kennis van elektrotechniek en besturingstechniek die niet in je cv staat."
+  },
+  "bef4397b31e6": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "analytisch",
+    "communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "ervaring met duurzaamheidsanalyses",
+    "supply chain compliance"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede analytische vaardigheden, maar de inhoudelijke focus op duurzaamheid en supply chains past minder bij jouw IT-profiel."
+  },
+  "ef7ebd02627f": {
+   "is_junior": true,
+   "score": 55,
+   "matched_skills": [
+    "Portugees",
+    "analytisch",
+    "communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "ervaring met duurzaamheidsanalyses"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je basiskennis Portugees en analytische vaardigheden sluiten deels aan, maar je mist ervaring in duurzaamheidsanalyses."
+  },
+  "2d955be4e798": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Python",
+    "Linux",
+    "security"
+   ],
+   "missing_realistic": [
+    "ervaring met embedded systems",
+    "C++"
+   ],
+   "ignored_unrealistic": [
+    "Engineer II niveau met specialistische embedded platform ervaring"
+   ],
+   "reason": "Hoewel je Python en Linux beheerst, vraagt deze medior embedded rol specifiek om hardware- en C++ ervaring."
+  },
+  "914d22299dde": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Hbo-opleiding Informatica"
+   ],
+   "missing_realistic": [
+    "PLC programmeren",
+    "elektrotechniek",
+    "aandrijftechniek"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-achtergrond, maar de focus ligt hier sterk op PLC- en aandrijftechniek in plaats van algemene software."
+  },
+  "813e99239b3c": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "klantgericht",
+    "processen analyseren",
+    "functioneel beheer"
+   ],
+   "missing_realistic": [
+    "ervaring met transportmanagementsystemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je adviesvaardigheden en ervaring met klantgesprekken sluiten goed aan bij deze applicatieconsultantrol."
+  },
+  "4325275ee0c0": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "Microsoft Intune",
+    "Exchange Online"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in systeembeheer sluit goed aan bij deze beheerfunctie."
+  },
+  "efc69f392a07": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie is te senior gezien de hoge salarisschaal en verantwoordelijkheden."
+  },
+  "7f6e580b121f": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie sluit niet aan omdat het een laboratoriumfunctie betreft in plaats van ICT."
   }
  }
 }
