@@ -3410,6 +3410,36 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Deze rol richt zich op business- en netwerkoperations in plaats van software engineering, waardoor je profiel minder goed aansluit."
+  },
+  "89d6679ffe0d": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "data modelling",
+    "real estate finance"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel SQL-ervaring, maar deze rol vraagt specifiek om data modelling en Power BI in een financiele context."
+  },
+  "dc7ea3b7ac7c": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "data platforms"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je consultancyvaardigheden en achtergrond in data en cloud sluiten goed aan bij deze junior adviesrol."
   }
  }
 }
