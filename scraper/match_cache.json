@@ -3440,6 +3440,88 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je consultancyvaardigheden en achtergrond in data en cloud sluiten goed aan bij deze junior adviesrol."
+  },
+  "ee3f607a9ed4": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Business Intelligence",
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met SQL en data-analyse, maar mist specifieke Business Intelligence-ervaring voor deze rol."
+  },
+  "dc1714ea14d8": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Java"
+   ],
+   "missing_realistic": [
+    "Spring Boot",
+    "medior/senior niveau"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt."
+  },
+  "c5e41b7e88e5": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Systeembeheer",
+    "Active Directory",
+    "Windows Server"
+   ],
+   "missing_realistic": [
+    "Nedap ONS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke achtergrond in IT-beheer en support, al mis je nog ervaring met het specifieke zorgsysteem Nedap ONS."
+  },
+  "00a1d2f93585": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Functioneel beheer",
+    "Koppelingen",
+    "Zorg-IT"
+   ],
+   "missing_realistic": [
+    "Cloverleaf"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al mooie ervaring opgedaan met zorg-IT en koppelingen, waardoor je goed past bij de ondersteunende rol van functioneel beheerder."
+  },
+  "e0bef4bf217e": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Data-analyse"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "Field Service Management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je HBO Informatica achtergrond en SQL-kennis sluiten redelijk aan, maar je mist gerichte ervaring met Power BI."
+  },
+  "ec61544011a1": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "CI/CD"
+   ],
+   "missing_realistic": [
+    "Microsoft Fabric",
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een goede technische basis met SQL en versiebeheer, maar mist specifieke ervaring met Microsoft Fabric en Power BI."
   }
  }
 }
