@@ -3784,6 +3784,285 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Deze functie sluit niet aan omdat het een laboratoriumfunctie betreft in plaats van ICT."
+  },
+  "014c3110690b": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Actieve Directory",
+    "Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-achtergrond en ervaring met hardware en ondersteuning sluiten goed aan bij deze klantgerichte rol."
+  },
+  "ad353268fa72": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-opleiding en sterke communicatieve vaardigheden passen goed bij een consultancy-traineeship."
+  },
+  "c1b494a49e82": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met Identity & Access Management en klantcontact sluit goed aan bij deze consultantsrol."
+  },
+  "26d3bc35654e": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Cyber Security",
+    "Secure Coding"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je afgeronde hbo-studie en affiniteit met security vormen een goede basis voor dit talentprogramma."
+  },
+  "b2655fa8f7f7": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Microsoft Azure",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Microsoft Power Platform"
+   ],
+   "ignored_unrealistic": [
+    "1+ jaar ervaring"
+   ],
+   "reason": "Je technische achtergrond en Azure-kennis sluiten goed aan, al moet je het Power Platform nog leren."
+  },
+  "8e236ac14c4c": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-bachelor Informatica en analytische vaardigheden passen goed bij de rol van junior business analist."
+  },
+  "478d18d20e03": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je combinatie van technische vaardigheden en adviesvaardigheden sluit goed aan bij deze junior consultancyrol."
+  },
+  "a7570945a448": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-opleiding en programmeerervaring bieden een goede basis voor een afgestudeerdenrol, hoewel de sector nieuw voor je is."
+  },
+  "36a9ca5d6d23": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "REST API’s",
+    "MCP / AI-koppelingen",
+    "Python",
+    "JavaScript"
+   ],
+   "missing_realistic": [
+    "speech-to-text models"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met AI-koppelingen en Python, waardoor je goed past bij deze generatieve AI-rol."
+  },
+  "ee0e0486e183": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "C# / .NET",
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "meet- en regeltechniek"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische achtergrond met C# en systemen sluit aardig aan, al mis je specifieke ervaring in de meet- en regeltechniek."
+  },
+  "de38458bb86a": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "REST API’s",
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Apollo",
+    "Wappalyzer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je data- en API-ervaring sluit goed aan bij deze junior data-analistrol, hoewel je specifieke leadtools nog moet leren."
+  },
+  "f7841d58f368": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "Data Science"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Met je afgeronde bachelor Informatica en vakken in data science pas je uitstekend in dit talentprogramma."
+  },
+  "2184f6d07b22": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Java",
+    "JavaScript",
+    "REST API’s",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "SailPoint IIQ"
+   ],
+   "ignored_unrealistic": [
+    "2+ years of experience with SailPoint IIQ"
+   ],
+   "reason": "Hoewel de ervaringseis voor de tool is genegeerd, vraagt deze IAM-functie teveel specifieke enterprise-ervaring voor een echte junior."
+  },
+  "e281ed31c288": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "PHP / Laravel",
+    "C# / .NET",
+    "JavaScript",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je backend-ervaring met Laravel en .NET sluit naadloos aan bij de gevraagde maatwerk- en koppelingsprojecten."
+  },
+  "1098b05deef9": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "REST API’s",
+    "Klantgesprekken en advies"
+   ],
+   "missing_realistic": [
+    "UiPath"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke communicatieve en technische vaardigheden voor deze automatiseringsrol, maar je mist nog UiPath-ervaring."
+  },
+  "2b9aafabb6e3": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "REST API’s",
+    "Software Engineering"
+   ],
+   "missing_realistic": [
+    "Progress/OpenEdge"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je algemene softwareontwikkeling past goed bij de moderne wensen, maar je mist specifieke Progress/OpenEdge-ervaring."
+  },
+  "f7658d8ba655": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "MCP / AI-koppelingen"
+   ],
+   "missing_realistic": [
+    "ervaring met RAG pipelines"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange ervaring met complexe enterprise transformaties"
+   ],
+   "reason": "Je ervaring met Python en AI-koppelingen sluit erg goed aan bij deze rol."
+  },
+  "ebb73651da4e": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "specifieke kwantitatieve modelleerexpertise"
+   ],
+   "reason": "Je achtergrond in software engineering en talentprogramma's past perfect bij deze consultancyfunctie."
+  },
+  "6064914b1434": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "specifieke data engineering tooling zoals Spark of Airflow"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond, hoewel gerichte data engineeringervaring nog beperkt is."
+  },
+  "63d9ab876c59": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Python",
+    "Microsoft Azure",
+    "Git"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-kennis en Azure-certificaat vormen een uitstekende basis voor deze junior functie."
+  },
+  "e6f181a8f8cb": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "diepgaande robotica en C++ ervaring"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange robotica-ontwikkeling"
+   ],
+   "reason": "Hoewel je Python-ervaring en stage bij Guerrilla waardevol zijn, vraagt deze rol om echte robotica-achtergrond."
+  },
+  "8146ee3d3a24": {
+   "is_junior": false,
+   "score": 65,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "mediorniveau met minimaal enkele jaren zelfstandige werkervaring"
+   ],
+   "reason": "Je frontend-skills in JavaScript en Vue sluiten aan, maar de vacature zoekt expliciet naar medior niveau."
   }
  }
 }
