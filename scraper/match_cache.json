@@ -4063,6 +4063,47 @@
     "mediorniveau met minimaal enkele jaren zelfstandige werkervaring"
    ],
    "reason": "Je frontend-skills in JavaScript en Vue sluiten aan, maar de vacature zoekt expliciet naar medior niveau."
+  },
+  "9a05bdbf02de": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "REST API’s",
+    "Python",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "RAG pipelines",
+    "Agent architectures"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Jevarvarp en consultancy-ervaring passen goed bij deze rol om AI-oplossingen naar productie te brengen."
+  },
+  "3172c884f663": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Commerciële analyse",
+    "Pricing strategie",
+    "P&L beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie richt zich op commerciële analyse en pricing in plaats van software engineering en consultancy."
+  },
+  "8cff81011907": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Financial engineering",
+    "Kwantitatieve modellering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-achtergrond sluit goed aan bij dit talentprogramma, hoewel de focus meer op finance en data ligt."
   }
  }
 }
