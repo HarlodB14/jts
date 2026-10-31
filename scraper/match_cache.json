@@ -4104,6 +4104,24 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hbo-achtergrond sluit goed aan bij dit talentprogramma, hoewel de focus meer op finance en data ligt."
+  },
+  "da28a3004204": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Hbo-opleiding",
+    "Klantgesprekken",
+    "Adviseren van klanten"
+   ],
+   "missing_realistic": [
+    "Ervaring met Microsoft Security en bijbehorende beveiligingsoplossingen",
+    "Relevante Microsoft Security-certificeringen",
+    "Ervaring met ethical hacking"
+   ],
+   "ignored_unrealistic": [
+    "Meerdere jaren relevante werkervaring binnen cybersecurity"
+   ],
+   "reason": "Je mist specifieke ervaring met Microsoft Security en bijbehorende certificeringen voor deze consultancyrol."
   }
  }
 }
