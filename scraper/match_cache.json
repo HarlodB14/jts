@@ -4314,6 +4314,20 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Hoewel je sterke programmeerbasis hebt, sluit het ontbreken van Rust-kennis niet aan bij deze specifieke vacature."
+  },
+  "6c7c347cf204": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "strategische analyse-ervaring",
+    "commerciële planning"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel Python en SQL, maar deze rol vraagt om senior strategische analyse en commerciële planning in plaats van software engineering."
   }
  }
 }
