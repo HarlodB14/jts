@@ -4328,6 +4328,19 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt wel Python en SQL, maar deze rol vraagt om senior strategische analyse en commerciële planning in plaats van software engineering."
+  },
+  "a44e51fd08b6": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Softwareontwikkeling",
+    "AI",
+    "Klantgericht",
+    "Communicatief vaardig"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en achtergrond in softwareontwikkeling sluiten uitstekend aan bij deze junior projectmanagementrol."
   }
  }
 }
