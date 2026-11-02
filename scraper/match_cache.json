@@ -4341,6 +4341,97 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je communicatieve vaardigheden en achtergrond in softwareontwikkeling sluiten uitstekend aan bij deze junior projectmanagementrol."
+  },
+  "db3d27372a82": {
+   "is_junior": false,
+   "score": 60,
+   "matched_skills": [
+    "Azure",
+    "Cloud"
+   ],
+   "missing_realistic": [
+    "Dynamics CRM",
+    "AFAS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel Azure-ervaring, maar de rol vraagt specifiek om senior ervaring met AFAS en Dynamics CRM."
+  },
+  "1f8a7a436408": {
+   "is_junior": false,
+   "score": 85,
+   "matched_skills": [
+    "Vue / Nuxt",
+    "JavaScript"
+   ],
+   "missing_realistic": [
+    "React"
+   ],
+   "ignored_unrealistic": [
+    "Minimum 2 years of experience in front-end development"
+   ],
+   "reason": "Je JavaScript- en Vue/Nuxt-ervaring sluit goed aan bij deze front-end functie."
+  },
+  "dd8a50bd60c7": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "JavaScript",
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in software engineering en ervaring met .NET en Python passen uitstekend bij deze rol."
+  },
+  "4ee91b562a48": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "REST API’s",
+    "AI"
+   ],
+   "missing_realistic": [
+    "Salesforce"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke analytische vaardigheden en ervaring met AI en klantgesprekken, maar mist Salesforce-kennis."
+  },
+  "d61ec570e720": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "data science specifieke ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je opleiding Informatica en vaardigheid met Python en SQL sluiten redelijk aan bij deze data-analyse rol."
+  },
+  "4e827147b105": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "data governance"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een brede IT-achtergrond en SQL-kennis, maar mist specifieke ervaring met data stewardship."
+  },
+  "addbe7e72d88": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je technische opleiding en ervaring met data-extractie en programmeren passen goed bij deze data-analist functie."
   }
  }
 }
