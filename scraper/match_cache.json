@@ -5205,6 +5205,119 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een sterke basis in softwareontwikkeling, maar mist nog specifieke domeinkennis van enterprise-oplossingen."
+  },
+  "c3cbbb39b543": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "Java",
+    "C#",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "PowerBI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-bachelor en ervaring met Python, Java, C# en Azure die goed aansluiten bij deze junior data engineering rol."
+  },
+  "43aa3fc4a848": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Consultancyervaring",
+    "Relocation management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze vacature is gericht op global assignment management en relocation in plaats van software engineering."
+  },
+  "99e5ffb5df06": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Testing"
+   ],
+   "missing_realistic": [
+    "C++",
+    "Embedded Systems",
+    "Radar technology"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je ervaring hebt met testen en complexe systemen, mis je specifieke C++-kennis en achtergrond in radarsoftware."
+  },
+  "3f4584466a3f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Cyber Security Awareness",
+    "Principles of Secure Coding"
+   ],
+   "missing_realistic": [
+    "OT (Operational Technology) kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in cybersecurity en secure coding sluit goed aan, al mis je nog specifieke ervaring met industriële OT-omgevingen."
+  },
+  "67484ac15410": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Java",
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Uitgebreide professionele Java enterprise-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een gedegen basis in Java en SQL vanuit je opleiding, al ligt je recente werkervaring meer bij Laravel en .NET."
+  },
+  "ba5405cc37ee": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "SQL",
+    "Engels"
+   ],
+   "missing_realistic": [
+    "C++",
+    "WPF",
+    "XAML",
+    "UML"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke C# en .NET-vaardigheden passen goed, hoewel ze specifiek vragen om C++ en WPF/XAML."
+  },
+  "4d8e9b0e34b9": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "Servicedesk / Support"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide achtergrond als ICT-medewerker bij OGD en je mbo-opleidingen systeembeheer sluiten hier naadloos op aan."
+  },
+  "1234d4ffe60a": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Python",
+    "C#",
+    ".NET"
+   ],
+   "missing_realistic": [
+    "PLC-programmering",
+    "SCADA-systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een goede technische programmeerbasis, maar mist specifieke ervaring met industriële PLC- en SCADA-systemen."
   }
  }
 }
