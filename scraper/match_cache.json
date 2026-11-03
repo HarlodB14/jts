@@ -4729,6 +4729,101 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Deze business analist rol vraagt specifieke marketing- en webanalytics-ervaring die niet primair in je technische software- en beheer-achtergrond naar voren komt."
+  },
+  "d8c80121b0ab": {
+   "is_junior": false,
+   "score": 35,
+   "matched_skills": [
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Mechatronica achtergrond",
+    "Machinebouw ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke software-achtergrond, maar deze mechatronica machinebouwrol sluit niet aan bij je profiel."
+  },
+  "ffd1e16cbf90": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Elektrotechniek",
+    "Werktuigbouwkunde"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je opleiding en ervaring liggen in software en IT-beheer, niet in elektrotechnische energiedistributie."
+  },
+  "bbad501cf838": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "C#",
+    "Algoritmes",
+    "Engels"
+   ],
+   "missing_realistic": [
+    "Maritieme domeinkennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python- en C#-ervaring sluiten goed aan bij deze software engineering rol, al mis je maritieme kennis."
+  },
+  "c7a7465f2dc0": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "Java",
+    "C#",
+    "TypeScript",
+    "Backend development",
+    "API's",
+    "Testing"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke backend- en testervaring in talen zoals Python en Java sluiten uitstekend aan bij deze AI-trainingsrol."
+  },
+  "edade466795b": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Systeembeheer",
+    "Agile/Scrum",
+    "Scripting",
+    "Testen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT-beheer en servicedesk sluit naadloos aan bij deze functioneel beheerder rol."
+  },
+  "03d8c2dc8fdc": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Data-analyse"
+   ],
+   "missing_realistic": [
+    "Ervaring binnen internal audit"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt basiskennis van SQL en data, maar je mist specifieke ervaring met internal audit en risk control."
+  },
+  "9185441bb243": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Data-analyse",
+    "Probleemoplossend vermogen"
+   ],
+   "missing_realistic": [
+    "Ervaring als business analist",
+    "Logistieke capaciteitsplanning"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke analytische vaardigheden, maar mist de specifieke ervaring als business analist in de logistiek."
   }
  }
 }
