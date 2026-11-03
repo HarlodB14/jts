@@ -4659,6 +4659,76 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je Python-vaardigheden sluiten aan, maar je mist gerichte ervaring met fysieke machinebesturing."
+  },
+  "06b2c8ddb428": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Ervaring met gebouwautomatisering",
+    "Kennis van klimaatbeheersing en verlichting"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een passende achtergrond in ICT-beheer en informatica voor een junior engineer rol, hoewel gebouwautomatisering specifiek is."
+  },
+  "755173c97b2f": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "Ervaring met datawarehousing",
+    "Ervaring met BI-tools zoals Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeer- en SQL-vaardigheden voor een junior BI-rol, maar mist directe ervaring met datawarehouses en BI-rapportagetools."
+  },
+  "f7a80f2f3301": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C# / .NET",
+    "Python",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sluit met je programmeerervaring in C# en Python en je stage-achtergrond in complexe codebases erg goed aan bij deze software developer rol."
+  },
+  "dd3d7bbedafe": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Ervaring als functioneel beheerder binnen een corporatie of ERP-omgeving"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je servicedesk- en systeembeheerervaring sluiten goed aan bij applicatiebeheer en ondersteuning, hoewel de specifieke domeinkennis ontbreekt."
+  },
+  "82cb76d90752": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring met digitale analytics zoals GA4",
+    "Ervaring met BI-tools"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze business analist rol vraagt specifieke marketing- en webanalytics-ervaring die niet primair in je technische software- en beheer-achtergrond naar voren komt."
   }
  }
 }

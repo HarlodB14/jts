@@ -1,18 +1,18 @@
 {
- "updated_at": "2026-11-02T20:18:41.204511+00:00",
+ "updated_at": "2026-11-03T02:52:46.099571+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 556,
+  "jobspy": 549,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 44,
-  "himalayas": 2
+  "himalayas": 3
  },
- "count": 359,
+ "count": 364,
  "jobs": [
   {
    "id": "015d515659e0",
@@ -293,6 +293,58 @@
    }
   },
   {
+   "id": "06b2c8ddb428",
+   "source": "JobSpy",
+   "title": "Junior Engineer gebouwautomatisering in de omgeving van 's-Hertogenbosch.",
+   "company": "Dosign Engineering",
+   "location": "Den Bosch, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=86db264cf2599be2",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Functie Junior Engineer gebouwautomatisering in de omgeving van 's-Hertogenbosch. Ervaringsniveau Starter Branche Installatietechniek Opleidingsniveau HBO Discipline Automatisering Standplaats 's-Hertogenbosch Contractvorm Doelstelling vaste dienst Referentie ID 2026-04916 Over deze vacature Als Junior Engineer Gebouwautomatisering werk je samen met Lead Engineers en Projectleiders aan het ontwerpen en optimaliseren van gebouwgebonden automatiseringsoplossingen. Hierbij zorg je ervoor dat verschillende technische installaties, waaronder klimaatbeheersing, verlichting en beveiliging, optimaal met elkaar samenwerken binnen één geïntegreerd systeem. In het begin ondersteun je ervaren engineers en leer je de technische systemen en projecten steeds beter kennen. Naarmate je meer ervaring opdoet, krijg je steeds meer verantwoordelijkheid binnen de engineering. Je houdt je bezig met het ontwerpen, programmeren en optimaliseren van regel- en automatiseringsoplossingen en stemt technische keuzes af met de Lead Engineer, Projectleider en uiteindelijk ook met opdrachtgevers. Deze functie biedt volop ruimte om jezelf zowel technisch als projectmatig verder te ontwikkelen en door te groeien naar een zelfstandige of coördinerende rol binnen de gebouwautomatisering. Je gaat aan de slag bij een Nederlands bouwbedrijf dat actief is in vastgoed, bouw en techniek, en infrastructuur. Het bedrijf werkt aan oplossingen voor de gebouwde omgeving. Taken en verantwoordelijkheden Wat ga je doen als Junior Engineer gebouwautomatisering in de omgeving van 's-Hertogenbosch.? Ontwerpen en engineeren van gebouwautomatiseringssystemen Ondersteunen bij het programmeren en optimaliseren van regeltechnische oplossingen Integreren van installaties voor onder andere klimaatbeheersing, verlichting en beveiliging Samenwerken met Lead Engineers, Projectleiders en andere technische disciplines Ondersteunen bij de technische uitwerking van projecten Afstemmen van technische oplossingen met collega's en opdrachtgevers Meewerken aan duurzame en toekomstbestendige gebouwinstallaties Jezelf ontwikkelen richting een zelfstandige Engineer Gebouwautomatisering. Over jou Wat neem je mee? Een afgeronde hbo-opleiding in Elektrotechniek, Werktuigbouwkunde, Industriële Automatisering of een vergelijkbare technische richting Affiniteit met gebouwautomatisering, gebouwgebonden installaties en meet- en regeltechniek Goede communicatieve vaardigheden en de ambitie om steeds zelfstandiger met opdrachtgevers te schakelen Een proactieve en oplossingsgerichte instelling Je werkt graag samen en hebt oog voor kwaliteit en duurzaamheid. Aanbod Wat biedt Dosign jou? Wij hanteren Gelijkwaardig Belonen. Dit betekent dat jouw arbeidsvoorwaarden als Dosign-professional volledig gelijkwaardig zijn aan die van een collega die rechtstreeks bij onze opdrachtgever in dienst is. Afhankelijk van de opdrachtgever en jouw profiel kun je rekenen op arbeidsvoorwaarden zoals: Een passend salaris op basis van opleiding, ervaring en functie-inhoud Verlofregelingen zoals vakantiedagen en ADV Eventuele extra’s zoals een dertiende maand, bonus- of winstdelingsregeling Een pensioenregeling en toegang tot collectieve verzekeringen Opleidings- en ontwikkelbudgetten, inclusief trainingen via onze eigen Dosign Academy Thuiswerkvergoeding, Overwerktoeslag en overige vergoedingen. Heb je vragen? Jasmijn staat voor je klaar! Jasmijn Scheeren Dosign Tilburg +31659856631 jasmijn.scheeren@dosign.com Voordelen van solliciteren via Dosign Keuze uit meer dan 500+ technische vacatures. Je profiteert van ons grote netwerk aan bedrijven. Eenmaal aan het werk, blijven we met je in contact. Altijd een persoonlijke consultant voor ál jouw vragen.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Functie Junior Engineer gebouwautomatisering in de omgeving van 's-Hertogenbosch. Ervaringsniveau Starter Branche Installatietechniek Opleidingsniveau HBO Discipline Automatisering Standplaats 's-Hertogenbosch Contractvorm Doelstelling vaste dienst Referentie ID 2026-04916 Over deze vacature Als...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Bonus"
+   ],
+   "skills": [
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [
+     "SQL",
+     "Git / Bitbucket"
+    ],
+    "missing_realistic": [
+     "Ervaring met gebouwautomatisering",
+     "Kennis van klimaatbeheersing en verlichting"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt een passende achtergrond in ICT-beheer en informatica voor een junior engineer rol, hoewel gebouwautomatisering specifiek is.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "6e5872b880cc",
    "source": "JobSpy",
    "title": "Traineeship Cybersecurity & Network / Security Engineer",
@@ -344,6 +396,239 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "f539db4cec6d",
+   "source": "JobSpy",
+   "title": ".NET ontwikkelaar",
+   "company": "Nedasco",
+   "location": "Amersfoort, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=07d03d0f72d98bb4",
+   "salary": "€4000 - €5000 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Heb jij meerdere jaren ervaring met het ontwikkelen van applicaties in C# en .NET? Neem jij graag verantwoordelijkheid en weet je samen met andere ontwikkelaars applicaties van ontwikkeling tot oplevering te brengen? Krijg je energie van werken in een multidisciplinair scrumteam? Dan maken we graag kennis met jou. Dit ga je doen Vanuit jouw ervaring help je het team om de juiste keuzes te maken bij de ontwikkeling en het beheer van C#/.NET-applicaties. Je houdt oog voor de voortgang en werkt samen met je collega’s toe naar concrete resultaten. Daarbij vind je het vanzelfsprekend om kennis te delen en collega’s mee te nemen, zodat de C#/.NET-kennis binnen het team verder groeit. Je team Je komt terecht in een multidisciplinair DevOps-team waarin ontwikkelen, beheren en verbeteren van onze applicaties samenkomen. Binnen het team is veel kennis en ervaring aanwezig op het gebied van Java en Azure DevOps. Met jouw ervaring in C#/.NET en GitLab voeg je daar nieuwe kennis aan toe. We werken nauw samen, helpen elkaar en delen onze kennis. Zo bouwen we gezamenlijk aan kwalitatief goede software en verbreden we de technische kennis binnen het team. Wie ben jij? Je hebt ruime ervaring met C# en .NET; Je hebt ruime ervaring met het ontwikkelen en beheren van applicaties; Je hebt AI geïntegreerd in jouw werkwijze; Je neemt initiatief en voelt je verantwoordelijk voor het resultaat van je werk; Je zorgt dat het op tijd afkomt; Je werkt graag samen en deelt actief je kennis met collega’s; Je hebt ervaring met werken in een Agile/Scrum- of DevOps-omgeving. Dit bieden wij jou Bij Nedasco krijg je de ruimte om jezelf te ontwikkelen en mee te bouwen aan een organisatie die volop in beweging is. Je werkt samen met betrokken collega’s in een omgeving waarin deskundigheid, persoonlijke service en samenwerking belangrijk zijn. Daarnaast bieden we je: Een uitdagende functie waarin je jouw technische ervaring kunt inzetten en overdragen aan je collega’s; Een salaris tussen € 4.000 en € 5.000 op basis van 40 uur per week, afhankelijk van kennis en ervaring; Een 13e maand; 27 vakantiedagen; Hybride werken; Een goede pensioenregeling; Reiskostenvergoeding of een NS-Business Card; Korting op verzekeringsproducten; Volop mogelijkheden voor persoonlijke en professionele ontwikkeling. Werken bij Nedasco Nedasco is 100% dochter van a.s.r. en gevolmachtigde van de meeste grote verzekeraars. Met ruim 200 collega’s werken we iedere dag aan goede service en slimme oplossingen voor financiële adviseurs. We geloven dat je samen verder komt. Daarom vinden we energie en samenwerking belangrijk en geven we je de ruimte om mee te denken, jezelf te ontwikkelen en verantwoordelijkheid te nemen. Zie jij jezelf in deze rol? Dan maken we graag kennis met je. Vraag over deze vacature? Chantal Hielkema-Fransberg Recruiter Waarom werken bij ons? Altijd blijven leren Bij Nedasco Groep vinden we jouw ontwikkeling belangrijk. Je krijgt bij ons de kans om jezelf verder te ontwikkelen via GoodHabitz. Deze online leeromgeving biedt een breed scala aan online cursussen en zelfassessments waarmee je nieuwe vaardigheden kunt leren en je persoonlijke en professionele groei kunt stimuleren. Werk-privébalans Wij vinden gezonde werk-privébalans belangrijk. We bieden je de mogelijkheid om thuis te werken, zodat je werk goed samengaat met je persoonlijke leven. Daarnaast organiseren we regelmatig teamactiviteiten en investeren we in je persoonlijke en professionele groei. Open en hechte cultuur Bij Nedasco Groep geloven we in de kracht van samenwerken. We hebben een open en hechte cultuur waar iedereen zich thuis voelt. Bij ons is er ruimte voor persoonlijke ontwikkeling, het ontdekken van je talenten en het leren van nieuwe vaardigheden.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Heb jij meerdere jaren ervaring met het ontwikkelen van applicaties in C en .NET? Neem jij graag verantwoordelijkheid en weet je samen met andere ontwikkelaars applicaties van ontwikkeling tot oplevering te brengen? Krijg je energie van werken in een multidisciplinair scrumteam? Dan maken we graag...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Reiskosten"
+   ],
+   "skills": [
+    "Java",
+    "C#",
+    ".NET",
+    "Git",
+    "Azure",
+    "Agile",
+    "DevOps",
+    "AI"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-02T20:18:41.204511+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 30,
+    "matched_skills": [
+     "C#",
+     ".NET",
+     "Azure"
+    ],
+    "missing_realistic": [
+     "meerdere jaren ervaring"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De vacature vraagt om meerdere jaren ervaring, waardoor deze minder geschikt is voor een junior.",
+    "local_score": 91,
+    "ai": true,
+    "check": true,
+    "visible": false
+   }
+  },
+  {
+   "id": "755173c97b2f",
+   "source": "JobSpy",
+   "title": "Business intelligence ontwikkelaar",
+   "company": "Fidus.nl/ Heinenoord",
+   "location": "Den Bosch, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=6318570aa90dd908",
+   "salary": "€3838 - €7623 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent gefuseerde organisatie. Je denkt actief mee over AI-toepassingen en helpt de organisatie betere beslissingen te nemen op basis van betrouwbare data. Dit doe je vanuit ons hoofdkantoor in Den Bosch en vanuit huis. Jouw baan als business intelligence ontwikkelaar: Als business intelligence ontwikkelaar werk je op het snijvlak van data, techniek en business. Je beheert en ontwikkelt ons datawarehouse en maakt een vertaling van de informatiestrategie van HeinenoordZicht Groep naar praktische BI-oplossingen. Verder denk je graag gevraagd en ongevraagd mee over mogelijkheden op het gebied van data en hoe je deze het beste voor onze organisatie kunt gebruiken. Je staat in nauw contact met de business om hun behoeften op te halen als het gaat om informatievoorziening. Je begrijpt als geen ander hoe onze bedrijfsprocessen werken en hoe je deze kunt omzetten naar slimme technische oplossingen en bruikbare stuurinformatie. Met jouw expertise en analytisch inzicht, krijgt de business de juiste informatie aangeleverd om hun klanten uitstekend te bedienen. Bijvoorbeeld in de vorm van rapportages en dashboards. De functie van business intelligence ontwikkelaar combineert architectuur, ontwikkeling, beheer en advisering. Je werkt samen met gebruikers, projectleiders, management en externe specialisten. Daarbij zorg je ervoor dat BI-oplossingen niet alleen technisch goed werken, maar ook aansluiten bij de behoeften van de organisatie. Wat krijg je van ons: Een goed salaris: schaal loopt van € 3.838,- tot € 7.623,- bruto op basis van 40 uur per week. We stemmen de hoogte van je salaris af op je kennis en ervaring. Een dienstverband van 32 of 40 uur per week, afhankelijk van jouw voorkeur. Deelname aan de collectieve pensioenregeling bij BeFrank. Maandelijkse netto internetvergoeding van € 20,-. 27 vakantiedagen en de mogelijkheid om jaarlijks maximaal 5 dagen bij te kopen. Reiskostenvergoeding van € 0,25 per kilometer tot 40 km of volledige vergoeding bij reizen met het openbaar vervoer. Aantrekkelijke kortingen op je zorgverzekering en de eigen verzekeringsproducten van HZG. De mogelijkheid om een (elektrische) fiets te leasen tegen fiscaal voordelige voorwaarden. De flexibiliteit om deels vanuit huis te werken, waarbij ook gezorgd wordt voor een fijne en veilige thuiswerkplek. Werken bij een topspeler in de Nederlandse assurantiemarkt, onderdeel van de stabiele, internationale NN Group. Blijvende aandacht voor jouw ontwikkeling en inzetbaarheid. Jouw profiel: Je krijgt energie van het vertalen van complexe informatievraagstukken naar praktische oplossingen. Je vindt het leuk om met verschillende stakeholders samen te werken en kunt technische mogelijkheden begrijpelijk uitleggen aan gebruikers en management. Je kijkt kritisch naar processen en systemen, signaleert verbetermogelijkheden en neemt verantwoordelijkheid voor de kwaliteit van informatievoorziening. Daarbij weet je het evenwicht te bewaren tussen techniek, gebruikerswensen en organisatiedoelen. Verder vragen wij: Hbo-werk- en -denkniveau en ervaring in een soortgelijke functie als business intelligence ontwikkelaar. Ervaring met SQL, Python, Azure en Databricks. Wanneer je naast bovenstaande ook verstand hebt van Power BI en/of ANVA maakt dit jou misschien wel de ideale kandidaat. Uitstekende beheersing van de Nederlandse taal, in woord en geschrift. Dit zijn wij: Twee sterke bedrijven, Heinenoord Holding en Zicht, risico- en verzekeringsadviseurs. Samengebracht in één toekomstgerichte organisatie: HeinenoordZicht Groep. Een nieuwe naam, gebouwd op meer dan een eeuw ervaring. De kracht van digitale mogelijkheden combineren we met lokaal ondernemerschap én de professionaliteit van een grote landelijke Nederlandse speler. Wij helpen elkaar en onze klanten vooruit. We geven onafhankelijk en professioneel advies en helpen bij het maken van bewuste keuzes over financiële risico’s. Dit geldt zowel richting onze klanten, als binnen de organisatie. Dit is wat ons energie geeft en waar ons talent ligt. Dit doen wij vanuit ons vakmanschap, onze passie, de rijke ervaring, maar ook de lokale verbinding. Dat is de reden waarom onze collega’s hier werken, waarom onze klanten bij ons komen. En wat ons verbindt. HeinenoordZicht Groep is een gaaf bedrijf: goed geregeld, aantrekkelijk voor medewerkers, aantrekkelijk voor klanten en financieel gezond. De afdeling: Jouw werkplek vind je in ons splinternieuw en moderne hoofdkantoor in ’s-Hertogenbosch, dicht bij het Provinciehuis. Maar thuiswerken is ook helemaal onderdeel van onze cultuur. Samen met twee andere collega’s ben je verantwoordelijk voor data en informatievoorziening binnen HeinenoordZicht Groep. Je rapporteert aan de manager data- en informatiemanagement. De sfeer is informeel. Werken in jeans en op sneakers vinden we de normaalste zaak van de wereld. We geven je ruimte om verantwoordelijkheid te nemen vanuit je eigen expertise en werken vanuit vertrouwen en samenwerking. Enthousiast? Enthousiast geworden over deze vacature van business intelligence ontwikkelaar bij HeinenoordZicht Groep? Reageer dan via de solliciteerbutton. We sluiten deze vacature als we een passende kandidaat hebben gevonden. Voor deze vacature werken wij niet samen met werving- en selectiebureaus. Een assessment kan onderdeel zijn van de procedure. Voor meer informatie, mail ons op hr@heinenoordzichtgroep.nl.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "Reiskosten"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "AI",
+    "Power BI",
+    "Databricks"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "SQL",
+     "Python",
+     "AWS",
+     "Microsoft Azure"
+    ],
+    "missing_realistic": [
+     "Ervaring met datawarehousing",
+     "Ervaring met BI-tools zoals Power BI"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt sterke programmeer- en SQL-vaardigheden voor een junior BI-rol, maar mist directe ervaring met datawarehouses en BI-rapportagetools.",
+    "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "f7a80f2f3301",
+   "source": "JobSpy",
+   "title": "Software Developer (Treazure Enterprise) - M/F",
+   "company": "Orisha",
+   "location": "Maarn, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=cdc22595dc3be2bd",
+   "salary": "€3500 - €4000 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Ready to shape and elevate the core technology of a large-scale enterprise solution? Software Developer (Treazure Enterprise) Join Orisha Commerce and become an essential part of the R&D team dedicated to our Treazure Enterprise solution. As a Software Developer (TE), you will work closely with the Team Lead (TE) and a collaborative engineering team committed to technical excellence and customer success. Within a supportive environment, you will build a comprehensive understanding of our overall platform while having the opportunity to develop deep expertise in key business domains (such as logistics, finance, order management, or system integrations). Your missions 1/ Develop and evolve the Treazure Enterprise solution You design, maintain, and enhance platform features in accordance with established design principles and technical concepts, You build an end-to-end understanding of the solution architecture while developing specialized domain knowledge in your chosen areas. 2/ Ensure codebase consistency and maintainability You follow proven engineering guidelines and established architecture patterns rather than reinventing the wheel, You write clean, well-structured, and thoroughly documented code that is easy to understand and maintain over time, You proactively propose architectural and technical improvements whenever recurring issues or inconsistencies are identified. 3/ Take ownership of (sub)projects from end to end You lead the planning and execution of assigned (sub)projects with full autonomy, from scoping through to final delivery, You communicate effectively with the Team Lead, clients, and external stakeholders to clarify technical requirements and keep milestones on track, You identify risks or bottlenecks early and take initiative to secure on-time, high-quality deliverables. 4/ Champion quality assurance and platform scope awareness You assess the broader impact of customizations and new capabilities beyond your immediate development tasks, You take ownership of specific platform components and ensure their smooth integration into upcoming releases, You regularly gather feedback from QA, peers, and end users to continuously elevate the quality of delivered solutions. 5/ Share knowledge and collaborate securely You provide proactive technical guidance to fellow engineers and share your domain expertise across the team, You document technical decisions and take an active part in onboarding new team members, You perform daily duties in strict compliance with internal security guidelines, Code of Conduct, and standards such as ISO 27001. Who are you? You hold an HBO-level working and thinking ability, preferably in computer science or software engineering, You bring proven, hands-on experience with C# and the .NET Framework ecosystem, You are familiar with relational databases and have solid foundational knowledge of SQL, You combine autonomous project management skills with a strong collaborative mindset focused on knowledge sharing, You are driven by code quality, maintainability, and the long-term impact of your solutions, You possess strong verbal and written communication skills in both Dutch and English (both languages are required for this role). At Orisha, AI is an everyday partner: we encourage and train every employee to leverage Gemini to boost their creativity and productivity. ️ This position is available on a full-time permanent contract, based in Maarn (Netherlands): Van Hemert tot Dingshofplein 1A, 3951 BA Maarn. About Orisha Founded in 2003, Orisha is a European software vendor dedicated primarily to businesses in retail, real estate, healthcare, construction, and agrifood. Since its inception, Orisha has guided businesses toward success by providing them with mission-critical, industry-specific software solutions. Orisha generates over €350M in revenue and brings together more than 2,200 employees. Today, Orisha empowers more than 50,000 customers across 100+ countries with everyday technologies that keep their business running. If you recognize yourself in this challenge, let us know! We can't wait to meet you.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Ready to shape and elevate the core technology of a large-scale enterprise solution? Software Developer (Treazure Enterprise) Join Orisha Commerce and become an essential part of the R&D team dedicated to our Treazure Enterprise solution. As a Software Developer (TE), you will work closely with the...",
+   "benefits": [
+    "Vaste baan"
+   ],
+   "skills": [
+    "C#",
+    ".NET",
+    "SQL",
+    "AI",
+    "Security",
+    "Requirements",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "C# / .NET",
+     "Python",
+     "REST API’s",
+     "Git / Bitbucket"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je sluit met je programmeerervaring in C# en Python en je stage-achtergrond in complexe codebases erg goed aan bij deze software developer rol.",
+    "local_score": 88,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "1f8a7a436408",
+   "source": "JobSpy",
+   "title": "Front End Developer",
+   "company": "Envalior",
+   "location": "Geleen, LI, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4504290afd4d3a67",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric thinking to transform our digital channels into powerful business and communication platforms in the high-end engineering materials sector. As a Front End Developer, you will be responsible for developing user-friendly, scalable, and high-performance front-end solutions. You will collaborate closely with other UX designers, backend developers, and stakeholders from marketing,sales and R&D. You will translate design concepts into interactive components and contribute to the development of our design system and component library (Storybook + Figma integration) MAIN RESPONSIBILITIES Develop reusable UI components using frameworks like React/Nuxt or Vue.js Collaborate in a blended scrum team with internal and external developers Integrate UX designs from Figma into front-end code Optimize user experience across websites and portals Contribute to the architecture of our Headless / MACH solutions Document and maintain components in Storybook Actively participate in sprint planning, reviews, and demos Requirements Minimum 2 years of experience in front-end development Experience with modern JavaScript frameworks (React/Nuxt, Vue.js, etc.) Knowledge of UX design principles and experience with tools like Figma Experience with component-based development and design systems Affinity with agile working and DevOps principles Proactive attitude and strong communication skill Benefits WHY ENVALIOR? Competitive Compensation: Join us at Envalior and enjoy competitive compensation packages, inclusive of a global bonus program and performance bonuses, ensuring your hard work is recognized and rewarded. Comprehensive Benefits: Your well-being matters to us. At Envalior, we provide an array of benefits supporting your financial security, health, and overall well-being. This includes retirement plans, health programs, life insurance, and comprehensive medical care. Work-Life Balance & Flexibility: Maintain a healthy balance between work and personal life with Envalior's commitment to supporting your schedule. Training & Development Opportunities: At Envalior, your growth matters. We encourage and invest in your professional and personal development. We support our employees in their growth and personal development through ongoing investment in their knowledge and skills via training, coaching, and mentoring. Diversity & Inclusion: At Envalior, our people drive our success, so it’s only right that we provide a diverse and inclusive working environment and foster a culture of belonging, openness, and respect. We value diversity as a cornerstone of our success. We are committed to nurturing and empowering every individual to reach their full potential. APPLY NOW! Ready to pioneer change with Envalior? Join us in our mission to drive innovation, sustainability, and excellence. Apply today and become a part of our transformative journey towards a more sustainable future. Submit your application online by sending your CV and motivation letter in English through our If you have any questions, feel free to connect directly with our recruiter Polina Pokrovskaya at polina.pokrovskaya@envalior.com. Envalior is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. If you need assistance or an accommodation due to a disability, you may contact us at Talent.Acquisition@Envalior.com. OUR HERITAGE With a combined heritage of over 100 years, Envalior brings together two established global materials players: DSM Engineering Materials and LANXESS High Performance Materials. Our unique combined portfolio of longstanding material-, application-, and design expertise enables our customers to develop and launch sustainable future-proof designs. Envalior is the brand new materials powerhouse that was Launched in early 2023. We aim to be a global leader in sustainable and high-performance engineering materials. We imagine the future by shaping the world of today and tomorrow. We’re conscious that this is both a privilege and a responsibility – so, when we imagine the future, we’re guided by our key values to help us create a better world.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric...",
+   "benefits": [
+    "Bonus",
+    "Coaching"
+   ],
+   "skills": [
+    "JavaScript",
+    "React",
+    "Vue",
+    "Nuxt",
+    "Agile",
+    "DevOps",
+    "Security",
+    "Figma",
+    "UX",
+    "Requirements",
+    "Engels"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-02T09:21:44.653072+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 85,
+    "matched_skills": [
+     "Vue / Nuxt",
+     "JavaScript"
+    ],
+    "missing_realistic": [
+     "React"
+    ],
+    "ignored_unrealistic": [
+     "Minimum 2 years of experience in front-end development"
+    ],
+    "reason": "Je JavaScript- en Vue/Nuxt-ervaring sluit goed aan bij deze front-end functie.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": false
    }
   },
   {
@@ -411,126 +696,6 @@
     "ai": true,
     "check": false,
     "visible": true
-   }
-  },
-  {
-   "id": "f539db4cec6d",
-   "source": "JobSpy",
-   "title": ".NET ontwikkelaar",
-   "company": "Nedasco",
-   "location": "Amersfoort, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-02T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=07d03d0f72d98bb4",
-   "salary": "€4000 - €5000 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Heb jij meerdere jaren ervaring met het ontwikkelen van applicaties in C# en .NET? Neem jij graag verantwoordelijkheid en weet je samen met andere ontwikkelaars applicaties van ontwikkeling tot oplevering te brengen? Krijg je energie van werken in een multidisciplinair scrumteam? Dan maken we graag kennis met jou. Dit ga je doen Vanuit jouw ervaring help je het team om de juiste keuzes te maken bij de ontwikkeling en het beheer van C#/.NET-applicaties. Je houdt oog voor de voortgang en werkt samen met je collega’s toe naar concrete resultaten. Daarbij vind je het vanzelfsprekend om kennis te delen en collega’s mee te nemen, zodat de C#/.NET-kennis binnen het team verder groeit. Je team Je komt terecht in een multidisciplinair DevOps-team waarin ontwikkelen, beheren en verbeteren van onze applicaties samenkomen. Binnen het team is veel kennis en ervaring aanwezig op het gebied van Java en Azure DevOps. Met jouw ervaring in C#/.NET en GitLab voeg je daar nieuwe kennis aan toe. We werken nauw samen, helpen elkaar en delen onze kennis. Zo bouwen we gezamenlijk aan kwalitatief goede software en verbreden we de technische kennis binnen het team. Wie ben jij? Je hebt ruime ervaring met C# en .NET; Je hebt ruime ervaring met het ontwikkelen en beheren van applicaties; Je hebt AI geïntegreerd in jouw werkwijze; Je neemt initiatief en voelt je verantwoordelijk voor het resultaat van je werk; Je zorgt dat het op tijd afkomt; Je werkt graag samen en deelt actief je kennis met collega’s; Je hebt ervaring met werken in een Agile/Scrum- of DevOps-omgeving. Dit bieden wij jou Bij Nedasco krijg je de ruimte om jezelf te ontwikkelen en mee te bouwen aan een organisatie die volop in beweging is. Je werkt samen met betrokken collega’s in een omgeving waarin deskundigheid, persoonlijke service en samenwerking belangrijk zijn. Daarnaast bieden we je: Een uitdagende functie waarin je jouw technische ervaring kunt inzetten en overdragen aan je collega’s; Een salaris tussen € 4.000 en € 5.000 op basis van 40 uur per week, afhankelijk van kennis en ervaring; Een 13e maand; 27 vakantiedagen; Hybride werken; Een goede pensioenregeling; Reiskostenvergoeding of een NS-Business Card; Korting op verzekeringsproducten; Volop mogelijkheden voor persoonlijke en professionele ontwikkeling. Werken bij Nedasco Nedasco is 100% dochter van a.s.r. en gevolmachtigde van de meeste grote verzekeraars. Met ruim 200 collega’s werken we iedere dag aan goede service en slimme oplossingen voor financiële adviseurs. We geloven dat je samen verder komt. Daarom vinden we energie en samenwerking belangrijk en geven we je de ruimte om mee te denken, jezelf te ontwikkelen en verantwoordelijkheid te nemen. Zie jij jezelf in deze rol? Dan maken we graag kennis met je. Vraag over deze vacature? Chantal Hielkema-Fransberg Recruiter Waarom werken bij ons? Altijd blijven leren Bij Nedasco Groep vinden we jouw ontwikkeling belangrijk. Je krijgt bij ons de kans om jezelf verder te ontwikkelen via GoodHabitz. Deze online leeromgeving biedt een breed scala aan online cursussen en zelfassessments waarmee je nieuwe vaardigheden kunt leren en je persoonlijke en professionele groei kunt stimuleren. Werk-privébalans Wij vinden gezonde werk-privébalans belangrijk. We bieden je de mogelijkheid om thuis te werken, zodat je werk goed samengaat met je persoonlijke leven. Daarnaast organiseren we regelmatig teamactiviteiten en investeren we in je persoonlijke en professionele groei. Open en hechte cultuur Bij Nedasco Groep geloven we in de kracht van samenwerken. We hebben een open en hechte cultuur waar iedereen zich thuis voelt. Bij ons is er ruimte voor persoonlijke ontwikkeling, het ontdekken van je talenten en het leren van nieuwe vaardigheden.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Heb jij meerdere jaren ervaring met het ontwikkelen van applicaties in C en .NET? Neem jij graag verantwoordelijkheid en weet je samen met andere ontwikkelaars applicaties van ontwikkeling tot oplevering te brengen? Krijg je energie van werken in een multidisciplinair scrumteam? Dan maken we graag...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Reiskosten"
-   ],
-   "skills": [
-    "Java",
-    "C#",
-    ".NET",
-    "Git",
-    "Azure",
-    "Agile",
-    "DevOps",
-    "AI"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-02T20:18:41.204511+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 30,
-    "matched_skills": [
-     "C#",
-     ".NET",
-     "Azure"
-    ],
-    "missing_realistic": [
-     "meerdere jaren ervaring"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De vacature vraagt om meerdere jaren ervaring, waardoor deze minder geschikt is voor een junior.",
-    "local_score": 91,
-    "ai": true,
-    "check": true,
-    "visible": false
-   }
-  },
-  {
-   "id": "1f8a7a436408",
-   "source": "JobSpy",
-   "title": "Front End Developer",
-   "company": "Envalior",
-   "location": "Geleen, LI, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-02T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4504290afd4d3a67",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric thinking to transform our digital channels into powerful business and communication platforms in the high-end engineering materials sector. As a Front End Developer, you will be responsible for developing user-friendly, scalable, and high-performance front-end solutions. You will collaborate closely with other UX designers, backend developers, and stakeholders from marketing,sales and R&D. You will translate design concepts into interactive components and contribute to the development of our design system and component library (Storybook + Figma integration) MAIN RESPONSIBILITIES Develop reusable UI components using frameworks like React/Nuxt or Vue.js Collaborate in a blended scrum team with internal and external developers Integrate UX designs from Figma into front-end code Optimize user experience across websites and portals Contribute to the architecture of our Headless / MACH solutions Document and maintain components in Storybook Actively participate in sprint planning, reviews, and demos Requirements Minimum 2 years of experience in front-end development Experience with modern JavaScript frameworks (React/Nuxt, Vue.js, etc.) Knowledge of UX design principles and experience with tools like Figma Experience with component-based development and design systems Affinity with agile working and DevOps principles Proactive attitude and strong communication skill Benefits WHY ENVALIOR? Competitive Compensation: Join us at Envalior and enjoy competitive compensation packages, inclusive of a global bonus program and performance bonuses, ensuring your hard work is recognized and rewarded. Comprehensive Benefits: Your well-being matters to us. At Envalior, we provide an array of benefits supporting your financial security, health, and overall well-being. This includes retirement plans, health programs, life insurance, and comprehensive medical care. Work-Life Balance & Flexibility: Maintain a healthy balance between work and personal life with Envalior's commitment to supporting your schedule. Training & Development Opportunities: At Envalior, your growth matters. We encourage and invest in your professional and personal development. We support our employees in their growth and personal development through ongoing investment in their knowledge and skills via training, coaching, and mentoring. Diversity & Inclusion: At Envalior, our people drive our success, so it’s only right that we provide a diverse and inclusive working environment and foster a culture of belonging, openness, and respect. We value diversity as a cornerstone of our success. We are committed to nurturing and empowering every individual to reach their full potential. APPLY NOW! Ready to pioneer change with Envalior? Join us in our mission to drive innovation, sustainability, and excellence. Apply today and become a part of our transformative journey towards a more sustainable future. Submit your application online by sending your CV and motivation letter in English through our If you have any questions, feel free to connect directly with our recruiter Polina Pokrovskaya at polina.pokrovskaya@envalior.com. Envalior is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. If you need assistance or an accommodation due to a disability, you may contact us at Talent.Acquisition@Envalior.com. OUR HERITAGE With a combined heritage of over 100 years, Envalior brings together two established global materials players: DSM Engineering Materials and LANXESS High Performance Materials. Our unique combined portfolio of longstanding material-, application-, and design expertise enables our customers to develop and launch sustainable future-proof designs. Envalior is the brand new materials powerhouse that was Launched in early 2023. We aim to be a global leader in sustainable and high-performance engineering materials. We imagine the future by shaping the world of today and tomorrow. We’re conscious that this is both a privilege and a responsibility – so, when we imagine the future, we’re guided by our key values to help us create a better world.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "At Envalior, we are building a future-proof digital landscape. Our Digital Solutions team is developing a Composable Digital Experience Platform (DXP), focusing on headless front-end architecture, UX optimization, and component-based development. We combine technology, design, and customer-centric...",
-   "benefits": [
-    "Bonus",
-    "Coaching"
-   ],
-   "skills": [
-    "JavaScript",
-    "React",
-    "Vue",
-    "Nuxt",
-    "Agile",
-    "DevOps",
-    "Security",
-    "Figma",
-    "UX",
-    "Requirements",
-    "Engels"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-02T09:21:44.653072+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 85,
-    "matched_skills": [
-     "Vue / Nuxt",
-     "JavaScript"
-    ],
-    "missing_realistic": [
-     "React"
-    ],
-    "ignored_unrealistic": [
-     "Minimum 2 years of experience in front-end development"
-    ],
-    "reason": "Je JavaScript- en Vue/Nuxt-ervaring sluit goed aan bij deze front-end functie.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": false
    }
   },
   {
@@ -643,6 +808,61 @@
    }
   },
   {
+   "id": "71a647f51260",
+   "source": "JobSpy",
+   "title": "Systeembeheerder",
+   "company": "AVZ",
+   "location": "Best, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=8592b69e69501070",
+   "salary": "€2900 - €3300 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "AVZ ϙ Best | Full time (40 uur) | € 2.900 - € 3.300 Zorg dat onze IT-omgeving stabiel en veilig blijft voor 300 collega’s. Beheer meer dan 100 servers en 230 werkplekken, verdeeld over meerdere locaties. Werk met Microsoft omgevingen zoals Azure, Intune en Entra. Jouw doel: systemen betrouwbaar laten werken en storingen snel oplossen. Draag bij aan verbeteringen in onze infrastructuur en Cloud omgeving. AVZ-Group bestaat uit 4 bedrijven die samen werken aan slimme zonweringoplossingen. We bieden componenten én kant-en-klare producten voor klanten in meer dan 34 landen. Onze oplossingen worden gebruikt in woningen, kantoorgebouwen en grote bouwprojecten. AVZ-Group is onderdeel van StellaGroup, een sterke speler in de Europese markt. Wat ga je doen? Je beheert en onderhoudt servers, werkplekken en netwerken binnen de organisatie; Je werkt met omgevingen zoals Microsoft Windows, Microsoft 365, Intune en Entra; Je bent bekend met virtualisatie en het monitoren van de IT-infrastructuur; Je lost storingen op en ondersteunt collega’s bij IT-vraagstukken; Je hebt basiskennis van netwerk routering en firewall; Je werkt samen met leveranciers bij technische implementaties en verbeteringen; Je denkt mee over optimalisatie van systemen, security en nieuwe IT-oplossingen. Hoe ziet solliciteren eruit? Het is natuurlijk prettig om te weten wat je te wachten staat als je interesse hebt in één van onze vacatures. We schakelen snel en houden je op de hoogte. Herken je jezelf hierin? Je hebt MBO/HBO werk- en denkniveau in informatietechnologie; Je hebt enkele jaren ervaring met systeem- en netwerkbeheer; Je bent bereid om een calamiteiten storingsdienst te draaien (eens per twee weken); Je beheerst de Nederlandse en Engelse taal goed. Wat kan je van ons verwachten? Salaris tussen €2.900,- en €3.300,- bruto per maand; 25 vakantiedagen + extra vrije dagen tussen kerst en oud & nieuw; Mocht dit niet voldoende zijn kan je extra vakantiedagen bijkopen; Een winstuitkering; Een Fit4work programma; Een fietsplan; Korting op onze producten oplopend tot 20%; Reiskostenvergoeding (€0,23 per km); Een tegemoetkoming in je aanvullende zorgverzekering; Teamuitjes en borrels, omdat plezier op de werkvloer bij ons hoog in het vaandel staat! Acquisitie wordt niet op prijs gesteld. Neem contact op met Benthe Siegert Telefoon: +31 499 328 600 Email: hr@avzgroup.nl Whatsapp: 0625396703",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "AVZ ϙ Best Full time (40 uur) € 2.900 - € 3.300 Zorg dat onze IT-omgeving stabiel en veilig blijft voor 300 collega’s. Beheer meer dan 100 servers en 230 werkplekken, verdeeld over meerdere locaties. Werk met Microsoft omgevingen zoals Azure, Intune en Entra. Jouw doel: systemen betrouwbaar laten...",
+   "benefits": [
+    "Reiskosten"
+   ],
+   "skills": [
+    "Azure",
+    "Networking",
+    "Microsoft 365",
+    "Intune",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-02T20:18:41.204511+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 60,
+    "matched_skills": [
+     "Microsoft Azure",
+     "Windows Server"
+    ],
+    "missing_realistic": [
+     "Intune",
+     "Entra"
+    ],
+    "ignored_unrealistic": [
+     "enkele jaren ervaring met systeem- en netwerkbeheer"
+    ],
+    "reason": "Je hebt al wat IT-beheerervaring, maar voor de gevraagde zelfstandigheid in een grote omgeving is dit nog wat te zwaar.",
+    "local_score": 72,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "1bc1c4228c67",
    "source": "JobSpy",
    "title": "ICT Medewerker / Systeembeheerder",
@@ -700,60 +920,54 @@
    }
   },
   {
-   "id": "71a647f51260",
+   "id": "dd3d7bbedafe",
    "source": "JobSpy",
-   "title": "Systeembeheerder",
-   "company": "AVZ",
-   "location": "Best, NB, Netherlands",
+   "title": "functioneel beheerder",
+   "company": "Waterweg Wonen",
+   "location": "Vlaardingen, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-11-02T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=38c566b63bc63875",
-   "salary": "€2900 - €3000 per maand",
+   "url": "https://nl.indeed.com/viewjob?jk=1dc357ee0fc9aeda",
+   "salary": "€3998 - €5042 per maand",
    "tags": [
     "",
-    "fulltime"
+    "parttime, fulltime"
    ],
-   "full_text": "ϙ Best | ◷ Full time (40 uur) | € 2.900 - € 3.300 Zorg dat onze IT-omgeving stabiel en veilig blijft voor 300 collega’s. Beheer meer dan 100 servers en 230 werkplekken, verdeeld over meerdere locaties. Werk met Microsoft omgevingen zoals Azure, Intune en Entra. Jouw doel: systemen betrouwbaar laten werken en storingen snel oplossen. Draag bij aan verbeteringen in onze infrastructuur en Cloud omgeving. AVZ-Group bestaat uit 4 bedrijven die samen werken aan slimme zonweringoplossingen. We bieden componenten én kant-en-klare producten voor klanten in meer dan 34 landen. Onze oplossingen worden gebruikt in woningen, kantoorgebouwen en grote bouwprojecten. AVZ-Group is onderdeel van StellaGroup, een sterke speler in de Europese markt. Wat ga je doen? Je beheert en onderhoudt servers, werkplekken en netwerken binnen de organisatie; Je werkt met omgevingen zoals Microsoft Windows, Microsoft 365, Intune en Entra; Je bent bekend met virtualisatie en het monitoren van de IT-infrastructuur; Je lost storingen op en ondersteunt collega’s bij IT-vraagstukken; Je hebt basiskennis van netwerk routering en firewall; Je werkt samen met leveranciers bij technische implementaties en verbeteringen; Je denkt mee over optimalisatie van systemen, security en nieuwe IT-oplossingen. Herken je jezelf hierin? Je hebt MBO/HBO werk- en denkniveau in informatietechnologie; Je hebt enkele jaren ervaring met systeem- en netwerkbeheer; Je bent bereid om een calamiteiten storingsdienst te draaien (eens per twee weken); Je beheerst de Nederlandse en Engelse taal goed. Wat kan je van ons verwachten? Salaris tussen €2.900,- en €3.300,- bruto per maand; 25 vakantiedagen + extra vrije dagen tussen kerst en oud & nieuw; Mocht dit niet voldoende zijn kan je extra vakantiedagen bijkopen; Een winstuitkering; Een Fit4work programma; Een fietsplan; Korting op onze producten oplopend tot 20%; Reiskostenvergoeding (€0,23 per km); Een tegemoetkoming in je aanvullende zorgverzekering; Teamuitjes en borrels, omdat plezier op de werkvloer bij ons hoog in het vaandel staat! Acquisitie wordt niet op prijs gesteld. Soort dienstverband: Fulltime Salaris: €2.900,00 - €3.000,00 per maand Arbeidsvoorwaarden: Bedrijfsfeesten Bedrijfsfitness Bedrijfsopleiding Collectieve zorgverzekering Extra vakantiedagen Fietsplan Kerstpakket Kosteloos parkeren Pensioen Productkorting werknemers Reiskostenvergoeding Vrijdagmiddagborrel Winstdeling Werklocatie: Fysiek",
+   "full_text": "functioneel beheerder Wil jij niet alleen beheren wat er is, maar vooral meebouwen aan wat er komt? Locatie Vlaardingen Uren per week 24 - 36 uur Salaris € 3.998 - € 5.042 bruto per maand Locatie Vlaardingen Uren per week 24 - 36 uur Salaris Maximaal: € 5.042 bruto p.m. Over de functie Als functioneel beheerder zorg jij ervoor dat onze applicaties goed aansluiten bij de dagelijkse praktijk en blijven meegroeien met wat de organisatie nodig heeft. Je bent de schakel tussen gebruikers, applicaties en onze externe ICT-leveranciers. Je helpt collega’s bij vragen en verstoringen, maar kijkt ook verder: wat kunnen we slimmer inrichten, welke signalen zien we terugkomen en welke mogelijkheden bieden onze systemen? We zoeken twee functioneel beheerders: één met het accent op de systemen en processen rondom Wonen en één met het accent op Vastgoed. Jullie werken nauw met elkaar samen en kunnen elkaar waar nodig vervangen. Je komt terecht in een divers team waarin verschillende perspectieven en achtergronden samenkomen. Een mooi moment om in te stappen, want we staan aan de start van een nieuw ERP-traject. Als functioneel beheerder speel je hierin een belangrijke rol. Tegelijkertijd bieden ontwikkelingen op het gebied van AI en automatisering volop kansen om onze processen en systemen verder te vernieuwen. Er is de komende periode dus veel ruimte om mee te denken, te experimenteren en mee te bouwen aan oplossingen die onze organisatie verder helpen. Dit ga je doen: Je ondersteunt kerngebruikers bij het dagelijks gebruik van applicaties, analyseert vragen en storingen en zorgt voor een passende oplossing; Je bent het operationele aanspreekpunt voor onze ICT-leveranciers en bewaakt de voortgang en kwaliteit van meldingen en oplossingen; Je signaleert terugkerende vragen, knelpunten en verbetermogelijkheden en vertaalt deze samen met de informatieadviseur ICT en kerngebruikers naar structurele oplossingen; Je beoordeelt nieuwe mogelijkheden, wijzigingen en releases en kijkt daarbij naar de impact en samenhang met andere applicaties, processen en gegevensverwerking; Je implementeert, configureert en onderhoudt applicaties en zorgt dat de functionele inrichting, autorisaties en koppelingen goed blijven werken; Je zorgt dat collega’s goed met de applicaties kunnen werken door gebruikersinstructies te geven, trainingen te organiseren en kennis over te dragen. Wat breng jij mee Jij zoekt van nature de samenwerking op en legt gemakkelijk verbinding met collega’s binnen én buiten het team. Je bent proactief, signaleert gebruikersbehoeften en knelpunten en herkent de rode draad in terugkerende vragen en signalen. Je denkt mee over hoe processen en systemen slimmer en gebruiksvriendelijker kunnen worden ingericht. Zo maak jij samen met je collega’s het verschil tussen een systeem dat werkt en een systeem dat écht goed ondersteunt. Dit breng jij ook mee: Jij hebt enkele jaren ervaring met functioneel beheer, applicatiebeheer of een vergelijkbare functie; Jij hebt affiniteit met het optimaliseren en automatiseren van processen en vindt het leuk om hierin nieuwe mogelijkheden te ontdekken; Kennis van Microsoft Power Platform en/of Copilot Studio is een pré; Je bent gedreven om bij te dragen aan onze ambities en je herkent je in onze kernwaarden: zichtbaar, wendbaar en leerbaar. Wat bieden wij Uitstekend salaris tussen € 3.998 en € 5.042 bruto per maand (op basis van 36 uur, schaal H cao Woondiensten); 8% vakantiegeld en 4% eindejaarsuitkering; Een goed pensioen bij SPW; Een dienstverband van 24 tot 36 uur per week; Een arbeidsovereenkomst van één jaar met uitzicht op vast. Extra’s die het verschil maken We zijn leerbaar. Daarom krijg je bij ons tijd en budget om aan jouw ontwikkeling te werken. Naast een afdelingsbudget stellen we ook een individueel loopbaanontwikkelingsbudget (ILOB) van € 900,- per jaar ter beschikking bij een voltijd dienstverband; We zijn wendbaar - ook in hoe we werken. Je krijgt van ons de mogelijkheid om thuis een fijne werkplek in te richten; Vitaliteit vinden we belangrijk. Daarom bieden we onder andere gratis fruit en soep aan in ons werkcafé, kun je iedere maand gebruikmaken van stoelmassages of even ontspannen met een potje tafeltennis. Bij een vast contract kun je ook gebruikmaken van onze leasefietsregeling. Interesse? We zijn nieuwsgierig naar wie jij bent – in een motivatiebrief, video of een andere vorm die bij jou past. Reageren kan uiterlijk 22 november 2026. De procedure bestaat uit twee gesprekken. Heb je vragen over de functie? Niels Theunissen (kwartiermaker inrichting Digitale Strategie) vertelt je graag meer. Je kunt hem bereiken via 06 41 97 97 98. Dit telefoonnummer is niet bedoeld voor acquisitie. Goed om te weten Bij gelijke geschiktheid geven wij voorrang aan interne kandidaten. Voor deze functie is een geldige Verklaring Omtrent het Gedrag (VOG) vereist. Acquisitie naar aanleiding van de vacature wordt niet op prijs gesteld.",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "ϙ Best ◷ Full time (40 uur) € 2.900 - € 3.300 Zorg dat onze IT-omgeving stabiel en veilig blijft voor 300 collega’s. Beheer meer dan 100 servers en 230 werkplekken, verdeeld over meerdere locaties. Werk met Microsoft omgevingen zoals Azure, Intune en Entra. Jouw doel: systemen betrouwbaar laten...",
+   "short_desc": "functioneel beheerder Wil jij niet alleen beheren wat er is, maar vooral meebouwen aan wat er komt? Locatie Vlaardingen Uren per week 24 - 36 uur Salaris € 3.998 - € 5.042 bruto per maand Locatie Vlaardingen Uren per week 24 - 36 uur Salaris Maximaal: € 5.042 bruto p.m. Over de functie Als...",
    "benefits": [
     "Pensioen",
-    "Bonus",
-    "Reiskosten"
+    "32-36 uur",
+    "Vaste baan"
    ],
    "skills": [
-    "Azure",
-    "Networking",
-    "Microsoft 365",
-    "Intune",
-    "Security"
+    "AI"
    ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-11-02T20:18:41.204511+00:00",
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
    "match": {
-    "is_junior": false,
-    "score": 60,
+    "is_junior": true,
+    "score": 75,
     "matched_skills": [
-     "Microsoft Azure",
-     "Windows Server"
+     "Windows Server",
+     "Active Directory",
+     "REST API’s"
     ],
     "missing_realistic": [
-     "Intune",
-     "Entra"
+     "Ervaring als functioneel beheerder binnen een corporatie of ERP-omgeving"
     ],
-    "ignored_unrealistic": [
-     "enkele jaren ervaring met systeem- en netwerkbeheer"
-    ],
-    "reason": "Je hebt al wat IT-beheerervaring, maar voor de gevraagde zelfstandigheid in een grote omgeving is dit nog wat te zwaar.",
-    "local_score": 72,
+    "ignored_unrealistic": [],
+    "reason": "Je servicedesk- en systeembeheerervaring sluiten goed aan bij applicatiebeheer en ondersteuning, hoewel de specifieke domeinkennis ontbreekt.",
+    "local_score": 100,
     "ai": true,
     "check": false,
-    "visible": false
+    "visible": true
    }
   },
   {
@@ -1088,6 +1302,53 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "82cb76d90752",
+   "source": "JobSpy",
+   "title": "Business Analyst",
+   "company": "Miele",
+   "location": "Amsterdam, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=ad8324e3b6d9b085",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Are you passionate about turning data into business impact? We're looking for a Business Analyst to help shape how Miele Professional measures, understands, and improves digital performance across international markets. In this role, you'll connect business, marketing, and technology teams, ensuring reliable data, meaningful insights, and smarter decision-making. From digital analytics and reporting to data integration and stakeholder collaboration, you'll play a key role in driving growth and improving customer experiences. What you'll do Drive digital analytics, tracking, and data quality across websites and eCommerce platforms. Build dashboards and turn complex data into clear business recommendations. Support marketing, eCommerce, and CRM data integration initiatives. Collaborate with business teams, IT, agencies, and data specialists to deliver scalable analytics solutions. Help shape data governance, reporting standards, and measurement best practices. What you'll bring Experience in business analytics, digital analytics, or a similar data-focused role. Strong knowledge of GA4, SQL, and BI tools such as Power BI or Looker Studio. Understanding of digital tracking, reporting, and data quality principles. Ability to translate data into actionable insights for non-technical stakeholders. A proactive mindset and strong collaboration skills. Why join us? You'll have the opportunity to influence how data is used across an international business, work with modern analytics technologies, and help teams make better decisions every day. You'll join a collaborative environment where data, innovation, and continuous improvement are at the heart of what we do.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Are you passionate about turning data into business impact? We're looking for a Business Analyst to help shape how Miele Professional measures, understands, and improves digital performance across international markets. In this role, you'll connect business, marketing, and technology teams,...",
+   "benefits": [],
+   "skills": [
+    "SQL",
+    "Power BI"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Ervaring met digitale analytics zoals GA4",
+     "Ervaring met BI-tools"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze business analist rol vraagt specifieke marketing- en webanalytics-ervaring die niet primair in je technische software- en beheer-achtergrond naar voren komt.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": false
    }
   },
   {
@@ -2485,65 +2746,6 @@
    }
   },
   {
-   "id": "dc1714ea14d8",
-   "source": "JobSpy",
-   "title": "Developer Java & springboot",
-   "company": "Justitiële Informatiedienst (Justid)",
-   "location": "Leeuwarden, FR, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-30T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7494aaa4597048f2",
-   "salary": "€4132 - €6275 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg je in ons Agile team van gevarieerde expertises waar we met een gezonde dosis humor en de inzet om elkaar verder te helpen blijven werken aan het veiliger maken van Nederland. WAT GA JE DOEN? Miljoenen records, complexe ketens, uitdagende maatschappelijk kritische applicaties op het gebied van privacy en identiteit: dat is het landschap van de StrafrechtKetenDataBank (SKDB). Deze applicaties gaan al een tijdje mee, en zijn toe aan vernieuwing. Met jouw expertise in recente Java- en Spring Boot-ontwikkelingen help je het team dat de centrale spil van de strafrechtketen moderniseert en migreert naar toekomstbestendige oplossingen. Je komt in een gevarieerd team van expertises, met een gezonde dosis humor en de inzet om elkaar verder te helpen. Belangrijk, want je werk is vertrouwelijk en niet met anderen dan je collega's te delen. Lijkt het je interessant om met ons samen te werken, kennis te delen en jezelf te blijven ontwikkelen? Neem dan contact met ons op voor een vrijblijvende kennismaking. Concreet betekent dat: Samen met het scrumteam, in een sprint, userstories tot een opleverbaar product verwerken. Proactief verbeteringen en innovaties signaleren en bespreken. Je kennis overdragen aan collega's Gevraagd en ongevraagd op constructieve wijze jouw visie op een beter product delen. Volgens afgesproken processen werken en investeren in een goede samenwerking. Een bijdrage leveren aan het verhogen van de kwaliteit van onze dienstverlening. Actief bijdragen aan (de ontwikkeling van) Agile werken. Let op als je gaat solliciteren: Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 11 €4.132 - €6.275 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor in Leeuwarden werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij Wat lezen we op jouw CV? Ruime en recente ervaring met Java en Spring Boot Kennis van CI/CD Je hebt kennis van API, Rest- en Webservices Je hebt kennis van relationele databases Ervaring met containerisatie; ervaring met Kubernetes en Argo CD Pré: Ervaring met front-end, met name Angular Waarmee maak jij het verschil? Je bent nieuwsgierig om je steeds verder te blijven ontwikkelen in Java en Spring Boot. Met deze technologieën help je de SKDB te moderniseren en verbeteren. Dankzij jouw ruime Java-ervaring ben je een stevige samenwerkingspartner en vraagbaak voor je collega’s. Je ademt SOLID. Je zorgt voor een goede dynamiek in het Agile-team. Je begrijpt dat je kwaliteit bij de bron moet realiseren, en dat fouten voorkomen aan het begin van het voortbrengingsproces essentieel is om zo vroeg mogelijk de kwaliteitseisen te kunnen invullen. Je durft ook stelling te nemen als kwaliteit onder druk staat en weet, zonder relaties te schaden, toch het gewenste resultaat te bereiken. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het Busdevopsteam SKDB, waarin je komt te werken, verzorgt het goed functioneren van de strafrechtketendatabank (SKDB). In de SKDB worden de administratieve persoonsgegevens van een justitiabele opgeslagen onder een uniek strafrechtketennummer. Daarnaast heeft de databank verwijzingen en koppelingen met de gehele strafrechtketen. Het is bijvoorbeeld mogelijk om na te gaan of een persoon gedetineerd is, een actuele OM zaak heeft, bekend is bij de Raad voor de Kinderbescherming of nog een werkstraf moet uitvoeren",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "Java",
-    "Angular",
-    "Spring",
-    "REST",
-    "CI/CD",
-    "Kubernetes",
-    "Agile",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-30T08:32:28.375111+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 30,
-    "matched_skills": [
-     "Java"
-    ],
-    "missing_realistic": [
-     "Spring Boot",
-     "medior/senior niveau"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt.",
-    "local_score": 74,
-    "ai": true,
-    "check": true,
-    "visible": false
-   }
-  },
-  {
    "id": "ee3f607a9ed4",
    "source": "JobSpy",
    "title": "Ontwikkelaar Business Intelligence",
@@ -2601,6 +2803,65 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "dc1714ea14d8",
+   "source": "JobSpy",
+   "title": "Developer Java & springboot",
+   "company": "Justitiële Informatiedienst (Justid)",
+   "location": "Leeuwarden, FR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-30T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7494aaa4597048f2",
+   "salary": "€4132 - €6275 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg je in ons Agile team van gevarieerde expertises waar we met een gezonde dosis humor en de inzet om elkaar verder te helpen blijven werken aan het veiliger maken van Nederland. WAT GA JE DOEN? Miljoenen records, complexe ketens, uitdagende maatschappelijk kritische applicaties op het gebied van privacy en identiteit: dat is het landschap van de StrafrechtKetenDataBank (SKDB). Deze applicaties gaan al een tijdje mee, en zijn toe aan vernieuwing. Met jouw expertise in recente Java- en Spring Boot-ontwikkelingen help je het team dat de centrale spil van de strafrechtketen moderniseert en migreert naar toekomstbestendige oplossingen. Je komt in een gevarieerd team van expertises, met een gezonde dosis humor en de inzet om elkaar verder te helpen. Belangrijk, want je werk is vertrouwelijk en niet met anderen dan je collega's te delen. Lijkt het je interessant om met ons samen te werken, kennis te delen en jezelf te blijven ontwikkelen? Neem dan contact met ons op voor een vrijblijvende kennismaking. Concreet betekent dat: Samen met het scrumteam, in een sprint, userstories tot een opleverbaar product verwerken. Proactief verbeteringen en innovaties signaleren en bespreken. Je kennis overdragen aan collega's Gevraagd en ongevraagd op constructieve wijze jouw visie op een beter product delen. Volgens afgesproken processen werken en investeren in een goede samenwerking. Een bijdrage leveren aan het verhogen van de kwaliteit van onze dienstverlening. Actief bijdragen aan (de ontwikkeling van) Agile werken. Let op als je gaat solliciteren: Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 11 €4.132 - €6.275 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor in Leeuwarden werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij Wat lezen we op jouw CV? Ruime en recente ervaring met Java en Spring Boot Kennis van CI/CD Je hebt kennis van API, Rest- en Webservices Je hebt kennis van relationele databases Ervaring met containerisatie; ervaring met Kubernetes en Argo CD Pré: Ervaring met front-end, met name Angular Waarmee maak jij het verschil? Je bent nieuwsgierig om je steeds verder te blijven ontwikkelen in Java en Spring Boot. Met deze technologieën help je de SKDB te moderniseren en verbeteren. Dankzij jouw ruime Java-ervaring ben je een stevige samenwerkingspartner en vraagbaak voor je collega’s. Je ademt SOLID. Je zorgt voor een goede dynamiek in het Agile-team. Je begrijpt dat je kwaliteit bij de bron moet realiseren, en dat fouten voorkomen aan het begin van het voortbrengingsproces essentieel is om zo vroeg mogelijk de kwaliteitseisen te kunnen invullen. Je durft ook stelling te nemen als kwaliteit onder druk staat en weet, zonder relaties te schaden, toch het gewenste resultaat te bereiken. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het Busdevopsteam SKDB, waarin je komt te werken, verzorgt het goed functioneren van de strafrechtketendatabank (SKDB). In de SKDB worden de administratieve persoonsgegevens van een justitiabele opgeslagen onder een uniek strafrechtketennummer. Daarnaast heeft de databank verwijzingen en koppelingen met de gehele strafrechtketen. Het is bijvoorbeeld mogelijk om na te gaan of een persoon gedetineerd is, een actuele OM zaak heeft, bekend is bij de Raad voor de Kinderbescherming of nog een werkstraf moet uitvoeren",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Leeuwarden en thuis Hbo 32 - 36 uur Schaal 11 / €4.132 - €6.275 (bruto) ICT, Development en testing Solliciteer voor 24 november 2026 Dit ga je doen Wil jij jouw kennis en drang naar verbetering en innovatie gebruiken om onze producten voor de strafrechtketen continue te verbeteren? Die kans krijg...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Java",
+    "Angular",
+    "Spring",
+    "REST",
+    "CI/CD",
+    "Kubernetes",
+    "Agile",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-30T08:32:28.375111+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 30,
+    "matched_skills": [
+     "Java"
+    ],
+    "missing_realistic": [
+     "Spring Boot",
+     "medior/senior niveau"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt.",
+    "local_score": 74,
+    "ai": true,
+    "check": true,
+    "visible": false
    }
   },
   {
@@ -5431,63 +5692,6 @@
    }
   },
   {
-   "id": "148bc8938695",
-   "source": "JobSpy",
-   "title": "Developer Angular en .NET (Den Haag en thuis)",
-   "company": "Justitiële Informatiedienst (Justid)",
-   "location": "Den Haag, ZH, Netherlands",
-   "remote": true,
-   "posted_at": "2026-10-29T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=16222db1d56534db",
-   "salary": "€3496 - €5535 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Den Haag en thuis Hbo 32 - 36 uur Schaal 10 / €3.496 - €5.535 (bruto) ICT, Development en testing Solliciteer voor 30 november 2026 Dit ga je doen Help jij bij de front-end en backend migratie van de Travel Information Portal applicatie voor opsporings- en inlichtingendiensten? Naast het ontwerpen, coderen en samenstellen van de applicatie bedenk je ook technisch uitvoerbare oplossingen voor nieuwbouw en beheer. Kom jij ons team versterken met jouw kennis en expertise? Wij komen graag met je in gesprek! WAT GA JE DOEN? Als development engineer van onze TRIP (Travel Information Portal) applicatie vertaal je userstory’s naar technische oplossingen die binnen de architectuur passen. Je vervaardigt de softwareapplicatie, waarbij het draait om het ontwerpen, coderen en samenstellen van een applicatieversie, en het schrijven en uitvoeren van de functionele, integratie- en productietesten. Hiervoor bedenk je ook technisch uitvoerbare oplossingen. Na inhoudelijke afstemming met belanghebbenden neem je zelfstandig beslissingen bij het bouwen van software, het realiseren van wijzigingen, en bij het verrichten van onderzoek en impactanalyses. Bij al jouw werkzaamheden houd je, voor onze certificering, rekening met de rijks- en justitie brede procedures en richtlijnen. We hanteren de Scrum-methodiek in combinatie met continuous delivery engineering practices voor het ontwerpen, bouwen, testen en het in productie nemen van applicaties. Je hebt daarom gedegen kennis van coding conventions, test driven development, continuous integration en deployment. Het Informatiepunt Bijzondere Opsporingsonderzoeken beheert informatiesystemen voor de opsporings- en inlichtingendiensten. Zo lever jij een bijdrage aan een efficiënte, veilige en betrouwbare informatie-uitwisseling binnen het ministerie van Justitie en Veiligheid en draag je bij aan een veiliger en rechtvaardiger samenleving. Let op als je gaat solliciteren. Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 10 €3.496 - €5.535 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij minimaal 2 jaar ervaring met het ontwikkelen in een recente versie van Angular en .NET minimaal 2 jaar ervaring met het ontwikkelen in C# Opleiding richting ICT. Minimaal MBO4 niveau. Wie ben je? Als development engineer waarderen wij jouw kennis en de expertise die je met je meeneemt. Je bent resultaatgericht en kunt goed samenwerken om zo in te spelen op de wensen van je omgeving. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het DevOps team Trip, waar jij deel van uit gaat maken, bestaat uit de Productowner, 4 Dev-engineers, 2 Ops-engineers en 2 Test-engineers. Het is een zeer gemengd team qua leeftijden, kennis, interesses en persoonlijkheden. Allen zijn gedreven om een goede kwaliteit af te leveren. De sfeer is te kenmerken als informeel waar een grote mate van vrijheid heerst en waar vragen vrij staat. We hanteren de Agile/DevOps methodiek in combinatie met Continuous Delivery Engineering Practices voor het ontwerpen, bouwen, testen en het in productie nemen van applicaties. Het team werkt vanuit Den Haag (naast het station) en huis. Woensdag en donderdag is de kantoordag. De Travel Information Portal (TRIP) is een technische voorziening voor het verzamelen, aanleveren, opslaan en verdere verwerken van reisgegevens waarover de Douane en de Passagiersinformatie-eenheid Nederland (Pi-NL), op basis van hun respectievelijke wettelijke bevoegdheden kunnen beschikken. Het DevOpsteam TRIP is onderdeel van het Informatiepunt Bijzondere Opsporingsonderzoeken (IBO). Zij be",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Den Haag en thuis Hbo 32 - 36 uur Schaal 10 / €3.496 - €5.535 (bruto) ICT, Development en testing Solliciteer voor 30 november 2026 Dit ga je doen Help jij bij de front-end en backend migratie van de Travel Information Portal applicatie voor opsporings- en inlichtingendiensten? Naast het ontwerpen,...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "C#",
-    ".NET",
-    "Angular",
-    "Agile",
-    "DevOps"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-29T16:52:47.451484+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 40,
-    "matched_skills": [
-     ".NET",
-     "C#"
-    ],
-    "missing_realistic": [
-     "Angular",
-     "ervaring met zware rijksbrede migratietrajecten"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De schaal 10 inschaling duidt op een medior/senior niveau dat nog te hoog gegrepen is.",
-    "local_score": 72,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "d2ff963a4c5a",
    "source": "JobSpy",
    "title": "General Open Orbital Dynamics Platform scientific software developer",
@@ -6370,6 +6574,63 @@
    }
   },
   {
+   "id": "148bc8938695",
+   "source": "JobSpy",
+   "title": "Developer Angular en .NET (Den Haag en thuis)",
+   "company": "Justitiële Informatiedienst (Justid)",
+   "location": "Den Haag, ZH, Netherlands",
+   "remote": true,
+   "posted_at": "2026-10-29T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=16222db1d56534db",
+   "salary": "€3496 - €5535 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Den Haag en thuis Hbo 32 - 36 uur Schaal 10 / €3.496 - €5.535 (bruto) ICT, Development en testing Solliciteer voor 30 november 2026 Dit ga je doen Help jij bij de front-end en backend migratie van de Travel Information Portal applicatie voor opsporings- en inlichtingendiensten? Naast het ontwerpen, coderen en samenstellen van de applicatie bedenk je ook technisch uitvoerbare oplossingen voor nieuwbouw en beheer. Kom jij ons team versterken met jouw kennis en expertise? Wij komen graag met je in gesprek! WAT GA JE DOEN? Als development engineer van onze TRIP (Travel Information Portal) applicatie vertaal je userstory’s naar technische oplossingen die binnen de architectuur passen. Je vervaardigt de softwareapplicatie, waarbij het draait om het ontwerpen, coderen en samenstellen van een applicatieversie, en het schrijven en uitvoeren van de functionele, integratie- en productietesten. Hiervoor bedenk je ook technisch uitvoerbare oplossingen. Na inhoudelijke afstemming met belanghebbenden neem je zelfstandig beslissingen bij het bouwen van software, het realiseren van wijzigingen, en bij het verrichten van onderzoek en impactanalyses. Bij al jouw werkzaamheden houd je, voor onze certificering, rekening met de rijks- en justitie brede procedures en richtlijnen. We hanteren de Scrum-methodiek in combinatie met continuous delivery engineering practices voor het ontwerpen, bouwen, testen en het in productie nemen van applicaties. Je hebt daarom gedegen kennis van coding conventions, test driven development, continuous integration en deployment. Het Informatiepunt Bijzondere Opsporingsonderzoeken beheert informatiesystemen voor de opsporings- en inlichtingendiensten. Zo lever jij een bijdrage aan een efficiënte, veilige en betrouwbare informatie-uitwisseling binnen het ministerie van Justitie en Veiligheid en draag je bij aan een veiliger en rechtvaardiger samenleving. Let op als je gaat solliciteren. Wij stellen een aantal vragen om je beter te leren kennen. Je hoeft dus geen sollicitatiebrief te schrijven. Dit krijg je Schaal 10 €3.496 - €5.535 (bruto) Arbeidsovereenkomst voor onbepaalde tijd 32 - 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Onze secundaire arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Salarisstappen: jaarlijks stijgt jouw salaris een trede op jouw indiensttredingsdatum tot het maximum van de schaal. Daarnaast zijn er CAO indexeringen. Daardoor kun je op meerdere momenten in het jaar een salarisverhoging krijgen. Individueel Keuze Budget: met het IKB, van 16,5% van jouw jaarsalaris, maak jij de keuzes die bij jou passen. Je kunt kiezen voor uitbetaling wanneer jij dat wilt. Ook kun je dit budget omzetten in verlof of besteden aan fiscaal vriendelijke doelen als bijvoorbeeld bedrijfsfitness, het aanschaffen van een fiets, verduurzamen van je woning of jaarlijks een gedeelte van jouw studieschuld bij DUO afbetalen. Doorgroeimogelijkheden: in je Fit gesprek (Functioneren, Inzetbaarheid, Talenten) bespreek je jouw wensen en hoe je jouw talenten verder kunt inzetten of verder ontwikkelen. Daarnaast kun je ook bij onze eigen Justid Academy allerlei trainingen volgen. Flexibiliteit en Werk-privébalans: een fulltime werkweek is 36 uren en je bent vrij om je werkdagen flexibel in te delen. Ons uitgangspunt is hybride werken waarbij je 1 tot 2 dagen per week vanaf kantoor werkt. Vakanties en vrije dagen: je hebt 144 vakantie- en 64 keuzebudget-uren op basis van een 36-urige werkweek. Dat is dus 5,7 werkweek. De 64 keuzebudget uren vervallen niet en je kunt ze sparen (tot een maximum van 3600 uren) voor bijvoorbeeld een vervroegd pensioen. Verlof: naast je vakantiedagen zijn er diverse verlofsoorten die (gedeeltelijk) bovenwettelijk vergoed worden. Denk aan ouderschapsverlof, zorgverlof of mantelzorgverlof. Pensioen: de inleg bij het ABP is ongeveer 27% van jouw brutojaarloon minus franchise. Hierdoor kun je van een goed pensioen genieten als het zover is. Naast de prima secundaire arbeidsvoorwaarden bieden we ook: Informele cultuur en inclusieve werkomgeving - Een gedreven en behulpzaam team met korte lijntjes naar leidinggevenden en/of directie. Een rode draad uit gesprekken met nieuwe collega's is dat iedereen zeer behulpzaam is om elkaar te helpen. Maatschappelijke opgave - Samen en in verbinding werken we met vele ketenpartners in het Justitie en Veiligheidsdomein aan een veilige samenleving. Dit vragen wij minimaal 2 jaar ervaring met het ontwikkelen in een recente versie van Angular en .NET minimaal 2 jaar ervaring met het ontwikkelen in C# Opleiding richting ICT. Minimaal MBO4 niveau. Wie ben je? Als development engineer waarderen wij jouw kennis en de expertise die je met je meeneemt. Je bent resultaatgericht en kunt goed samenwerken om zo in te spelen op de wensen van je omgeving. Hier kom je te werken Meer over jouw toekomstige plek in de organisatie Het DevOps team Trip, waar jij deel van uit gaat maken, bestaat uit de Productowner, 4 Dev-engineers, 2 Ops-engineers en 2 Test-engineers. Het is een zeer gemengd team qua leeftijden, kennis, interesses en persoonlijkheden. Allen zijn gedreven om een goede kwaliteit af te leveren. De sfeer is te kenmerken als informeel waar een grote mate van vrijheid heerst en waar vragen vrij staat. We hanteren de Agile/DevOps methodiek in combinatie met Continuous Delivery Engineering Practices voor het ontwerpen, bouwen, testen en het in productie nemen van applicaties. Het team werkt vanuit Den Haag (naast het station) en huis. Woensdag en donderdag is de kantoordag. De Travel Information Portal (TRIP) is een technische voorziening voor het verzamelen, aanleveren, opslaan en verdere verwerken van reisgegevens waarover de Douane en de Passagiersinformatie-eenheid Nederland (Pi-NL), op basis van hun respectievelijke wettelijke bevoegdheden kunnen beschikken. Het DevOpsteam TRIP is onderdeel van het Informatiepunt Bijzondere Opsporingsonderzoeken (IBO). Zij be",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Den Haag en thuis Hbo 32 - 36 uur Schaal 10 / €3.496 - €5.535 (bruto) ICT, Development en testing Solliciteer voor 30 november 2026 Dit ga je doen Help jij bij de front-end en backend migratie van de Travel Information Portal applicatie voor opsporings- en inlichtingendiensten? Naast het ontwerpen,...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "C#",
+    ".NET",
+    "Angular",
+    "Agile",
+    "DevOps"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-29T16:52:47.451484+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     ".NET",
+     "C#"
+    ],
+    "missing_realistic": [
+     "Angular",
+     "ervaring met zware rijksbrede migratietrajecten"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De schaal 10 inschaling duidt op een medior/senior niveau dat nog te hoog gegrepen is.",
+    "local_score": 72,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "89d6679ffe0d",
    "source": "JobSpy",
    "title": "Technical Business Analyst – Data & Analytics",
@@ -6819,115 +7080,6 @@
    }
   },
   {
-   "id": "0372784223de",
-   "source": "JobSpy",
-   "title": "business intelligence ontwikkelaar",
-   "company": "Politie",
-   "location": "Apeldoorn, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4583b6845d6f6380",
-   "salary": "€3735 - €5883 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en): Onderwijs, Bedrijfsvoering Niveau: HBO BACHELOR Wat ga je doen? Als business intelligence ontwikkelaar is jouw primaire taak om maximaal rendement uit informatie en techniek te halen. Dit leidt tot op de bedrijfsvoering afgestemde BI-producten en innovatief gebruik van aanwezige data, informatie en kennis. De Politieacademie kan hierdoor beter inspelen op de steeds verder toenemende vraag naar informatie. Je hebt de kennis om informatieproducten te maken met gebruik van beschikbare bronnen en voorzieningen. Je maakt informatieproducten op basis van gedegen ontwerp. Samen met je collega’s van de Politieacademie en het Politiedienstencentrum ontwikkel je informatieproducten ten behoeve van inzicht, sturing en verantwoording. Je filtert cruciale informatie uit de verschillende systemen, die je met jouw rapportages en instructies toegankelijk maakt voor de Politieacademie en het management van de politie. Je werkzaamheden bestaan o.a. uit: informatieproducten in (op dit moment) Cognos Analytics ontwikkelen en beheren; ad hoc informatieverzoeken snel en efficiënt afhandelen; pro-actief meedenken over verbeteringen. Waar ga je werken? De Politieacademie is het opleidings- en kenniscentrum voor de Nederlandse politie waar competentiegericht onderwijs, kennis en het politiewerkveld samenkomen. De Politieacademie is verantwoordelijk voor het ontwikkelen en verzorgen van het politieonderwijs (inclusief examinering) gericht op de startende beroepsbeoefenaar en zijn/haar definitieve toelating tot een uitvoerende functie in de politiepraktijk. Je gaat aan de slag binnen de Sector Onderwijsbedrijfsvoering, een nieuwe en volop ontwikkelende sector binnen de Politieacademie. Binnen de sector komen bestaande en nieuwe processen samen, met één helder doel: het optimaal ondersteunen van onderwijs- en onderzoeksprocessen. Je bouwt voort op een stevig fundament, terwijl je tegelijkertijd actief bijdraagt aan de verdere professionalisering van BI&K. Het team bestaat uit 8 FTE, bestaand uit tevredenheidsonderzoekers, business intelligence ontwikkelaars en specialisten op gebied van onderwijsinformatie en wordt aangestuurd door een coördinerend business analist. Je werkt in een omgeving waarin samenwerking centraal staat. Team BI&K werkt nauw samen met andere onderdelen binnen de ondersteuningsorganisatie, zoals Staf, om gezamenlijk bij te dragen aan de ambities van de Politieacademie. Wij werken zowel op kantoor als vanuit huis. Wie ben jij? Je bent iemand die goed kan inschatten wat de technische en/of functionele gevolgen zijn van gekozen oplossingen voor de bedrijfsvoering. Samenwerken, maar ook zelfstandig werken gaat je goed af. Je kunt goed analytisch en abstract denken. Daarbij stel je prioriteiten en ben je communicatief vaardig, zowel in de gesprekken met je directe collega’s als met de gebruikers van de informatieproducten. Je herkent en onderzoekt de wensen van de klant samen met het team. Je levert werk van hoge kwaliteit. Daarnaast vragen we om: een hbo (bachelor) werk- en denkniveau; ervaring als BI-ontwikkelaar; kennis van SQL en BI-tooling (zoals Cognos Analytics); bij voorkeur kennis van ETL-processen en datawarehousing. Wat wij bieden De standplaats is Apeldoorn. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.735,- en maximaal € 5.883,- (schaal 10 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). De formele functie binnen het functiegebouw van de politie is bedrijfsvoeringspecialist B. Interesse? Bel of mail met Edward Sleurink, teamchef Onderwijsinformatie (06 - 12 30 62 86, edward.sleurink@politieacademie.nl) ) voor meer informatie over de functie. Voor vragen over de sollicitatieprocedure bel je met Werving & Selectie op 088 - 66 22 300 / bel of mail je met Danielle van den Boom, recruiter (06 - 18 63 85 90, danielle.van.den.boom@politie.nl). Solliciteer uiterlijk 11 november 2026 via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheidsonderzoek maakt deel uit van de selectieprocedure. De politie werkt in een veranderende samenleving waarin uiteenlopende perspectieven essentieel zijn voor goed politiewerk. Daarom is diversiteit voor ons van groot belang. Hoe kunnen we jouw kennis en achtergrond hiervoor inzetten? Je hebt een diploma op hbo (bachelor)-niveau of je bent daaraan gelijkgesteld via EVC. Of je hebt minimaal twee jaar werkervaring op het gevraagde niveau. Dit toon je aan met een erkende functieomschrijving of een formeel vastgestelde vacaturetekst of een ander formeel bewijsstuk. Het bewijsstuk heeft aantoonbaar betrekking op een functie die je daadwerkelijk hebt uitgevoerd en moet herleidbaar zijn tot jouw persoon. Denk aan",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en):...",
-   "benefits": [
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "SQL",
-    "ETL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Cognos Analytics",
-     "Business Intelligence"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "De kandidaat heeft een geschikte hbo-opleiding en SQL-kennis, maar mist specifieke ervaring met business intelligence en Cognos.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "efeb61d659f1",
-   "source": "JobSpy",
-   "title": "RUST Ontwikkelaar Offensieve Software Computer Network Exploitation",
-   "company": "Militaire Inlichtingen- en Veiligheidsdienst (MIVD)",
-   "location": "Zoetermeer, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-28T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=cd1377fc0930ea4e",
-   "salary": "€6244 - €8067 per maand",
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "Zoetermeer Universitair Master 36 - 40 uur Schaal 12 / €6.244 - €8.067 (bruto) Orde / vrede / veiligheid Solliciteer voor 30 november 2026 Dit ga je doen We zijn op zoek naar de beste rustaceans van Nederland; als een van de weinige Nederlanders krijg jij de bevoegdheid om offensieve technieken te ontwerpen met rust en deze in te zetten om geautomatiseerde systemen binnen te dringen. Dit staat beschreven in de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Wiv). Je komt werken bij de Joint SIGINT Cyber Unit (JSCU), de gezamenlijke eenheid van de MIVD en AIVD gespecialiseerd in Signals-Intelligence en Cyber onderzoeken. Bij de Joint SIGINT Cyber Unit (JSCU) vergaren we inlichtingen ten behoeve van zowel de MIVD als de AIVD. Je ontwikkelt software en methodes die offensief kunnen worden ingezet om inlichtingen te verkrijgen ten behoeve van operationele onderzoeksteams. Jij gaat op zoek naar exploiteerbare programmeerfouten, je bouwt implants, je bedenkt heimelijke communicatiekanalen en slimme exfiltratietechnieken. Je werkt in een team van specialisten met veel inhoudelijke vrijheid om het beoogde doel te bereiken. We trainen je in de specifieke vaardigheden die binnen onze afdeling benodigd zijn. Autonomie én samenwerken zijn de belangrijkste pijlers onder onze afdeling. Je denkt mee over toekomstige ontwikkelingen en adviseert vanuit je eigen expertise. Typische werkzaamheden die, afhankelijk van je expertise, tot je takenpakket kunnen behoren zijn Ontwikkellen van hoogwaardige implants; Ontwikkellen van heimelijke exfiltratiemethoden; Reverse engineeren van beveiligingssystemen en spyware; End-to-end testen van offensieve cyber tools; Onderzoeken van opkomende en innovatieve technieken. Persoonlijke ontwikkeling is een belangrijke voorwaarde binnen onze afdeling. We zorgen dat je via (interne) opleidingen, (internationale) samenwerkingsverbanden en conferenties up-to-date blijft als het gaat om de nieuwste technieken. Nieuwsgierigheid is een eigenschap die je aantoonbaar bezit. Samen en met elkaar willen we aan de top blijven. De JSCU omarmt diversiteit en inclusie en wil graag dat medewerkers zich thuis voelen. Verschillende perspectieven, achtergronden en inzichten zijn een verrijking voor onze organisatie. Bij ons is iedereen die aan de voorwaarden voor een Verklaring van Geen Bezwaar (VGB) voldoet welkom, ongeacht culturele achtergrond, arbeidsvermogen, leeftijd, seksuele voorkeur of gender. Samen werken we aan de veiligheid van Nederland. We vragen je om te solliciteren door het opsturen van een CV, waarbij belang wordt gehecht aan je ervaring- dan kan zowel professioneel zijn, maar je ervaring in je vrije tijd is net zo relevant. Daarnaast vragen we om een tweede document van maziaal een A4tje dat bestaat uit de beantwoording van de drie onderstaande vragen. Je kan dit richten aan ‘Team CNE’. 1. Wat hoop je te vinden bij de JSCU, qua inhoud, cultuur en/of zingeving? 2. Beschijf een project waar je trots op bent en waar je rust in hebt toegepast? 3. Met welke persoonlijke vaardigheden kan jij een bijdrage leveren aan een team? Dit document is de vervanging van de motivatie! Dit krijg je Schaal 12 €6.244 - €8.067 (bruto) Tijdelijke aanstelling met uitzicht op vaste aanstelling 2 jaar 36 - 40 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Naast het salaris ontvang je een Individueel Keuzebudget, IKB. Het IKB bestaat uit geld (16,33% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, een vergoeding woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof. Let op: De vacature is uitgezet in schaal 12, indien je onvoldoende senioriteit meebrengt maar wel relevante werkervaring, kan in overleg uitgeweken worden naar schaal 11. Dit vragen wij Computeren is jouw hobby! Je bent nieuwsgierig en niet te stoppen als je naar technische oplossingen zoekt. Als offensieve software ontwikkelaar beschik je over aantoonbare, praktische programmeer- en debugvaardigheden, niet alleen in Rust, maar ook in Python/Go en C/C++ Als reverser ben je bekend met gangbare tools en lees je ARM assembly met gemak Je hebt ruime ervaring met computer- en netwerkbeveiliging Je hebt ervaring met gangbare internetprotocollen en moderne cryptografische methoden. Je hebt kennis van of bijna ontembare nieuwsgierigheid naar embedded software Je hebt HBO/WO werk- en denkniveau door opleiding óf ervaring. Je kan je ideëen en ontwerpen goed documenteren en beargumenteren Als Senior ontwikkelaar neem je bovendien verantwoordelijkheid voor het initiëren, begeleiden, coördineren en evalueren van projecten. Je bent een autoriteit binnen je vakgebied en bent verantwoordelijk voor het (mede) bepalen van de toekomststrategie; je stemt deze strategie af met interne afnemers, teams en internationale samenwerkingspartners. Uit onderzoek blijkt dat vrouwen en mensen uit ondervertegenwoordigde groepen in de samenleving minder genegen zijn om te reageren op vacatures als ze niet strikt aan alle eisen voldoen, daarom; als je tot een van deze groepen behoort en twijfelt of je voldoet aan alle functie-wensen moedigen we je aan om toch te reageren. Hier kom je te werken Meer over JSCU - CNE De Joint Sigint Cyber Unit (JSCU) bestaat uit medewerkers van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). De JSCU is daarmee zowel onderdeel van de MIVD/Defensie als van de AIVD/Binnenlandse Zaken & Koninkrijksrelaties en wordt ook door beide diensten aangestuurd. De JSCU stelt zich ten doel middels technische verwerving te voorzien in data die voor de beantwoording van onderzoeksvragen van inlichtingenteams van de MIVD en de AIVD een esse",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Zoetermeer Universitair Master 36 - 40 uur Schaal 12 / €6.244 - €8.067 (bruto) Orde / vrede / veiligheid Solliciteer voor 30 november 2026 Dit ga je doen We zijn op zoek naar de beste rustaceans van Nederland; als een van de weinige Nederlanders krijg jij de bevoegdheid om offensieve technieken te...",
-   "benefits": [
-    "Opleidingsbudget",
-    "32-36 uur",
-    "Vaste baan"
-   ],
-   "skills": [
-    "Python",
-    "C++",
-    "C",
-    "Go",
-    "Rust"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-28T22:29:12.222025+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 10,
-    "matched_skills": [
-     "softwareontwikkeling"
-    ],
-    "missing_realistic": [
-     "Rust programmeertaal",
-     "universitaire master",
-     "jarenlange offensieve security-ervaring"
-    ],
-    "ignored_unrealistic": [
-     "beste rustaceans van Nederland",
-     "offensieve technieken ontwerpen"
-    ],
-    "reason": "Deze functie is op senior niveau ingeschaald en vereist een universitaire master en specifieke expertise die de kandidaat mist.",
-    "local_score": 44,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "92092fca8c93",
    "source": "JobSpy",
    "title": "Technisch implementatie consultant Digizorg",
@@ -7356,6 +7508,57 @@
    }
   },
   {
+   "id": "0372784223de",
+   "source": "JobSpy",
+   "title": "business intelligence ontwikkelaar",
+   "company": "Politie",
+   "location": "Apeldoorn, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4583b6845d6f6380",
+   "salary": "€3735 - €5883 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en): Onderwijs, Bedrijfsvoering Niveau: HBO BACHELOR Wat ga je doen? Als business intelligence ontwikkelaar is jouw primaire taak om maximaal rendement uit informatie en techniek te halen. Dit leidt tot op de bedrijfsvoering afgestemde BI-producten en innovatief gebruik van aanwezige data, informatie en kennis. De Politieacademie kan hierdoor beter inspelen op de steeds verder toenemende vraag naar informatie. Je hebt de kennis om informatieproducten te maken met gebruik van beschikbare bronnen en voorzieningen. Je maakt informatieproducten op basis van gedegen ontwerp. Samen met je collega’s van de Politieacademie en het Politiedienstencentrum ontwikkel je informatieproducten ten behoeve van inzicht, sturing en verantwoording. Je filtert cruciale informatie uit de verschillende systemen, die je met jouw rapportages en instructies toegankelijk maakt voor de Politieacademie en het management van de politie. Je werkzaamheden bestaan o.a. uit: informatieproducten in (op dit moment) Cognos Analytics ontwikkelen en beheren; ad hoc informatieverzoeken snel en efficiënt afhandelen; pro-actief meedenken over verbeteringen. Waar ga je werken? De Politieacademie is het opleidings- en kenniscentrum voor de Nederlandse politie waar competentiegericht onderwijs, kennis en het politiewerkveld samenkomen. De Politieacademie is verantwoordelijk voor het ontwikkelen en verzorgen van het politieonderwijs (inclusief examinering) gericht op de startende beroepsbeoefenaar en zijn/haar definitieve toelating tot een uitvoerende functie in de politiepraktijk. Je gaat aan de slag binnen de Sector Onderwijsbedrijfsvoering, een nieuwe en volop ontwikkelende sector binnen de Politieacademie. Binnen de sector komen bestaande en nieuwe processen samen, met één helder doel: het optimaal ondersteunen van onderwijs- en onderzoeksprocessen. Je bouwt voort op een stevig fundament, terwijl je tegelijkertijd actief bijdraagt aan de verdere professionalisering van BI&K. Het team bestaat uit 8 FTE, bestaand uit tevredenheidsonderzoekers, business intelligence ontwikkelaars en specialisten op gebied van onderwijsinformatie en wordt aangestuurd door een coördinerend business analist. Je werkt in een omgeving waarin samenwerking centraal staat. Team BI&K werkt nauw samen met andere onderdelen binnen de ondersteuningsorganisatie, zoals Staf, om gezamenlijk bij te dragen aan de ambities van de Politieacademie. Wij werken zowel op kantoor als vanuit huis. Wie ben jij? Je bent iemand die goed kan inschatten wat de technische en/of functionele gevolgen zijn van gekozen oplossingen voor de bedrijfsvoering. Samenwerken, maar ook zelfstandig werken gaat je goed af. Je kunt goed analytisch en abstract denken. Daarbij stel je prioriteiten en ben je communicatief vaardig, zowel in de gesprekken met je directe collega’s als met de gebruikers van de informatieproducten. Je herkent en onderzoekt de wensen van de klant samen met het team. Je levert werk van hoge kwaliteit. Daarnaast vragen we om: een hbo (bachelor) werk- en denkniveau; ervaring als BI-ontwikkelaar; kennis van SQL en BI-tooling (zoals Cognos Analytics); bij voorkeur kennis van ETL-processen en datawarehousing. Wat wij bieden De standplaats is Apeldoorn. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week. Omdat goede mensen belangrijk zijn binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aanstelling in tijdelijke dienst voor een proeftijd van een jaar. Bij voldoende functioneren zetten we na een jaar de aanstelling om in een vaste aanstelling. Verder kun je van ons verwachten: een bruto maandsalaris van minimaal € 3.735,- en maximaal € 5.883,- (schaal 10 Bbp) op basis van een 36-urige werkweek; een Individueel Keuzebudget (IKB) dat uit twee delen bestaat: Een bruto deel van 17,86% van je salaris. Met dit budget kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Denk bijvoorbeeld aan het uitbetalen van je budget, het kopen van vakantie-uren of ontwikkelactiviteiten zoals een opleiding. Een netto deel van € 515,91 per jaar. Dit budget kun je bijvoorbeeld gebruiken voor duurzaamheidsdoelen, vakbondscontributie, vitaliteit of het aflossen van je studieschuld bij DUO. een uitstekende pensioenopbouw bij ABP en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden). De formele functie binnen het functiegebouw van de politie is bedrijfsvoeringspecialist B. Interesse? Bel of mail met Edward Sleurink, teamchef Onderwijsinformatie (06 - 12 30 62 86, edward.sleurink@politieacademie.nl) ) voor meer informatie over de functie. Voor vragen over de sollicitatieprocedure bel je met Werving & Selectie op 088 - 66 22 300 / bel of mail je met Danielle van den Boom, recruiter (06 - 18 63 85 90, danielle.van.den.boom@politie.nl). Solliciteer uiterlijk 11 november 2026 via de sollicitatiebutton. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Wat verder belangrijk is Een betrouwbaarheidsonderzoek maakt deel uit van de selectieprocedure. De politie werkt in een veranderende samenleving waarin uiteenlopende perspectieven essentieel zijn voor goed politiewerk. Daarom is diversiteit voor ons van groot belang. Hoe kunnen we jouw kennis en achtergrond hiervoor inzetten? Je hebt een diploma op hbo (bachelor)-niveau of je bent daaraan gelijkgesteld via EVC. Of je hebt minimaal twee jaar werkervaring op het gevraagde niveau. Dit toon je aan met een erkende functieomschrijving of een formeel vastgestelde vacaturetekst of een ander formeel bewijsstuk. Het bewijsstuk heeft aantoonbaar betrekking op een functie die je daadwerkelijk hebt uitgevoerd en moet herleidbaar zijn tot jouw persoon. Denk aan",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Draag jij bij aan het informatie-gestuurd werken van de Politieacademie? Voor het team Business Intelligence en Kwaliteit zoeken wij een business intelligence ontwikkelaar. Specificaties vacature Locatie(s): Apeldoorn Organisatieonderdeel: Ondersteunende Dienst Politieacademie Vakgebied(en):...",
+   "benefits": [
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "SQL",
+    "ETL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Cognos Analytics",
+     "Business Intelligence"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "De kandidaat heeft een geschikte hbo-opleiding en SQL-kennis, maar mist specifieke ervaring met business intelligence en Cognos.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "bd26dd06fa95",
    "source": "JobSpy",
    "title": "Network Operations Analyst",
@@ -7570,6 +7773,64 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "efeb61d659f1",
+   "source": "JobSpy",
+   "title": "RUST Ontwikkelaar Offensieve Software Computer Network Exploitation",
+   "company": "Militaire Inlichtingen- en Veiligheidsdienst (MIVD)",
+   "location": "Zoetermeer, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=cd1377fc0930ea4e",
+   "salary": "€6244 - €8067 per maand",
+   "tags": [
+    "",
+    "fulltime, contract"
+   ],
+   "full_text": "Zoetermeer Universitair Master 36 - 40 uur Schaal 12 / €6.244 - €8.067 (bruto) Orde / vrede / veiligheid Solliciteer voor 30 november 2026 Dit ga je doen We zijn op zoek naar de beste rustaceans van Nederland; als een van de weinige Nederlanders krijg jij de bevoegdheid om offensieve technieken te ontwerpen met rust en deze in te zetten om geautomatiseerde systemen binnen te dringen. Dit staat beschreven in de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Wiv). Je komt werken bij de Joint SIGINT Cyber Unit (JSCU), de gezamenlijke eenheid van de MIVD en AIVD gespecialiseerd in Signals-Intelligence en Cyber onderzoeken. Bij de Joint SIGINT Cyber Unit (JSCU) vergaren we inlichtingen ten behoeve van zowel de MIVD als de AIVD. Je ontwikkelt software en methodes die offensief kunnen worden ingezet om inlichtingen te verkrijgen ten behoeve van operationele onderzoeksteams. Jij gaat op zoek naar exploiteerbare programmeerfouten, je bouwt implants, je bedenkt heimelijke communicatiekanalen en slimme exfiltratietechnieken. Je werkt in een team van specialisten met veel inhoudelijke vrijheid om het beoogde doel te bereiken. We trainen je in de specifieke vaardigheden die binnen onze afdeling benodigd zijn. Autonomie én samenwerken zijn de belangrijkste pijlers onder onze afdeling. Je denkt mee over toekomstige ontwikkelingen en adviseert vanuit je eigen expertise. Typische werkzaamheden die, afhankelijk van je expertise, tot je takenpakket kunnen behoren zijn Ontwikkellen van hoogwaardige implants; Ontwikkellen van heimelijke exfiltratiemethoden; Reverse engineeren van beveiligingssystemen en spyware; End-to-end testen van offensieve cyber tools; Onderzoeken van opkomende en innovatieve technieken. Persoonlijke ontwikkeling is een belangrijke voorwaarde binnen onze afdeling. We zorgen dat je via (interne) opleidingen, (internationale) samenwerkingsverbanden en conferenties up-to-date blijft als het gaat om de nieuwste technieken. Nieuwsgierigheid is een eigenschap die je aantoonbaar bezit. Samen en met elkaar willen we aan de top blijven. De JSCU omarmt diversiteit en inclusie en wil graag dat medewerkers zich thuis voelen. Verschillende perspectieven, achtergronden en inzichten zijn een verrijking voor onze organisatie. Bij ons is iedereen die aan de voorwaarden voor een Verklaring van Geen Bezwaar (VGB) voldoet welkom, ongeacht culturele achtergrond, arbeidsvermogen, leeftijd, seksuele voorkeur of gender. Samen werken we aan de veiligheid van Nederland. We vragen je om te solliciteren door het opsturen van een CV, waarbij belang wordt gehecht aan je ervaring- dan kan zowel professioneel zijn, maar je ervaring in je vrije tijd is net zo relevant. Daarnaast vragen we om een tweede document van maziaal een A4tje dat bestaat uit de beantwoording van de drie onderstaande vragen. Je kan dit richten aan ‘Team CNE’. 1. Wat hoop je te vinden bij de JSCU, qua inhoud, cultuur en/of zingeving? 2. Beschijf een project waar je trots op bent en waar je rust in hebt toegepast? 3. Met welke persoonlijke vaardigheden kan jij een bijdrage leveren aan een team? Dit document is de vervanging van de motivatie! Dit krijg je Schaal 12 €6.244 - €8.067 (bruto) Tijdelijke aanstelling met uitzicht op vaste aanstelling 2 jaar 36 - 40 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Naast het salaris ontvang je een Individueel Keuzebudget, IKB. Het IKB bestaat uit geld (16,33% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, een vergoeding woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof. Let op: De vacature is uitgezet in schaal 12, indien je onvoldoende senioriteit meebrengt maar wel relevante werkervaring, kan in overleg uitgeweken worden naar schaal 11. Dit vragen wij Computeren is jouw hobby! Je bent nieuwsgierig en niet te stoppen als je naar technische oplossingen zoekt. Als offensieve software ontwikkelaar beschik je over aantoonbare, praktische programmeer- en debugvaardigheden, niet alleen in Rust, maar ook in Python/Go en C/C++ Als reverser ben je bekend met gangbare tools en lees je ARM assembly met gemak Je hebt ruime ervaring met computer- en netwerkbeveiliging Je hebt ervaring met gangbare internetprotocollen en moderne cryptografische methoden. Je hebt kennis van of bijna ontembare nieuwsgierigheid naar embedded software Je hebt HBO/WO werk- en denkniveau door opleiding óf ervaring. Je kan je ideëen en ontwerpen goed documenteren en beargumenteren Als Senior ontwikkelaar neem je bovendien verantwoordelijkheid voor het initiëren, begeleiden, coördineren en evalueren van projecten. Je bent een autoriteit binnen je vakgebied en bent verantwoordelijk voor het (mede) bepalen van de toekomststrategie; je stemt deze strategie af met interne afnemers, teams en internationale samenwerkingspartners. Uit onderzoek blijkt dat vrouwen en mensen uit ondervertegenwoordigde groepen in de samenleving minder genegen zijn om te reageren op vacatures als ze niet strikt aan alle eisen voldoen, daarom; als je tot een van deze groepen behoort en twijfelt of je voldoet aan alle functie-wensen moedigen we je aan om toch te reageren. Hier kom je te werken Meer over JSCU - CNE De Joint Sigint Cyber Unit (JSCU) bestaat uit medewerkers van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Militaire Inlichtingen- en Veiligheidsdienst (MIVD). De JSCU is daarmee zowel onderdeel van de MIVD/Defensie als van de AIVD/Binnenlandse Zaken & Koninkrijksrelaties en wordt ook door beide diensten aangestuurd. De JSCU stelt zich ten doel middels technische verwerving te voorzien in data die voor de beantwoording van onderzoeksvragen van inlichtingenteams van de MIVD en de AIVD een esse",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Zoetermeer Universitair Master 36 - 40 uur Schaal 12 / €6.244 - €8.067 (bruto) Orde / vrede / veiligheid Solliciteer voor 30 november 2026 Dit ga je doen We zijn op zoek naar de beste rustaceans van Nederland; als een van de weinige Nederlanders krijg jij de bevoegdheid om offensieve technieken te...",
+   "benefits": [
+    "Opleidingsbudget",
+    "32-36 uur",
+    "Vaste baan"
+   ],
+   "skills": [
+    "Python",
+    "C++",
+    "C",
+    "Go",
+    "Rust"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-10-28T22:29:12.222025+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 10,
+    "matched_skills": [
+     "softwareontwikkeling"
+    ],
+    "missing_realistic": [
+     "Rust programmeertaal",
+     "universitaire master",
+     "jarenlange offensieve security-ervaring"
+    ],
+    "ignored_unrealistic": [
+     "beste rustaceans van Nederland",
+     "offensieve technieken ontwerpen"
+    ],
+    "reason": "Deze functie is op senior niveau ingeschaald en vereist een universitaire master en specifieke expertise die de kandidaat mist.",
+    "local_score": 44,
+    "ai": true,
+    "check": false,
+    "visible": false
    }
   },
   {
