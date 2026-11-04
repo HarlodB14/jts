@@ -5318,6 +5318,93 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een goede technische programmeerbasis, maar mist specifieke ervaring met industriële PLC- en SCADA-systemen."
+  },
+  "b79068ec50f6": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "industriële automatisering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke technische basisvaardigheden, maar de rol vraagt specifieke kennis van industriële automatisering."
+  },
+  "ea0cd723f8f2": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze vacature is expliciet bedoeld voor een senior developer en past daardoor niet bij jouw junior profiel."
+  },
+  "114dcd1b2308": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "REST API’s",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "Qlik",
+    "data-warehousing"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met data en software, maar mist specifieke ervaring met dashboarding en data-warehousing."
+  },
+  "a2fa78fe5064": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [],
+   "missing_realistic": [
+    "data governance",
+    "compliance"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante ICT-achtergrond, maar de focus op data governance en wetgeving sluit minder direct aan op je development-ervaring."
+  },
+  "097e4bfe1f21": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "verandermanagement"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je opleiding Informatica en klantgerichte ervaring sluiten goed aan bij dit IT-traineeship."
+  },
+  "a764be644d0a": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [],
+   "missing_realistic": [
+    "gebouwautomatisering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke technische basis en MBO-achtergrond in beheer, maar mist ervaring binnen gebouwautomatisering."
+  },
+  "70d832ae5d86": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Dit IT-traineeship sluit door je brede technische achtergrond, HBO-diploma en leergierigheid uitstekend aan bij jouw profiel."
+  },
+  "72ae3b040794": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "incidenten oplossen",
+    "gebruikersondersteuning"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je MBO ICT-beheerdiploma en ervaring met servicedesk en support sluiten naadloos aan bij deze functie voor functioneel beheer."
   }
  }
 }
