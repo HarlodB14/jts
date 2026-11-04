@@ -5405,6 +5405,73 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je MBO ICT-beheerdiploma en ervaring met servicedesk en support sluiten naadloos aan bij deze functie voor functioneel beheer."
+  },
+  "0a9971ed898f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "AFAS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke analytische vaardigheden en ervaring met databeheer, maar mist specifieke AFAS-kennis."
+  },
+  "cb06ffc3c236": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Support",
+    "Hardware"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide achtergrond als ICT-medewerker en beheerder sluit naadloos aan bij deze supportrol."
+  },
+  "3ca0ca4e8d6f": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Analytisch vermogen",
+    "Klantgesprekken",
+    "User stories",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met klantconsultancy en het vertalen van wensen naar software past erg goed bij deze functie."
+  },
+  "4854905c72c6": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Linux",
+    "Python"
+   ],
+   "missing_realistic": [
+    "SOC ervaring",
+    "SIEM"
+   ],
+   "ignored_unrealistic": [
+    "Jarenlange SOC-ervaring"
+   ],
+   "reason": "Deze functie is te senior en vraagt diepgaande security- en SOC-ervaring die je nog mist."
+  },
+  "b99e7de19716": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "MBO 4 ICT",
+    "Data-analyse",
+    "MS Office"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je MBO-achtergrond en sterke analytische vaardigheden sluiten goed aan bij deze junior analysefunctie."
   }
  }
 }
