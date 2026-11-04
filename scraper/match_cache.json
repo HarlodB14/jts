@@ -5472,6 +5472,223 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je MBO-achtergrond en sterke analytische vaardigheden sluiten goed aan bij deze junior analysefunctie."
+  },
+  "f1c4ccf267d1": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "PHP / Laravel",
+    "JavaScript",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Magento 2",
+    "B2B e-commerce"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Laravel- en API-ervaring sluit goed aan bij webdevelopment, hoewel je nog geen specifieke Magento 2-achtergrond hebt."
+  },
+  "a94a10a3d295": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en servicedesk sluit naadloos aan bij deze junior operations- en supportrol."
+  },
+  "4d0b0878461a": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Nederlands",
+    "Engels"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-bachelor Informatica en klantgerichte ervaring maken je een geschikte kandidaat voor dit consultancy-traineeship."
+  },
+  "a77cd8a5460f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Nederlands",
+    "Engels"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-opleiding en communicatieve vaardigheden passen goed bij dit supply chain-traineeship."
+  },
+  "2f29b288b1a7": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Nederlands",
+    "Engels"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je afgeronde hbo-studie en ervaring met klantgesprekken sluiten goed aan bij dit Nederlandstalige traineeship."
+  },
+  "9e8dc9c38e80": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "BSc Informatica"
+   ],
+   "missing_realistic": [
+    "Assetmanagement",
+    "Railinfra"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-diploma Informatica past goed bij de opleidingseis, maar je mist specifieke ervaring met railinfrastructuur."
+  },
+  "c7b81abd8ff8": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Ubuntu / Linux",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Grafana",
+    "PostgreSQL",
+    "Cassandra"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Linux- en SQL-kennis vormen een sterke basis voor deze junior application engineering functie."
+  },
+  "c28b2993fd72": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide mbo-achtergrond in ICT-beheer en servicedesk-ervaring bij OGD sluiten perfect aan bij deze rol."
+  },
+  "c3c3844f23b3": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "BSc Informatica"
+   ],
+   "missing_realistic": [
+    "Swift",
+    "iOS app development"
+   ],
+   "ignored_unrealistic": [
+    "2+ years of experience"
+   ],
+   "reason": "Je hebt een geschikte ICT-opleiding en affiniteit met programmeren, maar je mist specifieke iOS- en Swift-ervaring voor deze app-ontwikkelrol."
+  },
+  "e53b75771684": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Klantgesprekken",
+    "Adviseren",
+    "SQL",
+    "Bedrijfsprocessen"
+   ],
+   "missing_realistic": [
+    "Exact Online"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en ervaring met klantadvies en maatwerksoftware sluiten goed aan bij deze consultancyrol, hoewel je nog geen Exact Online beheert."
+  },
+  "274d4b54bd24": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Azure",
+    "Gebruikersondersteuning"
+   ],
+   "missing_realistic": [
+    "Microsoft Intune"
+   ],
+   "ignored_unrealistic": [
+    "Max. € 4.426,- p.m."
+   ],
+   "reason": "Je achtergrond als ICT-beheerder en servicedeskmedewerker past goed bij het beheren van een moderne Windows- en Microsoft 365-omgeving."
+  },
+  "981e8dd9a6d5": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL",
+    "Data-analyse"
+   ],
+   "missing_realistic": [
+    "Financiële analyse",
+    "Budgettering en forecasting"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke financiële analyses en rapportages die niet direct aansluiten bij jouw software engineering en IT-beheer achtergrond."
+  },
+  "76aa844c7f79": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Laboratoriumervaring",
+    "ELISA",
+    "Flow Cytometry"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze laboratoriumfunctie voor biologische en medische analyses sluit niet aan bij jouw IT-opleiding en technische werkervaring."
+  },
+  "0a5ad94ea877": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Excel",
+    "Engels",
+    "Administratieve taken"
+   ],
+   "missing_realistic": [
+    "Logistieke KPI-management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede analytische vaardigheden en administratieve ervaring, maar je mist specifieke achtergrond in logistiek KPI-management."
+  },
+  "81af6760e8aa": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Data-analyse"
+   ],
+   "missing_realistic": [
+    "Databricks",
+    "DBT",
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke basis in programming en data, maar je mist ervaring met specifieke tools zoals Databricks en DBT."
+  },
+  "cd1f356c16ca": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "Data management",
+    "Kwaliteitsbewaking"
+   ],
+   "missing_realistic": [
+    "HACCP",
+    "Voedselveiligheid"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met databeheer en processen, maar je mist specifieke kennis van voedselveiligheid en HACCP in de foodsector."
   }
  }
 }
