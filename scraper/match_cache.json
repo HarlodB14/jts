@@ -15,135 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "59bc65cabd6f": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Nederlands",
-    "Engels",
-    "communicatieve vaardigheden"
-   ],
-   "missing_realistic": [
-    "ervaring met AFAS"
-   ],
-   "ignored_unrealistic": [
-    "enkele jaren ervaring met AFAS"
-   ],
-   "reason": "Je mist specifieke ervaring met AFAS en de rol vraagt functioneel beheer in plaats van software engineering."
-  },
-  "19bd7ce9e97f": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Python",
-    "REST API’s",
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Machine Learning"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke achtergrond in Python en softwareontwikkeling, al mis ik specifieke machine learning-ervaring."
-  },
-  "c710f9ea2f37": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Ubuntu / Linux",
-    "Netwerkproblemen",
-    "Klantcontact"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je ervaring bij OGD en je klantgerichte houding sluiten naadloos aan bij deze IT-supportfunctie."
-  },
-  "facfe7be3f7b": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory"
-   ],
-   "missing_realistic": [
-    "Siemens PCS7",
-    "TIA Portal",
-    "Procesautomatisering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze specialistische rol in industriële procesautomatisering vraagt specifieke kennis van systemen die niet in je cv staan."
-  },
-  "67ef64efd249": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "SQL",
-    "Klantondersteuning",
-    "Processen"
-   ],
-   "missing_realistic": [
-    "Functioneel beheer"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-achtergrond en communicatieve vaardigheden passen goed bij een rol als functioneel beheerder."
-  },
-  "51a22dbbcee4": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "Klantcontact",
-    "Processen"
-   ],
-   "missing_realistic": [
-    "AFAS",
-    "Applicatiebeheer"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt ervaring met ondersteuning en processen, maar je mist specifieke kennis van het AFAS-systeem."
-  },
-  "c6241c6215fe": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "SQL",
-    "Python",
-    "Data-infrastructuur"
-   ],
-   "missing_realistic": [
-    "ETL",
-    "BI-oplossingen"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je programmeer- en datavaardigheden sluiten goed aan bij de basis van deze data-engineeringfunctie."
-  },
-  "693429b4c49d": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Consultancy",
-    "Klantgesprekken",
-    "Nederlands"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je combinatie van technische vaardigheden en sterke communicatieve ervaring past uitstekend bij dit IT-traineeship."
-  },
-  "b77ce9ec44bb": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "IT-affiniteit"
-   ],
-   "missing_realistic": [
-    "Inkoopervaring",
-    "Contractmanagement"
-   ],
-   "ignored_unrealistic": [
-    "Een paar jaar ervaring in inkoop"
-   ],
-   "reason": "Hoewel je IT-kennis hebt, vraag deze functie gerichte inkoopervaring die je nog niet hebt opgebouwd."
-  },
   "459ccaccd465": {
    "is_junior": true,
    "score": 95,
@@ -2732,6 +2603,128 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt ervaring met databeheer en processen, maar je mist specifieke kennis van voedselveiligheid en HACCP in de foodsector."
+  },
+  "26a7effc596e": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-ondersteuningsachtergrond en mbo-diploma's sluiten naadloos aan bij deze startersrol in de support."
+  },
+  "9c626ba48afc": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "SQL",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring met C# en .NET sluit goed aan bij deze applicatie-ontwikkelingsrol."
+  },
+  "9bcab09f8a01": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Data warehousing",
+    "BI-specifieke tools"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke data engineering- en BI-ervaring die buiten jouw directe software- en beheerachtergrond valt."
+  },
+  "8987fb466fd6": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "Zorgapplicaties zoals Care4"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT-beheer en klantcontact past goed bij de taken van functioneel beheer."
+  },
+  "ce4df766fdb8": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met gemeentelijke applicaties"
+   ],
+   "ignored_unrealistic": [
+    "Salarisindicatie schaal 9 met jarenlange ervaring"
+   ],
+   "reason": "Deze functie van functioneel beheerder in het sociaal domein vraagt specifieke overheids- en applicatiekennis."
+  },
+  "ea9cff8cb516": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met InPlanning en salarisverwerking"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist de specifieke domeinkennis van roostersystemen zoals InPlanning die voor deze beheerrol vereist is."
+  },
+  "e53c10d7a2f7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je eerdere ervaring bij de servicedesk sluit aan bij de operationele processen, hoewel deze rol meer op workforce management focust."
+  },
+  "a663a3c09444": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "Diepgaande machine learning en causal inference"
+   ],
+   "ignored_unrealistic": [
+    "Jarenlange ervaring binnen grote data science teams"
+   ],
+   "reason": "Dit is een medior/senior machine learning-rol waarin je te veel gespecialiseerde data science-ervaring mist."
+  },
+  "99b022d21c81": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "Data engineering pipelines",
+    "Looker"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol."
+  },
+  "fb34159619b3": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Werktuigbouwkunde",
+    "Installatietechniek"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie is gericht op werktuigbouwkundige installaties en past niet bij jouw software engineering achtergrond."
   }
  }
 }
