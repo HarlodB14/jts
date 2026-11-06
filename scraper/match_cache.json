@@ -15,132 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "31459214084b": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "REST API’s",
-    "MCP / AI-koppelingen"
-   ],
-   "missing_realistic": [
-    "Ervaring met business consultancy en organisatietransformaties"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt affiniteit met AI en klantcontact, maar de rol vraagt meer consultancy-ervaring dan je technische achtergrond."
-  },
-  "813fced4cc2c": {
-   "is_junior": true,
-   "score": 40,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Logistieke processen",
-    "Business Intelligence (BI) dashboards"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt programmeer- en SQL-ervaring, maar de logistieke en BI-focus van deze rol sluit minder direct aan bij je achtergrond."
-  },
-  "1c8d987df7c3": {
-   "is_junior": true,
-   "score": 50,
-   "matched_skills": [
-    "JavaScript",
-    "Git / Bitbucket",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Android-ontwikkeling (Java/Kotlin voor mobiel)"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt goede programmeerskills, maar specifieke Android-ontwikkeling ontbreekt in je cv."
-  },
-  "fde71866bbcd": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Active Directory",
-    "Windows Server"
-   ],
-   "missing_realistic": [
-    "Ervaring met specifiek beheer van Jira en Confluence"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-beheerachtergrond sluit goed aan bij functioneel beheer, al heb je specifiek met Jira en Confluence minder gewerkt."
-  },
-  "1db02a1b8e2a": {
-   "is_junior": true,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Laboratoriumervaring",
-    "Chemie en farmaceutische analyse"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze laboratoriumfunctie past niet bij je IT- en softwareontwikkeling-achtergrond."
-  },
-  "70ea01576bcf": {
-   "is_junior": true,
-   "score": 40,
-   "matched_skills": [
-    "Python",
-    "Linux"
-   ],
-   "missing_realistic": [
-    "Grondradar-systemen",
-    "Landmeten en AutoCAD"
-   ],
-   "ignored_unrealistic": [
-    "Ervaring met ground radar"
-   ],
-   "reason": "Je technische basis is sterk, maar veldwerk met grondradar en landmeten ligt te ver af van jouw softwareprofiel."
-  },
-  "998d157f7dfd": {
-   "is_junior": true,
-   "score": 50,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Datagovernance en datakwaliteitsbeleid"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt affiniteit met data, maar de rol vraagt meer specifieke ervaring met datastewardship en governance."
-  },
-  "3a9a48a74204": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "SQL",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Enterprise BI-architectuur",
-    "Ervaring als System Analyst"
-   ],
-   "ignored_unrealistic": [
-    "Enterprise-level BI-architectuur ontwerpen"
-   ],
-   "reason": "Dit is een medior/senior enterprise-rol die te zwaar is voor een starter."
-  },
-  "bd26dd06fa95": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "AWS",
-    "Azure"
-   ],
-   "missing_realistic": [
-    "ervaring met network operations",
-    "data-analysetools en dashboards",
-    "financiële en partner-rapportages"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol richt zich op business- en netwerkoperations in plaats van software engineering, waardoor je profiel minder goed aansluit."
-  },
   "89d6679ffe0d": {
    "is_junior": false,
    "score": 40,
@@ -3066,6 +2940,297 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een sterke softwareontwikkelingsbasis, hoewel je nog ervaring moet opdoen met Flutter en Dart."
+  },
+  "04b3b4d6a996": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [
+    "C#"
+   ],
+   "missing_realistic": [
+    "PLC-programmering",
+    "industriële automatisering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt C#-ervaring, maar deze rol vraagt specifieke industriële automatisering en PLC-software die niet in je cv staat."
+  },
+  "0bbebc2c22d7": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "diepgaande data engineering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-opleiding en Python-vaardigheden sluiten goed aan bij dit data- en AI-traineeship."
+  },
+  "42c9adc69c31": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "consultancy-ervaring op senior niveau"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je klantgesprekken voert, zoekt deze consultancyrol een ander type diepgaande operationele advieservaring."
+  },
+  "a67a91c9e9eb": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Linux",
+    "Azure Fundamentals"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-achtergrond bij OGD en je reeds behaalde Azure-certificaat sluiten uitstekend aan bij dit IT-traineeship."
+  },
+  "00a070e431a1": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "uitgebreide data platform architectuur"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met Python en AWS, maar deze specifieke data engineer-rol vraagt meer gespecialiseerde dataoplossingen."
+  },
+  "b1b5d974c80e": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "JavaScript",
+    "REST API's",
+    "Git"
+   ],
+   "missing_realistic": [
+    "TypeScript",
+    "Node.js",
+    "React"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je JavaScript-- en API-kennis passen goed, hoewel je specifiek met TypeScript, Node.js en React aan de slag zult gaan."
+  },
+  "3a99f1a89579": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Agile/Scrum",
+    "klantgerichtheid",
+    "IT-achtergrond"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-bachelor en combinatie van techniek en klantcontact sluiten naadloos aan bij dit brede business- en IT-traineeship."
+  },
+  "dfda5c15c7b9": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Microsoft Fabric"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je SQL- en programmeerervaring vormen een goede basis, maar je mist specifieke ervaring met Microsoft Fabric."
+  },
+  "d3881a256f7d": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "REST API's",
+    "Git",
+    "Cloud"
+   ],
+   "missing_realistic": [
+    "Specifieke achtergrond in energy-tech"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in software engineering en ervaring met API's en cloud sluiten goed aan bij deze junior rol."
+  },
+  "f0feb36427d2": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "REST API's",
+    "Git",
+    "Cloud",
+    "Testing"
+   ],
+   "missing_realistic": [
+    "TypeScript",
+    "Node.js"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeer- en testvaardigheden, al mis je specifiek TypeScript en Node.js in je cv."
+  },
+  "dc5c24a473ca": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "AI-koppelingen",
+    "LLM's"
+   ],
+   "missing_realistic": [
+    "ServiceNow platformervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je affiniteit met AI en LLM-koppelingen past goed bij deze campus AI-rol, hoewel ServiceNow nieuw voor je is."
+  },
+  "23efd06be136": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "AI",
+    "Procesoptimalisatie",
+    "Klantcontact"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je combinatie van IT-kennis, consultancy-ervaring en communicatieve vaardigheden sluit uitstekend aan bij deze rol."
+  },
+  "53b455bb999a": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Master in Lucht- en Ruimtevaart of Werktuigbouwkunde",
+    "Computational Mechanics"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een achtergrond in informatica, waardoor deze werktuigbouwkundige R&D-functie minder goed past."
+  },
+  "6dc264c9fd72": {
+   "is_junior": false,
+   "score": 60,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Linux",
+    "Netwerken",
+    "Support"
+   ],
+   "missing_realistic": [
+    "DeltaV systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-beheerervaring sluit aan bij de techniek, maar de vacature betreft geen echte junior-startersfunctie."
+  },
+  "49b2f055e471": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Automatisering",
+    "Projectcoördinatie"
+   ],
+   "missing_realistic": [
+    "Elektrotechniek of Instrumentatie achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt IT- en beheerervaring, maar de focus op elektrotechniek en procesinstallaties sluit minder direct aan."
+  },
+  "471b63cb7f74": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "IT",
+    "Processen",
+    "Logistiek meedenken",
+    "Consultancy-vaardigheden"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond gecombineerd met praktijkervaring in klantadvies en procesverbetering."
+  },
+  "7d97215628f6": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Java",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Jenkins",
+    "GitLab CI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-bachelor Informatica en ervaring met Java sluiten goed aan bij deze testrol."
+  },
+  "c4a09030dab6": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "REST API’s",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Dit traineeship past perfect bij je ambitie als developer-consultant en je achtergrond in C# en .NET."
+  },
+  "65a5c6c6a811": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Wo-opleiding",
+    "Ervaring op senior niveau"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie is te senior en vraagt een wo-achtergrond en jarenlange ervaring."
+  },
+  "88e7d09241af": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Testing"
+   ],
+   "missing_realistic": [
+    "Novadent"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je eerdere servicedesk- en klantgerichte ervaring sluit goed aan bij deze supportrol."
+  },
+  "866f22544316": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Financiële achtergrond",
+    "Ervaring als business analist"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke financiële en analistenervaring die buiten jouw software-achtergrond valt."
+  },
+  "975ce95a59b5": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Microsoft Azure",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Uitgebreide senior testautomatisering"
+   ],
+   "ignored_unrealistic": [
+    "Salarisindicatie van 5000-5500 bruto voor een starter"
+   ],
+   "reason": "De rol vraagt ervaren testautomatisering op senior niveau ondanks je hbo-diploma."
   }
  }
 }
