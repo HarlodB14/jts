@@ -15,36 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "89d6679ffe0d": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Power BI",
-    "data modelling",
-    "real estate finance"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt wel SQL-ervaring, maar deze rol vraagt specifiek om data modelling en Power BI in een financiele context."
-  },
-  "dc7ea3b7ac7c": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "Microsoft Azure"
-   ],
-   "missing_realistic": [
-    "Power BI",
-    "data platforms"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je consultancyvaardigheden en achtergrond in data en cloud sluiten goed aan bij deze junior adviesrol."
-  },
   "ee3f607a9ed4": {
    "is_junior": true,
    "score": 60,
@@ -3231,6 +3201,47 @@
     "Salarisindicatie van 5000-5500 bruto voor een starter"
    ],
    "reason": "De rol vraagt ervaren testautomatisering op senior niveau ondanks je hbo-diploma."
+  },
+  "83b8ff63696d": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring met data-analyse en dashboards"
+   ],
+   "ignored_unrealistic": [
+    "Schaal 11 salaris en senior inhoudelijke rol"
+   ],
+   "reason": "Je hebt wel programmeer- en data-ervaring uit je opleiding, maar de rol vraagt een duidelijke achtergrond als data-analist in plaats van software engineering."
+  },
+  "f50ecaafd436": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring als business analist"
+   ],
+   "ignored_unrealistic": [
+    "Schaal 11 salaris voor een starter"
+   ],
+   "reason": "Deze functie is duidelijk op senior niveau ingeschaald en past niet bij een junior profiel."
+  },
+  "1bd3500d3ade": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "API's"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "Jarenlange werkervaring in het moderniseren van complexe architecturen"
+   ],
+   "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij deze back-end rol voor een developer."
   }
  }
 }
