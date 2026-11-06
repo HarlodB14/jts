@@ -15,207 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "ee3f607a9ed4": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Business Intelligence",
-    "Power BI"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt ervaring met SQL en data-analyse, maar mist specifieke Business Intelligence-ervaring voor deze rol."
-  },
-  "dc1714ea14d8": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Java"
-   ],
-   "missing_realistic": [
-    "Spring Boot",
-    "medior/senior niveau"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze vacatie is op Schaal 11 en vraagt medior/senior Java- en Spring Boot-ervaring die nog niet op dat niveau uit je cv blijkt."
-  },
-  "c5e41b7e88e5": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Systeembeheer",
-    "Active Directory",
-    "Windows Server"
-   ],
-   "missing_realistic": [
-    "Nedap ONS"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke achtergrond in IT-beheer en support, al mis je nog ervaring met het specifieke zorgsysteem Nedap ONS."
-  },
-  "00a1d2f93585": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "Functioneel beheer",
-    "Koppelingen",
-    "Zorg-IT"
-   ],
-   "missing_realistic": [
-    "Cloverleaf"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt al mooie ervaring opgedaan met zorg-IT en koppelingen, waardoor je goed past bij de ondersteunende rol van functioneel beheerder."
-  },
-  "e0bef4bf217e": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "SQL",
-    "Data-analyse"
-   ],
-   "missing_realistic": [
-    "Power BI",
-    "Field Service Management"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je HBO Informatica achtergrond en SQL-kennis sluiten redelijk aan, maar je mist gerichte ervaring met Power BI."
-  },
-  "ec61544011a1": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "SQL",
-    "CI/CD"
-   ],
-   "missing_realistic": [
-    "Microsoft Fabric",
-    "Power BI"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een goede technische basis met SQL en versiebeheer, maar mist specifieke ervaring met Microsoft Fabric en Power BI."
-  },
-  "fcf8e03af0e7": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Agile/Scrum",
-    "Klantgesprekken",
-    "Urenschattingen",
-    "Analytisch vermogen"
-   ],
-   "missing_realistic": [
-    "Ervaring specifiek als business analist"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt al ervaring met klantgesprekken en procesanalyse, wat goed aansluit bij deze junior rol."
-  },
-  "125837866020": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "C#"
-   ],
-   "missing_realistic": [
-    "C++",
-    "Embedded software"
-   ],
-   "ignored_unrealistic": [
-    "enkele jaren ervaring"
-   ],
-   "reason": "Je hebt wel programmeerervaring, maar je mist C++ en specifieke achtergrond in embedded software."
-  },
-  "a40ba2f1a3eb": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "JavaScript",
-    "C#",
-    "SQL",
-    "REST API’s",
-    "Vue / Nuxt"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke vaardigheden in webdevelopment en .NET die direct aansluiten bij deze rol."
-  },
-  "c6bb2df22c0e": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Python",
-    "Linux"
-   ],
-   "missing_realistic": [
-    "ervaring met fysieke machines of robotica"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je Python-kennis sluit goed aan, hoewel je nog ervaring moet opbrengen met machinebesturing in de praktijk."
-  },
-  "6fea9273d203": {
-   "is_junior": false,
-   "score": 10,
-   "matched_skills": [],
-   "missing_realistic": [
-    "juridische achtergrond",
-    "compliance ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze juridische compliance rol sluit niet aan bij jouw technische IT-achtergrond."
-  },
-  "e884ac9ffb00": {
-   "is_junior": false,
-   "score": 50,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Ubuntu / Linux",
-    "AWS",
-    "Microsoft Azure"
-   ],
-   "missing_realistic": [
-    "jarenlange senior systeembeheerervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een mbo ICT-beheerafsluiting en servicedeskervaring, maar mist de senior diepgang voor een complexe overheidsinfrastructuur."
-  },
-  "3b5df36d59b0": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "SQL",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "ervaring met zorgapplicaties zoals Care4"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt ervaring met zorg-IT en applicaties, waardoor je goed past binnen deze functioneel beheer rol."
-  },
-  "22874979b8ca": {
-   "is_junior": false,
-   "score": 10,
-   "matched_skills": [],
-   "missing_realistic": [
-    "opleiding chemie",
-    "laboratoriumervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een IT-achtergrond en geen chemische opleiding, waardoor deze functie niet past."
-  },
-  "de41f415a459": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Python",
-    "SQL"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je sterke Python- en SQL-vaardigheden passen uitstekend bij deze data- en settlementanalyse."
-  },
   "e9c97cdf8162": {
    "is_junior": true,
    "score": 60,
@@ -3242,6 +3041,375 @@
     "Jarenlange werkervaring in het moderniseren van complexe architecturen"
    ],
    "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij deze back-end rol voor een developer."
+  },
+  "04b746a3a9ce": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "C/C++"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeerskennis en leert snel, maar mist specifieke C/C++ ervaring voor deze embedded/motion software rol."
+  },
+  "1c3607855912": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "REST API’s",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [
+    "Specifieke cloudhosting configuratie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET-ervaring, klantgerichte instelling en affiniteit met moderne softwareontwikkeling sluiten heel goed aan bij deze junior rol."
+  },
+  "9ba765d24d46": {
+   "is_junior": true,
+   "score": 30,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Elektrotechniek",
+    "Revit (BIM)"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond, maar mist de specifieke elektrotechnische opleiding en kennis die voor deze engineeringfunctie vereist is."
+  },
+  "67555be2c24d": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Azure",
+    "Agile / Scrum"
+   ],
+   "missing_realistic": [
+    "PRINCE2"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als systeembeheerder en ervaring met IT-infrastructuur sluiten goed aan bij deze junior projectmanagementrol in de cloud."
+  },
+  "2b55f81b6ec2": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Data-analyse"
+   ],
+   "missing_realistic": [
+    "Uitgebreide bedrijfseconomische rapportages"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je analytische hbo-opleiding en ervaring met data sluiten goed aan bij de basisvereisten van deze junior business analist rol."
+  },
+  "9f83a5dcb6cd": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "REST API’s",
+    "Processen in kaart brengen"
+   ],
+   "missing_realistic": [
+    "Logistieke supply chain ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-opleiding Informatica en ervaring als developer-consultant vormen een sterke basis voor deze rol als schakel tussen business en IT."
+  },
+  "1747c00a52a3": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Procesverbetering",
+    "Klantgesprekken",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden, achtergrond in IT-beheer en hbo-diploma sluiten uitstekend aan bij het vertalen van gebruikerswensen naar oplossingen."
+  },
+  "1e47a01ac118": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "Agile / Scrum",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Spring Boot"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je gedegen Java-kennis en hbo-achtergrond in software engineering passen perfect in dit IT-traineeship bij de Rechtspraak."
+  },
+  "0e7f964bf964": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "Azure",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Angular"
+   ],
+   "ignored_unrealistic": [
+    "OpenShift",
+    "Splunk"
+   ],
+   "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship."
+  },
+  "1469e4f26795": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Azure"
+   ],
+   "missing_realistic": [
+    "Security monitoring"
+   ],
+   "ignored_unrealistic": [
+    "Splunk",
+    "Microsoft Defender XDR"
+   ],
+   "reason": "Je hebt affiniteit met security en Azure, wat een goede basis vormt voor dit security traineeship."
+  },
+  "1fb069fbd19c": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "AWS",
+    "Azure"
+   ],
+   "missing_realistic": [
+    "Data engineering"
+   ],
+   "ignored_unrealistic": [
+    "OpenShift"
+   ],
+   "reason": "Je Python-kennis en achtergrond in software engineering passen goed bij een data engineering traineeship."
+  },
+  "efe8816f8b3a": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Playwright (testing)",
+    "C#",
+    ".NET",
+    "Laravel",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide ervaring met Playwright en end-to-end testing maakt je direct inzetbaar als test automation engineer."
+  },
+  "93ed529aade7": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Klantgerichtheid",
+    "Communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "Ervaring met training geven"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke communicatieve vaardigheden en klantervaring passen goed bij een rol als trainer."
+  },
+  "45430d0f9673": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Autocad",
+    "E-plan",
+    "Electrical engineering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie vraagt specifieke elektrotechnische ontwerpkennis die niet past bij jouw IT-achtergrond."
+  },
+  "a7543258d7ff": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Hardware",
+    "Netwerk-apparatuur"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met systeembeheer en hardware bij OGD sluit naadloos aan bij deze buitendienst functie."
+  },
+  "375725a93109": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Servicedesk"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je jarenlange ervaring op de servicedesk bij OGD maakt je ideaal voor deze eerstehulp-supportrol."
+  },
+  "4c3bbe0a3fe0": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C# / .NET"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke C# en .NET vaardigheden die direct aansluiten bij deze junior functie."
+  },
+  "07b1cd92c3b3": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "Java 21+"
+   ],
+   "reason": "Je hebt goede Java- en API-ervaring waarmee je direct aan de slag kunt in dit team."
+  },
+  "26467714fb49": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "PLC",
+    "industrial automation",
+    "motion control"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke industriële automatisering en PLC-ervaring die niet primair op je cv staat."
+  },
+  "d06fdad1622c": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Playwright (testing)",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt relevante ervaring met end-to-end testing en development die goed past bij deze testrol."
+  },
+  "3242a4de2b10": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als ICT-medewerker en beheerder sluit naadloos aan bij deze systeembeheerdersfunctie."
+  },
+  "f91bb004deb7": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Zorg-IT",
+    "Klantcontact"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring bij de servicedesk en affiniteit met zorg-IT sluiten perfect aan bij deze supportrol."
+  },
+  "3467521fb5ae": {
+   "is_junior": false,
+   "score": 60,
+   "matched_skills": [
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Functioneel beheer ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De vacature richt zich meer op senior functioneel beheer dan op jouw software development profiel."
+  },
+  "d911dfb5e620": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Epidemiologie",
+    "Zorginfectie surveillance"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt programmeer- en data-skills, maar mist specifieke achtergrond in infectiepreventie en data-analyse."
+  },
+  "31bd594cbcb7": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "zorgonderzoek en beleidsanalyse",
+    "data-analist ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel wat data-ervaring via je studie, maar deze rol vraagt specifiek om zorgonderzoek en beleidsanalyse."
+  },
+  "eaba66b54271": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "informatiesystemen",
+    "data-analyse"
+   ],
+   "missing_realistic": [
+    "IT Audit kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT en informatiesystemen sluit redelijk aan bij deze scriptiestage, maar je mist specifieke IT Audit kennis."
+  },
+  "864f6c24afde": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "civiele techniek",
+    "spoorontwerp"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische opleiding past niet bij deze civieltechnische rol in de spoorwegsector."
+  },
+  "1bdb9bb145f2": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Agile/Scrum",
+    "klantgesprekken",
+    "adv Nerve"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en ervaring met klantgesprekken en projecten sluiten uitstekend aan bij dit traineeship."
   }
  }
 }
