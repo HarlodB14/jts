@@ -15,47 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "9a05bdbf02de": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "REST API’s",
-    "Python",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [
-    "RAG pipelines",
-    "Agent architectures"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Jevarvarp en consultancy-ervaring passen goed bij deze rol om AI-oplossingen naar productie te brengen."
-  },
-  "3172c884f663": {
-   "is_junior": false,
-   "score": 20,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Commerciële analyse",
-    "Pricing strategie",
-    "P&L beheer"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze functie richt zich op commerciële analyse en pricing in plaats van software engineering en consultancy."
-  },
-  "8cff81011907": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL",
-    "Python"
-   ],
-   "missing_realistic": [
-    "Financial engineering",
-    "Kwantitatieve modellering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hbo-achtergrond sluit goed aan bij dit talentprogramma, hoewel de focus meer op finance en data ligt."
-  },
   "da28a3004204": {
    "is_junior": false,
    "score": 40,
@@ -3075,6 +3034,55 @@
     "Salary scale up to €9.137 indicating a senior/lead compensation level"
    ],
    "reason": "Je hebt wel programmeer- en datakennis vanuit je studie, maar deze rol vraagt senior data modeling-ervaring in een complexe bankomgeving."
+  },
+  "3223a3e92292": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "REST API's",
+    "MCP / AI-koppelingen",
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je adviesvaardigheden en ervaring met AI-koppelingen sluiten uitstekend aan bij deze junior consultancyrol."
+  },
+  "b92d456fae3b": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "C# / .NET",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET- en back-end-ervaring vormen een sterke basis voor deze softwareontwikkelingsrol."
+  },
+  "b543d66fe5c0": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt",
+    "Python",
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede web- en ontwikkelervaring sluit naadloos aan bij deze digitale oplossingen."
+  },
+  "2359ed939a09": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Informatica"
+   ],
+   "missing_realistic": [
+    "Ervaring met IT-auditing"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel een IT-achtergrond, maar de functie richt zich specifiek op auditing in plaats van software engineering."
   }
  }
 }

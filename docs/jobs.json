@@ -1,19 +1,234 @@
 {
- "updated_at": "2026-11-07T01:50:48.398079+00:00",
+ "updated_at": "2026-11-07T08:41:04.842156+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 715,
+  "jobspy": 718,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 40,
-  "himalayas": 0
+  "himalayas": 1
  },
- "count": 232,
+ "count": 233,
  "jobs": [
+  {
+   "id": "3223a3e92292",
+   "source": "Arbeitnow",
+   "title": "Junior AI consultant",
+   "company": "IG&H",
+   "location": "Utrecht, Utrecht, Nederland",
+   "remote": false,
+   "posted_at": "2026-11-07T03:31:35+00:00",
+   "url": "https://www.arbeitnow.nl/jobs/companies/igh/junior-ai-consultant-utrecht-183828",
+   "salary": null,
+   "tags": [
+    "Data & AI"
+   ],
+   "full_text": "Locatie: Utrecht | Dienstverband: Vast | Uren: 32–40 uur per week Ben jij analytisch sterk en lijkt het je interessant om met AI écht impact te maken bij verschillende organisaties? Wil je werken aan projecten waarin strategie, technologie en AI samenkomen? Dan is een carrière als junior AI consultant bij IG&H iets voor jou. Bij IG&H start je als Junior AI Consultant binnen ons Data & AI-team, onderdeel van onze consultancypraktijk. Dat betekent dat je niet alleen met technologie werkt, maar ook met klanten — van boardroom tot operations. Je leert hoe je AI-oplossingen vertaalt naar concrete toepassingen die organisaties slimmer, efficiënter en innovatiever maken. Over de werkzaamheden: Je helpt klanten in retail, financiële dienstverlening en gezondheidszorg om hun data door middel van AI succesvol in te zetten; Je combineert machine learning, datamodellering en AI met strategisch inzicht; Je vertaalt businessvraagstukken naar praktische AI-oplossingen; Je werkt in multidisciplinaire teams samen met collega-consultants, data scientists en engineers; Je presenteert je inzichten en aanbevelingen op een heldere en overtuigende manier aan klanten; Je ondersteunt organisaties bij AI-adoptie en het realiseren van duurzame verandering; Je leert continu bij via training, coaching en uitdagende projecten. Kortom: je bouwt niet alleen kennis op van AI en data, maar ontwikkelt ook de adviesvaardigheden die je carrière in de consultancy versnellen. Over het team Wij helpen onze klanten innoveren en gebruikmaken van de nieuwste data- en AI-technologie. Ons Data & AI-team bestaat uit ruim 40 data-experts, waaronder Data Scientists, Data Engineers en AI-consultants. Samen realiseren zij innovatieve data-, analytics- en AI-oplossingen voor klanten in Retail, Financial Services en Health. Het team groeit snel en heeft de ambitie om verder uit te bouwen tot een van de meest toonaangevende Data & AI-praktijken van Nederland. Die groei komt voort uit ons succes: klanten kiezen steeds vaker voor IG&H vanwege onze combinatie van strategisch inzicht, technische expertise en pragmatische executie. We werken aan projecten die direct bijdragen aan betere besluitvorming, efficiëntere processen en nieuwe businessmodellen. Voor professionals die impact willen maken is dit een omgeving waar ondernemerschap, innovatie en persoonlijke ontwikkeling centraal staan. Hier bouw je niet alleen mee aan de toekomst van onze klanten, maar ook aan de verdere groei van het Data & AI-team zelf. Wat jij meebrengt: Een masterdiploma (WO-niveau) in Artificial Intelligence, Econometrie of Data Science of een vergelijkbare richting; Ervaring via een stage of werkstudentschap; Vaardigheid in Python en/of R; Sterke analytische en communicatieve vaardigheden (Nederlands & Engels); Interesse in consultancy, technologie en AI; Nieuwsgierigheid, leergierigheid en een proactieve houding. Wat wij jou bieden Coaching on the job door ervaren consultants; Je start vanaf januari 2026 ; Een uitgebreid ontwikkelprogramma via de IG&H Academy; Een uitstekend salaris, bonusregeling en mobiliteitsregeling of bedrijfsauto; 25 vakantiedagen + tot 5 extra bij te kopen; Healthy Human-programma voor jouw welzijn en balans; Sabbatical na 3 jaar dienstverband; We zijn een Great Place To Work (NPS > 60), en investeren in jouw ontwikkeling vanaf dag één; Flexibiliteit: werken kan ook 32 uur per week (minimaal 4 dagen); Veel plezier met een jong, ambitieus en sociaal team. Waarom IG&H? IG&H transformeert toonaangevende bedrijven in de gezondheidszorg, retail en financiële sectoren. Samen met onze wereldklasse technologiepartners helpen we onze klanten vooruit te komen en relevant te blijven, met inzichtelijk advies, geweldig ontwerp en ongeëvenaarde digitale platforms. Onze uitzonderlijke resultaten komen voort uit het succesvol afstemmen van mensen, bedrijfsvoering en technologie. Met meer dan 650 getalenteerde collega’s aan boord, mensen die veranderingen en uitdagingen echt omarmen, hebben we een unieke cultuur gecreëerd die zowel hoog durft als hoog zorgt . We trekken buitengewone mensen aan en inspireren hen om de grenzen te verleggen voor zichzelf en onze klanten. Interesse? Klaar om je carrière als AI consultant bij ons te starten? Dan maken we graag kennis met je. Voor meer informatie kun je contact opnemen met ons recruitmentteam via . Je kunt ook direct solliciteren via de sollicitatieknop. We hopen je snel te ontmoeten! We willen dat onze medewerkers een afspiegeling zijn van de diversiteit in de samenleving. We werken samen met een opmerkelijke mix van talenten, persoonlijkheden en culturen. IG&H is trots een werkgever te zijn die gelijke kansen biedt. Alle gekwalificeerde sollicitanten worden in overweging genomen voor een stage of dienstverband, ongeacht nationaliteit, ras, religie, geslacht, genderidentiteit of -expressie, seksuele geaardheid, genetica, handicap of leeftijd. We geven om individualiteit, maar het belangrijkste is dat we trots zijn op onze collectieve prestaties en een Great Place to Work. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. We werken met preferred suppliers. Stuur ons geen ongevraagde cv’s. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+   "applicants": null,
+   "publisher": "Arbeitnow",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Locatie: Utrecht Dienstverband: Vast Uren: 32–40 uur per week Ben jij analytisch sterk en lijkt het je interessant om met AI écht impact te maken bij verschillende organisaties? Wil je werken aan projecten waarin strategie, technologie en AI samenkomen? Dan is een carrière als junior AI consultant...",
+   "benefits": [
+    "Opleidingsbudget",
+    "32-36 uur",
+    "Bonus",
+    "Coaching"
+   ],
+   "skills": [
+    "Python",
+    "Machine learning",
+    "AI",
+    "Consultancy",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-07T08:41:04.842156+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "REST API's",
+     "MCP / AI-koppelingen",
+     "Python"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je adviesvaardigheden en ervaring met AI-koppelingen sluiten uitstekend aan bij deze junior consultancyrol.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "b92d456fae3b",
+   "source": "JobSpy",
+   "title": "Software Developer",
+   "company": "Bejo Zaden",
+   "location": "Warmenhuizen, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=81ec33ca25da1dcc",
+   "salary": "€4050 - €5600 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Jouw baan Als Software Developer richt je je voornamelijk op back-end development. Je ontwikkelt, onderhoudt en verbetert extensies voor Microsoft Dynamics 365 Business Central, die binnen meerdere Business Central-omgevingen worden gebruikt. Je verdiept je in de bedrijfsprocessen achter de software en vertaalt functionele wensen naar betrouwbare en onderhoudbare technische oplossingen. Je neemt stapsgewijs de kennis en het eigenaarschap over van externe ontwikkelpartners. Daarmee word je intern een belangrijk aanspreekpunt voor de Business Central-codebase. Je werkt zelfstandig, maar zoekt actief de samenwerking met inhoudelijke experts, key users, consultants, solution architects en het DevOps- en releaseteam. Hoewel de nadruk duidelijk op de back-end ligt, kun je op termijn ook bijdragen aan maatwerkwebapplicaties en systeemintegraties, waarbij onder andere .NET, Svelte/SvelteKit en SQL worden gebruikt. Ervaring met Business Central is geen vereiste. We bieden je de ruimte om AL, de programmeertaal van Business Central, te leren en je hierin verder te specialiseren. Dit krijg je van ons Bij Bejo werk je in een betrokken familiebedrijf met een informele en collegiale sfeer, waar je veel ruimte krijgt om je talent te ontwikkelen en werk en privé goed in balans te houden. We investeren in jouw groei, vitaliteit en duurzame inzetbaarheid, en bieden een arbeidsvoorwaardenpakket dat past bij wat jij nodig hebt om met plezier je werk te doen. Voor de rol van Software Developer krijg je onder andere; Een bruto maandsalaris tussen € 4.050,00 en € 5.600,00 bij een fulltime dienstverband, aangevuld met een winstdeling en 8,33% vakantiegeld. Flexibel arbeidsvoorwaardenbudget van €800 netto per jaar, vrij besteedbaar aan o.a. sport & vitaliteit, werk‑privébalans, mobiliteit en duurzaamheid. Studie‑ en ontwikkelmogelijkheden, doorgroeikansen en diverse vitaliteitsvoorzieningen (zoals OpenUp en #BejoFit). Goede pensioenregeling en aanvullende verzekeringen Vakantie- en vitaliteitsdagen volgens de Tuinzaden cao Actieve personeelsvereniging die diverse bedrijfsactiviteiten -borrels en uitjes organiseert Maatschappelijke betrokkenheid, met veel aandacht voor duurzaamheid en de wereldwijde voedselvoorziening. Dit gaat over jou Voor deze functie zoeken we een zelfstandige en analytische back-end developer die niet alleen geïnteresseerd is in de techniek, maar ook wil begrijpen hoe de achterliggende bedrijfsprocessen werken. Je vindt het interessant om bestaande, complexe software te doorgronden, te verbeteren en verder uit te bouwen. Daarnaast: Heb je hbo-werk- en denkniveau, bij voorkeur in Computer Science, Informatica of een vergelijkbare richting. Heb je minimaal drie jaar professionele ervaring als back-end- of full-stackdeveloper. Heb je goede kennis van een objectgeoriënteerde programmeertaal, bij voorkeur C#/.NET. Heb je ervaring met SQL, relationele databases, REST API’s en systeemintegraties. Werk je met Git en GitHub en ben je bekend met pull requests, code reviews, branches en het oplossen van mergeconflicten. Heb je ervaring met CI/CD-omgevingen en het onderhouden en uitbreiden van bestaande codebases. Sta je ervoor open om AL te leren en Business Central tot je belangrijkste technische aandachtsgebied te maken. Beheers je het Engels goed. Ervaring met Business Central, Dynamics NAV, AL, C/AL, ERP-processen of Svelte/SvelteKit is een pre, maar geen vereiste. Ik vertel je graag meer Wil je meer weten over deze vacature? Neem dan contact op met Casper Mons of Robin Hollander, telefoonnummer 0226- 396 162. Op de sites werkenbijbejo.nl en bejo.nl vind je meer informatie over ons bedrijf. Op de pagina Staff & Support Service vind je meer informatie over het werkgebied waaronder deze functie valt en kun je alvast je nieuwe collega’s zien. Ben je enthousiast en wil je in aanmerking komen voor deze vacature? Wacht dan niet langer en upload jouw sollicitatie via het onderstaande formulier! Bejo zet zich in voor een inclusieve werkplek, waardeert diversiteit en verwelkomt sollicitanten van alle achtergronden. Aarzel niet om te solliciteren, ongeacht of je aan alle criteria voldoet.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Jouw baan Als Software Developer richt je je voornamelijk op back-end development. Je ontwikkelt, onderhoudt en verbetert extensies voor Microsoft Dynamics 365 Business Central, die binnen meerdere Business Central-omgevingen worden gebruikt. Je verdiept je in de bedrijfsprocessen achter de...",
+   "benefits": [
+    "Pensioen",
+    "Bonus"
+   ],
+   "skills": [
+    "C#",
+    ".NET",
+    "C",
+    "SQL",
+    "REST",
+    "Git",
+    "CI/CD",
+    "DevOps",
+    "API",
+    "Engels"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-07T08:41:04.842156+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 80,
+    "matched_skills": [
+     "C# / .NET",
+     "SQL"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je .NET- en back-end-ervaring vormen een sterke basis voor deze softwareontwikkelingsrol.",
+    "local_score": 84,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "b543d66fe5c0",
+   "source": "JobSpy",
+   "title": "Digital Solutions Developer & Analyst",
+   "company": "Conduent",
+   "location": "Tilburg, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=b314bf118f078953",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het verschil en onderdeel te zijn van een cultuur waar individualiteit belangrijk is en iedere dag wordt gewaardeerd. Klaar om innovatieve digitale oplossingen te bouwen? Bij Conduent maken we processen slimmer, efficiënter en gebruiksvriendelijker. Binnen onze afdeling Client Intelligence & Innovation werken we aan innovatieve digitale oplossingen die onze organisatie vooruithelpen. Denk aan interactieve webapplicaties, gamification, speech analytics en automation. Wat ga je doen? Als Digital Solution Developer & Analyst ben je verantwoordelijk voor het ontwikkelen, onderhouden en verbeteren van onze webapplicaties. Je bent betrokken bij het hele ontwikkelproces: van het meedenken over concept en design tot het bouwen, testen en optimaliseren van de uiteindelijke oplossing. Je werkzaamheden bestaan onder andere uit: Webdevelopment & digital solutions Ontwerpen, bouwen en onderhouden van webapplicaties en digitale tools. Ontwikkelen van gebruiksvriendelijke interfaces met aandacht voor UX/UI, functionaliteit en visueel ontwerp. Realiseren en optimaliseren van backend functionaliteiten, datakoppelingen en databases. Data & analytics Data op een slimme manier integreren en presenteren binnen digitale toepassingen. Meedenken over datavisualisaties, interactieve dashboards en rapportages. Bijdragen aan datagedreven digitalisatie en automatiseringsinitiatieven Je werkt aan uiteenlopende projecten waarbij technologie, data en gebruiksvriendelijkheid samenkomen. Daarbij krijg je ruimte om zelf ideeën aan te dragen en met het team oplossingen uit te werken en te implementeren. Wat breng je mee? Je bent technisch ingesteld, denkt graag in oplossingen en krijgt energie van het bouwen van digitale toepassingen. Je hebt oog voor detail en gebruikerservaring en vindt het interessant om te ontdekken hoe data-applicaties slimmer en waardevoller gemaakt kunnen worden. Daarnaast beschik je over: Een afgeronde mbo/hbo-opleiding in bijvoorbeeld Informatica, Software Development, Communicatie & Multimedia Design of een vergelijkbare richting. Minimaal één jaar relevante werkervaring of stage-ervaring in web development of full-stack development. Affiniteit met front-end- en backend ontwikkeling en met interesse om zich verder te ontwikkelen in database- en dataoplossingen. Zelfstandige professional en teamplayer, met analytisch en procesmatig denkvermogen. Goede beheersing van de Nederlandse en Engelse taal. Mooi meegenomen, maar geen vereiste: Ervaring met Wappler en basiskennis van SQL en PostgreSQL. Kennis van SQL en relationele databases. Ervaring met Qlik Sense of andere tools voor datavisualisatie en business intelligence. Je hoeft niet alles al te beheersen. We zoeken vooral iemand met een goede technische basis, nieuwsgierigheid en de motivatie om zich verder te ontwikkelen. Wat bieden wij? Een afwisselende functie met veel ruimte voor eigen ideeën en technische creativiteit; Pensioenregeling; Parttime en hybride werken is mogelijk (minimaal 32 u/w) 25 vakantiedagen per jaar, 8% vakantiegeld en twee extra verlofdagen volgens de wachtdagenregeling; Een WGA-hiaatverzekering en collectiviteitskorting op een aanvullende zorgverzekering; Fietsregeling; Employee referral bonusprogramma; Goed bereikbare werklocatie in het centrum van Rotterdam, Almere of Tilburg. Wil je jouw technische vaardigheden inzetten voor projecten die de business slimmer en efficiënter maken? Dan maken we graag kennis met je! Bij Conduent krijgt iedereen evenveel kansen en is iedereen gelijk ongeacht: huidskleur, geloofsovertuiging, religie, afkomst, leeftijd, genderidentiteit, genderexpressie, geslacht, burgerlijke staat, seksuele geaardheid, lichamelijke of geestelijke handicap, medische aandoening, gebruik van een geleidehond of hulpdier, militaire/veteranenstatus of een andere groep die wettelijk beschermd is. Voor Amerikaanse sollicitanten: Mensen met een handicap die redelijke aanpassingen nodig hebben om te solliciteren naar of meedingen naar een baan bij Conduent, kunnen dergelijke aanpassingen aanvragen door op de volgende link te klikken, het aanvraagformulier in te vullen en het verzoek in te dienen via de knop \"Verzenden\" onderaan het formulier. Klik hier om het formulier te openen of te downloaden. klik hier om toegang te krijgen tot het ADAAA-accommodatiebeleid van Conduent.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "Bonus"
+   ],
+   "skills": [
+    "SQL",
+    "UX"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-07T08:41:04.842156+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "JavaScript",
+     "Vue / Nuxt",
+     "Python",
+     "SQL",
+     "REST API's"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je brede web- en ontwikkelervaring sluit naadloos aan bij deze digitale oplossingen.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "2359ed939a09",
+   "source": "JobSpy",
+   "title": "IT Auditor",
+   "company": "Forvis Mazars",
+   "location": "Utrecht Leidsche Rijn, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=9b7d6917c3766fda",
+   "salary": "€2700 - €4500 per maand",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "Wat breng je mee? Een afgeronde hbo-/ wo-opleiding (Technische) Bedrijfskunde, Bedrijfseconomie, (Technische) Informatica, Integrale Veiligheidskunde of vergelijkbaar en bereidheid de opleiding tot RE (Register EDP auditor) te volgen Zelfstandigheid Analytische vaardigheden Ondernemerschap en lef Wat bieden wij? Een bruto maandsalaris tussen € 2.700,- en € 4.500,- (op basis van 40 uur, exclusief vakantiegeld) Een laptop en budget voor persoonlijke keuze van mobiele telefoon Een mobiliteitsbudget van minimaal € 530,- per maand, naar keuze uit te keren in geld en eventueel een Shuttel-kaart om te reizen met het OV of een leaseauto met tankpas en een NS Business card Een goede werksfeer in een betrokken en hecht team Een persoonlijke mentor die jou begeleidt en coacht Een goede werk-privé-studie balans (hybride werken) 29 vakantiedagen waarvan een vrij in te vullen diversiteitsdag (op basis van 40 uur) De mogelijkheid om via de Forvis Mazars Foundation 12 uur maatschappelijk werk te verrichten Premievrij pensioen, thuiswerk- en maandelijkse onkostenvergoeding Bekijk hier een uitgebreid overzicht van onze arbeidsvoorwaarden Wat ga je doen? Als Junior IT-auditor houd jij je bezig met uiteenlopende opdrachten bij verschillende opdrachtgevers. Je ondersteunt hierbij bij de uitvoering van IT-audits en adviesopdrachten ten behoeve van specifieke managementvraagstukken, ter ondersteuning van de accountantscontrole of in het kader van specifieke opdrachten gericht op cybersecurity, betrouwbaarheid en compliance van informatiesystemen. Daarnaast houd jij je bezig met het optimaliseren van werkprocessen en het uitvoeren van data-analyses. Dit doe je bij verscheidende klanten. De ene dag geef je bijvoorbeeld bij een softwareontwikkelaar een ISAE 3402-verklaring af, de andere dag bespreek je met de ICT-manager van een goede doelenorganisatie het gewijzigde ICT-landschap voor het ophalen van collectegelden, waarbij het internet een belangrijke bron van inkomsten vormt. Forvis Mazars IT Audit & Advisory richt zich als expertisecluster van Forvis Mazars op het werkveld van IT governance, informatiebeveiliging en auditing. Wij doen dat vanuit de perspectieven van strategie, besturing, organisatie en informatietechnologie. Onze visie is dat het beoordelen van ICT en informatiesystemen vanuit hun context dient plaats te vinden. Hierbij is de digitale technologie een wezenlijk onderdeel. Kom jij onze groeiende afdeling versterken? Waarin maken wij het verschil? Bij Forvis Mazars geloven wij in de vrijheid om je werk zelf in te richten, de mogelijkheid om jezelf constant te blijven ontwikkelen en persoonlijke aandacht in een team waarin je elkaar kent en je mag meedenken over de organisatie. Je krijgt een persoonlijke mentor die jou begeleidt en coacht en je komt terecht in een betrokken en hecht team waar een goede werksfeer heerst. Binnen onze organisatie vinden wij het belangrijk om onze maatschappelijke rol samen met onze collega's serieus te nemen. Daarom krijgt iedereen bij Forvis Mazars in Nederland de mogelijkheid om jaarlijks 12 uur maatschappelijk (vrijwilligers)werk te doen via de Forvis Mazars Foundation. We streven naar een inclusieve cultuur waar mensen zichzelf kunnen zijn. Onze diversiteit en daarmee onze verschillen vormen onze kracht. Niet iedereen is hetzelfde, maar wel gelijkwaardig. Die gelijkwaardigheid vertaalt zich onder andere ook in beloning. Een onafhankelijk instituut, Erasmus Q-Intelligence, bevestigt dat er bij Forvis Mazars géén loonkloof is en dat we mogen spreken van ‘equal pay for equal work’. Over Forvis Mazars in Nederland Forvis Mazars is toonaangevend op het gebied van audit & assurance, tax, advisory en consulting en is actief in meer dan 100 landen. Kom bij ons werken en word onderdeel van een organisatie met meer dan 40.000 collega’s waar je zelf je carrièrepad bepaalt. Maak deel uit van een werkomgeving waar jouw unieke perspectief wordt gewaardeerd, waar je je veilig voelt en waar succes voortkomt uit samenwerking. Maak impact met jouw ideeën op onze organisatie, op onze klanten en op de maatschappij. Forvis Mazars. Grow. Belong . Impact. Sollicitatieproces Telefonische kennismaking Online assessment Gesprek met recruiter en collega van de afdeling Gesprek met manager en director/partner Aanbod Welkom bij Forvis Mazars! Interesse? Word jij onze nieuwe collega? Herken jij jezelf in het bovenstaande profiel en ben je enthousiast geworden over deze functie? Dan maken we graag kennis met je. Solliciteer direct via onderstaande button. Voor meer informatie over de functie kun je contact opnemen met Jahin Hussain via +31 (0)6 21 52 81 78 . Acquisitie naar aanleiding van deze advertentie wordt niet op prijs gesteld. #LI-JH1",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Wat breng je mee? Een afgeronde hbo-/ wo-opleiding (Technische) Bedrijfskunde, Bedrijfseconomie, (Technische) Informatica, Integrale Veiligheidskunde of vergelijkbaar en bereidheid de opleiding tot RE (Register EDP auditor) te volgen Zelfstandigheid Analytische vaardigheden Ondernemerschap en lef...",
+   "benefits": [
+    "Thuiswerken",
+    "Leaseauto",
+    "Pensioen",
+    "Laptop",
+    "Reiskosten",
+    "Coaching"
+   ],
+   "skills": [
+    "Security",
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-07T08:41:04.842156+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     "Informatica"
+    ],
+    "missing_realistic": [
+     "Ervaring met IT-auditing"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt wel een IT-achtergrond, maar de functie richt zich specifiek op auditing in plaats van software engineering.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
   {
    "id": "d498e15eae37",
    "source": "Arbeitnow",
@@ -717,61 +932,6 @@
    }
   },
   {
-   "id": "efe8816f8b3a",
-   "source": "JobSpy",
-   "title": "IT-traineeship Test Automation Engineer",
-   "company": "de Rechtspraak",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=963297da301f0549",
-   "salary": "€3579 - €4999 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Jij zorgt dat onze software doet wat-ie moet doen. Want bij IVO Rechtspraak willen we dat onze digitale diensten goed toegankelijk zijn en betrouwbaar werken. Daar moeten onze gebruikers op kunnen vertrouwen, of het nu gaat om een rechter, griffiemedewerker, advocaat, officier van justitie of burger. Als tester test je de web- en system2system-applicaties die toegang geven tot de digitale rechtspraak, en ben je het kwaliteitsgeweten van je DevOps-team. Werkt de software die jullie bouwen straks wel goed? Aan welke aspecten is misschien niet gedacht? En hoe controleer je dat? Dat zijn de vragen waar jij continu mee bezig bent. Daarbij overleg je ook met gebruikers, want daar doen we het tenslotte allemaal voor. Hoe werken zij met de systemen? Parallel aan het bouwtraject maak je een testplan en testscripts, met als uitgangspunt dat je zoveel mogelijk geautomatiseerd test. Een sterke developersmindset is daarbij prettig. Je kijkt niet alleen naar de happy flow, dus als alles volgens plan verloopt, maar onderzoekt ook of de software overeind blijft in onverwachte situaties. Daarnaast maak je scripts om de performance te meten. Met jouw feedback help je je team applicaties op te leveren die hun werk doen, en daar ben je trots op! Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis k",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan",
-    "Coaching"
-   ],
-   "skills": [
-    "DevOps",
-    "Testautomatisering"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 95,
-    "matched_skills": [
-     "Playwright (testing)",
-     "C#",
-     ".NET",
-     "Laravel",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je uitgebreide ervaring met Playwright en end-to-end testing maakt je direct inzetbaar als test automation engineer.",
-    "local_score": 60,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "0e7f964bf964",
    "source": "JobSpy",
    "title": "IT-traineeship .NET Developer Rechtspraak",
@@ -829,6 +989,61 @@
      "Splunk"
     ],
     "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship.",
+    "local_score": 60,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "efe8816f8b3a",
+   "source": "JobSpy",
+   "title": "IT-traineeship Test Automation Engineer",
+   "company": "de Rechtspraak",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=963297da301f0549",
+   "salary": "€3579 - €4999 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Jij zorgt dat onze software doet wat-ie moet doen. Want bij IVO Rechtspraak willen we dat onze digitale diensten goed toegankelijk zijn en betrouwbaar werken. Daar moeten onze gebruikers op kunnen vertrouwen, of het nu gaat om een rechter, griffiemedewerker, advocaat, officier van justitie of burger. Als tester test je de web- en system2system-applicaties die toegang geven tot de digitale rechtspraak, en ben je het kwaliteitsgeweten van je DevOps-team. Werkt de software die jullie bouwen straks wel goed? Aan welke aspecten is misschien niet gedacht? En hoe controleer je dat? Dat zijn de vragen waar jij continu mee bezig bent. Daarbij overleg je ook met gebruikers, want daar doen we het tenslotte allemaal voor. Hoe werken zij met de systemen? Parallel aan het bouwtraject maak je een testplan en testscripts, met als uitgangspunt dat je zoveel mogelijk geautomatiseerd test. Een sterke developersmindset is daarbij prettig. Je kijkt niet alleen naar de happy flow, dus als alles volgens plan verloopt, maar onderzoekt ook of de software overeind blijft in onverwachte situaties. Daarnaast maak je scripts om de performance te meten. Met jouw feedback help je je team applicaties op te leveren die hun werk doen, en daar ben je trots op! Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis k",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [
+    "DevOps",
+    "Testautomatisering"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 95,
+    "matched_skills": [
+     "Playwright (testing)",
+     "C#",
+     ".NET",
+     "Laravel",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je uitgebreide ervaring met Playwright en end-to-end testing maakt je direct inzetbaar als test automation engineer.",
     "local_score": 60,
     "ai": true,
     "check": false,
@@ -1096,54 +1311,6 @@
    }
   },
   {
-   "id": "8329f8c6e478",
-   "source": "JobSpy",
-   "title": "Production Engineer – Verbindingstechniek (Automotive)",
-   "company": "MCA Groupe",
-   "location": "Eindhoven, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=65eb3d7477bee637",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "MCA Engineering Netherlands is an ambitious and fast-growing high-tech engineering and consulting organization. Originally French, but now operating in Europe, the secondment of engineers and IT specialists focuses on the design and implementation of innovative systems for large-scale industrial projects. The NL office is located in Eindhoven, but the ambition is to open multiple locations in the Netherlands. The company is characterized by a 'can-do' mentality, in which responsibilities lie low in the organization and 'accountability for results' is a natural consequence. At the same time, the focus is on making each other successful and supporting each other, where necessary. Production Engineer – Verbindingstechniek (Automotive) Over de functie Haal jij energie uit de combinatie van de werkvloer en data? MCA groeit in Nederland en we zoeken een Production Engineer die de kwaliteit van boutverbindingen in een grote automotive assemblageomgeving helpt verbeteren. Wat ga je doen? De kwaliteit van boutverbindingen en schroefprocessen in de productie bewaken en verbeteren Met data en capability rapporten resultaten toetsen, afwijkingen analyseren en problemen oplossen Verbeteringen testen, meten en implementeren op de werkvloer, en ondersteunen bij de keuze en aanschaf van schroeftools Nauw samenwerken met kwaliteit, technische dienst, IT en productie, aan meerdere projecten tegelijk Wat breng je mee? Een afgeronde HBO- of WO-opleiding in werktuigbouwkunde, mechatronica of een vergelijkbare richting Een praktische, proactieve houding en een sterke affiniteit met verbindingstechniek Analytisch sterk en data-bewust; ervaring met Lean of Six Sigma (Green Belt is een pré) Affiniteit met programmeren is een pré Uitstekende beheersing van het Nederlands en Engels , in woord en geschrift Starters en recent afgestudeerden zijn welkom: je leert veel on the job Wat biedt MCA? Een langdurig project bij een toonaangevend industrieel bedrijf Een werkgever voor de lange termijn die investeert in je loopbaan: coaching, trainingen en ontwikkeling Ruimte om je te ontwikkelen tot specialist in je vakgebied Interesse? Solliciteer direct of neem contact met ons op. We horen graag van je! DEZE VACATURES INTERESSEREN U MISSCHIEN OOK. Find the position that matches your talent! All job offers Production Engineer – Motorenassemblage (Automotive) Noord-Brabant | Eindhoven | nl-nl Production Engineer – Verbindingstechniek (Automotive) Noord-Brabant | Eindhoven | nl-nl Automotive Systems Engineer – ADAS Noord-Brabant | Eindhoven | nl-nl Elektrotechnisch & Besturingstechnisch Engineer – PLC/CNC (Industriële Automatisering) Noord-Brabant | Eindhoven | nl-nl Senior Requirements Architect – Automotive Diagnostic Systems Noord-Brabant | Eindhoven | nl-nl",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "MCA Engineering Netherlands is an ambitious and fast-growing high-tech engineering and consulting organization. Originally French, but now operating in Europe, the secondment of engineers and IT specialists focuses on the design and implementation of innovative systems for large-scale industrial...",
-   "benefits": [
-    "Coaching"
-   ],
-   "skills": [
-    "Consultancy",
-    "Requirements",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T21:27:14.638591+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 0,
-    "matched_skills": [],
-    "missing_realistic": [
-     "Werktuigbouwkunde of mechatronica opleiding"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je opleiding en achtergrond sluiten niet aan bij deze werktuigbouwkundige rol.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "ae0970e19cc9",
    "source": "JobSpy",
    "title": "Production Engineer – Motorenassemblage (Automotive)",
@@ -1185,6 +1352,54 @@
     ],
     "ignored_unrealistic": [],
     "reason": "Je hebt geen achtergrond in werktuigbouw die voor deze productie-engineerrol vereist is.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
+   "id": "8329f8c6e478",
+   "source": "JobSpy",
+   "title": "Production Engineer – Verbindingstechniek (Automotive)",
+   "company": "MCA Groupe",
+   "location": "Eindhoven, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=65eb3d7477bee637",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "MCA Engineering Netherlands is an ambitious and fast-growing high-tech engineering and consulting organization. Originally French, but now operating in Europe, the secondment of engineers and IT specialists focuses on the design and implementation of innovative systems for large-scale industrial projects. The NL office is located in Eindhoven, but the ambition is to open multiple locations in the Netherlands. The company is characterized by a 'can-do' mentality, in which responsibilities lie low in the organization and 'accountability for results' is a natural consequence. At the same time, the focus is on making each other successful and supporting each other, where necessary. Production Engineer – Verbindingstechniek (Automotive) Over de functie Haal jij energie uit de combinatie van de werkvloer en data? MCA groeit in Nederland en we zoeken een Production Engineer die de kwaliteit van boutverbindingen in een grote automotive assemblageomgeving helpt verbeteren. Wat ga je doen? De kwaliteit van boutverbindingen en schroefprocessen in de productie bewaken en verbeteren Met data en capability rapporten resultaten toetsen, afwijkingen analyseren en problemen oplossen Verbeteringen testen, meten en implementeren op de werkvloer, en ondersteunen bij de keuze en aanschaf van schroeftools Nauw samenwerken met kwaliteit, technische dienst, IT en productie, aan meerdere projecten tegelijk Wat breng je mee? Een afgeronde HBO- of WO-opleiding in werktuigbouwkunde, mechatronica of een vergelijkbare richting Een praktische, proactieve houding en een sterke affiniteit met verbindingstechniek Analytisch sterk en data-bewust; ervaring met Lean of Six Sigma (Green Belt is een pré) Affiniteit met programmeren is een pré Uitstekende beheersing van het Nederlands en Engels , in woord en geschrift Starters en recent afgestudeerden zijn welkom: je leert veel on the job Wat biedt MCA? Een langdurig project bij een toonaangevend industrieel bedrijf Een werkgever voor de lange termijn die investeert in je loopbaan: coaching, trainingen en ontwikkeling Ruimte om je te ontwikkelen tot specialist in je vakgebied Interesse? Solliciteer direct of neem contact met ons op. We horen graag van je! DEZE VACATURES INTERESSEREN U MISSCHIEN OOK. Find the position that matches your talent! All job offers Production Engineer – Motorenassemblage (Automotive) Noord-Brabant | Eindhoven | nl-nl Production Engineer – Verbindingstechniek (Automotive) Noord-Brabant | Eindhoven | nl-nl Automotive Systems Engineer – ADAS Noord-Brabant | Eindhoven | nl-nl Elektrotechnisch & Besturingstechnisch Engineer – PLC/CNC (Industriële Automatisering) Noord-Brabant | Eindhoven | nl-nl Senior Requirements Architect – Automotive Diagnostic Systems Noord-Brabant | Eindhoven | nl-nl",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "MCA Engineering Netherlands is an ambitious and fast-growing high-tech engineering and consulting organization. Originally French, but now operating in Europe, the secondment of engineers and IT specialists focuses on the design and implementation of innovative systems for large-scale industrial...",
+   "benefits": [
+    "Coaching"
+   ],
+   "skills": [
+    "Consultancy",
+    "Requirements",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T21:27:14.638591+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 0,
+    "matched_skills": [],
+    "missing_realistic": [
+     "Werktuigbouwkunde of mechatronica opleiding"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je opleiding en achtergrond sluiten niet aan bij deze werktuigbouwkundige rol.",
     "local_score": 30,
     "ai": true,
     "check": false,
@@ -1413,54 +1628,6 @@
    }
   },
   {
-   "id": "f91bb004deb7",
-   "source": "JobSpy",
-   "title": "IT Support (junior) - Zorg en IT - €2500-€3100",
-   "company": "RAM Infotechnology B.V.",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=6fa60ee2edd2cdcd",
-   "salary": "€2500 - €3100 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Een betere IT voor de Zorg Bij RAM Infotechnology hebben wij heel bewust gekozen voor IT voor de Zorg als specialisme. Een betere zorg geeft ons een beter gevoel. RAM-IT is de Premium Cloud Service Partner voor al haar klanten. Onze filosofie is eenvoudig, maar effectief: de klant ontzorgen op het gebied van IT. Met het eigen label eCumulus bieden we een multi-cloud platform voor werkplek-, hosting- en netwerkdiensten. We hebben ruim 300 klanten. Samen met je 300+ collega’s werk je afwisselend thuis, op locatie bij de klant of op ons hoofdkantoor in Utrecht. IT Support Specialist (Junior) Als IT Support Specialist ben je het eerste aanspreekpunt en dus het visitekaartje naar onze klanten in de zorg. Jij vindt klantcontact leuk en helpt klanten graag met het oplossen van hun ICT problemen. Dit alles met als doel dat de klant te ontzorgen, zodat zij weer snel en probleemloos verder kunnen werken. Je krijgt bijvoorbeeld de vraag over een wachtwoord die de klant vergeten is. Jij zorgt er dan voor dat het wachtwoord gereset wordt. Is de vraag van een klant te complex? Dan schakel je de Systeembeheerders in je team in om de klant verder te helpen. Wat ga je doen Afhandelen van incident tickets via telefoon en mail. Beantwoorden van vragen van onze klanten. Registreren van meldingen in Topdesk. Je draagt zorg voor een goede communicatie richting je klanten. Wat neem jij mee In de ideale wereld neem je alles mee wat hieronder staat, maar een ideale wereld bestaat niet. Wij hechten vooral waarde aan motivatie en groeipotentie. Dus ben je enthousiast over deze rol, neem dan contact op, ook als niet alles past. Je bent bij voorkeur in het bezit van een afgeronde MBO of HBO IT opleiding. Je hebt meer dan 1 jaar ervaring op een IT-supportafdeling. Je bent bekend met ticket en tijdregistratie en je kent de basis van support. Denk hierbij aan wachtwoord resetten of een remote werkplekken overnemen voor onderzoek. Je bent in het bezig van een MS900 & AZ900 certificering of bent bereid dit binnen 12 maanden te halen. Een goede beheersing van de Nederlandse en Engelse taal. Wat wij jou bieden Bij RAM-IT zetten we onze mensen op 1. Dat betekent dat je bij iedereen terecht kan met vragen of problemen en dat je collega’s altijd voor je klaarstaan om je te helpen. Je kunt bij iedereen aankloppen en iedereen bij jou: de mens staat bij ons centraal. Wij bieden een open en collegiale cultuur en een platte organisatie met korte lijnen. En we groeien elk jaar, dus we hebben altijd leuke en interessante functies om in te starten en naar door te groeien! Je hebt bij ons de vrijheid om je eigen pad uit te stippelen. Via de RAM-IT Academy kies je de certificaten en opleidingen die daarbij passen. Wij gaan altijd voor een langdurige relatie met jou als collega. Lees ook gerust eens de verhalen van huidige collega’s: Lees hier de verhalen van collega’s over werken bij RAM-IT. Naast een uitstekend salaris (€2.500 - €3.100 per maand), bieden we je: 8% vakantiegeld, jaarlijks in mei uitbetaald. Volledige reiskostenvergoeding OV of €0,23 cent per kilometer en gratis parkeren bij kantoor. Een laptop. Doorgroeimogelijkheden in functies die passen bij jouw ambitie. Mogelijkheid tot het volgen van (hard- en softskill) opleidingen, waar nodig met certificering. Wij betalen, jij krijgt kansen. Hybride werken met thuiswerkvergoeding (€25 per maand + €4 per dag aan thuiswerkvergoeding). 26 vakantiedagen (bij een fulltime contract en een volledig arbeidsjaar). Na 2 jaar in dienst krijg je er elk jaar 1 dag bij (oplopend tot een maximum van 32). Ook heb je de mogelijkheid om (max 5) vakantiedagen erbij te kopen. Bijdrage van €120 per jaar te besteden aan sport. Een goede pensioenregeling (Nationale Nederlanden), waarvan RAM-IT het overgrote deel voor je betaalt (66,6%). Een fietsplan: zodat jij lekker gezond kan leven en veel kilometers kan maken op een fiets die past bij jou! (via Lease A Bike bij een vast dienstverband). Verder hebben we ‘RAM-IT Doet’. Dit geeft je de mogelijkheid om met je collega’s een dag vrijwilligerswerk te doen tijdens werktijd. Elke dag verse betaalbare lunch in onze kantine plus de hele dag door gratis fruit, omdat we gezondheid belangrijk vinden. Regelmatig bedrijfsuitjes met je team en het hele bedrijf. Interesse? Hebben we je enthousiast gemaakt voor deze functie? Solliciteer dan direct. Onze Talent Partner Geale Simon Postma zal zo snel mogelijk contact met je opnemen. Je mag hem uiteraard ook bellen op +316-125 758 22 of mailen op recruitment@ram-it.nl als je vragen hebt over de vacature. Acquisitie naar aanleiding van deze vacature wordt niet gewaardeerd. Wij nemen zelf contact op met bureaus als we verder hulp nodig hebben. #LI-MM1 Ervaringsniveau: Junior",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Een betere IT voor de Zorg Bij RAM Infotechnology hebben wij heel bewust gekozen voor IT voor de Zorg als specialisme. Een betere zorg geeft ons een beter gevoel. RAM-IT is de Premium Cloud Service Partner voor al haar klanten. Onze filosofie is eenvoudig, maar effectief: de klant ontzorgen op het...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Laptop",
-    "Reiskosten"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 90,
-    "matched_skills": [
-     "Zorg-IT",
-     "Klantcontact"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je ervaring bij de servicedesk en affiniteit met zorg-IT sluiten perfect aan bij deze supportrol.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "3242a4de2b10",
    "source": "JobSpy",
    "title": "Systeembeheerder/Medewerker ICT",
@@ -1507,6 +1674,54 @@
     "ignored_unrealistic": [],
     "reason": "Je achtergrond als ICT-medewerker en beheerder sluit naadloos aan bij deze systeembeheerdersfunctie.",
     "local_score": 72,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "f91bb004deb7",
+   "source": "JobSpy",
+   "title": "IT Support (junior) - Zorg en IT - €2500-€3100",
+   "company": "RAM Infotechnology B.V.",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=6fa60ee2edd2cdcd",
+   "salary": "€2500 - €3100 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Een betere IT voor de Zorg Bij RAM Infotechnology hebben wij heel bewust gekozen voor IT voor de Zorg als specialisme. Een betere zorg geeft ons een beter gevoel. RAM-IT is de Premium Cloud Service Partner voor al haar klanten. Onze filosofie is eenvoudig, maar effectief: de klant ontzorgen op het gebied van IT. Met het eigen label eCumulus bieden we een multi-cloud platform voor werkplek-, hosting- en netwerkdiensten. We hebben ruim 300 klanten. Samen met je 300+ collega’s werk je afwisselend thuis, op locatie bij de klant of op ons hoofdkantoor in Utrecht. IT Support Specialist (Junior) Als IT Support Specialist ben je het eerste aanspreekpunt en dus het visitekaartje naar onze klanten in de zorg. Jij vindt klantcontact leuk en helpt klanten graag met het oplossen van hun ICT problemen. Dit alles met als doel dat de klant te ontzorgen, zodat zij weer snel en probleemloos verder kunnen werken. Je krijgt bijvoorbeeld de vraag over een wachtwoord die de klant vergeten is. Jij zorgt er dan voor dat het wachtwoord gereset wordt. Is de vraag van een klant te complex? Dan schakel je de Systeembeheerders in je team in om de klant verder te helpen. Wat ga je doen Afhandelen van incident tickets via telefoon en mail. Beantwoorden van vragen van onze klanten. Registreren van meldingen in Topdesk. Je draagt zorg voor een goede communicatie richting je klanten. Wat neem jij mee In de ideale wereld neem je alles mee wat hieronder staat, maar een ideale wereld bestaat niet. Wij hechten vooral waarde aan motivatie en groeipotentie. Dus ben je enthousiast over deze rol, neem dan contact op, ook als niet alles past. Je bent bij voorkeur in het bezit van een afgeronde MBO of HBO IT opleiding. Je hebt meer dan 1 jaar ervaring op een IT-supportafdeling. Je bent bekend met ticket en tijdregistratie en je kent de basis van support. Denk hierbij aan wachtwoord resetten of een remote werkplekken overnemen voor onderzoek. Je bent in het bezig van een MS900 & AZ900 certificering of bent bereid dit binnen 12 maanden te halen. Een goede beheersing van de Nederlandse en Engelse taal. Wat wij jou bieden Bij RAM-IT zetten we onze mensen op 1. Dat betekent dat je bij iedereen terecht kan met vragen of problemen en dat je collega’s altijd voor je klaarstaan om je te helpen. Je kunt bij iedereen aankloppen en iedereen bij jou: de mens staat bij ons centraal. Wij bieden een open en collegiale cultuur en een platte organisatie met korte lijnen. En we groeien elk jaar, dus we hebben altijd leuke en interessante functies om in te starten en naar door te groeien! Je hebt bij ons de vrijheid om je eigen pad uit te stippelen. Via de RAM-IT Academy kies je de certificaten en opleidingen die daarbij passen. Wij gaan altijd voor een langdurige relatie met jou als collega. Lees ook gerust eens de verhalen van huidige collega’s: Lees hier de verhalen van collega’s over werken bij RAM-IT. Naast een uitstekend salaris (€2.500 - €3.100 per maand), bieden we je: 8% vakantiegeld, jaarlijks in mei uitbetaald. Volledige reiskostenvergoeding OV of €0,23 cent per kilometer en gratis parkeren bij kantoor. Een laptop. Doorgroeimogelijkheden in functies die passen bij jouw ambitie. Mogelijkheid tot het volgen van (hard- en softskill) opleidingen, waar nodig met certificering. Wij betalen, jij krijgt kansen. Hybride werken met thuiswerkvergoeding (€25 per maand + €4 per dag aan thuiswerkvergoeding). 26 vakantiedagen (bij een fulltime contract en een volledig arbeidsjaar). Na 2 jaar in dienst krijg je er elk jaar 1 dag bij (oplopend tot een maximum van 32). Ook heb je de mogelijkheid om (max 5) vakantiedagen erbij te kopen. Bijdrage van €120 per jaar te besteden aan sport. Een goede pensioenregeling (Nationale Nederlanden), waarvan RAM-IT het overgrote deel voor je betaalt (66,6%). Een fietsplan: zodat jij lekker gezond kan leven en veel kilometers kan maken op een fiets die past bij jou! (via Lease A Bike bij een vast dienstverband). Verder hebben we ‘RAM-IT Doet’. Dit geeft je de mogelijkheid om met je collega’s een dag vrijwilligerswerk te doen tijdens werktijd. Elke dag verse betaalbare lunch in onze kantine plus de hele dag door gratis fruit, omdat we gezondheid belangrijk vinden. Regelmatig bedrijfsuitjes met je team en het hele bedrijf. Interesse? Hebben we je enthousiast gemaakt voor deze functie? Solliciteer dan direct. Onze Talent Partner Geale Simon Postma zal zo snel mogelijk contact met je opnemen. Je mag hem uiteraard ook bellen op +316-125 758 22 of mailen op recruitment@ram-it.nl als je vragen hebt over de vacature. Acquisitie naar aanleiding van deze vacature wordt niet gewaardeerd. Wij nemen zelf contact op met bureaus als we verder hulp nodig hebben. #LI-MM1 Ervaringsniveau: Junior",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Een betere IT voor de Zorg Bij RAM Infotechnology hebben wij heel bewust gekozen voor IT voor de Zorg als specialisme. Een betere zorg geeft ons een beter gevoel. RAM-IT is de Premium Cloud Service Partner voor al haar klanten. Onze filosofie is eenvoudig, maar effectief: de klant ontzorgen op het...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Laptop",
+    "Reiskosten"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "Zorg-IT",
+     "Klantcontact"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je ervaring bij de servicedesk en affiniteit met zorg-IT sluiten perfect aan bij deze supportrol.",
+    "local_score": 50,
     "ai": true,
     "check": false,
     "visible": true
@@ -1715,6 +1930,55 @@
    }
   },
   {
+   "id": "d911dfb5e620",
+   "source": "JobSpy",
+   "title": "Data-analist infectiepreventie",
+   "company": "Maastricht UMC+",
+   "location": "Maastricht, LI, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=a922a94959543148",
+   "salary": "€4033 - €5528 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van infecties in het ziekenhuis. Daarbij spelen data een steeds grotere rol. Je verzamelt, analyseert en interpreteert gegevens over zorggerelateerde infecties, antimicrobiële resistentie en transmissie van micro-organismen. Je vertaalt deze gegevens naar bruikbare inzichten voor deskundigen infectiepreventie, artsen-microbioloog en andere zorgprofessionals. Zo draag je bij aan surveillance, uitbraakonderzoeken, evaluatie van infectiepreventiemaatregelen en wetenschappelijk onderzoek. Daarnaast ontwikkel je dashboards en rapportages waarmee infectietrends zichtbaar worden en de impact van interventies kan worden gevolgd. Jouw taken: Opzetten, uitvoeren en verder ontwikkelen van surveillance van zorggerelateerde infecties, antimicrobiële resistentie en andere infectiepreventierelevante indicatoren; Ondersteunen van uitbraakonderzoeken door gegevens uit verschillende databronnen te combineren en transmissiepatronen inzichtelijk te maken; Analyseren en interpreteren van microbiologische, klinische en epidemiologische gegevens ter ondersteuning van infectiepreventiebeleid; Evalueren van de effectiviteit van infectiepreventiemaatregelen en bijdragen aan kwaliteitsverbeterprojecten; Ondersteunen van wetenschappelijk onderzoek binnen het vakgebied infectiepreventie. Hoe ziet je werkomgeving eruit? De afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) verzorgt microbiologische diagnostiek voor zorgverleners in het Maastricht UMC+, huisartsen, de GGD en andere zorginstellingen in de regio Zuid-Limburg. Voor het Maastricht UMC+ en een deel van de externe aanvragers verzorgt de afdeling eveneens infectiepreventie. MMI bestaat uit een dynamisch team van ruim 100 medewerkers en omvat zowel klinisch diagnostische als researchlaboratoria. Naast het verrichten van routine microbiologische diagnostiek zijn ook research, onderwijs, opleiding en infectiepreventie belangrijke taken van de afdeling. Je gaat deel uit maken van de unit Infectiepreventie (IP): een enthousiast team van 5 deskundigen infectiepreventie, een deskundige steriele medische hulpmiddelen / endoscopen (DSMH) en een assistent-infectiepreventie, onder leiding van 2 artsen-microbioloog. Het nieuwe Elektronisch Patiënt Dossier bevat enorm veel data waarmee we in de toekomst de infectieveiligheid van ons ziekenhuis kunnen verbeteren. Jouw specifieke kennis en vaardigheden dragen bij aan dit doel. Wat vragen wij van jou? Minimaal HBO denk- en werkniveau; Programmeervaardigheid in Python of R of vergelijkbare vaardigheden voor het opschonen, structureren en verwerken van complexe datasets; In staat zijn verbanden te leggen tussen werkprocessen en daaruit ontstane data en daaruit afleiden van implicaties voor adequate data-extractie en databeheer; Zorgvuldig, gestructureerd en gedocumenteerd kunnen werken voor reproduceerbaarheid, versiebeheer en samenwerking binnen een team; Kritisch kunnen beoordelen en controleren van eigen en andermans werk; In teamverband realiseren van doelen en hierin anderen kunnen aanvullen en ondersteunen (samenwerken en communiceren) Werkervaring op het gebied van medische biologie is een pré. Voor deze rol is het een voorwaarde dat je in Nederland mag werken (EU/EER-nationaliteit of een geldige werkvergunning). Voldoe jij aan deze functie-eisen? Dan gaan wij voor jou! Salaris Afhankelijk van opleiding en ervaring bedraagt het salaris minimaal € 4.033,- en maximaal € 5.528,- bruto per maand bij een fulltime aanstelling. Dit salaris is exclusief vakantiegeld en een eindejaarsuitkering van 8,3% van je bruto jaarsalaris. Arbeidsovereenkomst Het betreft een tijdelijke arbeidsovereenkomst van 3 jaar, voor gemiddeld 28 tot 36 uur, conform artikel 2.4.2 van de Cao umc. Wat bieden wij Bij het Maastricht UMC+ zorgen wij ervoor dat je alles hebt om jouw bijdrage te leveren aan de ultieme zorg. Daar horen de juiste arbeidsvoorwaarden bij. Lees hier wat wij je bieden. Heb je nog vragen? Voor meer informatie over de functie mag je contact opnemen met Dr. Wil van der Zwet, arts-microbioloog infectiepreventie, bereikbaar op tel. 043 - 3876644 of via e-mail secretariaat.mmi@mumc.nl. Voor informatie over de sollicitatieprocedure volg je deze link. Algemene informatie over arbeidsvoorwaarden en werken bij het Maastricht UMC+ vind je hier. Het antwoord op jouw vraag niet kunnen vinden? Neem dan contact op met team Recruitment. Sollicitaties voor deze vacature kunnen worden ingediend tot en met 2 december. Wij werven onze kandidaten zelf en werken niet samen met externe bureaus voor deze vacature.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van...",
+   "benefits": [
+    "32-36 uur"
+   ],
+   "skills": [
+    "Python"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "SQL",
+     "Python"
+    ],
+    "missing_realistic": [
+     "Epidemiologie",
+     "Zorginfectie surveillance"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt programmeer- en data-skills, maar mist specifieke achtergrond in infectiepreventie en data-analyse.",
+    "local_score": 100,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "31bd594cbcb7",
    "source": "JobSpy",
    "title": "Data-analist zorgonderzoek en beleid",
@@ -1769,55 +2033,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "d911dfb5e620",
-   "source": "JobSpy",
-   "title": "Data-analist infectiepreventie",
-   "company": "Maastricht UMC+",
-   "location": "Maastricht, LI, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=a922a94959543148",
-   "salary": "€4033 - €5528 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van infecties in het ziekenhuis. Daarbij spelen data een steeds grotere rol. Je verzamelt, analyseert en interpreteert gegevens over zorggerelateerde infecties, antimicrobiële resistentie en transmissie van micro-organismen. Je vertaalt deze gegevens naar bruikbare inzichten voor deskundigen infectiepreventie, artsen-microbioloog en andere zorgprofessionals. Zo draag je bij aan surveillance, uitbraakonderzoeken, evaluatie van infectiepreventiemaatregelen en wetenschappelijk onderzoek. Daarnaast ontwikkel je dashboards en rapportages waarmee infectietrends zichtbaar worden en de impact van interventies kan worden gevolgd. Jouw taken: Opzetten, uitvoeren en verder ontwikkelen van surveillance van zorggerelateerde infecties, antimicrobiële resistentie en andere infectiepreventierelevante indicatoren; Ondersteunen van uitbraakonderzoeken door gegevens uit verschillende databronnen te combineren en transmissiepatronen inzichtelijk te maken; Analyseren en interpreteren van microbiologische, klinische en epidemiologische gegevens ter ondersteuning van infectiepreventiebeleid; Evalueren van de effectiviteit van infectiepreventiemaatregelen en bijdragen aan kwaliteitsverbeterprojecten; Ondersteunen van wetenschappelijk onderzoek binnen het vakgebied infectiepreventie. Hoe ziet je werkomgeving eruit? De afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) verzorgt microbiologische diagnostiek voor zorgverleners in het Maastricht UMC+, huisartsen, de GGD en andere zorginstellingen in de regio Zuid-Limburg. Voor het Maastricht UMC+ en een deel van de externe aanvragers verzorgt de afdeling eveneens infectiepreventie. MMI bestaat uit een dynamisch team van ruim 100 medewerkers en omvat zowel klinisch diagnostische als researchlaboratoria. Naast het verrichten van routine microbiologische diagnostiek zijn ook research, onderwijs, opleiding en infectiepreventie belangrijke taken van de afdeling. Je gaat deel uit maken van de unit Infectiepreventie (IP): een enthousiast team van 5 deskundigen infectiepreventie, een deskundige steriele medische hulpmiddelen / endoscopen (DSMH) en een assistent-infectiepreventie, onder leiding van 2 artsen-microbioloog. Het nieuwe Elektronisch Patiënt Dossier bevat enorm veel data waarmee we in de toekomst de infectieveiligheid van ons ziekenhuis kunnen verbeteren. Jouw specifieke kennis en vaardigheden dragen bij aan dit doel. Wat vragen wij van jou? Minimaal HBO denk- en werkniveau; Programmeervaardigheid in Python of R of vergelijkbare vaardigheden voor het opschonen, structureren en verwerken van complexe datasets; In staat zijn verbanden te leggen tussen werkprocessen en daaruit ontstane data en daaruit afleiden van implicaties voor adequate data-extractie en databeheer; Zorgvuldig, gestructureerd en gedocumenteerd kunnen werken voor reproduceerbaarheid, versiebeheer en samenwerking binnen een team; Kritisch kunnen beoordelen en controleren van eigen en andermans werk; In teamverband realiseren van doelen en hierin anderen kunnen aanvullen en ondersteunen (samenwerken en communiceren) Werkervaring op het gebied van medische biologie is een pré. Voor deze rol is het een voorwaarde dat je in Nederland mag werken (EU/EER-nationaliteit of een geldige werkvergunning). Voldoe jij aan deze functie-eisen? Dan gaan wij voor jou! Salaris Afhankelijk van opleiding en ervaring bedraagt het salaris minimaal € 4.033,- en maximaal € 5.528,- bruto per maand bij een fulltime aanstelling. Dit salaris is exclusief vakantiegeld en een eindejaarsuitkering van 8,3% van je bruto jaarsalaris. Arbeidsovereenkomst Het betreft een tijdelijke arbeidsovereenkomst van 3 jaar, voor gemiddeld 28 tot 36 uur, conform artikel 2.4.2 van de Cao umc. Wat bieden wij Bij het Maastricht UMC+ zorgen wij ervoor dat je alles hebt om jouw bijdrage te leveren aan de ultieme zorg. Daar horen de juiste arbeidsvoorwaarden bij. Lees hier wat wij je bieden. Heb je nog vragen? Voor meer informatie over de functie mag je contact opnemen met Dr. Wil van der Zwet, arts-microbioloog infectiepreventie, bereikbaar op tel. 043 - 3876644 of via e-mail secretariaat.mmi@mumc.nl. Voor informatie over de sollicitatieprocedure volg je deze link. Algemene informatie over arbeidsvoorwaarden en werken bij het Maastricht UMC+ vind je hier. Het antwoord op jouw vraag niet kunnen vinden? Neem dan contact op met team Recruitment. Sollicitaties voor deze vacature kunnen worden ingediend tot en met 2 december. Wij werven onze kandidaten zelf en werken niet samen met externe bureaus voor deze vacature.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van...",
-   "benefits": [
-    "32-36 uur"
-   ],
-   "skills": [
-    "Python"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "SQL",
-     "Python"
-    ],
-    "missing_realistic": [
-     "Epidemiologie",
-     "Zorginfectie surveillance"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt programmeer- en data-skills, maar mist specifieke achtergrond in infectiepreventie en data-analyse.",
-    "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -2739,6 +2954,64 @@
    }
   },
   {
+   "id": "351c76e23782",
+   "source": "JobSpy",
+   "title": "Consultant cyber advisory",
+   "company": "Flynth",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=cda030543869f06d",
+   "salary": "€3050 - €3945 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Utrecht Audit & Assurance €3.050 - €3.945 Cyber & IT HBO 32 - 40 uur Bij Flynth bouwen we aan een nieuwe Cyber & Audit Advisory-praktijk waar cybersecurity, audit, technologie en ondernemerschap samenkomen. Bouw jij mee? Wat ga je doen? Wij helpen organisaties hun digitale weerbaarheid te vergroten en het compliance- en risicolandschap effectief te vereenvoudigen met behulp van AI, automatisering en geavanceerde cybersecuritytesten. Hiervoor zetten wij ons eigen AI-gedreven audit- en advisoryplatform in, waarmee we compliance en cyberweerbaarheid van onze klanten end-to-end versterken en vereenvoudigen. Als Consultant cyber advisory ben je de technische spil in onze cyberprojecten. Je voert assessments en testen uit, werkt met onze tooling en helpt klanten hun security op orde te krijgen van beleid tot operatie. Jouw top 5 werkzaamheden: In kaart brengen van de cybersecurity volwassenheid van onze klanten. Denk aan infra-, cloud- en applicatiebeveiliging, IAM en SOC-omgevingen. Begeleiden van offensieve security assessments, zoals pentests, red teaming en securityscans om kwetsbaarheden en risico’s bloot te leggen. Ondersteunen bij cybersecurity maturity assessments en audits samen met onze audit- en riskteams Opstellen van rapportages en onze klanten helpen met het oplossen van de aanbevelingen die duidelijk, uitvoerbaar en gericht zijn op effectieve verbetering. Bijdragen aan innovatie. Je werkt mee aan de bouw van AI-gedreven tooling. Vragen of even sparren? Shauna Alders Young talent recruiter +31613054715 Wat bieden wij jou? Een mooi salaris tussen de €3.050 en €3.945 met daar bovenop vakantietoeslag, een premievrijpensioen, 25 vakantiedagen én 40 flexuren. Winstdeling want we doen het samen bij Flynth, dus alle winst investeren we in onze medewerkers en organisatie. Optimaal verder ontwikkelen door een uitgebreide onboarding, studiefaciliteiten, een eigen performance coach en vrijheid in je werk. Leaseauto en een thuiswerkvergoeding. Ingerichte thuiswerkplek zodat jij net zo comfortabel thuiswerkt als op kantoor. Laptop en telefoon die je ook privé mag gebruiken. Een mooi salaris tussen de €3.050 en €3.945 met daar bovenop vakantietoeslag, een premievrijpensioen, 25 vakantiedagen én 40 flexuren. Winstdeling want we doen het samen bij Flynth, dus alle winst investeren we in onze medewerkers en organisatie. Optimaal verder ontwikkelen door een uitgebreide onboarding, studiefaciliteiten, een eigen performance coach en vrijheid in je werk. Leaseauto en een thuiswerkvergoeding. Ingerichte thuiswerkplek zodat jij net zo comfortabel thuiswerkt als op kantoor. Laptop en telefoon die je ook privé mag gebruiken. Wat breng je mee? Jij brengt mee: Afgeronde (of bijna afgeronde) hbo- of wo-opleiding in IT of cybersecurity. Sterke interesse in Cyber, IT-risk en technologie. Goede communicatieve vaardigheden en teamspirit. Affiniteit met AI, automatisering en data-analyse. Leergierige en proactieve houding. Jij wilt meebouwen en leren. We zoeken ondernemers met drive, nieuwsgierigheid en energie! Mensen die het gaaf vinden om iets nieuws te bouwen, samen met collega’s en specialisten die passie hebben voor cybersecurity, technologie en innovatie. Bij ons kan jij elke dag met je passie bezig zijn! Jouw werkplek We zijn gestart in Zwolle en de Randstad (Amstelveen/Utrecht) met een ambitieus team van cyber-, tech- en complianceprofessionals, met als doel onze klanten op een (kosten)effectieve manier te helpen hun digitale weerbaarheid structureel te verbeteren. Online assessment Flynth vindt het waarborgen van een objectief en eerlijk selectieproces heel belangrijk. Daarom ontvang je direct na jouw sollicitatie een uitnodiging voor ons game-based assessment per e-mail. Door dit assessment kunnen we jouw talenten in kaart brengen, nog voordat we jouw CV en eventuele motivatie bekijken. Uiteraard krijg je zelf ook inzicht in de uitkomsten. Hierdoor bieden we elke kandidaat gelijke kansen. Let op, sollicitaties zullen pas in behandeling worden genomen na het afronden van het game-based assessment. Sollicitatieprocedure Solliciteer via de knop Heb je interesse in deze vacature? Gebruik het formulier om je gegevens achter te laten. Je krijgt direct een uitnodiging voor ons online assessment. Online assessment Je krijgt een uitnodiging om een online assessment te maken. Dit kan thuis op een moment dat voor jou uitkomt. Na afronding nemen we binnen 3 werkdagen contact op. Telefonische intake Als jouw profiel aansluit bij de vacature neemt de recruiter telefonisch contact met je op voor een korte kennismaking. Kennismakingsgesprek Tijdens deze kennismaking gaan we in gesprek over jouw interesses en ambities én wat wij jou te bieden hebben. Voorstel en arbeidsovereenkomst Gaan we samen de uitdaging aan? De recruiter bespreekt ons voorstel met jou en bij akkoord ontvang je jouw nieuwe arbeidscontract. Pre employment screening Flynth en haar klanten stellen hoge eisen aan betrouwbaarheid en integriteit. Daarom is een screening onderdeel van onze procedure. Jouw start bij Flynth! We zorgen voor een warm welkom met ons uitgebreide onboarding programma van in totaal 9 maanden.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Utrecht Audit & Assurance €3.050 - €3.945 Cyber & IT HBO 32 - 40 uur Bij Flynth bouwen we aan een nieuwe Cyber & Audit Advisory-praktijk waar cybersecurity, audit, technologie en ondernemerschap samenkomen. Bouw jij mee? Wat ga je doen? Wij helpen organisaties hun digitale weerbaarheid te vergroten...",
+   "benefits": [
+    "Thuiswerken",
+    "Leaseauto",
+    "Pensioen",
+    "Laptop",
+    "Bonus",
+    "Coaching"
+   ],
+   "skills": [
+    "AI",
+    "Data analyse",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T18:41:39.490165+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "BSc Informatica",
+     "AWS",
+     "Microsoft Azure",
+     "REST API’s",
+     "Cyber Security"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [
+     "Uitgebreide ervaring met offensieve security assessments"
+    ],
+    "reason": "Je opleiding Informatica en affiniteit met security en cloud passen goed bij deze adviesrol.",
+    "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "6cc3443eba06",
    "source": "JobSpy",
    "title": "ERP Consultant",
@@ -3364,6 +3637,58 @@
    }
   },
   {
+   "id": "99b022d21c81",
+   "source": "JobSpy",
+   "title": "Junior Data Engineer",
+   "company": "Just Eat Takeaway.com",
+   "location": "Amsterdam, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=f13e1b907bd1569f",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role In this role, you will join the Customer Data Products & Insights (CDPI) team, the group responsible for building the data foundations that power all customer experiences at Just Eat Takeaway. We work collaboratively across CRM, Product, and Marketing to lead with data, deliver trusted insights, and care about the quality and impact of what we build. As a Data Engineer, you’ll design, build, and optimise the pipelines and models that fuel our Customer Data Platform and downstream activation tools. You’ll work closely with analysts and cross-functional partners to translate business needs into reliable, scalable, and production-ready solutions. This is an opportunity to contribute to strategic initiatives such as Data Ignite and Looker adoption, helping us build a consistent and customer-centric data ecosystem that supports millions of users. Location: 3 days a week from our Amsterdam office & 2 days working from home Reporting to: Senior Manager - Customer Data Products and Insights These are some of the key components to the position: Design, build, and maintain scalable ingestion and transformation pipelines to ensure the CDP remains the trusted source of customer data. Implement strong data quality checks, lineage, and governance using tools such as DataHub and Morpheus to uphold accuracy and reliability. Collaborate with CRM, Product, and engineering partners to integrate new events, attributes, and identifiers into the customer data ecosystem. Build and optimise ELT pipelines using BigQuery, dbt, Airflow, and Datadog, aiming for excellence in performance, stability, and scalability. Apply best practices in documentation, unit testing, and CI/CD to ensure production-ready, high-quality data assets. Partner with the Data Ignite team to develop datasets for activation through Hightouch, supporting CRM, Product, and Media use cases. Ensure Hightouch-ready tables are efficient, secure, and well-monitored, and contribute to troubleshooting and optimisation when needed. Support the migration to Looker by building semantic layers and standardised customer KPIs aligned with global definitions. Work with analysts and engineers to design scalable data models that enable self-serve dashboards and consistent reporting. Contribute to sprint planning, technical prioritisation, and knowledge-sharing to help the team collaborate effectively and deliver together. What will you bring to the team? Strong SQL and dbt skills, with the ability to design clean, scalable data models that support reliable customer insights. Confident Python abilities for automation, orchestration, and building pipelines that help the team deliver efficiently. Familiarity with orchestration tools such as Airflow or Dagster, and a desire to optimise workflows for stability and speed. Solid understanding of data warehousing, ELT best practices, and governance concepts that ensure trust and accountability. Interest in customer and marketing datasets, with curiosity for how data powers segmentation, activation, and engagement. A sense of ownership and a proactive approach, contributing to the team’s success with a collaborative and positive mindset. Openness to learning Looker semantic modelling and supporting our migration from Tableau to a unified reporting platform. Willingness to explore tools like Hightouch or other activation platforms to understand how data drives real-time experiences. Curiosity for real-time data frameworks such as Pub/Sub, Kafka, or Dataflow, and a desire to build future-ready pipelines. A responsible, growth-oriented working style, eager to learn from others, share knowledge, and help the team aim higher together. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn't just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers' loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we're building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belonging No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We're committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else is cooking? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET morsels. Are you ready to take your seat? Apply now! #LI-NB2",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
+   "benefits": [],
+   "skills": [
+    "Python",
+    "SQL",
+    "CI/CD",
+    "Unit testing",
+    "Tableau"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T10:45:44.960320+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "Python",
+     "SQL",
+     "AWS"
+    ],
+    "missing_realistic": [
+     "Data engineering pipelines",
+     "Looker"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol.",
+    "local_score": 72,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "d6ce12a25ec5",
    "source": "JobSpy",
    "title": "Data Engineer",
@@ -3417,58 +3742,6 @@
     ],
     "reason": "Je Python- en SQL-vaardigheden sluiten goed aan bij de basis van deze data-engineeringrol.",
     "local_score": 80,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "99b022d21c81",
-   "source": "JobSpy",
-   "title": "Junior Data Engineer",
-   "company": "Just Eat Takeaway.com",
-   "location": "Amsterdam, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=b9e53b98f010a927",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role In this role, you will join the Customer Data Products & Insights (CDPI) team, the group responsible for building the data foundations that power all customer experiences at Just Eat Takeaway. We work collaboratively across CRM, Product, and Marketing to lead with data, deliver trusted insights, and care about the quality and impact of what we build. As a Data Engineer, you’ll design, build, and optimise the pipelines and models that fuel our Customer Data Platform and downstream activation tools. You’ll work closely with analysts and cross-functional partners to translate business needs into reliable, scalable, and production-ready solutions. This is an opportunity to contribute to strategic initiatives such as Data Ignite and Looker adoption, helping us build a consistent and customer-centric data ecosystem that supports millions of users. Location: 3 days a week from our Amsterdam office & 2 days working from home Reporting to: Senior Manager - Customer Data Products and Insights These are some of the key components to the position: Design, build, and maintain scalable ingestion and transformation pipelines to ensure the CDP remains the trusted source of customer data. Implement strong data quality checks, lineage, and governance using tools such as DataHub and Morpheus to uphold accuracy and reliability. Collaborate with CRM, Product, and engineering partners to integrate new events, attributes, and identifiers into the customer data ecosystem. Build and optimise ELT pipelines using BigQuery, dbt, Airflow, and Datadog, aiming for excellence in performance, stability, and scalability. Apply best practices in documentation, unit testing, and CI/CD to ensure production-ready, high-quality data assets. Partner with the Data Ignite team to develop datasets for activation through Hightouch, supporting CRM, Product, and Media use cases. Ensure Hightouch-ready tables are efficient, secure, and well-monitored, and contribute to troubleshooting and optimisation when needed. Support the migration to Looker by building semantic layers and standardised customer KPIs aligned with global definitions. Work with analysts and engineers to design scalable data models that enable self-serve dashboards and consistent reporting. Contribute to sprint planning, technical prioritisation, and knowledge-sharing to help the team collaborate effectively and deliver together. What will you bring to the team? Strong SQL and dbt skills, with the ability to design clean, scalable data models that support reliable customer insights. Confident Python abilities for automation, orchestration, and building pipelines that help the team deliver efficiently. Familiarity with orchestration tools such as Airflow or Dagster, and a desire to optimise workflows for stability and speed. Solid understanding of data warehousing, ELT best practices, and governance concepts that ensure trust and accountability. Interest in customer and marketing datasets, with curiosity for how data powers segmentation, activation, and engagement. A sense of ownership and a proactive approach, contributing to the team’s success with a collaborative and positive mindset. Openness to learning Looker semantic modelling and supporting our migration from Tableau to a unified reporting platform. Willingness to explore tools like Hightouch or other activation platforms to understand how data drives real-time experiences. Curiosity for real-time data frameworks such as Pub/Sub, Kafka, or Dataflow, and a desire to build future-ready pipelines. A responsible, growth-oriented working style, eager to learn from others, share knowledge, and help the team aim higher together. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn't just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers' loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we're building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belonging No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We're committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else is cooking? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET morsels. Are you ready to take your seat? Apply now! #LI-NB2",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
-   "benefits": [],
-   "skills": [
-    "Python",
-    "SQL",
-    "CI/CD",
-    "Unit testing",
-    "Tableau"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T10:45:44.960320+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "Python",
-     "SQL",
-     "AWS"
-    ],
-    "missing_realistic": [
-     "Data engineering pipelines",
-     "Looker"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol.",
-    "local_score": 72,
     "ai": true,
     "check": false,
     "visible": true
@@ -3531,64 +3804,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "351c76e23782",
-   "source": "JobSpy",
-   "title": "Consultant cyber advisory",
-   "company": "Flynth",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=cda030543869f06d",
-   "salary": "€3050 - €3945 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Utrecht Audit & Assurance €3.050 - €3.945 Cyber & IT HBO 32 - 40 uur Bij Flynth bouwen we aan een nieuwe Cyber & Audit Advisory-praktijk waar cybersecurity, audit, technologie en ondernemerschap samenkomen. Bouw jij mee? Wat ga je doen? Wij helpen organisaties hun digitale weerbaarheid te vergroten en het compliance- en risicolandschap effectief te vereenvoudigen met behulp van AI, automatisering en geavanceerde cybersecuritytesten. Hiervoor zetten wij ons eigen AI-gedreven audit- en advisoryplatform in, waarmee we compliance en cyberweerbaarheid van onze klanten end-to-end versterken en vereenvoudigen. Als Consultant cyber advisory ben je de technische spil in onze cyberprojecten. Je voert assessments en testen uit, werkt met onze tooling en helpt klanten hun security op orde te krijgen van beleid tot operatie. Jouw top 5 werkzaamheden: In kaart brengen van de cybersecurity volwassenheid van onze klanten. Denk aan infra-, cloud- en applicatiebeveiliging, IAM en SOC-omgevingen. Begeleiden van offensieve security assessments, zoals pentests, red teaming en securityscans om kwetsbaarheden en risico’s bloot te leggen. Ondersteunen bij cybersecurity maturity assessments en audits samen met onze audit- en riskteams Opstellen van rapportages en onze klanten helpen met het oplossen van de aanbevelingen die duidelijk, uitvoerbaar en gericht zijn op effectieve verbetering. Bijdragen aan innovatie. Je werkt mee aan de bouw van AI-gedreven tooling. Vragen of even sparren? Shauna Alders Young talent recruiter +31613054715 Wat bieden wij jou? Een mooi salaris tussen de €3.050 en €3.945 met daar bovenop vakantietoeslag, een premievrijpensioen, 25 vakantiedagen én 40 flexuren. Winstdeling want we doen het samen bij Flynth, dus alle winst investeren we in onze medewerkers en organisatie. Optimaal verder ontwikkelen door een uitgebreide onboarding, studiefaciliteiten, een eigen performance coach en vrijheid in je werk. Leaseauto en een thuiswerkvergoeding. Ingerichte thuiswerkplek zodat jij net zo comfortabel thuiswerkt als op kantoor. Laptop en telefoon die je ook privé mag gebruiken. Een mooi salaris tussen de €3.050 en €3.945 met daar bovenop vakantietoeslag, een premievrijpensioen, 25 vakantiedagen én 40 flexuren. Winstdeling want we doen het samen bij Flynth, dus alle winst investeren we in onze medewerkers en organisatie. Optimaal verder ontwikkelen door een uitgebreide onboarding, studiefaciliteiten, een eigen performance coach en vrijheid in je werk. Leaseauto en een thuiswerkvergoeding. Ingerichte thuiswerkplek zodat jij net zo comfortabel thuiswerkt als op kantoor. Laptop en telefoon die je ook privé mag gebruiken. Wat breng je mee? Jij brengt mee: Afgeronde (of bijna afgeronde) hbo- of wo-opleiding in IT of cybersecurity. Sterke interesse in Cyber, IT-risk en technologie. Goede communicatieve vaardigheden en teamspirit. Affiniteit met AI, automatisering en data-analyse. Leergierige en proactieve houding. Jij wilt meebouwen en leren. We zoeken ondernemers met drive, nieuwsgierigheid en energie! Mensen die het gaaf vinden om iets nieuws te bouwen, samen met collega’s en specialisten die passie hebben voor cybersecurity, technologie en innovatie. Bij ons kan jij elke dag met je passie bezig zijn! Jouw werkplek We zijn gestart in Zwolle en de Randstad (Amstelveen/Utrecht) met een ambitieus team van cyber-, tech- en complianceprofessionals, met als doel onze klanten op een (kosten)effectieve manier te helpen hun digitale weerbaarheid structureel te verbeteren. Online assessment Flynth vindt het waarborgen van een objectief en eerlijk selectieproces heel belangrijk. Daarom ontvang je direct na jouw sollicitatie een uitnodiging voor ons game-based assessment per e-mail. Door dit assessment kunnen we jouw talenten in kaart brengen, nog voordat we jouw CV en eventuele motivatie bekijken. Uiteraard krijg je zelf ook inzicht in de uitkomsten. Hierdoor bieden we elke kandidaat gelijke kansen. Let op, sollicitaties zullen pas in behandeling worden genomen na het afronden van het game-based assessment. Sollicitatieprocedure Solliciteer via de knop Heb je interesse in deze vacature? Gebruik het formulier om je gegevens achter te laten. Je krijgt direct een uitnodiging voor ons online assessment. Online assessment Je krijgt een uitnodiging om een online assessment te maken. Dit kan thuis op een moment dat voor jou uitkomt. Na afronding nemen we binnen 3 werkdagen contact op. Telefonische intake Als jouw profiel aansluit bij de vacature neemt de recruiter telefonisch contact met je op voor een korte kennismaking. Kennismakingsgesprek Tijdens deze kennismaking gaan we in gesprek over jouw interesses en ambities én wat wij jou te bieden hebben. Voorstel en arbeidsovereenkomst Gaan we samen de uitdaging aan? De recruiter bespreekt ons voorstel met jou en bij akkoord ontvang je jouw nieuwe arbeidscontract. Pre employment screening Flynth en haar klanten stellen hoge eisen aan betrouwbaarheid en integriteit. Daarom is een screening onderdeel van onze procedure. Jouw start bij Flynth! We zorgen voor een warm welkom met ons uitgebreide onboarding programma van in totaal 9 maanden.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Utrecht Audit & Assurance €3.050 - €3.945 Cyber & IT HBO 32 - 40 uur Bij Flynth bouwen we aan een nieuwe Cyber & Audit Advisory-praktijk waar cybersecurity, audit, technologie en ondernemerschap samenkomen. Bouw jij mee? Wat ga je doen? Wij helpen organisaties hun digitale weerbaarheid te vergroten...",
-   "benefits": [
-    "Thuiswerken",
-    "Leaseauto",
-    "Pensioen",
-    "Laptop",
-    "Bonus",
-    "Coaching"
-   ],
-   "skills": [
-    "AI",
-    "Data analyse",
-    "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T18:41:39.490165+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "BSc Informatica",
-     "AWS",
-     "Microsoft Azure",
-     "REST API’s",
-     "Cyber Security"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [
-     "Uitgebreide ervaring met offensieve security assessments"
-    ],
-    "reason": "Je opleiding Informatica en affiniteit met security en cloud passen goed bij deze adviesrol.",
-    "local_score": 77,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -5663,57 +5878,6 @@
    }
   },
   {
-   "id": "a77cd8a5460f",
-   "source": "JobSpy",
-   "title": "Trainee Consultant Supply Chain (Microsoft Dynamics 365) - Maart 2027 Program",
-   "company": "HSO",
-   "location": "Veenendaal, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-04T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=3c2335c097c71c6c",
-   "salary": "€2895 - €3061 per maand",
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We garanderen je dat deze weken een ijzersterke start zijn van jouw carrière in IT Consulting. Naast de hard skills, zetten wij ons ook volledig in op de soft skills. Zo leer je alles over de Microsoft Technologie, hoe je dit optimaal inzet bij de klant én hoe je dit met overtuigingskracht presenteert. Dit is pas het begin! Je krijgt ook inzicht in onze HSO-projectmethodologie en je sluit af met een volledige Microsoft-certificering. En hoe dan verder? Na de 'Masterclass' ga je meteen door! Als Young Professional werk je in een innovatieve, internationale omgeving. HSO is uitgegroeid tot één van de leading Microsoft-partners wereldwijd. En hier speel jij een sleutelrol in! Je wordt onderdeel van een ervaren projectteam, bij toonaangevende klanten. Je wordt betrokken bij diverse fases van het project, zoals het digitaliseren en automatiseren van processen. Je adviseert hen over Microsoft-based applicaties (Dynamics 365 ERP) en helpt hen daarna om deze daadwerkelijk te implementeren. Je houdt ervan om processen in kaart te brengen en zoekt naar mogelijkheden om deze te optimaliseren. Daarom start je aan het begin van het project met het achterhalen van de behoeften en verwachtingen van de klant. Je bouwt aan de relatie met de klant en investeert in verwachtingsmanagement. Op basis van de opgehaalde informatie zorg jij voor een passend advies en implementeert de software die de optimalisatie ondersteunt. Maar, ondanks dat je zelfstandig veel bereikt, hoef je dit niet alleen te doen. Een Senior Consultant is zowel je buddy als je mentor die je volledig ondersteunt, terwijl je je carrière ontwikkelt van Trainee Consultant tot Medior en Lead Consultant. Door intensieve training en begeleiding leer je alle ins en outs van het consultancyvak. Na jaar één ben je een volwaardige Junior Consultant. We vinden het belangrijk dat je groeit als Consultant, maar ook als mens. Daarom krijg je alle tools en begeleiding om het beste uit jezelf én je werk te halen! HSO werkt onder andere voor mooie merken als: Rituals, Royal BAM, Heineken en Intergamma. Je krijgt de kans om bij veel verschillende bedrijven, branche-en mensenkennis te doen, op verschillende organisatieniveaus mee te denken en te adviseren. Je kunt trainingen volgen via de HSO Academy. Jij komt met een plan en je manager helpt je bij de uitvoering daarvan. Wat zoeken we? Een afgeronde HBO- of WO-opleiding, bij voorkeur in de richting van bedrijfseconomie, engineering, (technische) bedrijfskunde, ICT, bedrijfskundige informatica of een vergelijkbare studie; Analytisch sterk en communicatief vaardig; Affiniteit met IT en technologie; Ambitieuze en onbedwingbare nieuwsgierige houding; Uitstekende beheersing van de Nederlandse en Engelse taal; Beschikbaar vanaf maart? Top, dan begint het Young Professional Program! Wat bieden we? Werken bij HSO is uitdagend, dus daar zetten we graag een goede beloning tegenover (2895 – 3061 euro brutoloon, excl. 8% vakantiegeld); De basis is geregeld. Leaseauto (of mobiliteitsvergoeding van 675 euro), laptop en mobiele telefoon? Zeker weten! Hybride werken, vanuit huis, op kantoor (Rotterdam, Veenendaal) of zelfs tijdens je Workation; Vitaliteitsbudget: € 65,- netto, dit kun je inzetten voor je sportabonnement of voor een goede thuiswerkplek. We vinden het belangrijk dat jij fit en gezond blijft. Op kantoor of remote; Je kunt deelnemen aan het leasefietsplan; Vakantie: 25 vakantiedagen. Wil je meer vrije tijd? Koop tot 10 dagen bij. Natuurlijk behoort een Workation tot de mogelijkheden; Pensioen van BeFrank; En vooral een leven lang leren. Op dag één start jouw onboardingsprogramma en daarna heeft onze HSO-Academy een leerreis voor je gedefinieerd; Je ontvangt ook een GoodHabitz account, een online trainingstool voor je persoonlijke ontwikkeling. Vrijheid, flexibiliteit en fun Je werkt in een internationale omgeving met professionals met verschillende nationaliteiten. HSO heeft professionals in dienst die plezier hebben in hun werk en klaar staan voor elkaar. Om het plezier in ons werk nog groter te maken, organiseren we uiteraard teamuitjes en bedrijfsfeesten, maar ook wekelijkse zomerborrels op ons dakterras, allerlei sportactiviteiten en is er de mogelijkheid bij te dragen aan onze Maatschappelijk Verantwoord Ondernemen-werkzaamheden. Ben jij klaar voor de reis of heb je nog vragen? Neem contact op met Sheling Goh via sgoh@hso.com.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Leaseauto",
-    "Pensioen",
-    "Laptop",
-    "Coaching"
-   ],
-   "skills": [
-    "Consultancy"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-04T21:15:35.082581+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Nederlands",
-     "Engels"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je hbo-opleiding en communicatieve vaardigheden passen goed bij dit supply chain-traineeship.",
-    "local_score": 60,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "4d0b0878461a",
    "source": "JobSpy",
    "title": "Trainee Consultant Finance (Microsoft D365) - Maart 2027 Program",
@@ -5758,6 +5922,57 @@
     "missing_realistic": [],
     "ignored_unrealistic": [],
     "reason": "Je hbo-bachelor Informatica en klantgerichte ervaring maken je een geschikte kandidaat voor dit consultancy-traineeship.",
+    "local_score": 60,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "a77cd8a5460f",
+   "source": "JobSpy",
+   "title": "Trainee Consultant Supply Chain (Microsoft Dynamics 365) - Maart 2027 Program",
+   "company": "HSO",
+   "location": "Veenendaal, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-04T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=3c2335c097c71c6c",
+   "salary": "€2895 - €3061 per maand",
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We garanderen je dat deze weken een ijzersterke start zijn van jouw carrière in IT Consulting. Naast de hard skills, zetten wij ons ook volledig in op de soft skills. Zo leer je alles over de Microsoft Technologie, hoe je dit optimaal inzet bij de klant én hoe je dit met overtuigingskracht presenteert. Dit is pas het begin! Je krijgt ook inzicht in onze HSO-projectmethodologie en je sluit af met een volledige Microsoft-certificering. En hoe dan verder? Na de 'Masterclass' ga je meteen door! Als Young Professional werk je in een innovatieve, internationale omgeving. HSO is uitgegroeid tot één van de leading Microsoft-partners wereldwijd. En hier speel jij een sleutelrol in! Je wordt onderdeel van een ervaren projectteam, bij toonaangevende klanten. Je wordt betrokken bij diverse fases van het project, zoals het digitaliseren en automatiseren van processen. Je adviseert hen over Microsoft-based applicaties (Dynamics 365 ERP) en helpt hen daarna om deze daadwerkelijk te implementeren. Je houdt ervan om processen in kaart te brengen en zoekt naar mogelijkheden om deze te optimaliseren. Daarom start je aan het begin van het project met het achterhalen van de behoeften en verwachtingen van de klant. Je bouwt aan de relatie met de klant en investeert in verwachtingsmanagement. Op basis van de opgehaalde informatie zorg jij voor een passend advies en implementeert de software die de optimalisatie ondersteunt. Maar, ondanks dat je zelfstandig veel bereikt, hoef je dit niet alleen te doen. Een Senior Consultant is zowel je buddy als je mentor die je volledig ondersteunt, terwijl je je carrière ontwikkelt van Trainee Consultant tot Medior en Lead Consultant. Door intensieve training en begeleiding leer je alle ins en outs van het consultancyvak. Na jaar één ben je een volwaardige Junior Consultant. We vinden het belangrijk dat je groeit als Consultant, maar ook als mens. Daarom krijg je alle tools en begeleiding om het beste uit jezelf én je werk te halen! HSO werkt onder andere voor mooie merken als: Rituals, Royal BAM, Heineken en Intergamma. Je krijgt de kans om bij veel verschillende bedrijven, branche-en mensenkennis te doen, op verschillende organisatieniveaus mee te denken en te adviseren. Je kunt trainingen volgen via de HSO Academy. Jij komt met een plan en je manager helpt je bij de uitvoering daarvan. Wat zoeken we? Een afgeronde HBO- of WO-opleiding, bij voorkeur in de richting van bedrijfseconomie, engineering, (technische) bedrijfskunde, ICT, bedrijfskundige informatica of een vergelijkbare studie; Analytisch sterk en communicatief vaardig; Affiniteit met IT en technologie; Ambitieuze en onbedwingbare nieuwsgierige houding; Uitstekende beheersing van de Nederlandse en Engelse taal; Beschikbaar vanaf maart? Top, dan begint het Young Professional Program! Wat bieden we? Werken bij HSO is uitdagend, dus daar zetten we graag een goede beloning tegenover (2895 – 3061 euro brutoloon, excl. 8% vakantiegeld); De basis is geregeld. Leaseauto (of mobiliteitsvergoeding van 675 euro), laptop en mobiele telefoon? Zeker weten! Hybride werken, vanuit huis, op kantoor (Rotterdam, Veenendaal) of zelfs tijdens je Workation; Vitaliteitsbudget: € 65,- netto, dit kun je inzetten voor je sportabonnement of voor een goede thuiswerkplek. We vinden het belangrijk dat jij fit en gezond blijft. Op kantoor of remote; Je kunt deelnemen aan het leasefietsplan; Vakantie: 25 vakantiedagen. Wil je meer vrije tijd? Koop tot 10 dagen bij. Natuurlijk behoort een Workation tot de mogelijkheden; Pensioen van BeFrank; En vooral een leven lang leren. Op dag één start jouw onboardingsprogramma en daarna heeft onze HSO-Academy een leerreis voor je gedefinieerd; Je ontvangt ook een GoodHabitz account, een online trainingstool voor je persoonlijke ontwikkeling. Vrijheid, flexibiliteit en fun Je werkt in een internationale omgeving met professionals met verschillende nationaliteiten. HSO heeft professionals in dienst die plezier hebben in hun werk en klaar staan voor elkaar. Om het plezier in ons werk nog groter te maken, organiseren we uiteraard teamuitjes en bedrijfsfeesten, maar ook wekelijkse zomerborrels op ons dakterras, allerlei sportactiviteiten en is er de mogelijkheid bij te dragen aan onze Maatschappelijk Verantwoord Ondernemen-werkzaamheden. Ben jij klaar voor de reis of heb je nog vragen? Neem contact op met Sheling Goh via sgoh@hso.com.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Leaseauto",
+    "Pensioen",
+    "Laptop",
+    "Coaching"
+   ],
+   "skills": [
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-04T21:15:35.082581+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Nederlands",
+     "Engels"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je hbo-opleiding en communicatieve vaardigheden passen goed bij dit supply chain-traineeship.",
     "local_score": 60,
     "ai": true,
     "check": false,
@@ -6424,58 +6639,6 @@
    }
   },
   {
-   "id": "3ca0ca4e8d6f",
-   "source": "JobSpy",
-   "title": "Informatie Analist",
-   "company": "Spotta",
-   "location": "Utrecht West, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-04T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=f2161dd9a8dc3fba",
-   "salary": "€3898 - €5799 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Informatie Analist Ben jij analytisch sterk, werk je graag met verschillende mensen samen en help je ons bedrijf verder te ontwikkelen met nieuwe en verbeterde diensten? Dan zijn wij op zoek naar jou! Wat doe je als Informatie Analist? Binnen Spotta werken we continu aan het verbeteren van processen, systemen en dienstverlening. Als Informatie Analist vervul jij hierin een belangrijke rol. Je brengt de wensen en behoeften van de business in kaart en vertaalt deze naar concrete oplossingen die aansluiten op onze processen, systemen en bedrijfsarchitectuur. Daarbij werk je nauw samen met stakeholders uit de organisatie en ons interne ontwikkelteam. Concreet betekent dit dat je: in gesprek gaat met businessvertegenwoordigers om wensen te achterhalen en verbeterkansen inzichtelijk te maken; businessbehoeften vertaalt naar oplossingen die aansluiten op bestaande bedrijfsprocessen en de bedrijfsarchitectuur; globale impactanalyses opstelt; deze input verwerkt naar heldere user stories waarmee ons ontwikkelteam aan de slag kan; het ontwikkelproces begeleidt door demo’s te volgen, de scope te bewaken en af te stemmen met verschillende stakeholders; testen coördineert en toetst of opgeleverde oplossingen aansluiten op de oorspronkelijke behoefte; de Product Owner ondersteunt bij sprintactiviteiten en vanuit jouw expertise adviseert over de beste oplossingsrichting. Hierin herken jij jezelf: Jij bent analytisch, nieuwsgierig en vindt het leuk om samen met collega’s verbeteringen door te voeren. Je stelt de juiste vragen en wilt begrijpen wat er achter een behoefte schuilgaat voordat je naar een oplossing zoekt. Daarnaast weet je verschillende belangen, eisen en randvoorwaarden zorgvuldig tegen elkaar af te wegen. Verder: heb je kennis van IT-systemen, zoals applicaties en databases; heb je minimaal hbo werk- en denkniveau, opgedaan door opleiding en/of werkervaring binnen (bedrijfs-)automatisering, informatica of een vergelijkbare richting; heb je bij voorkeur ervaring met het vormgeven van bedrijfsprocessen en architectuur; heb je een goede beheersing van de Nederlandse taal, zowel mondeling als schriftelijk; is ervaring met Agile/Scrum werken een pré. Waarom werken bij Spotta? Bij Spotta krijg je de ruimte om echt impact te maken. Of je nu een week of tien jaar bij ons werkt, jouw ideeën doen ertoe. Wij bieden: ruimte voor nieuwe initiatieven en ideeën; veel vrijheid en vertrouwen om jouw werk op jouw manier in te richten; veel ontwikkelingsmogelijkheden; een informele organisatie met korte lijnen en een goede werksfeer; een organisatie in transitie, waarbij we samen werken aan een duurzame en slimme toekomst voor de verspreiding van brievenbusreclame; een diverse en inclusieve organisatie met collega’s van maar liefst 22 verschillende nationaliteiten. Naast hard werken, is er bij Spotta ook ruimte voor plezier! Er worden regelmatig domibo’s en teamuitjes georganiseerd. Dit bieden wij jou: Een salaris tussen € 3898,04 en € 5799,80 bruto per maand op basis van 40 uur per week; Je wordt ingeschaald in een passende trede binnen de salarisschaal, op basis van je kennis en relevante werkervaring. Daarnaast zijn er mogelijkheden om binnen de salarisschaal door te groeien; 8% vakantiegeld; Minimaal 30 vakantiedagen op fulltime basis, met de mogelijkheid om extra dagen bij te kopen; Een device passend bij je functie, telefoonregeling, reiskostenvergoeding en/of thuiswerkvergoeding; Goede pensioenregeling; Leuke extra’s zoals een jaarlijkse sportvergoeding om vitaal te blijven; Winstafhankelijke bonus. Dit is Spotta Spotta is het bedrijf achter het folderpakket dat huishoudens wekelijks thuisbezorgd krijgen. We bereiken wekelijks miljoenen consumenten met brievenbusreclame. Zo helpen we onze adverteerders bij het effectief bereiken en activeren van de consument. Dit doen we met ons huis-aan-huisfolderpakket, persoonlijke Folderkiezer pakket, losse huis-aan-huisfolders, weekbladen, Folderdisplays en de huis-aan-huiskranten. Enthousiast geworden? Solliciteer!* Wil je eerst meer weten over de vacature? Neem dan contact op met Marco Verwoerdt, Manager Informatie Management, via marco.verwoerdt@spotta.nl. Soort dienstverband: Fulltime Salaris: €3.898,04 - €5.799,80 per maand Arbeidsvoorwaarden: Pensioen Reiskostenvergoeding Taal: Nederlands (Vereist) Werklocatie: Hybride werken in 3542 Utrecht",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Informatie Analist Ben jij analytisch sterk, werk je graag met verschillende mensen samen en help je ons bedrijf verder te ontwikkelen met nieuwe en verbeterde diensten? Dan zijn wij op zoek naar jou! Wat doe je als Informatie Analist? Binnen Spotta werken we continu aan het verbeteren van...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "Bonus",
-    "Reiskosten"
-   ],
-   "skills": [
-    "Agile",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-04T14:26:09.281632+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "Analytisch vermogen",
-     "Klantgesprekken",
-     "User stories",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je ervaring met klantconsultancy en het vertalen van wensen naar software past erg goed bij deze functie.",
-    "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "981e8dd9a6d5",
    "source": "JobSpy",
    "title": "Finance Business Analyst",
@@ -6530,48 +6693,55 @@
    }
   },
   {
-   "id": "76aa844c7f79",
+   "id": "3ca0ca4e8d6f",
    "source": "JobSpy",
-   "title": "Lab Analyst I//II ELISA/Flow cytometry",
-   "company": "ICON plc",
-   "location": "Assen, DR, Netherlands",
+   "title": "Informatie Analist",
+   "company": "Spotta",
+   "location": "Utrecht West, UT, Netherlands",
    "remote": false,
    "posted_at": "2026-11-04T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=f1fbe0a3e8707475",
-   "salary": null,
+   "url": "https://nl.indeed.com/viewjob?jk=f2161dd9a8dc3fba",
+   "salary": "€3898 - €5799 per maand",
    "tags": [
     "",
     "fulltime"
    ],
-   "full_text": "Lab based in Assen, NL ICON is a global healthcare intelligence and clinical research organisation united by a mission to bring new medicines and treatments to patients faster. As a values-driven organisation, integrity, collaboration, agility, and inclusion are at the heart of how we work and interact with each other, customers, patients and suppliers. Lab Analyst I/II (ELISA/Flow Cytometry, Assen) Bij ICON ben je niet enkel getuige van de toekomst van klinische geneesmiddelenontwikkeling, je maakt er deel van uit! ICON plc is een toonaangevende organisatie voor klinisch onderzoek en geneesmiddelenontwikkeling. We zijn trots op onze inclusieve werkomgeving, waarin innovatie en uitmuntendheid centraal staan. Sluit je bij ons aan en draag bij aan onze missie om de toekomst van het klinische onderzoek vorm te geven. Het bioanalytisch laboratorium van ICON is gevestigd in Assen. Hier worden met behulp van verschillende technieken (o.a. LC-MS/MS, radioactieve isotopen analyse, PCR, ELISA en Flow Cytometrie) analyses uitgevoerd van (nieuwe) geneesmiddelen en biomarkers in monsters van biologische matrices afkomstig van (pre-)klinische studies vanuit de hele wereld. We werken met de nieuwste apparatuur. We hebben een ongelooflijke kans voor een Lab Analist I/II om de ELISA/Flow Cytometrie afdeling in Assen, Nederland, te komen versterken. Wat ga je doen? Als lab analist ben jij samen met je team verantwoordelijk voor het tijdig analyseren van monsters. Zelfstandig analyses uitvoeren met verschillende technieken volgens onze Standard Operating Procedures (SOPs). Interpreteren en verwerken van resultaten in het Lab Informatie Management Systeem (LIMS). Voert data review uit voor kwaliteitscontrole. Je wordt getraind binnen de afdeling ELISA en/of Flow Cytometrie. Je start met een jaarcontract met zicht op een vast dienstverband. Wat breng je mee? Voltooide MBO-4 of HBO opleiding in een biomedische richting (bijv. Biologie en Medisch Laboratoriumonderzoek, Forensisch Onderzoek, Biomedische wetenschappen etc.) Je hebt een probleem oplossend vermogen en hebt nauwkeurige en flexibele instelling. Goede beheersing van de Nederlandse en Engelse taal, in woord en geschrift. Werkervaring binnen een gereguleerde laboratorium omgeving (GxP) is een pre. Je hebt ervaring met ELISA, PCR en/of Flow Cytometrie. Je bent minimaal 32-40 uur per week inzetbaar. Employment with ICON is contingent upon having the legal right to work in the country where the role is based. Rewards & Benefits ICON offers a competitive and comprehensive total rewards package designed to support your health, wellbeing, and career development. Benefits may include: Competitive base salary and performance related incentives Health and wellbeing programmes including medical, dental, and vision coverage where applicable Retirement and pension plans Life assurance and disability coverage Employee assistance programmes and wellbeing resources Learning and development opportunities through structured training and career pathways Benefits may vary depending on role and location. Visit our careers site to read more about the benefits ICON offers. Inclusion and Accessibility ICON is an equal opportunity employer. We are committed to building an inclusive and accessible workplace where everyone feels valued and supported. If you require reasonable accommodations during the recruitment process, please let us know or submit a request . Are you a current ICON Employee?",
+   "full_text": "Informatie Analist Ben jij analytisch sterk, werk je graag met verschillende mensen samen en help je ons bedrijf verder te ontwikkelen met nieuwe en verbeterde diensten? Dan zijn wij op zoek naar jou! Wat doe je als Informatie Analist? Binnen Spotta werken we continu aan het verbeteren van processen, systemen en dienstverlening. Als Informatie Analist vervul jij hierin een belangrijke rol. Je brengt de wensen en behoeften van de business in kaart en vertaalt deze naar concrete oplossingen die aansluiten op onze processen, systemen en bedrijfsarchitectuur. Daarbij werk je nauw samen met stakeholders uit de organisatie en ons interne ontwikkelteam. Concreet betekent dit dat je: in gesprek gaat met businessvertegenwoordigers om wensen te achterhalen en verbeterkansen inzichtelijk te maken; businessbehoeften vertaalt naar oplossingen die aansluiten op bestaande bedrijfsprocessen en de bedrijfsarchitectuur; globale impactanalyses opstelt; deze input verwerkt naar heldere user stories waarmee ons ontwikkelteam aan de slag kan; het ontwikkelproces begeleidt door demo’s te volgen, de scope te bewaken en af te stemmen met verschillende stakeholders; testen coördineert en toetst of opgeleverde oplossingen aansluiten op de oorspronkelijke behoefte; de Product Owner ondersteunt bij sprintactiviteiten en vanuit jouw expertise adviseert over de beste oplossingsrichting. Hierin herken jij jezelf: Jij bent analytisch, nieuwsgierig en vindt het leuk om samen met collega’s verbeteringen door te voeren. Je stelt de juiste vragen en wilt begrijpen wat er achter een behoefte schuilgaat voordat je naar een oplossing zoekt. Daarnaast weet je verschillende belangen, eisen en randvoorwaarden zorgvuldig tegen elkaar af te wegen. Verder: heb je kennis van IT-systemen, zoals applicaties en databases; heb je minimaal hbo werk- en denkniveau, opgedaan door opleiding en/of werkervaring binnen (bedrijfs-)automatisering, informatica of een vergelijkbare richting; heb je bij voorkeur ervaring met het vormgeven van bedrijfsprocessen en architectuur; heb je een goede beheersing van de Nederlandse taal, zowel mondeling als schriftelijk; is ervaring met Agile/Scrum werken een pré. Waarom werken bij Spotta? Bij Spotta krijg je de ruimte om echt impact te maken. Of je nu een week of tien jaar bij ons werkt, jouw ideeën doen ertoe. Wij bieden: ruimte voor nieuwe initiatieven en ideeën; veel vrijheid en vertrouwen om jouw werk op jouw manier in te richten; veel ontwikkelingsmogelijkheden; een informele organisatie met korte lijnen en een goede werksfeer; een organisatie in transitie, waarbij we samen werken aan een duurzame en slimme toekomst voor de verspreiding van brievenbusreclame; een diverse en inclusieve organisatie met collega’s van maar liefst 22 verschillende nationaliteiten. Naast hard werken, is er bij Spotta ook ruimte voor plezier! Er worden regelmatig domibo’s en teamuitjes georganiseerd. Dit bieden wij jou: Een salaris tussen € 3898,04 en € 5799,80 bruto per maand op basis van 40 uur per week; Je wordt ingeschaald in een passende trede binnen de salarisschaal, op basis van je kennis en relevante werkervaring. Daarnaast zijn er mogelijkheden om binnen de salarisschaal door te groeien; 8% vakantiegeld; Minimaal 30 vakantiedagen op fulltime basis, met de mogelijkheid om extra dagen bij te kopen; Een device passend bij je functie, telefoonregeling, reiskostenvergoeding en/of thuiswerkvergoeding; Goede pensioenregeling; Leuke extra’s zoals een jaarlijkse sportvergoeding om vitaal te blijven; Winstafhankelijke bonus. Dit is Spotta Spotta is het bedrijf achter het folderpakket dat huishoudens wekelijks thuisbezorgd krijgen. We bereiken wekelijks miljoenen consumenten met brievenbusreclame. Zo helpen we onze adverteerders bij het effectief bereiken en activeren van de consument. Dit doen we met ons huis-aan-huisfolderpakket, persoonlijke Folderkiezer pakket, losse huis-aan-huisfolders, weekbladen, Folderdisplays en de huis-aan-huiskranten. Enthousiast geworden? Solliciteer!* Wil je eerst meer weten over de vacature? Neem dan contact op met Marco Verwoerdt, Manager Informatie Management, via marco.verwoerdt@spotta.nl. Soort dienstverband: Fulltime Salaris: €3.898,04 - €5.799,80 per maand Arbeidsvoorwaarden: Pensioen Reiskostenvergoeding Taal: Nederlands (Vereist) Werklocatie: Hybride werken in 3542 Utrecht",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Lab based in Assen, NL ICON is a global healthcare intelligence and clinical research organisation united by a mission to bring new medicines and treatments to patients faster. As a values-driven organisation, integrity, collaboration, agility, and inclusion are at the heart of how we work and...",
+   "short_desc": "Informatie Analist Ben jij analytisch sterk, werk je graag met verschillende mensen samen en help je ons bedrijf verder te ontwikkelen met nieuwe en verbeterde diensten? Dan zijn wij op zoek naar jou! Wat doe je als Informatie Analist? Binnen Spotta werken we continu aan het verbeteren van...",
    "benefits": [
-    "Pensioen"
+    "Thuiswerken",
+    "Pensioen",
+    "Bonus",
+    "Reiskosten"
    ],
-   "skills": [],
+   "skills": [
+    "Agile",
+    "Nederlands"
+   ],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-11-04T21:15:35.082581+00:00",
+   "first_seen": "2026-11-04T14:26:09.281632+00:00",
    "match": {
-    "is_junior": false,
-    "score": 10,
-    "matched_skills": [],
-    "missing_realistic": [
-     "Laboratoriumervaring",
-     "ELISA",
-     "Flow Cytometry"
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "Analytisch vermogen",
+     "Klantgesprekken",
+     "User stories",
+     "Agile/Scrum"
     ],
+    "missing_realistic": [],
     "ignored_unrealistic": [],
-    "reason": "Deze laboratoriumfunctie voor biologische en medische analyses sluit niet aan bij jouw IT-opleiding en technische werkervaring.",
-    "local_score": 50,
+    "reason": "Je ervaring met klantconsultancy en het vertalen van wensen naar software past erg goed bij deze functie.",
+    "local_score": 100,
     "ai": true,
     "check": false,
-    "visible": false
+    "visible": true
    }
   },
   {
@@ -6767,6 +6937,51 @@
     ],
     "ignored_unrealistic": [],
     "reason": "Je hebt ervaring met databeheer en processen, maar je mist specifieke kennis van voedselveiligheid en HACCP in de foodsector.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
+   "id": "76aa844c7f79",
+   "source": "JobSpy",
+   "title": "Lab Analyst I//II ELISA/Flow cytometry",
+   "company": "ICON plc",
+   "location": "Assen, DR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-04T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=f1fbe0a3e8707475",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Lab based in Assen, NL ICON is a global healthcare intelligence and clinical research organisation united by a mission to bring new medicines and treatments to patients faster. As a values-driven organisation, integrity, collaboration, agility, and inclusion are at the heart of how we work and interact with each other, customers, patients and suppliers. Lab Analyst I/II (ELISA/Flow Cytometry, Assen) Bij ICON ben je niet enkel getuige van de toekomst van klinische geneesmiddelenontwikkeling, je maakt er deel van uit! ICON plc is een toonaangevende organisatie voor klinisch onderzoek en geneesmiddelenontwikkeling. We zijn trots op onze inclusieve werkomgeving, waarin innovatie en uitmuntendheid centraal staan. Sluit je bij ons aan en draag bij aan onze missie om de toekomst van het klinische onderzoek vorm te geven. Het bioanalytisch laboratorium van ICON is gevestigd in Assen. Hier worden met behulp van verschillende technieken (o.a. LC-MS/MS, radioactieve isotopen analyse, PCR, ELISA en Flow Cytometrie) analyses uitgevoerd van (nieuwe) geneesmiddelen en biomarkers in monsters van biologische matrices afkomstig van (pre-)klinische studies vanuit de hele wereld. We werken met de nieuwste apparatuur. We hebben een ongelooflijke kans voor een Lab Analist I/II om de ELISA/Flow Cytometrie afdeling in Assen, Nederland, te komen versterken. Wat ga je doen? Als lab analist ben jij samen met je team verantwoordelijk voor het tijdig analyseren van monsters. Zelfstandig analyses uitvoeren met verschillende technieken volgens onze Standard Operating Procedures (SOPs). Interpreteren en verwerken van resultaten in het Lab Informatie Management Systeem (LIMS). Voert data review uit voor kwaliteitscontrole. Je wordt getraind binnen de afdeling ELISA en/of Flow Cytometrie. Je start met een jaarcontract met zicht op een vast dienstverband. Wat breng je mee? Voltooide MBO-4 of HBO opleiding in een biomedische richting (bijv. Biologie en Medisch Laboratoriumonderzoek, Forensisch Onderzoek, Biomedische wetenschappen etc.) Je hebt een probleem oplossend vermogen en hebt nauwkeurige en flexibele instelling. Goede beheersing van de Nederlandse en Engelse taal, in woord en geschrift. Werkervaring binnen een gereguleerde laboratorium omgeving (GxP) is een pre. Je hebt ervaring met ELISA, PCR en/of Flow Cytometrie. Je bent minimaal 32-40 uur per week inzetbaar. Employment with ICON is contingent upon having the legal right to work in the country where the role is based. Rewards & Benefits ICON offers a competitive and comprehensive total rewards package designed to support your health, wellbeing, and career development. Benefits may include: Competitive base salary and performance related incentives Health and wellbeing programmes including medical, dental, and vision coverage where applicable Retirement and pension plans Life assurance and disability coverage Employee assistance programmes and wellbeing resources Learning and development opportunities through structured training and career pathways Benefits may vary depending on role and location. Visit our careers site to read more about the benefits ICON offers. Inclusion and Accessibility ICON is an equal opportunity employer. We are committed to building an inclusive and accessible workplace where everyone feels valued and supported. If you require reasonable accommodations during the recruitment process, please let us know or submit a request . Are you a current ICON Employee?",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Lab based in Assen, NL ICON is a global healthcare intelligence and clinical research organisation united by a mission to bring new medicines and treatments to patients faster. As a values-driven organisation, integrity, collaboration, agility, and inclusion are at the heart of how we work and...",
+   "benefits": [
+    "Pensioen"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-04T21:15:35.082581+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 10,
+    "matched_skills": [],
+    "missing_realistic": [
+     "Laboratoriumervaring",
+     "ELISA",
+     "Flow Cytometry"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze laboratoriumfunctie voor biologische en medische analyses sluit niet aan bij jouw IT-opleiding en technische werkervaring.",
     "local_score": 50,
     "ai": true,
     "check": false,
@@ -7439,55 +7654,6 @@
    }
   },
   {
-   "id": "43aa3fc4a848",
-   "source": "JobSpy",
-   "title": "Global Assignment Consultant",
-   "company": "SIRVA",
-   "location": "Hoofddorp, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4463a62efa30c1b4",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Sirva Worldwide Relocation and Moving is a global leader in moving and relocation services, offering solutions for mobility programs to companies of every size. With 75 owned locations and more than 1,000 franchised and agent locations in 177 countries, we offer unmatched global breadth supported by localized attention and innovative technology that strikes the right balance of self service and human support. From relocation and household goods to commercial moving and storage, our portfolio of Brands (Sirva, Team Relocations, Allied, & northAmerican) provides the only integrated moving/relocation solution in the industry. By leveraging our global network, we deliver a superior experience that only a “one-stop shop” can provide. We’re a team that works globally to provide the best service locally — a company that is everything you need, everywhere you need it. For more information please visit www.sirva.com. Sirva brings together strong, collaborative people in a dynamic culture of mutual respect, support, and passion for the brand and product. We believe innovation drives winning performance, and we constantly challenge ourselves to be the very best we can in every aspect of our business. You will be surrounded by some of the brightest and most driven people in the industry. At Sirva, you will be in great company! Sirva is an equal opportunities employer. We evaluate qualified applicants without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, age, disability, military status genetic information or any other consideration made unlawful by applicable local legislation. Sirva also prohibits harassment of applicants and employees based on any of these protected categories. It is Sirva’s policy to comply with all applicable country and local legislation. Sirva continually reviews all local and country legislation applicable to our recruiting practices. For more information, please send an email to ROWHRSirva@sirva.com If you need a reasonable accommodation because of a disability of any part of the employment process, please send an email to Human Resources at ROWHRsirva@sirva.com and let us know the nature of your request and your contact information. GLOBAL ASSIGNMENT CONSULTANT Hoofddorp, Netherlands | Hybrid with regular office work One Team. One Purpose. One Global Impact. Every relocation begins with people. Every move creates opportunity. At Sirva, we're united by one shared purpose: helping people and organisations move forward. Join us and you'll build a career where your work makes a difference every day. MOVE WITH PURPOSE Your Impact Starts Here We are currently recruiting for Global Assignment Consultant to provide essential support to SIRVA’s corporate clients in managing the designated client’s personnel who are relocating for an international assignment. The successful candidate will act as the primary point of coordination for international assignees for the delivery of various assignment management services offered under their employer’s international assignment policies and procedures. In this role, you will be responsible for: Relocation and File Management Oversee the delivery of assignment management services, including policy counselling, destination services, household goods shipping, immigration, departure services and expense management Interpret the designated clients’ international assignment policies and procedures and evaluate different options to provide advice and consultation to international assignees based on their needs and country-specific requirements Provide on-going consultation to the assignee during the entire length of the international assignment Supplier/Stakeholder coordination Coordinate with all internal departments/functions to ensure a successful assignee experience Manage Global Certified Provider communication process and ensure quality of service delivery Client Communication and support Communicate/interface with the client’s HR contacts on relocation/assignment issues impacting the employee and family Assist with exception management, including recommendations on specific exceptions to policy Provide assignee status updates, keeping the client abreast of issues and offering solutions as issues arise, and completing client projects as requested. Complete other tasks/responsibilities as required to provide effective support to Manager, Client and Assignees GROW WITH INTENTION What You’ll Bring Excellent customer service skills coupled with strong organisational skills Excellent verbal and written communication skills in both German and English 2 years' direct relocation experience, coupled with experience supporting international assignments and globally mobile employees would be highly advantageous Ability to identify potential problems and develop creative solutions without immediate direction or supervision Ability to work as part of a team while acting as a self-starter Ability to manage deadlines, multi-task and operate in a fast-paced environment Strong presentation skills and interpersonal skills PC proficiency – Word, Excel, PowerPoint, Outlook and job-related systems Education and Certification Requirements: High school diploma required; College degree preferred You'll Thrive at Sirva If You: Think smart, Lead with helpfulness, Put people first and Take responsibility LIVE THE SIRVA LIFE Belong at Sirva Living the Sirva Life means joining a global team that moves with purpose, grows with intention and succeeds together. Whether you're collaborating across borders, learning from experienced colleagues or celebrating shared achievements, you'll be part of a culture built on trust, respect and inclusion. We believe our greatest strength is our people. By embracing diverse experiences, backgrounds and perspectives, we create an environment where everyone feels valued, supported and empowered to thrive. Together, we're shaping meaningful careers, exceptional customer experiences and a global ",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Sirva Worldwide Relocation and Moving is a global leader in moving and relocation services, offering solutions for mobility programs to companies of every size. With 75 owned locations and more than 1,000 franchised and agent locations in 177 countries, we offer unmatched global breadth supported...",
-   "benefits": [
-    "Thuiswerken"
-   ],
-   "skills": [
-    "Excel",
-    "Mobile",
-    "Requirements",
-    "Engels"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T23:57:22.385349+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 0,
-    "matched_skills": [],
-    "missing_realistic": [
-     "Consultancyervaring",
-     "Relocation management"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze vacature is gericht op global assignment management en relocation in plaats van software engineering.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "3ca2d1523168",
    "source": "JobSpy",
    "title": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10)",
@@ -7532,6 +7698,55 @@
     ],
     "ignored_unrealistic": [],
     "reason": "Hoewel je klantgesprekken voert, is deze consultantrol te specifiek gericht op financiële processen en senior advies.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
+   "id": "43aa3fc4a848",
+   "source": "JobSpy",
+   "title": "Global Assignment Consultant",
+   "company": "SIRVA",
+   "location": "Hoofddorp, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4463a62efa30c1b4",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Sirva Worldwide Relocation and Moving is a global leader in moving and relocation services, offering solutions for mobility programs to companies of every size. With 75 owned locations and more than 1,000 franchised and agent locations in 177 countries, we offer unmatched global breadth supported by localized attention and innovative technology that strikes the right balance of self service and human support. From relocation and household goods to commercial moving and storage, our portfolio of Brands (Sirva, Team Relocations, Allied, & northAmerican) provides the only integrated moving/relocation solution in the industry. By leveraging our global network, we deliver a superior experience that only a “one-stop shop” can provide. We’re a team that works globally to provide the best service locally — a company that is everything you need, everywhere you need it. For more information please visit www.sirva.com. Sirva brings together strong, collaborative people in a dynamic culture of mutual respect, support, and passion for the brand and product. We believe innovation drives winning performance, and we constantly challenge ourselves to be the very best we can in every aspect of our business. You will be surrounded by some of the brightest and most driven people in the industry. At Sirva, you will be in great company! Sirva is an equal opportunities employer. We evaluate qualified applicants without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, age, disability, military status genetic information or any other consideration made unlawful by applicable local legislation. Sirva also prohibits harassment of applicants and employees based on any of these protected categories. It is Sirva’s policy to comply with all applicable country and local legislation. Sirva continually reviews all local and country legislation applicable to our recruiting practices. For more information, please send an email to ROWHRSirva@sirva.com If you need a reasonable accommodation because of a disability of any part of the employment process, please send an email to Human Resources at ROWHRsirva@sirva.com and let us know the nature of your request and your contact information. GLOBAL ASSIGNMENT CONSULTANT Hoofddorp, Netherlands | Hybrid with regular office work One Team. One Purpose. One Global Impact. Every relocation begins with people. Every move creates opportunity. At Sirva, we're united by one shared purpose: helping people and organisations move forward. Join us and you'll build a career where your work makes a difference every day. MOVE WITH PURPOSE Your Impact Starts Here We are currently recruiting for Global Assignment Consultant to provide essential support to SIRVA’s corporate clients in managing the designated client’s personnel who are relocating for an international assignment. The successful candidate will act as the primary point of coordination for international assignees for the delivery of various assignment management services offered under their employer’s international assignment policies and procedures. In this role, you will be responsible for: Relocation and File Management Oversee the delivery of assignment management services, including policy counselling, destination services, household goods shipping, immigration, departure services and expense management Interpret the designated clients’ international assignment policies and procedures and evaluate different options to provide advice and consultation to international assignees based on their needs and country-specific requirements Provide on-going consultation to the assignee during the entire length of the international assignment Supplier/Stakeholder coordination Coordinate with all internal departments/functions to ensure a successful assignee experience Manage Global Certified Provider communication process and ensure quality of service delivery Client Communication and support Communicate/interface with the client’s HR contacts on relocation/assignment issues impacting the employee and family Assist with exception management, including recommendations on specific exceptions to policy Provide assignee status updates, keeping the client abreast of issues and offering solutions as issues arise, and completing client projects as requested. Complete other tasks/responsibilities as required to provide effective support to Manager, Client and Assignees GROW WITH INTENTION What You’ll Bring Excellent customer service skills coupled with strong organisational skills Excellent verbal and written communication skills in both German and English 2 years' direct relocation experience, coupled with experience supporting international assignments and globally mobile employees would be highly advantageous Ability to identify potential problems and develop creative solutions without immediate direction or supervision Ability to work as part of a team while acting as a self-starter Ability to manage deadlines, multi-task and operate in a fast-paced environment Strong presentation skills and interpersonal skills PC proficiency – Word, Excel, PowerPoint, Outlook and job-related systems Education and Certification Requirements: High school diploma required; College degree preferred You'll Thrive at Sirva If You: Think smart, Lead with helpfulness, Put people first and Take responsibility LIVE THE SIRVA LIFE Belong at Sirva Living the Sirva Life means joining a global team that moves with purpose, grows with intention and succeeds together. Whether you're collaborating across borders, learning from experienced colleagues or celebrating shared achievements, you'll be part of a culture built on trust, respect and inclusion. We believe our greatest strength is our people. By embracing diverse experiences, backgrounds and perspectives, we create an environment where everyone feels valued, supported and empowered to thrive. Together, we're shaping meaningful careers, exceptional customer experiences and a global ",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Sirva Worldwide Relocation and Moving is a global leader in moving and relocation services, offering solutions for mobility programs to companies of every size. With 75 owned locations and more than 1,000 franchised and agent locations in 177 countries, we offer unmatched global breadth supported...",
+   "benefits": [
+    "Thuiswerken"
+   ],
+   "skills": [
+    "Excel",
+    "Mobile",
+    "Requirements",
+    "Engels"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T23:57:22.385349+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 0,
+    "matched_skills": [],
+    "missing_realistic": [
+     "Consultancyervaring",
+     "Relocation management"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze vacature is gericht op global assignment management en relocation in plaats van software engineering.",
     "local_score": 30,
     "ai": true,
     "check": false,
@@ -7958,6 +8173,59 @@
    }
   },
   {
+   "id": "e63da2bbe264",
+   "source": "JobSpy",
+   "title": "Meewerkstage Data Analist",
+   "company": "KLM",
+   "location": "Amstelveen, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7b37dc4f698b5dbf",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat ga je doen? Als stagiair Data Analist werk je met geavanceerde tools zoals Power BI om waardevolle inzichten te genereren en onze organisatie te helpen data-gedreven beslissingen te nemen. Daarnaast werk je in Power Apps om tools te ontwikkelen die kritieke bedrijfsprocessen automatiseren. Je wordt een belangrijke kracht in het team dat zich focust op het data-gedreven en toekomstbestendig maken van de organisatie. Als meewerk stagiair data analyst werk je aan het verzamelen en analyseren van gegevens die cruciaal zijn voor de performance van onze producten en processen. Je ondersteunt besluitvorming met data-gedreven inzichten en helpt het team bij het interpreteren van resultaten. Geen dag zal hetzelfde zijn! Wat je taken worden? Business requirements formuleren met diverse stakeholders en vertalen naar technische/data requirements; Data verzamelen, analyseren en waardevolle inzichten visualiseren; Werken met programmeer- en analysetools zoals SQL en Python; Rapportages en dashboards ontwikkelen in Power BI; Operationele apps ontwikkelen in Power Apps; Samenwerken met verschillende afdelingen om data-inzichten te vertalen naar praktische oplossingen; Ondersteuning bieden bij het implementeren van data-gedreven besluitvorming. Waar land je? Je landt op Schiphol-Oost, in Gebouw 410 Engine Services om precies te zijn. Engine Services is een van de drie units binnen Engineering & Maintenance en focust op het onderhoud van motoren en reparaties van onderdelen hieruit. Je wordt onderdeel van het Data Management & Analytics team binnen de Data, Transformation & Continuous Improvement afdeling, waarbij o.a. gewerkt wordt aan digitalisering, data management, procesverbeteringen en duurzaamheid. Samen met het Data Management & Analytics team draag je een belangrijk steentje bij door besluitvorming met data-gedreven inzichten te versterken en daarmee het succes van Engine Services te vergroten. Jouw profiel Wij zijn op zoek naar een WO- of HBO-student met een passie voor data en de behoefte om het verschil te willen maken in de luchtvaartindustrie. Je hebt een studieachtergrond in Data Science, Business Analytics of een vergelijkbare studie. Het gaat om een meewerkstage. Jij bent analytisch sterk, proactief en gaat oplossingsgericht te werk. Je analyseert snel waar knelpunten liggen met SQL en/of Python en brengt helder je advies. Je schakelt makkelijk tussen verschillende taken en bent in staat om data om te zetten naar visuele inzichten in Power BI. Je bent communicatief sterk en kan complexe data op een begrijpelijke manier presenteren. Je bent beschikbaar voor 4-5 dagen in de week voor de periode van 5-6 maanden. Mocht je het leuk vinden om jouw stage voor een langere periode te doen, is dat ook een mogelijkheid! Thuiswerken kan uiteraard, maar gelet op de inhoud van de functie en het feit dat we een nieuwe manier van werken aan het opzetten zijn wordt er ook veel op locatie gewerkt. Competenties Analytisch denken Probleemoplossend vermogen Zelfstandigheid Communicatieve vaardigheden Samenwerkingsgerichtheid Resultaatgerichtheid Herken je jezelf niet in alle competenties, maar denk je wel dat je deze rol goed kan vervullen, schroom niet om alsnog contact op te nemen! Wat bieden wij KLM biedt jou een zeer leerzame ervaring in een dynamische organisatie waarin jij een belangrijke rol gaat krijgen. Je kunt jezelf in deze stage, op persoonlijk en professioneel vlak, sterk ontwikkelen. Daarnaast biedt deze stage je de mogelijkheid om je netwerk op te bouwen, doordat je je met veel verschillende KLM'ers om tafel gaat zitten! Een ander voordeel van een stage binnen KLM is de vereniging door en voor stagiair(e)s; KLM Taxibaan. Deze vereniging vergroot je netwerk en verzorgt gezellige evenementen en interessante excursies binnen de KLM-organisatie. Ook is er sprake van een stagevergoeding. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 17-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je sollicitatie stellen we je enkele gerichte vragen. Binnen twee weken na sluitingsdatum van de vacature krijg je bericht van ons.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat...",
+   "benefits": [
+    "Thuiswerken"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Data analyse",
+    "Power BI",
+    "Requirements"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T18:23:08.200089+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "SQL",
+     "Python"
+    ],
+    "missing_realistic": [
+     "Power BI",
+     "Power Apps"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je Python- en SQL-vaardigheden passen goed bij een data-analyse stage, hoewel je Power BI nog moet leren.",
+    "local_score": 58,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "edade466795b",
    "source": "JobSpy",
    "title": "Functioneel/technisch beheerder servicedesk IT",
@@ -8010,59 +8278,6 @@
     "ignored_unrealistic": [],
     "reason": "Je achtergrond in IT-beheer en servicedesk sluit naadloos aan bij deze functioneel beheerder rol.",
     "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "e63da2bbe264",
-   "source": "JobSpy",
-   "title": "Meewerkstage Data Analist",
-   "company": "KLM",
-   "location": "Amstelveen, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7b37dc4f698b5dbf",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat ga je doen? Als stagiair Data Analist werk je met geavanceerde tools zoals Power BI om waardevolle inzichten te genereren en onze organisatie te helpen data-gedreven beslissingen te nemen. Daarnaast werk je in Power Apps om tools te ontwikkelen die kritieke bedrijfsprocessen automatiseren. Je wordt een belangrijke kracht in het team dat zich focust op het data-gedreven en toekomstbestendig maken van de organisatie. Als meewerk stagiair data analyst werk je aan het verzamelen en analyseren van gegevens die cruciaal zijn voor de performance van onze producten en processen. Je ondersteunt besluitvorming met data-gedreven inzichten en helpt het team bij het interpreteren van resultaten. Geen dag zal hetzelfde zijn! Wat je taken worden? Business requirements formuleren met diverse stakeholders en vertalen naar technische/data requirements; Data verzamelen, analyseren en waardevolle inzichten visualiseren; Werken met programmeer- en analysetools zoals SQL en Python; Rapportages en dashboards ontwikkelen in Power BI; Operationele apps ontwikkelen in Power Apps; Samenwerken met verschillende afdelingen om data-inzichten te vertalen naar praktische oplossingen; Ondersteuning bieden bij het implementeren van data-gedreven besluitvorming. Waar land je? Je landt op Schiphol-Oost, in Gebouw 410 Engine Services om precies te zijn. Engine Services is een van de drie units binnen Engineering & Maintenance en focust op het onderhoud van motoren en reparaties van onderdelen hieruit. Je wordt onderdeel van het Data Management & Analytics team binnen de Data, Transformation & Continuous Improvement afdeling, waarbij o.a. gewerkt wordt aan digitalisering, data management, procesverbeteringen en duurzaamheid. Samen met het Data Management & Analytics team draag je een belangrijk steentje bij door besluitvorming met data-gedreven inzichten te versterken en daarmee het succes van Engine Services te vergroten. Jouw profiel Wij zijn op zoek naar een WO- of HBO-student met een passie voor data en de behoefte om het verschil te willen maken in de luchtvaartindustrie. Je hebt een studieachtergrond in Data Science, Business Analytics of een vergelijkbare studie. Het gaat om een meewerkstage. Jij bent analytisch sterk, proactief en gaat oplossingsgericht te werk. Je analyseert snel waar knelpunten liggen met SQL en/of Python en brengt helder je advies. Je schakelt makkelijk tussen verschillende taken en bent in staat om data om te zetten naar visuele inzichten in Power BI. Je bent communicatief sterk en kan complexe data op een begrijpelijke manier presenteren. Je bent beschikbaar voor 4-5 dagen in de week voor de periode van 5-6 maanden. Mocht je het leuk vinden om jouw stage voor een langere periode te doen, is dat ook een mogelijkheid! Thuiswerken kan uiteraard, maar gelet op de inhoud van de functie en het feit dat we een nieuwe manier van werken aan het opzetten zijn wordt er ook veel op locatie gewerkt. Competenties Analytisch denken Probleemoplossend vermogen Zelfstandigheid Communicatieve vaardigheden Samenwerkingsgerichtheid Resultaatgerichtheid Herken je jezelf niet in alle competenties, maar denk je wel dat je deze rol goed kan vervullen, schroom niet om alsnog contact op te nemen! Wat bieden wij KLM biedt jou een zeer leerzame ervaring in een dynamische organisatie waarin jij een belangrijke rol gaat krijgen. Je kunt jezelf in deze stage, op persoonlijk en professioneel vlak, sterk ontwikkelen. Daarnaast biedt deze stage je de mogelijkheid om je netwerk op te bouwen, doordat je je met veel verschillende KLM'ers om tafel gaat zitten! Een ander voordeel van een stage binnen KLM is de vereniging door en voor stagiair(e)s; KLM Taxibaan. Deze vereniging vergroot je netwerk en verzorgt gezellige evenementen en interessante excursies binnen de KLM-organisatie. Ook is er sprake van een stagevergoeding. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 17-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je sollicitatie stellen we je enkele gerichte vragen. Binnen twee weken na sluitingsdatum van de vacature krijg je bericht van ons.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat...",
-   "benefits": [
-    "Thuiswerken"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Data analyse",
-    "Power BI",
-    "Requirements"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T18:23:08.200089+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "SQL",
-     "Python"
-    ],
-    "missing_realistic": [
-     "Power BI",
-     "Power Apps"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je Python- en SQL-vaardigheden passen goed bij een data-analyse stage, hoewel je Power BI nog moet leren.",
-    "local_score": 58,
     "ai": true,
     "check": false,
     "visible": true
@@ -11076,57 +11291,6 @@
    }
   },
   {
-   "id": "3172c884f663",
-   "source": "JobSpy",
-   "title": "Commercieel Analist",
-   "company": "Odido",
-   "location": "Den Haag, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-31T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=d055cf230229b157",
-   "salary": "€4000 - €5000 per maand",
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Dit ga je doen Als Commercieel Analist binnen het Fixed & FMC Marketing team ben je verantwoordelijk voor het ontwikkelen, onderbouwen en realiseren van onze prijs- en promotiestrategie voor een divers portfolio van Odido, Simpel en Klik&Klaar. Je zorgt ervoor dat onze producten en merken optimaal gepositioneerd zijn en dat we over het volledige portfolio maximale commerciële en financiële waarde realiseren. Je houdt je onder andere bezig met vragen als: Hoe ontwikkelen de markt en onze concurrenten zich? Welke commerciële kansen kunnen we vertalen naar nieuwe prijzen of promoties? Hoe zorgen we voor de juiste positionering en samenhang binnen ons portfolio? Welke financiële en commerciële impact hebben verschillende prijsscenario’s? Hoe ontwikkelen omzet, marge en klantwaarde zich en wat betekent dit voor onze forecast? Je stelt businesscases op en vertaalt commerciële kansen naar concrete prijsvoorstellen en promoties. Daarbij combineer je markt- en concurrentie-inzichten met analyses van klantgedrag en financiële performance. Je overziet de gevolgen voor het volledige portfolio en zorgt voor een goede balans tussen groei, klantwaarde, omzet en rendement. Daarnaast houd je de P&L in de gaten en ondersteun je Finance met forecasting binnen jouw aandachtsgebied. Je volgt de resultaten nauwgezet, signaleert afwijkingen en adviseert over de acties die nodig zijn om onze commerciële en financiële doelstellingen te behalen. Net als in onze andere marketingrollen staan commerciële performance, klanttevredenheid en duurzame groei hierbij centraal. Je werkt nauw samen met collega’s binnen Marketing, Finance, Sales, Business Intelligence en andere disciplines, zoals Campagne, Communicatie, Service en IT. Je neemt het voortouw bij pricingvraagstukken, brengt verschillende belangen bij elkaar en zorgt ervoor dat besluiten daadwerkelijk worden geïmplementeerd Samen zijn we We willen de meest mensgerichte telecomprovider van Nederland worden. Die ambitie vraagt om scherpe keuzes, gezonde cijfers en een stevig financieel fundament. Jij zorgt dat we weten waar we staan, waar we naartoe kunnen en welke keuzes ons daar brengen. Ook al sta je niet in de spotlights, zonder jouw werk kan niemand anders het verschil maken. Want wanneer de cijfers kloppen, de analyses scherp zijn en de onderbouwing staat, kunnen collega's met vertrouwen beslissen, en daar begint elke stap vooruit. Hier staan we voor Bij Odido zijn we er voor elkaar. We zien elkaars talenten. We luisteren en kijken altijd naar wat er kan; ook als de cijfers eerst iets anders lijken te zeggen. Omdat je op je best bent als je kan groeien, krijg je daar bij Odido alle ruimte voor. We kijken samen waar je ambitie en talent liggen en zorgen dat jij de kansen krijgt om te groeien op jouw manier, of dat nu de inhoudelijke verdieping is, een brede businessrol of een stap richting leiderschap. Dit hebben we voor je Bij Odido werk je dicht op de business, met directe zichtbaarheid van jouw bijdrage. Daarbij hoort een aantrekkelijk arbeidsvoorwaardenpakket: 30 vakantiedagen (fulltime) én vrij op de dag na Hemelvaart; Hybride werken: 3 dagen op kantoor, 2 dagen thuis; Geen bruikleentelefoon, maar een voucher van €350 om zelf een telefoon te kiezen die je mag houden; Persoonlijk leerbudget en toegang tot meer dan 200 trainingen en cursussen om jezelf continu te ontwikkelen; Een variabele bonusregeling passend bij je rol; Een solide pensioenregeling via Zwitserleven; Korting op je Odido Internet & TV of Klik & Klaar abonnement voor thuis; Een leasefietsregeling voor een gezonde en duurzame manier van reizen; Werkgeversbijdrage aan je sportabonnement – wij investeren graag in jouw vitaliteit; Toegang tot een uitgebreid kortingsplatform met aantrekkelijke deals op uiteenlopende producten en diensten. Samen vieren we successen en focussen we op het realiseren van meetbare impact. Kortom: jouw werk creëert waarde, is zichtbaar en wordt beloond. Dit breng je mee Je hebt ervaring met pricing, revenue management, business control of een vergelijkbare commerciële functie, bij voorkeur binnen een abonnements- of consumentenomgeving. Je combineert sterk analytisch vermogen met ervaring in forecasting, P&L-management en het bouwen van businesscases. Je vertaalt marktontwikkelingen, concurrentie-inzichten en klantdata naar effectieve prijsstrategieën, promoties en commerciële kansen. Je denkt vanuit het totale portfolio, ziet verbanden tussen producten en merken en weet kansen om te zetten in concrete resultaten. Je werkt gemakkelijk samen met verschillende stakeholders en weet complexe vraagstukken helder en overtuigend over te brengen. Daarnaast heb je een bachelor- of masteropleiding afgerond en beheers je zowel het Nederlands als het Engels goed. Wanneer pas je bij ons (en wanneer niet)? We zijn allemaal anders. Juist dat maakt ons sterk. Wat veel Odido-collega's met elkaar gemeen hebben, is nieuwsgierigheid. De bereidheid om vragen te stellen, nieuwe ideeën te ontdekken en continu te blijven leren. Je voelt je thuis in een omgeving die in beweging is en ziet verandering als een kans. Herken je jezelf in veel van bovenstaande punten, maar niet in allemaal? Dan leren we je alsnog graag kennen. Soms zit potentieel namelijk juist in wat nog ontwikkeld kan worden.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Dit ga je doen Als Commercieel Analist binnen het Fixed & FMC Marketing team ben je verantwoordelijk voor het ontwikkelen, onderbouwen en realiseren van onze prijs- en promotiestrategie voor een divers portfolio van Odido, Simpel en Klik&Klaar. Je zorgt ervoor dat onze producten en merken optimaal...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Bonus"
-   ],
-   "skills": [
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-31T06:56:10.178350+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 20,
-    "matched_skills": [],
-    "missing_realistic": [
-     "Commerciële analyse",
-     "Pricing strategie",
-     "P&L beheer"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze functie richt zich op commerciële analyse en pricing in plaats van software engineering en consultancy.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "da28a3004204",
    "source": "JobSpy",
    "title": "Cybersecurity Consultant (Ede)",
@@ -11662,70 +11826,6 @@
    }
   },
   {
-   "id": "9a05bdbf02de",
-   "source": "LinkedIn",
-   "title": "Junior Forward Deployed Engineer",
-   "company": "PPT Consulting",
-   "location": "Amsterdam, North Holland, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-31T00:00:00+00:00",
-   "url": "https://nl.linkedin.com/jobs/view/junior-forward-deployed-engineer-at-ppt-consulting-4485129139?position=1&pageNum=0&refId=KOxFx%2BAnOYuhcQL%2F3qXgow%3D%3D&trackingId=oDs461EDyPnJGl5IrgM9sQ%3D%3D",
-   "salary": null,
-   "tags": [
-    "Not Applicable",
-    "Professional Services"
-   ],
-   "full_text": "AI & Tech Breadcrumb - Home > - Junior Forward Deployed Engineer Junior Forward Deployed Engineer Amstelplein 1-Rembrandttor, 1096 HA Amsterdam, Netherlands I'm interested Share this job Company Description Sia is a next-generation, global management consulting group. Founded in 1999, we were born digital. Today our strategy and management capabilities are augmented by data science, enhanced by creativity and driven by responsibility. We’re optimists for change and we help clients initiate, navigate and benefit from transformation. We believe optimism is a force multiplier, helping clients to mitigate downside and maximize opportunity. With expertise across a broad range of sectors and services, our 3,000 consultants serve clients worldwide from 48 locations in 19 countries. Our expertise delivers results. Our optimism transforms outcomes. Job Description Most GenAI never leaves the demo. We hire for the people who get it into production, and into daily use. The Forward Deployed Engineer closes that gap: a field engineer who builds GenAI applications (agents, RAG pipelines, copilots) and makes sure they get adopted, embedded in daily workflows, and deliver measurable value. You quickly grasp a client's operational challenges, design a tailored response, deploy it, and bring teams along in the transformation. You will operate at the intersection of Data Science, ML/Platform Engineering, and client delivery, helping customers find the right level of sophistication, semantic search, RAG, agents, or fine-tuning, deliver measurable ROI in the most cost-effective way. Beyond crafting prompts, you will design and build robust, scalable products: benchmarking candidate Foundation Models across the model stack (from GPT-x, Claude, and Gemini to edge models like Mistral), rapidly iterating prototypes, and validating ideas directly with users using frameworks such as LangChain, LlamaIndex, and pgvector. We work closely with leading technology partners including Anthropic (Claude), OpenAI, Databricks, and AWS. In practice that means early access to new model releases, direct engineering channels to the labs, funded certifications, and the freedom to pick the right tool, not just the one you're locked into. What You'll Actually Do - Spend time on client sites with a senior Forward Deployed Engineer, learning how their teams work and where AI can help. - Help scope and build LLM-based solutions under guidance: RAG pipelines, tool-using agents, workflow automation, and chat interfaces. - Connect these solutions to existing systems (APIs, databases, business tools) using established patterns and templates. - Help apply data protection and AI regulation requirements (GDPR, EU AI Act, model licences) to your work, following the guidance your senior colleagues set. - Support user adoption: prepare documentation, contribute to training sessions, and collect feedback on what works and what doesn’t. - Measure how solutions perform in use, and suggest improvements to your senior colleagues. - Share progress in clear written and verbal updates to both technical and business audiences. Qualifications You’ll thrive here if - You hold a Master’s degree in computer science, AI, or a related technical field. What matters most is that you can build things, so strong projects alongside your degree count just as much. - You have 0 to 2 years of experience, whether professional, from internships, or from a research or academic setting. We hire for potential, so recent graduates with solid LLM projects are encouraged to apply. - You’ve built with LLMs in some form, through coursework, your thesis, internships, or personal projects. That includes prompting, RAG, basic agent workflows, and checking model outputs with simple evaluation sets or tests. - You write Python that’s clean enough for a colleague to read, and you’re willing to learn whatever language a client’s stack requires. - You’re comfortable calling APIs and connecting different systems, even if you’ve done it mainly in side projects. - You’re starting to understand what makes a result useful to a client, and you can prioritise tasks with guidance. - You enjoy explaining technical ideas to non-technical people, and you listen carefully so you can bring them along. - You want to grow quickly, take on more responsibility over time, and learn from experienced colleagues in a fast-growing AI practice. - You speak Dutch and English. German is a strong advantage. If you’re not there yet, we’ll support you in learning it. Bonus points for - Experience with applied AI frameworks or SDKs (LangChain, LlamaIndex, OpenAI SDK, Anthropic SDK, etc.). - Experience deploying a project to a cloud environment (AWS, Azure, or GCP), even a small one. - Familiarity with MLOps or LLMOps practices, such as version control for prompts, simple evaluation pipelines, or basic monitoring. - A working understanding of vector databases and core concepts like embeddings. Additional information Why join Sia - You ship. Engagements are measured in weeks, not quarters. Your work goes live in front of real users and the client’s team, with a senior colleague alongside you. - Range without job-hopping. You’ll work across several industries and architectures each year, which is one of the fastest ways to build judgement about what actually works. - A practice that’s growing. The AI practice is young enough that you help shape how it delivers, and experienced enough that you’re never the only person who has solved a problem before. - Direct exposure, with support. You’ll sit in on conversations with business decision-makers early on, with senior colleagues guiding you, which is one of the fastest routes to seniority. What We Offer - A competitive salary and benefits, including a hospital insurance, performance-related bonus and more. - A dedicated learning budget, funded partner certifications (Anthropic, AWS, Databricks), and paid conference time. - Hybrid working from our Amsterdam office, with r",
-   "applicants": 25,
-   "publisher": "LinkedIn",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "AI & Tech Breadcrumb - Home - Junior Forward Deployed Engineer Junior Forward Deployed Engineer Amstelplein 1-Rembrandttor, 1096 HA Amsterdam, Netherlands I'm interested Share this job Company Description Sia is a next-generation, global management consulting group. Founded in 1999, we were born...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Bonus"
-   ],
-   "skills": [
-    "Python",
-    "CI/CD",
-    "Azure",
-    "AWS",
-    "GCP",
-    "Machine learning",
-    "AI",
-    "LLM",
-    "Databricks",
-    "Consultancy",
-    "Requirements",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "en",
-   "linkedin": true,
-   "unrealistic_hint": false,
-   "first_seen": "2026-10-31T06:56:10.178350+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "REST API’s",
-     "Python",
-     "Git / Bitbucket"
-    ],
-    "missing_realistic": [
-     "RAG pipelines",
-     "Agent architectures"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Jevarvarp en consultancy-ervaring passen goed bij deze rol om AI-oplossingen naar productie te brengen.",
-    "local_score": 68,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "15bd9222e718",
    "source": "LinkedIn",
    "title": "Tech Academy: Java Graduate program",
@@ -12115,59 +12215,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "8cff81011907",
-   "source": "LinkedIn",
-   "title": "Business Analyst | Talent Program",
-   "company": "Mploy Associates",
-   "location": "The Randstad, Netherlands",
-   "remote": false,
-   "posted_at": "2026-10-30T00:00:00+00:00",
-   "url": "https://nl.linkedin.com/jobs/view/business-analyst-talent-program-at-mploy-associates-4461650612?position=9&pageNum=0&refId=jo9koa2kQfLQ6OrXXF3S4w%3D%3D&trackingId=mM7n3XdWhlOF1LCWC6%2BSdg%3D%3D",
-   "salary": null,
-   "tags": [
-    "Entry level",
-    "Business Consulting and Services and Financial Services"
-   ],
-   "full_text": "Let’s talk talent You have talent. Ready to make impact. We know. We also know that making impact starts with that first contact between likeminded people who have the same drive to shape their future. We see you, with your skills, personality and dreams. Now let’s take it to even greater heights by means of one of our talent programs for master’s graduates. We are Mploy Associates, a talent focused consultancy firm ready to make not only our clients’ teams successful but also you. Your talent, our focus. More specifically? We are a consultancy firm specialized in the areas of data, finance, and analytics and work on a variety of projects like investment analyses, data engineering, quant modelling and much more. Our clients are banks, insurance companies, asset managers and we are still expanding. We help our clients build successful teams by providing the right skills, talents and know-how at the right place and time and develop ourselves continuously to stay successful. We believe that investing in talent through proven methods always pays out. Today we are proud to say that we are an international driven company with more than 100 people and many top-tier clients who share the same vision. How do you fit into this vision? You will work as a Business Analyst for one of our clients with a special focus on your own development through one of our Talent Programs. Our Talent Programs are designed to accelerate your career from entry level to medior+ level within 24 months. By means of certified training courses, coaching and intervision sessions our employees follow an above average steep career curve. Successful graduation in our Talent Programs usually results in a permanent medior+ or senior position at one of our clients or where it becomes your responsibility to keep the team successful. Your activities as a Business Analyst Your responsibilities might range from organizing, storing and analyzing dataflows to translating business requirements into IT solutions. Therefore, stakeholder management and meeting deadlines is written in your DNA. This includes organising stakeholder meetings to discuss and present project results and follow-up actions. As well as preparing management reports and presentations to senior management on progress and issue remediations. Your day-to-day responsibilities include: - Explaining the business needs to IT engineers to ensure a correct implementation; - Conduct trend analyzes in financial data to ensure the completeness and accuracy of the data; - Investigating and documenting dataflows and associated data lineage; - Investigating current IT implementations and developing roadmaps for future improvements; - Validating implemented solutions before they are released to end-users; - Understanding business processes in detail to develop innovative solutions for further improvements. On average you work 36 hours a week on a client project and you spend 4 hours a week on your own personal, professional and technical development in one of our Talent Programs. What do we offer? We offer the opportunity to become an expert in business analysis in an environment where we train you to excel as a high-end professional. In addition, good working conditions are equally as important to us. By offering free lunch at the office and regular fun team activities like escape rooms and fun dinners, we ensure a connected and social workplace. Also important; we will provide you with a public transport card and/or (electric) bike. All on us of course. Furthermore: - A salary of €3.850 including holiday allowance and 13th month salary; - Challenging work for one of our top 200 clients; - 25 days of paid annual leave; - Half-day a week in-house professional and technical training combined with personal coaching; - Besides in-house training opportunities, an external development budget of €2,000 per year to obtain relevant certifications such as FRM or CFA; - An international working environment with driven and ambitious colleagues from all over the world; - The opportunity to take your next career move as a medior at the client or Mploy Associates after successfully completing your development program; - Pro bono technical projects at socially relevant NGOs. What are we looking for? We are looking for graduates with different business and IT-related backgrounds, experiences, and passions. It speaks for itself that you are ambitious, self-reflective and dare to be confident in an authentic way. Furthermore, you are energized by stakeholder management and are well adept at gathering reliable information. You use this in combination with a consultive mindset to make our clients more successful. Last but not least, you are eager to develop yourself on personal, professional and technical level with our personalized in-house Talent Programs. To make this more specific: - You have 0-3 years of work experience and want to learn everything about business analysis, data and IT implementations; - You want to put into practice your skills that you have acquired during your master’s in Finance, Economics, Business Analytics, Information Management or another related study; - You do not hesitate to use your analytical skills to solve complex problems creatively and logically. - You enjoy working in changing environments and like to be involved in multiple projects at the same time. Interested? For more information about our different positions and Talent Programs you can visit our website www.mployassociates.com. Want to know more about the vacancy? Use the apply button above. We will be in touch. Are you interested in multiple positions at Mploy Associates? Apply for one position and mention the other position(s) in your motivation message. Together we will find the best match for you. Please note that unfortunately there is no point in applying when you do not live in the Netherlands or if you have more than 3 years of work experience. These applications will not be processed.",
-   "applicants": 200,
-   "publisher": "LinkedIn",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Let’s talk talent You have talent. Ready to make impact. We know. We also know that making impact starts with that first contact between likeminded people who have the same drive to shape their future. We see you, with your skills, personality and dreams. Now let’s take it to even greater heights...",
-   "benefits": [
-    "32-36 uur",
-    "Coaching"
-   ],
-   "skills": [
-    "Excel",
-    "Consultancy",
-    "Requirements",
-    "Stakeholdermanagement"
-   ],
-   "lang": "en",
-   "linkedin": true,
-   "unrealistic_hint": true,
-   "first_seen": "2026-10-31T06:56:10.178350+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL",
-     "Python"
-    ],
-    "missing_realistic": [
-     "Financial engineering",
-     "Kwantitatieve modellering"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hbo-achtergrond sluit goed aan bij dit talentprogramma, hoewel de focus meer op finance en data ligt.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
