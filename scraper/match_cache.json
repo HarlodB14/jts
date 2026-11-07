@@ -15,24 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "da28a3004204": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Hbo-opleiding",
-    "Klantgesprekken",
-    "Adviseren van klanten"
-   ],
-   "missing_realistic": [
-    "Ervaring met Microsoft Security en bijbehorende beveiligingsoplossingen",
-    "Relevante Microsoft Security-certificeringen",
-    "Ervaring met ethical hacking"
-   ],
-   "ignored_unrealistic": [
-    "Meerdere jaren relevante werkervaring binnen cybersecurity"
-   ],
-   "reason": "Je mist specifieke ervaring met Microsoft Security en bijbehorende certificeringen voor deze consultancyrol."
-  },
   "d3eaa37aa0bb": {
    "is_junior": true,
    "score": 60,
@@ -3083,6 +3065,21 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt wel een IT-achtergrond, maar de functie richt zich specifiek op auditing in plaats van software engineering."
+  },
+  "d743aa1fdf82": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Business Intelligence",
+    "Financial or investment reporting domain knowledge"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke analytische vaardigheden en programmeerervaring, maar mist specifieke achtergrond in financiële rapportages."
   }
  }
 }
