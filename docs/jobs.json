@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-08T19:37:52.566189+00:00",
+ "updated_at": "2026-11-08T23:39:52.987517+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 702,
+  "jobspy": 716,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 40,
-  "himalayas": 0
+  "himalayas": 2
  },
  "count": 236,
  "jobs": [
@@ -122,243 +122,6 @@
     "ignored_unrealistic": [],
     "reason": "Je adviesvaardigheden en ervaring met AI-koppelingen sluiten uitstekend aan bij deze junior consultancyrol.",
     "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "1e47a01ac118",
-   "source": "JobSpy",
-   "title": "IT-traineeship Software Developer (Java)",
-   "company": "de Rechtspraak",
-   "location": "Utrecht Zuidwest, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-07T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=33318f164671acfd",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee software developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te werken. Spannend? Geen zorgen, je kunt rekenen op je collega’s en je buddy. Interessant? Zeker, want je ontwikkelt je ook persoonlijk. En dat samen met de andere IT-trainees, dus ook nog leuk! Wat ga je doen? Als IT-trainee software developer werk je mee aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor Rechtspraak-medewerkers, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals advocaten, de politie of de kinderbescherming. Maar ook voor burgers die met de rechtspraak te maken krijgen. Met Java bouw je vooral aan de back-end van onze rechtspraakapplicaties. Hoe leuk is het bijvoorbeeld om API’s te maken voor de integratie van systemen of data? Je werkt bovendien agile, in een SCRUM-team en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je nieuwe technologieën toe. Van Angular, Java, SpringBoot tot OpenShift, Docker, AppDynamics en Splunk. Als IT-trainee software developer tel je mee in je team. Samen met je collega’s werk je aan lopende projecten. Natuurlijk helpen ze je graag waar nodig. Bovendien heb je een buddy, op wie je altijd kunt terugvallen. Ondertussen ontwikkel je je hard skills met een opleidingsprogramma op maat. Voor je hard skills opleidingen werken we samen met gecertificeerde opleidingsinstellingen. Je sleept er mooie certificaten in de wacht. En je soft skills? Die ontwikkel je samen met de andere IT-trainees. In de soft skills trainingen leer je onder meer om te gaan met je ambities, grip te houden op je werk en je leiderschapskwaliteiten te ontwikkelen. Maar bijvoorbeeld ook hoe je goed communiceert, adviseert en presenteert. Kortom, een IT-traineeship waarvan jij blij wordt en de maatschappij beter! Ons traineeship is onderscheidend doordat je leren én werken vanaf dag één combineert. Niet eerst “de boeken” in, maar direct werken aan de uitdagendste applicaties. Vanzelfsprekend onder persoonlijke begeleiding. Hoe jouw werkweek eruitziet? 80% van je week bestaat uit het opdoen van praktijkervaring, de overige 20% uit het volgen van soft en hard skills trainingen. Een praktische mededeling tussendoor… Natuurlijk stellen wij een laptop en een telefoon beschikbaar! All work and no play? Absoluut niet. Want met de andere IT-trainees doe je ook allerlei leuke dingen buiten het werk. Dat gaat van borrels, pubquizzen en pizzasessies tot samen sporten of zelfs een weekendje weg. Heel gezellig, maar uiteraard geheel vrijblijvend. Meer weten over het IT-traineeship bekijk de speciale pagina > Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je direct onderdeel bent van een DevOps-team en meewerkt aan applicaties voor de rechtspraak. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Hieu waardeert aan het traineeship Hieu heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Hij deelt zijn ervaringen graag met jou. “Met mijn manager kijk ik welke cursussen het meest waardevol zijn voor mij en mijn team. Voor de rest leer ik on the job met tools te werken, ik pas mijn kennis meteen toe. Mijn buddy begeleidt me bij het werk en geeft me tips. Ook mijn soft skills ontwikkel ik, via leiderschaps- en communicatietrainingen. Daar heb ik veel aan!” Hieu, IT-trainee test automation engineer Benieuwd naar de ervaringen van Trainee test automation engineer Hieu? Je leest het in zijn blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevl",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee software developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Laptop",
-    "Coaching"
-   ],
-   "skills": [
-    "Java",
-    "Angular",
-    "REST",
-    "Docker",
-    "Agile",
-    "DevOps",
-    "API",
-    "Testautomatisering"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "Java",
-     "REST API’s",
-     "Agile / Scrum",
-     "Git / Bitbucket"
-    ],
-    "missing_realistic": [
-     "Spring Boot"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je gedegen Java-kennis en hbo-achtergrond in software engineering passen perfect in dit IT-traineeship bij de Rechtspraak.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "0e7f964bf964",
-   "source": "JobSpy",
-   "title": "IT-traineeship .NET Developer Rechtspraak",
-   "company": "de Rechtspraak",
-   "location": "Utrecht Zuidwest, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-07T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=75ba69e510b8b927",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee .Net Developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te werken. Spannend? Geen zorgen, je kunt rekenen op je collega’s en je buddy. Interessant? Zeker, want je ontwikkelt je ook persoonlijk. En dat samen met de andere IT-trainees, dus ook nog leuk! Wat ga je doen? Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als .NET Developer bij IVO Rechtspraak bouw je aan de front-end én back-end, van webportalen tot systeemkoppelingen. Leef je uit in je SCRUM-team. En werk in DevOps. Lijkt dit je wat? Lees snel verder. Waar je hart ook ligt als ontwikkelaar, je draagt heel concreet bij aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor medewerkers van de rechtspraak, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals het OM, advocaten, de politie of de kinderbescherming. Maar ook voor ‘de man of vrouw in de straat’ die met de rechtspraak te maken krijgt. Je werkt agile, in SCRUM-teams en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je de technologieën toe zoals .NET Core, Microservices, Azure DevOps, OpenShift, Docker, Angular en Splunk. Wat je nog niet kent, dat leren we je. Waar de markt stopt, ontwikkelen wij vaak zelf nog door. Je kunt je creativiteit dus goed kwijt! Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je direct onderdeel bent van een DevOps-team en meewerkt aan applicaties voor de rechtspraak. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Hieu waardeert aan het traineeship Hieu heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Hij deelt zijn ervaringen graag met jou. “Met mijn manager kijk ik welke cursussen het meest waardevol zijn voor mij en mijn team. Voor de rest leer ik on the job met tools te werken, ik pas mijn kennis meteen toe. Mijn buddy begeleidt me bij het werk en geeft me tips. Ook mijn soft skills ontwikkel ik, via leiderschaps- en communicatietrainingen. Daar heb ik veel aan!” Hieu, IT-trainee test automation engineer Benieuwd naar de ervaringen van Trainee test automation engineer Hieu? Je leest het in zijn blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, c",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee .Net Developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te werken....",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Coaching"
-   ],
-   "skills": [
-    ".NET",
-    "C",
-    "Angular",
-    "REST",
-    "Docker",
-    "Azure",
-    "Agile",
-    "DevOps",
-    "Microservices",
-    "Testautomatisering"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 90,
-    "matched_skills": [
-     "C#",
-     ".NET",
-     "Azure",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [
-     "Angular"
-    ],
-    "ignored_unrealistic": [
-     "OpenShift",
-     "Splunk"
-    ],
-    "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship.",
-    "local_score": 60,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "1fb069fbd19c",
-   "source": "JobSpy",
-   "title": "IT-traineeship Data engineer",
-   "company": "de Rechtspraak",
-   "location": "Utrecht Zuidwest, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-07T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=bca4033aad90b3e8",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee Data Engineer werk je bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak aan iets van betekenis. Samen met de collega’s in je team help je dataproducten en -analyses te ontwikkelen, zodat rechters en andere medewerkers van de Rechtspraak datagedreven kunnen werken. Spannend? Geen zorgen, je kunt rekenen op je collega’s en je buddy. Interessant? Zeker, want je ontwikkelt je ook persoonlijk. En dat samen met de andere IT-trainees, dus ook nog leuk! Wat ga je doen? Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als IT-trainee data engineer bij IVO Rechtspraak werk je vanuit het IVO Datalab. Jij helpt dataproducten en -analyses te ontwikkelen en rechters en andere Rechtspraak-medewerkers datagedreven te werken. Je werkt op het snijvlak van data engineering, ML engineering en cloud engineering. Heel belangrijk dus! En dat is nog niet alles. De Rechtspraak wil flinke stappen zetten in datagedreven werken. Daar draag jij op allerlei manieren aan bij vanuit het IVO Datalab. Je kunt je creativiteit helemaal kwijt! Zo ontwikkel je pipelines (Infrastructure as Code) en koppelvlakken voor data ingestion en ben je betrokken bij de deployment van diverse dataproducten. Ook ben je bezig met cloud engineering. Samen met de Cloud Engineers van het lab doe je aan resource deployment en richt je de netwerkinfrastructuur vanaf scratch in. De eerste verkenningen zijn op een on-premise cloud, met later een transitie naar een private cloud. Een mooie gelegenheid om OpenShift en Azure Cloud beter te leren kennen. Word jij als data engineer blij van een rol met ruimte om initiatief te nemen? Waar je de techniek in kunt duiken en meer doet dan alleen de dagelijkse routine? Dan is dit jouw start. Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Hieu waardeert aan het traineeship Hieu heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Hij deelt zijn ervaringen graag met jou. “Met mijn manager kijk ik welke cursussen het meest waardevol zijn voor mij en mijn team. Voor de rest leer ik on the job met tools te werken, ik pas mijn kennis meteen toe. Mijn buddy begeleidt me bij het werk en geeft me tips. Ook mijn soft skills ontwikkel ik, via leiderschaps- en communicatietrainingen. Daar heb ik veel aan!” Hieu, IT-trainee test automation engineer Benieuwd naar de ervaringen van Trainee test automation engineer Hieu? Je leest het in zijn blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship a",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee Data Engineer werk je bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak aan iets van betekenis. Samen met de collega’s in je team help je dataproducten en -analyses te ontwikkelen, zodat rechters...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Coaching"
-   ],
-   "skills": [
-    "REST",
-    "CI/CD",
-    "Azure",
-    "Machine learning",
-    "Testautomatisering"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Python",
-     "AWS",
-     "Azure"
-    ],
-    "missing_realistic": [
-     "Data engineering"
-    ],
-    "ignored_unrealistic": [
-     "OpenShift"
-    ],
-    "reason": "Je Python-kennis en achtergrond in software engineering passen goed bij een data engineering traineeship.",
-    "local_score": 72,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "93ed529aade7",
-   "source": "JobSpy",
-   "title": "IT-Traineeship trainer / opleider Rechtspraak",
-   "company": "de Rechtspraak",
-   "location": "Utrecht Zuidwest, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-07T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=d224902301596bd6",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "Ontwikkel je talenten als IT-Trainee Trainer/ opleider maximaal. Bij een organisatie die vooroploopt in innovatie én maatschappelijk het verschil maakt. Als onderdeel van de Rechtspraak maken we de Nederlandse rechtspraak digitaal toegankelijk! Wat ga je doen? Je doet werk met impact! IVO Rechtspraak maakt als IT-dienstverlener de Nederlandse rechtspraak digitaal toegankelijk. En jij helpt duizenden medewerkers van de Rechtspraak en daarbuiten hun werk makkelijker en sneller te doen met onze applicaties. Zowel door trainingen te geven als door opleidingsmateriaal te ontwikkelen. Een superleuke én belangrijke baan! Rechters, gerechtsjuristen, administratief medewerkers, maar bijvoorbeeld ook advocaten, bewindvoerders en burgers. Vanuit IVO ondersteunen we ze met allerlei digitale applicaties. Jij leert ze niet alleen om die applicaties goed te gebruiken, maar helpt ze ook om hun werkprocessen te verbeteren. Dat doe je vanuit het team Leren & Ontwikkelen, een creatieve club mensen die openstaat voor nieuwe ideeën. In je werk sta je dicht bij de gebruikers van onze applicaties. Jij begrijpt waar ze mee zitten, hoe ze werken en wat ze willen. Van daaruit denk je mee met de implementatiemanager, communicatiespecialist en functioneel beheerder. Nog voor de implementatie van een nieuwe of gewijzigde applicatie ben jij al aangehaakt. Wat is er nodig om te zorgen dat gebruikers met de digitale toepassing uit de voeten kunnen? En hoe neem je eventuele weerstand tegen veranderingen weg? Wil jij een goede opleider én trainer worden? Ga je voor samenwerking? En weet je mensen mee te nemen in veranderingen? Dan zou jij wel eens onze ideale Trainee Trainer/Opleider Digitalisering kunnen zijn! Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Charlotte waardeert aan het traineeship Charlotte heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Zij deelt haar ervaringen graag met jou. “Wat ik zo leuk vind aan het traineeship is dat je in een korte tijd veel collega’s leert kennen die in dezelfde fase als jij zitten. De vele uitjes die georganiseerd worden met de andere (oude) lichtingen geven ook wel aan hoe hecht de trainees onderling zijn. Daarnaast is het erg leerzaam en leuk om soft skills cursussen te volgen omdat deze juist niet inhoudelijk, maar op een andere manier aan je werk bijdragen.\" Charlotte, IT-trainee Ontwerper Benieuwd naar de ervaringen van Trainee Ontwerper Charlotte? Je leest het in haar blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting een didactische of opleidingskundige achtergrond? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidin",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Ontwikkel je talenten als IT-Trainee Trainer/ opleider maximaal. Bij een organisatie die vooroploopt in innovatie én maatschappelijk het verschil maakt. Als onderdeel van de Rechtspraak maken we de Nederlandse rechtspraak digitaal toegankelijk! Wat ga je doen? Je doet werk met impact! IVO...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Coaching"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 80,
-    "matched_skills": [
-     "Klantgerichtheid",
-     "Communicatieve vaardigheden"
-    ],
-    "missing_realistic": [
-     "Ervaring met training geven"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je sterke communicatieve vaardigheden en klantervaring passen goed bij een rol als trainer.",
-    "local_score": 50,
     "ai": true,
     "check": false,
     "visible": true
@@ -2042,6 +1805,240 @@
    }
   },
   {
+   "id": "1e47a01ac118",
+   "source": "JobSpy",
+   "title": "IT-traineeship Software Developer (Java)",
+   "company": "de Rechtspraak",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=055c0f35dd7f31f8",
+   "salary": "€3579 - €4999 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Als IT-trainee software developer werk je mee aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor Rechtspraak-medewerkers, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals advocaten, de politie of de kinderbescherming. Maar ook voor burgers die met de rechtspraak te maken krijgen. Met Java bouw je vooral aan de back-end van onze rechtspraakapplicaties. Hoe leuk is het bijvoorbeeld om API’s te maken voor de integratie van systemen of data? Je werkt bovendien agile, in een SCRUM-team en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je nieuwe technologieën toe. Van Angular, Java, SpringBoot tot OpenShift, Docker, AppDynamics en Splunk. Als IT-trainee software developer tel je mee in je team. Samen met je collega’s werk je aan lopende projecten. Natuurlijk helpen ze je graag waar nodig. Bovendien heb je een buddy, op wie je altijd kunt terugvallen. Ondertussen ontwikkel je je hard skills met een opleidingsprogramma op maat. Voor je hard skills opleidingen werken we samen met gecertificeerde opleidingsinstellingen. Je sleept er mooie certificaten in de wacht. En je soft skills? Die ontwikkel je samen met de andere IT-trainees. In de soft skills trainingen leer je onder meer om te gaan met je ambities, grip te houden op je werk en je leiderschapskwaliteiten te ontwikkelen. Maar bijvoorbeeld ook hoe je goed communiceert, adviseert en presenteert. Kortom, een IT-traineeship waarvan jij blij wordt en de maatschappij beter! Ons traineeship is onderscheidend doordat je leren én werken vanaf dag één combineert. Niet eerst “de boeken” in, maar direct werken aan de uitdagendste applicaties. Vanzelfsprekend onder persoonlijke begeleiding. Hoe jouw werkweek eruitziet? 80% van je week bestaat uit het opdoen van praktijkervaring, de overige 20% uit het volgen van soft en hard skills trainingen. Een praktische mededeling tussendoor… Natuurlijk stellen wij een laptop en een telefoon beschikbaar! All work and no play? Absoluut niet. Want met de andere IT-trainees doe je ook allerlei leuke dingen buiten het werk. Dat gaat van borrels, pubquizzen en pizzasessies tot samen sporten of zelfs een weekendje weg. Heel gezellig, maar uiteraard geheel vrijblijvend. Meer weten over het IT-traineeship bekijk de speciale pagina > Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Als IT-trainee software developer werk je mee aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor Rechtspraak-medewerkers,...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Laptop",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [
+    "Java",
+    "Angular",
+    "Docker",
+    "Agile",
+    "DevOps",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "Java",
+     "REST API’s",
+     "Agile / Scrum",
+     "Git / Bitbucket"
+    ],
+    "missing_realistic": [
+     "Spring Boot"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je gedegen Java-kennis en hbo-achtergrond in software engineering passen perfect in dit IT-traineeship bij de Rechtspraak.",
+    "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "0e7f964bf964",
+   "source": "JobSpy",
+   "title": "IT-traineeship .NET Developer Rechtspraak",
+   "company": "de Rechtspraak",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=0fc6bec3b09081f1",
+   "salary": "€3579 - €4999 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als .NET Developer bij IVO Rechtspraak bouw je aan de front-end én back-end, van webportalen tot systeemkoppelingen. Leef je uit in je SCRUM-team. En werk in DevOps. Lijkt dit je wat? Lees snel verder. Waar je hart ook ligt als ontwikkelaar, je draagt heel concreet bij aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor medewerkers van de rechtspraak, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals het OM, advocaten, de politie of de kinderbescherming. Maar ook voor ‘de man of vrouw in de straat’ die met de rechtspraak te maken krijgt. Je werkt agile, in SCRUM-teams en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je de technologieën toe zoals .NET Core, Microservices, Azure DevOps, OpenShift, Docker, Angular en Splunk. Wat je nog niet kent, dat leren we je. Waar de markt stopt, ontwikkelen wij vaak zelf nog door. Je kunt je creativiteit dus goed kwijt! Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis kunt deelnemen. Tijdens dit gesprek gaan we op zoek naar jouw drijfveren. Vervolggesprek (op locatie) Als er bij het eerste gesprek van beide kanten een match is, plannen we een tweede gesprek in op ons kantoor in Utrecht. Arbeidsvoorwaarden Na een positieve afronding van de gesprekk",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [
+    ".NET",
+    "Angular",
+    "Docker",
+    "Azure",
+    "Agile",
+    "DevOps",
+    "Microservices"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "C#",
+     ".NET",
+     "Azure",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [
+     "Angular"
+    ],
+    "ignored_unrealistic": [
+     "OpenShift",
+     "Splunk"
+    ],
+    "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship.",
+    "local_score": 60,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "1fb069fbd19c",
+   "source": "JobSpy",
+   "title": "IT-traineeship Data engineer",
+   "company": "de Rechtspraak",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=24245c7decba32f1",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Utrecht Hbo, Wo 36 uur €3579 ICT Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als IT-trainee data engineer bij IVO Rechtspraak werk je vanuit het IVO Datalab. Jij helpt dataproducten en -analyses te ontwikkelen en rechters en andere Rechtspraak-medewerkers datagedreven te werken. Je werkt op het snijvlak van data engineering, ML engineering en cloud engineering. Heel belangrijk dus! En dat is nog niet alles. De Rechtspraak wil flinke stappen zetten in datagedreven werken. Daar draag jij op allerlei manieren aan bij vanuit het IVO Datalab. Je kunt je creativiteit helemaal kwijt! Zo ontwikkel je pipelines (Infrastructure as Code) en koppelvlakken voor data ingestion en ben je betrokken bij de deployment van diverse dataproducten. Ook ben je bezig met cloud engineering. Samen met de Cloud Engineers van het lab doe je aan resource deployment en richt je de netwerkinfrastructuur vanaf scratch in. De eerste verkenningen zijn op een on-premise cloud, met later een transitie naar een private cloud. Een mooie gelegenheid om OpenShift en Azure Cloud beter te leren kennen. Word jij als data engineer blij van een rol met ruimte om initiatief te nemen? Waar je de techniek in kunt duiken en meer doet dan alleen de dagelijkse routine? Dan is dit jouw start. Dit krijg je €3579 Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 36 uur Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis kunt deelnemen. Tijdens dit gesprek gaan we op zoek naar jouw drijfveren. Vervolggesprek (op locatie) Als er bij het eerste gesprek van beide kanten een match is, plannen we een tweede gesprek in o",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Utrecht Hbo, Wo 36 uur €3579 ICT Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [
+    "CI/CD",
+    "Azure",
+    "Machine learning"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Python",
+     "AWS",
+     "Azure"
+    ],
+    "missing_realistic": [
+     "Data engineering"
+    ],
+    "ignored_unrealistic": [
+     "OpenShift"
+    ],
+    "reason": "Je Python-kennis en achtergrond in software engineering passen goed bij een data engineering traineeship.",
+    "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "93ed529aade7",
+   "source": "JobSpy",
+   "title": "IT-Traineeship trainer / opleider Rechtspraak",
+   "company": "de Rechtspraak",
+   "location": "Utrecht, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=09770c5a9124c559",
+   "salary": "€3579 - €4999 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) ICT, Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Je doet werk met impact! IVO Rechtspraak maakt als IT-dienstverlener de Nederlandse rechtspraak digitaal toegankelijk. En jij helpt duizenden medewerkers van de Rechtspraak en daarbuiten hun werk makkelijker en sneller te doen met onze applicaties. Zowel door trainingen te geven als door opleidingsmateriaal te ontwikkelen. Een superleuke én belangrijke baan! Rechters, gerechtsjuristen, administratief medewerkers, maar bijvoorbeeld ook advocaten, bewindvoerders en burgers. Vanuit IVO ondersteunen we ze met allerlei digitale applicaties. Jij leert ze niet alleen om die applicaties goed te gebruiken, maar helpt ze ook om hun werkprocessen te verbeteren. Dat doe je vanuit het team Leren & Ontwikkelen, een creatieve club mensen die openstaat voor nieuwe ideeën. In je werk sta je dicht bij de gebruikers van onze applicaties. Jij begrijpt waar ze mee zitten, hoe ze werken en wat ze willen. Van daaruit denk je mee met de implementatiemanager, communicatiespecialist en functioneel beheerder. Nog voor de implementatie van een nieuwe of gewijzigde applicatie ben jij al aangehaakt. Wat is er nodig om te zorgen dat gebruikers met de digitale toepassing uit de voeten kunnen? En hoe neem je eventuele weerstand tegen veranderingen weg? Wil jij een goede opleider én trainer worden? Ga je voor samenwerking? En weet je mensen mee te nemen in veranderingen? Dan zou jij wel eens onze ideale Trainee Trainer/Opleider Digitalisering kunnen zijn! Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting een didactische of opleidingskundige achtergrond? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis kunt deelnemen. Tijdens dit gesprek gaan we op zoek naar jouw drijfveren. Vervolggesprek (op locati",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) ICT, Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Je doet werk met impact! IVO Rechtspraak maakt als IT-dienstverlener de Nederlandse rechtspraak digitaal toegankelijk. En jij helpt duizenden medewerkers van de...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 80,
+    "matched_skills": [
+     "Klantgerichtheid",
+     "Communicatieve vaardigheden"
+    ],
+    "missing_realistic": [
+     "Ervaring met training geven"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je sterke communicatieve vaardigheden en klantervaring passen goed bij een rol als trainer.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "3a99f1a89579",
    "source": "JobSpy",
    "title": "Rabobank Traineeship Business & IT",
@@ -3038,6 +3035,55 @@
    }
   },
   {
+   "id": "d911dfb5e620",
+   "source": "JobSpy",
+   "title": "Data-analist infectiepreventie",
+   "company": "Maastricht UMC+",
+   "location": "Maastricht, LI, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=a922a94959543148",
+   "salary": "€4033 - €5528 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van infecties in het ziekenhuis. Daarbij spelen data een steeds grotere rol. Je verzamelt, analyseert en interpreteert gegevens over zorggerelateerde infecties, antimicrobiële resistentie en transmissie van micro-organismen. Je vertaalt deze gegevens naar bruikbare inzichten voor deskundigen infectiepreventie, artsen-microbioloog en andere zorgprofessionals. Zo draag je bij aan surveillance, uitbraakonderzoeken, evaluatie van infectiepreventiemaatregelen en wetenschappelijk onderzoek. Daarnaast ontwikkel je dashboards en rapportages waarmee infectietrends zichtbaar worden en de impact van interventies kan worden gevolgd. Jouw taken: Opzetten, uitvoeren en verder ontwikkelen van surveillance van zorggerelateerde infecties, antimicrobiële resistentie en andere infectiepreventierelevante indicatoren; Ondersteunen van uitbraakonderzoeken door gegevens uit verschillende databronnen te combineren en transmissiepatronen inzichtelijk te maken; Analyseren en interpreteren van microbiologische, klinische en epidemiologische gegevens ter ondersteuning van infectiepreventiebeleid; Evalueren van de effectiviteit van infectiepreventiemaatregelen en bijdragen aan kwaliteitsverbeterprojecten; Ondersteunen van wetenschappelijk onderzoek binnen het vakgebied infectiepreventie. Hoe ziet je werkomgeving eruit? De afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) verzorgt microbiologische diagnostiek voor zorgverleners in het Maastricht UMC+, huisartsen, de GGD en andere zorginstellingen in de regio Zuid-Limburg. Voor het Maastricht UMC+ en een deel van de externe aanvragers verzorgt de afdeling eveneens infectiepreventie. MMI bestaat uit een dynamisch team van ruim 100 medewerkers en omvat zowel klinisch diagnostische als researchlaboratoria. Naast het verrichten van routine microbiologische diagnostiek zijn ook research, onderwijs, opleiding en infectiepreventie belangrijke taken van de afdeling. Je gaat deel uit maken van de unit Infectiepreventie (IP): een enthousiast team van 5 deskundigen infectiepreventie, een deskundige steriele medische hulpmiddelen / endoscopen (DSMH) en een assistent-infectiepreventie, onder leiding van 2 artsen-microbioloog. Het nieuwe Elektronisch Patiënt Dossier bevat enorm veel data waarmee we in de toekomst de infectieveiligheid van ons ziekenhuis kunnen verbeteren. Jouw specifieke kennis en vaardigheden dragen bij aan dit doel. Wat vragen wij van jou? Minimaal HBO denk- en werkniveau; Programmeervaardigheid in Python of R of vergelijkbare vaardigheden voor het opschonen, structureren en verwerken van complexe datasets; In staat zijn verbanden te leggen tussen werkprocessen en daaruit ontstane data en daaruit afleiden van implicaties voor adequate data-extractie en databeheer; Zorgvuldig, gestructureerd en gedocumenteerd kunnen werken voor reproduceerbaarheid, versiebeheer en samenwerking binnen een team; Kritisch kunnen beoordelen en controleren van eigen en andermans werk; In teamverband realiseren van doelen en hierin anderen kunnen aanvullen en ondersteunen (samenwerken en communiceren) Werkervaring op het gebied van medische biologie is een pré. Voor deze rol is het een voorwaarde dat je in Nederland mag werken (EU/EER-nationaliteit of een geldige werkvergunning). Voldoe jij aan deze functie-eisen? Dan gaan wij voor jou! Salaris Afhankelijk van opleiding en ervaring bedraagt het salaris minimaal € 4.033,- en maximaal € 5.528,- bruto per maand bij een fulltime aanstelling. Dit salaris is exclusief vakantiegeld en een eindejaarsuitkering van 8,3% van je bruto jaarsalaris. Arbeidsovereenkomst Het betreft een tijdelijke arbeidsovereenkomst van 3 jaar, voor gemiddeld 28 tot 36 uur, conform artikel 2.4.2 van de Cao umc. Wat bieden wij Bij het Maastricht UMC+ zorgen wij ervoor dat je alles hebt om jouw bijdrage te leveren aan de ultieme zorg. Daar horen de juiste arbeidsvoorwaarden bij. Lees hier wat wij je bieden. Heb je nog vragen? Voor meer informatie over de functie mag je contact opnemen met Dr. Wil van der Zwet, arts-microbioloog infectiepreventie, bereikbaar op tel. 043 - 3876644 of via e-mail secretariaat.mmi@mumc.nl. Voor informatie over de sollicitatieprocedure volg je deze link. Algemene informatie over arbeidsvoorwaarden en werken bij het Maastricht UMC+ vind je hier. Het antwoord op jouw vraag niet kunnen vinden? Neem dan contact op met team Recruitment. Sollicitaties voor deze vacature kunnen worden ingediend tot en met 2 december. Wij werven onze kandidaten zelf en werken niet samen met externe bureaus voor deze vacature.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van...",
+   "benefits": [
+    "32-36 uur"
+   ],
+   "skills": [
+    "Python"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "SQL",
+     "Python"
+    ],
+    "missing_realistic": [
+     "Epidemiologie",
+     "Zorginfectie surveillance"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt programmeer- en data-skills, maar mist specifieke achtergrond in infectiepreventie en data-analyse.",
+    "local_score": 100,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "4d9d0482ef91",
    "source": "JobSpy",
    "title": "Flight Analyst",
@@ -3086,55 +3132,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "d911dfb5e620",
-   "source": "JobSpy",
-   "title": "Data-analist infectiepreventie",
-   "company": "Maastricht UMC+",
-   "location": "Maastricht, LI, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=a922a94959543148",
-   "salary": "€4033 - €5528 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van infecties in het ziekenhuis. Daarbij spelen data een steeds grotere rol. Je verzamelt, analyseert en interpreteert gegevens over zorggerelateerde infecties, antimicrobiële resistentie en transmissie van micro-organismen. Je vertaalt deze gegevens naar bruikbare inzichten voor deskundigen infectiepreventie, artsen-microbioloog en andere zorgprofessionals. Zo draag je bij aan surveillance, uitbraakonderzoeken, evaluatie van infectiepreventiemaatregelen en wetenschappelijk onderzoek. Daarnaast ontwikkel je dashboards en rapportages waarmee infectietrends zichtbaar worden en de impact van interventies kan worden gevolgd. Jouw taken: Opzetten, uitvoeren en verder ontwikkelen van surveillance van zorggerelateerde infecties, antimicrobiële resistentie en andere infectiepreventierelevante indicatoren; Ondersteunen van uitbraakonderzoeken door gegevens uit verschillende databronnen te combineren en transmissiepatronen inzichtelijk te maken; Analyseren en interpreteren van microbiologische, klinische en epidemiologische gegevens ter ondersteuning van infectiepreventiebeleid; Evalueren van de effectiviteit van infectiepreventiemaatregelen en bijdragen aan kwaliteitsverbeterprojecten; Ondersteunen van wetenschappelijk onderzoek binnen het vakgebied infectiepreventie. Hoe ziet je werkomgeving eruit? De afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) verzorgt microbiologische diagnostiek voor zorgverleners in het Maastricht UMC+, huisartsen, de GGD en andere zorginstellingen in de regio Zuid-Limburg. Voor het Maastricht UMC+ en een deel van de externe aanvragers verzorgt de afdeling eveneens infectiepreventie. MMI bestaat uit een dynamisch team van ruim 100 medewerkers en omvat zowel klinisch diagnostische als researchlaboratoria. Naast het verrichten van routine microbiologische diagnostiek zijn ook research, onderwijs, opleiding en infectiepreventie belangrijke taken van de afdeling. Je gaat deel uit maken van de unit Infectiepreventie (IP): een enthousiast team van 5 deskundigen infectiepreventie, een deskundige steriele medische hulpmiddelen / endoscopen (DSMH) en een assistent-infectiepreventie, onder leiding van 2 artsen-microbioloog. Het nieuwe Elektronisch Patiënt Dossier bevat enorm veel data waarmee we in de toekomst de infectieveiligheid van ons ziekenhuis kunnen verbeteren. Jouw specifieke kennis en vaardigheden dragen bij aan dit doel. Wat vragen wij van jou? Minimaal HBO denk- en werkniveau; Programmeervaardigheid in Python of R of vergelijkbare vaardigheden voor het opschonen, structureren en verwerken van complexe datasets; In staat zijn verbanden te leggen tussen werkprocessen en daaruit ontstane data en daaruit afleiden van implicaties voor adequate data-extractie en databeheer; Zorgvuldig, gestructureerd en gedocumenteerd kunnen werken voor reproduceerbaarheid, versiebeheer en samenwerking binnen een team; Kritisch kunnen beoordelen en controleren van eigen en andermans werk; In teamverband realiseren van doelen en hierin anderen kunnen aanvullen en ondersteunen (samenwerken en communiceren) Werkervaring op het gebied van medische biologie is een pré. Voor deze rol is het een voorwaarde dat je in Nederland mag werken (EU/EER-nationaliteit of een geldige werkvergunning). Voldoe jij aan deze functie-eisen? Dan gaan wij voor jou! Salaris Afhankelijk van opleiding en ervaring bedraagt het salaris minimaal € 4.033,- en maximaal € 5.528,- bruto per maand bij een fulltime aanstelling. Dit salaris is exclusief vakantiegeld en een eindejaarsuitkering van 8,3% van je bruto jaarsalaris. Arbeidsovereenkomst Het betreft een tijdelijke arbeidsovereenkomst van 3 jaar, voor gemiddeld 28 tot 36 uur, conform artikel 2.4.2 van de Cao umc. Wat bieden wij Bij het Maastricht UMC+ zorgen wij ervoor dat je alles hebt om jouw bijdrage te leveren aan de ultieme zorg. Daar horen de juiste arbeidsvoorwaarden bij. Lees hier wat wij je bieden. Heb je nog vragen? Voor meer informatie over de functie mag je contact opnemen met Dr. Wil van der Zwet, arts-microbioloog infectiepreventie, bereikbaar op tel. 043 - 3876644 of via e-mail secretariaat.mmi@mumc.nl. Voor informatie over de sollicitatieprocedure volg je deze link. Algemene informatie over arbeidsvoorwaarden en werken bij het Maastricht UMC+ vind je hier. Het antwoord op jouw vraag niet kunnen vinden? Neem dan contact op met team Recruitment. Sollicitaties voor deze vacature kunnen worden ingediend tot en met 2 december. Wij werven onze kandidaten zelf en werken niet samen met externe bureaus voor deze vacature.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Wat ga je doen? Wil jij met data bijdragen aan betere patiëntveiligheid en het voorkomen van zorginfecties? Binnen het team Infectiepreventie van de afdeling Medische Microbiologie, Infectieziekten en Infectiepreventie (MMI) werken we dagelijks aan het monitoren, voorkómen en bestrijden van...",
-   "benefits": [
-    "32-36 uur"
-   ],
-   "skills": [
-    "Python"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "SQL",
-     "Python"
-    ],
-    "missing_realistic": [
-     "Epidemiologie",
-     "Zorginfectie surveillance"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt programmeer- en data-skills, maar mist specifieke achtergrond in infectiepreventie en data-analyse.",
-    "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -4640,52 +4637,6 @@
    }
   },
   {
-   "id": "e53c10d7a2f7",
-   "source": "JobSpy",
-   "title": "Real Time Analyst (Workforce Management)",
-   "company": "Conduent",
-   "location": "Rotterdam, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=5e0b22ce74d6a97d",
-   "salary": "€2700 - €2800 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het verschil en onderdeel te zijn van een cultuur waar individualiteit belangrijk is en iedere dag wordt gewaardeerd. Ben jij iemand die graag overzicht houdt, snel schakelt en energie krijgt van cijfers en uitdagingen? Weet jij als geen ander hoe het eraan toegaat op de callcenter-vloer en ben je klaar voor een volgende stap in je carrière? Dan hebben wij een mooie uitdaging voor je! Zie jezelf als de verkeersleider van onze operatie. Jij houdt het overzicht, signaleert wat er gebeurt en zorgt dat alles op het juiste moment samenkomt. Samen met je collega's zorg je ervoor dat het aantal verwachte klantcontacten (de vraag) en de beschikbare medewerkers (het aanbod) goed op elkaar aansluiten. Hiervoor gebruik je data, rapportages en slimme voorspellingen. Geen dag is hetzelfde! Dit zijn jouw belangrijkste werkzaamheden: Jij houdt de regie: je monitort de roosters en bezetting van onze klantcontactmedewerkers en houdt realtime in de gaten of alles volgens planning verloopt. Je duikt in de cijfers: je analyseert KPI's zoals productiviteit, afhandeltijden en shrinkage. Je ziet afwijkingen voordat ze een probleem worden. Je komt in actie: loopt de operatie anders dan gepland? Dan onderneem je actie en stuur je bij om de doelstellingen te behalen. Je schakelt met verschillende teams: je overlegt met de Teamleiders, Operations Managers en het Client Team en deelt jouw inzichten en adviezen. Je denkt vooruit: je analyseert rapportages, ontdekt trends en komt met ideeën om de performance én motivatie van onze agents te verbeteren. Wat breng jij mee? Je hoeft echt niet alles al te weten. We vinden het vooral belangrijk dat je nieuwsgierig bent, graag leert en gevoel hebt voor de operatie. Ervaring in een callcenter? Dan heb je een mooie voorsprong! Je weet immers hoe de operatie werkt en wat er op de werkvloer speelt. Verder herken jij jezelf hierin: Je hebt MBO+/HBO werk- en denkniveau. Je hebt gevoel voor cijfers en vindt het leuk om data te analyseren. Je kunt goed overweg met computers en programma's zoals Excel, Outlook en Word. Je bent flexibel en vindt het geen probleem om in wisselende diensten te werken. Je denkt graag mee en komt met frisse ideeën om de prestaties en motivatie van onze agents te verbeteren. Je durft initiatief te nemen en vindt het leuk om met verschillende teams samen te werken. Wat wij bieden! Een leuk enthousiast team waar iedereen meeviert met alle successen EUR 2700-2800 bruto per maand op basis van fulltime 36-40 uur per week mogelijk, inclusief thuiswerkdag 25 vakantiedagen en 2 dagen extra wanneer je niet ziek bent geweest gedurende het jaar Pensioenregeling Reiskostenvergoeding 8% vakantiegeld WGA-hiaatverzekering Collectiviteitskorting op aanvullende zorgverzekering Employee referral bonus program Lease-a-bike optie Meer dan 1000 trainingen in onze eigen Conduent University om elke dag een beetje beter te worden. Wil jij niet alleen onderdeel zijn van de operatie, maar ook meebepalen hoe deze draait? Vind je het leuk om met data te werken, snel te schakelen en samen resultaten te behalen? Dan is dit jouw kans om door te groeien en het verschil te maken. Solliciteer en ontdek wat jij kunt bereiken binnen Workforce Management! Bij Conduent krijgt iedereen evenveel kansen en is iedereen gelijk ongeacht: huidskleur, geloofsovertuiging, religie, afkomst, leeftijd, genderidentiteit, genderexpressie, geslacht, burgerlijke staat, seksuele geaardheid, lichamelijke of geestelijke handicap, medische aandoening, gebruik van een geleidehond of hulpdier, militaire/veteranenstatus of een andere groep die wettelijk beschermd is. Voor Amerikaanse sollicitanten: Mensen met een handicap die redelijke aanpassingen nodig hebben om te solliciteren naar of meedingen naar een baan bij Conduent, kunnen dergelijke aanpassingen aanvragen door op de volgende link te klikken, het aanvraagformulier in te vullen en het verzoek in te dienen via de knop \"Verzenden\" onderaan het formulier. Klik hier om het formulier te openen of te downloaden. klik hier om toegang te krijgen tot het ADAAA-accommodatiebeleid van Conduent.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "Bonus",
-    "Reiskosten"
-   ],
-   "skills": [
-    "Excel"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T10:45:44.960320+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je eerdere ervaring bij de servicedesk sluit aan bij de operationele processen, hoewel deze rol meer op workforce management focust.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "a663a3c09444",
    "source": "JobSpy",
    "title": "Machine Learning Engineer",
@@ -4742,6 +4693,104 @@
     "ai": true,
     "check": false,
     "visible": false
+   }
+  },
+  {
+   "id": "e53c10d7a2f7",
+   "source": "JobSpy",
+   "title": "Real Time Analyst (Workforce Management)",
+   "company": "Conduent",
+   "location": "Rotterdam, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=5e0b22ce74d6a97d",
+   "salary": "€2700 - €2800 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het verschil en onderdeel te zijn van een cultuur waar individualiteit belangrijk is en iedere dag wordt gewaardeerd. Ben jij iemand die graag overzicht houdt, snel schakelt en energie krijgt van cijfers en uitdagingen? Weet jij als geen ander hoe het eraan toegaat op de callcenter-vloer en ben je klaar voor een volgende stap in je carrière? Dan hebben wij een mooie uitdaging voor je! Zie jezelf als de verkeersleider van onze operatie. Jij houdt het overzicht, signaleert wat er gebeurt en zorgt dat alles op het juiste moment samenkomt. Samen met je collega's zorg je ervoor dat het aantal verwachte klantcontacten (de vraag) en de beschikbare medewerkers (het aanbod) goed op elkaar aansluiten. Hiervoor gebruik je data, rapportages en slimme voorspellingen. Geen dag is hetzelfde! Dit zijn jouw belangrijkste werkzaamheden: Jij houdt de regie: je monitort de roosters en bezetting van onze klantcontactmedewerkers en houdt realtime in de gaten of alles volgens planning verloopt. Je duikt in de cijfers: je analyseert KPI's zoals productiviteit, afhandeltijden en shrinkage. Je ziet afwijkingen voordat ze een probleem worden. Je komt in actie: loopt de operatie anders dan gepland? Dan onderneem je actie en stuur je bij om de doelstellingen te behalen. Je schakelt met verschillende teams: je overlegt met de Teamleiders, Operations Managers en het Client Team en deelt jouw inzichten en adviezen. Je denkt vooruit: je analyseert rapportages, ontdekt trends en komt met ideeën om de performance én motivatie van onze agents te verbeteren. Wat breng jij mee? Je hoeft echt niet alles al te weten. We vinden het vooral belangrijk dat je nieuwsgierig bent, graag leert en gevoel hebt voor de operatie. Ervaring in een callcenter? Dan heb je een mooie voorsprong! Je weet immers hoe de operatie werkt en wat er op de werkvloer speelt. Verder herken jij jezelf hierin: Je hebt MBO+/HBO werk- en denkniveau. Je hebt gevoel voor cijfers en vindt het leuk om data te analyseren. Je kunt goed overweg met computers en programma's zoals Excel, Outlook en Word. Je bent flexibel en vindt het geen probleem om in wisselende diensten te werken. Je denkt graag mee en komt met frisse ideeën om de prestaties en motivatie van onze agents te verbeteren. Je durft initiatief te nemen en vindt het leuk om met verschillende teams samen te werken. Wat wij bieden! Een leuk enthousiast team waar iedereen meeviert met alle successen EUR 2700-2800 bruto per maand op basis van fulltime 36-40 uur per week mogelijk, inclusief thuiswerkdag 25 vakantiedagen en 2 dagen extra wanneer je niet ziek bent geweest gedurende het jaar Pensioenregeling Reiskostenvergoeding 8% vakantiegeld WGA-hiaatverzekering Collectiviteitskorting op aanvullende zorgverzekering Employee referral bonus program Lease-a-bike optie Meer dan 1000 trainingen in onze eigen Conduent University om elke dag een beetje beter te worden. Wil jij niet alleen onderdeel zijn van de operatie, maar ook meebepalen hoe deze draait? Vind je het leuk om met data te werken, snel te schakelen en samen resultaten te behalen? Dan is dit jouw kans om door te groeien en het verschil te maken. Solliciteer en ontdek wat jij kunt bereiken binnen Workforce Management! Bij Conduent krijgt iedereen evenveel kansen en is iedereen gelijk ongeacht: huidskleur, geloofsovertuiging, religie, afkomst, leeftijd, genderidentiteit, genderexpressie, geslacht, burgerlijke staat, seksuele geaardheid, lichamelijke of geestelijke handicap, medische aandoening, gebruik van een geleidehond of hulpdier, militaire/veteranenstatus of een andere groep die wettelijk beschermd is. Voor Amerikaanse sollicitanten: Mensen met een handicap die redelijke aanpassingen nodig hebben om te solliciteren naar of meedingen naar een baan bij Conduent, kunnen dergelijke aanpassingen aanvragen door op de volgende link te klikken, het aanvraagformulier in te vullen en het verzoek in te dienen via de knop \"Verzenden\" onderaan het formulier. Klik hier om het formulier te openen of te downloaden. klik hier om toegang te krijgen tot het ADAAA-accommodatiebeleid van Conduent.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Dankzij de inzet van onze medewerkers levert Conduent missie kritieke diensten en oplossingen voor Fortune 100 bedrijven en meer dan 500 overheden – en creëert zo uitzonderlijke uitkomsten voor onze klanten en de miljoenen mensen die op hen rekenen. Jij hebt de kans om persoonlijk te groeien, het...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "Bonus",
+    "Reiskosten"
+   ],
+   "skills": [
+    "Excel"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T10:45:44.960320+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je eerdere ervaring bij de servicedesk sluit aan bij de operationele processen, hoewel deze rol meer op workforce management focust.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "99b022d21c81",
+   "source": "JobSpy",
+   "title": "Junior Data Engineer",
+   "company": "Just Eat Takeaway.com",
+   "location": "Amsterdam, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=b9e53b98f010a927",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role In this role, you will join the Customer Data Products & Insights (CDPI) team, the group responsible for building the data foundations that power all customer experiences at Just Eat Takeaway. We work collaboratively across CRM, Product, and Marketing to lead with data, deliver trusted insights, and care about the quality and impact of what we build. As a Data Engineer, you’ll design, build, and optimise the pipelines and models that fuel our Customer Data Platform and downstream activation tools. You’ll work closely with analysts and cross-functional partners to translate business needs into reliable, scalable, and production-ready solutions. This is an opportunity to contribute to strategic initiatives such as Data Ignite and Looker adoption, helping us build a consistent and customer-centric data ecosystem that supports millions of users. Location: 3 days a week from our Amsterdam office & 2 days working from home Reporting to: Senior Manager - Customer Data Products and Insights These are some of the key components to the position: Design, build, and maintain scalable ingestion and transformation pipelines to ensure the CDP remains the trusted source of customer data. Implement strong data quality checks, lineage, and governance using tools such as DataHub and Morpheus to uphold accuracy and reliability. Collaborate with CRM, Product, and engineering partners to integrate new events, attributes, and identifiers into the customer data ecosystem. Build and optimise ELT pipelines using BigQuery, dbt, Airflow, and Datadog, aiming for excellence in performance, stability, and scalability. Apply best practices in documentation, unit testing, and CI/CD to ensure production-ready, high-quality data assets. Partner with the Data Ignite team to develop datasets for activation through Hightouch, supporting CRM, Product, and Media use cases. Ensure Hightouch-ready tables are efficient, secure, and well-monitored, and contribute to troubleshooting and optimisation when needed. Support the migration to Looker by building semantic layers and standardised customer KPIs aligned with global definitions. Work with analysts and engineers to design scalable data models that enable self-serve dashboards and consistent reporting. Contribute to sprint planning, technical prioritisation, and knowledge-sharing to help the team collaborate effectively and deliver together. What will you bring to the team? Strong SQL and dbt skills, with the ability to design clean, scalable data models that support reliable customer insights. Confident Python abilities for automation, orchestration, and building pipelines that help the team deliver efficiently. Familiarity with orchestration tools such as Airflow or Dagster, and a desire to optimise workflows for stability and speed. Solid understanding of data warehousing, ELT best practices, and governance concepts that ensure trust and accountability. Interest in customer and marketing datasets, with curiosity for how data powers segmentation, activation, and engagement. A sense of ownership and a proactive approach, contributing to the team’s success with a collaborative and positive mindset. Openness to learning Looker semantic modelling and supporting our migration from Tableau to a unified reporting platform. Willingness to explore tools like Hightouch or other activation platforms to understand how data drives real-time experiences. Curiosity for real-time data frameworks such as Pub/Sub, Kafka, or Dataflow, and a desire to build future-ready pipelines. A responsible, growth-oriented working style, eager to learn from others, share knowledge, and help the team aim higher together. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn't just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers' loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we're building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belonging No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We're committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else is cooking? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET morsels. Are you ready to take your seat? Apply now! #LI-NB2",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
+   "benefits": [],
+   "skills": [
+    "Python",
+    "SQL",
+    "CI/CD",
+    "Unit testing",
+    "Tableau"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T10:45:44.960320+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "Python",
+     "SQL",
+     "AWS"
+    ],
+    "missing_realistic": [
+     "Data engineering pipelines",
+     "Looker"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol.",
+    "local_score": 72,
+    "ai": true,
+    "check": false,
+    "visible": true
    }
   },
   {
@@ -4852,58 +4901,6 @@
     ],
     "reason": "Je Python- en SQL-vaardigheden sluiten goed aan bij de basis van deze data-engineeringrol.",
     "local_score": 80,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "99b022d21c81",
-   "source": "JobSpy",
-   "title": "Junior Data Engineer",
-   "company": "Just Eat Takeaway.com",
-   "location": "Amsterdam, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=b9e53b98f010a927",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role In this role, you will join the Customer Data Products & Insights (CDPI) team, the group responsible for building the data foundations that power all customer experiences at Just Eat Takeaway. We work collaboratively across CRM, Product, and Marketing to lead with data, deliver trusted insights, and care about the quality and impact of what we build. As a Data Engineer, you’ll design, build, and optimise the pipelines and models that fuel our Customer Data Platform and downstream activation tools. You’ll work closely with analysts and cross-functional partners to translate business needs into reliable, scalable, and production-ready solutions. This is an opportunity to contribute to strategic initiatives such as Data Ignite and Looker adoption, helping us build a consistent and customer-centric data ecosystem that supports millions of users. Location: 3 days a week from our Amsterdam office & 2 days working from home Reporting to: Senior Manager - Customer Data Products and Insights These are some of the key components to the position: Design, build, and maintain scalable ingestion and transformation pipelines to ensure the CDP remains the trusted source of customer data. Implement strong data quality checks, lineage, and governance using tools such as DataHub and Morpheus to uphold accuracy and reliability. Collaborate with CRM, Product, and engineering partners to integrate new events, attributes, and identifiers into the customer data ecosystem. Build and optimise ELT pipelines using BigQuery, dbt, Airflow, and Datadog, aiming for excellence in performance, stability, and scalability. Apply best practices in documentation, unit testing, and CI/CD to ensure production-ready, high-quality data assets. Partner with the Data Ignite team to develop datasets for activation through Hightouch, supporting CRM, Product, and Media use cases. Ensure Hightouch-ready tables are efficient, secure, and well-monitored, and contribute to troubleshooting and optimisation when needed. Support the migration to Looker by building semantic layers and standardised customer KPIs aligned with global definitions. Work with analysts and engineers to design scalable data models that enable self-serve dashboards and consistent reporting. Contribute to sprint planning, technical prioritisation, and knowledge-sharing to help the team collaborate effectively and deliver together. What will you bring to the team? Strong SQL and dbt skills, with the ability to design clean, scalable data models that support reliable customer insights. Confident Python abilities for automation, orchestration, and building pipelines that help the team deliver efficiently. Familiarity with orchestration tools such as Airflow or Dagster, and a desire to optimise workflows for stability and speed. Solid understanding of data warehousing, ELT best practices, and governance concepts that ensure trust and accountability. Interest in customer and marketing datasets, with curiosity for how data powers segmentation, activation, and engagement. A sense of ownership and a proactive approach, contributing to the team’s success with a collaborative and positive mindset. Openness to learning Looker semantic modelling and supporting our migration from Tableau to a unified reporting platform. Willingness to explore tools like Hightouch or other activation platforms to understand how data drives real-time experiences. Curiosity for real-time data frameworks such as Pub/Sub, Kafka, or Dataflow, and a desire to build future-ready pipelines. A responsible, growth-oriented working style, eager to learn from others, share knowledge, and help the team aim higher together. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn't just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers' loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we're building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belonging No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We're committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else is cooking? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET morsels. Are you ready to take your seat? Apply now! #LI-NB2",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We're a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it's a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
-   "benefits": [],
-   "skills": [
-    "Python",
-    "SQL",
-    "CI/CD",
-    "Unit testing",
-    "Tableau"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T10:45:44.960320+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "Python",
-     "SQL",
-     "AWS"
-    ],
-    "missing_realistic": [
-     "Data engineering pipelines",
-     "Looker"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol.",
-    "local_score": 72,
     "ai": true,
     "check": false,
     "visible": true
@@ -8757,57 +8754,6 @@
    }
   },
   {
-   "id": "3ca2d1523168",
-   "source": "JobSpy",
-   "title": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10)",
-   "company": "ABN AMRO",
-   "location": "Amsterdam, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=d1b535345a07790e",
-   "salary": "€5304 - €7577 per maand",
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10) At a glance Are you ready to be a part of the exciting changes happening in ABN Amro's Corporate Credit Landscape? We are seeking individuals who are passionate about learning and developing their skills while designing future-proof end-to-end lending processes within Financing Solutions. ABN AMRO is committed to enriching and renewing the lending landscape by simplifying and accelerating processes to better identify customer risks and serve them transparently. As part of the Credits Capability Grid department, we are digitizing customer data and building a new central credit platform. Your role will be crucial in identifying business needs and translating them to our IT department. If you are ready to contribute to the credit landscape of the future and be a part of our mission to serve our customers better, then we want you on our team. Join us as a Business Consultant / Analyst in building a brighter future for lending! Your job We are looking for a Business Consultant / Analyst to design and continuously improve our new digital end-to-end lending processes. In this position, you will have the opportunity to make a positive impact on the future of lending. You will be working for the Collateral Management Lifecycle team within Corporate Banking, responsible for a new digital end-to-end customer journey. Your role will involve driving requirement gathering from end-users and specialist teams , such as Lenders, Credit Risk, Contracting, Operations and Regulatory. Turning these into technical designs for our Salesforce credit origination platform. Balancing regulatory requirements with practical, day-to-day operational feasibility to ensure compliant yet workable solutions for end-users. As the bridge between end-users and our developers, you will learn the end-to-end journey of corporate credits and the daily tasks of our end-users. In order to excel at this job, you need to be creative, good at stakeholder management, organized, empathetic towards users, like a challenge, and eager to learn about our software and processes. Examples of day-to-day tasks include: Analysing services, business processes, information flows, user and system requirements to identify opportunities. Translating product roadmap features into concrete user stories by identifying and prioritizing technical and functional requirements. Creating system and/or data model designs which you translate in clear documentation to develop a shared understanding of the topic and improve organizational learning. Supporting implementation, helping the development team to deliver quality by collaborating on test design and user acceptance tests. Working environment We are excited to welcome you to our devops team within the Collateral Management Lifecycle shop. You will work closely with colleagues from other streams, such as Integrations, Business Implementation, Regulatory, and subject matter experts from departments such as Lending, Risk and FR&R. Collaboration is key to our success, and we are committed to create a supportive and inclusive workplace culture. A healthy work-life balance is essential for you to thrive and succeed in your role where we strive to be between 2 a 3 days a week at the office. Your profile You are passionate about devops, driven to learn and grow and eager to contribute to our mission of shaping the future of lending. If you are a team player who enjoys working collaboratively, then we would love to hear from you. Join us in making a positive impact on the world of Collateral Management! As a problem-solver, you enjoy tackling complex challenges and providing structure to problems. You take ownership of challenges and can translate requirements into Salesforce functionalities in collaboration with our IT teams. You are a connector, building bridges and bringing others together. We welcome candidates of all backgrounds and experiences, including those without professional working experience in banking. We are looking for someone who is eager to learn and can bring a positive attitude to the team. We will provide you with the necessary training and support to excel in the role. Requirements: Bachelor's, or Master's degree in any field Ability to identify solution options and present advice to stakeholders in a convincing and structured manner Experience in business analysis, stakeholder management and system/process design Strong affinity towards technology, data structures, and querying Knowledge of nCino system or Salesforce delivery is a plus, but willingness to learn is necessary Self-starter with a critical look and positive attitude Join us in shaping the future of lending with your problem-solving skills and collaborative attitude. We look forward to hearing from you! We are offering We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing. In addition, we offer: An attractive gross monthly salary based on a 36-hour work week, including holiday allowanceand a flexible benefit budget. An excellent pension scheme, ensuring that you are well prepared for the future. Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you. Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually. Five “Banking for better days”: extra days off that you can use for personal development or volunteer work. Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000. An annual public transport pass with free public transportation throughout the Netherlands for both business and private use. You can find more informat",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10) At a glance Are you ready to be a part of the exciting changes happening in ABN Amro's Corporate Credit Landscape? We are seeking individuals who are passionate about learning and developing their skills while designing...",
-   "benefits": [
-    "Pensioen"
-   ],
-   "skills": [
-    "DevOps",
-    "Excel",
-    "Requirements",
-    "Stakeholdermanagement"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T18:23:08.200089+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 40,
-    "matched_skills": [
-     "REST API’s"
-    ],
-    "missing_realistic": [
-     "business consultancy ervaring",
-     "credit management domeinkennis"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Hoewel je klantgesprekken voert, is deze consultantrol te specifiek gericht op financiële processen en senior advies.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "43aa3fc4a848",
    "source": "JobSpy",
    "title": "Global Assignment Consultant",
@@ -9072,6 +9018,50 @@
    }
   },
   {
+   "id": "49f175901dc2",
+   "source": "JobSpy",
+   "title": "MBB'er met specialisatie Functioneel Beheer",
+   "company": "Frisius MC",
+   "location": "Heerenveen, FR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=65afb4c211a87c98",
+   "salary": "€3463 - €4914 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Jouw afdeling en collega's Je komt terecht in een warm en enthousiast team. Collega's delen hun vakkennis graag met elkaar en helpen elkaar waar nodig. Het Centrum Beeldvorming is verdeeld over beide ziekenhuislocaties van Frisius MC (Leeuwarden en Heerenveen) en heeft daarnaast een aantal buitenpoli's. Het Centrum Beeldvorming heeft een belangrijke regionale functie. We voeren diagnostische onderzoeken en therapeutische behandelingen uit met verschillende beeldvormende technieken. Denk aan radiodiagnostiek, CT, angiografie, MRI, mammografie, echografie, nucleaire geneeskunde, radiofarmacie en medische fotografie. Jij bij Frisius MC Als MBB'er met specialisatie Functioneel Beheer verdeel je jouw tijd tussen de Algemene Radiologie en functioneel beheer. Je maakt deel uit van beide teams. Heb je al een andere specialisatie binnen de radiologie? Dan is dat ook bespreekbaar. Op de dagen dat je als MBB'er werkt, voer je radiologische onderzoeken uit en rouleer je over verschillende onderzoekskamers. Ook denk je mee over verbeteringen in de werkprocessen op de afdeling. Minimaal twee dagen per week werk je als functioneel beheerder. Je maakt deel uit van een klein en betrokken team dat verantwoordelijk is voor de radiologische applicaties. Je werkt daarbij samen met onder andere de MID, ICT en Klinische Fysica. Zo help je het medisch beeldvormend proces binnen Frisius MC goed te laten verlopen. Binnen functioneel beheer houd je je bezig met: Het beheren en verbeteren van radiologische applicaties, zoals RIS, PACS en aanverwante systemen. Het ondersteunen van collega's bij vragen, incidenten en problemen met applicaties. Het onderzoeken van wensen vanuit de praktijk en vertalen daarvan naar oplossingen. Het meewerken aan projecten op het gebied van digitalisering en procesverbetering. Het geven van instructies en ondersteuning aan gebruikers. Je werkt op twee locaties, maar het is mogelijk om een vaste hoofdlocatie af te spreken. Dit ben jij Je bent een gemotiveerde en patiëntgerichte MBB'er die verder kijkt dan alleen de onderzoeksruimte. Je bent nieuwsgierig naar werkprocessen, systemen en de mogelijkheden van digitalisering binnen de zorg. Met jouw flexibele, service- en resultaatgerichte houding werk je prettig samen met verschillende collega's. Je denkt in grotere verbanden, neemt initiatief en kijkt verder dan de meest voor de hand liggende oplossingen. Daarbij kun je zelfstandig werken en houd je rekening met verschillende, soms tegengestelde belangen. De combinatie van radiologie en functioneel beheer spreekt je aan. Je krijgt graag de ruimte om mee te denken en je eigen ideeën in te brengen. Jouw kennis en ervaring Je hebt een MBRT-diploma of een vergelijkbare opleiding afgerond. Ervaring als MBB'er of een specialisatie binnen de radiologie is een pre, maar niet noodzakelijk. Ervaring met radiologische informatiesystemen of functioneel beheer is mooi meegenomen, maar geen vereiste. Je hebt affiniteit met ICT, applicaties en informatiestromen. Dit mag je van ons verwachten Contract : Je krijgt een tijdelijk dienstverband voor 24 tot 36 uur per week. Salaris: Je ontvangt een brutosalaris vanaf € 3.463 tot max € 4.914*, dit bespreken we natuurlijk graag met jou tijdens het arbeidsvoorwaardengesprek. Vrije dagen : Je kunt 144 vakantie uren en 57 uur Persoonlijk Levensfase Budget (PLB) per jaar gebruiken om vrij te nemen wanneer het jou uitkomt en in overleg met je leidinggevende (op basis van 36 uur). Arbeidsextra’s : Daarnaast krijg je ook nog eens 8,33% vakantietoeslag en 8,33% eindejaarsuitkering, samen goed voor ongeveer twee extra maandsalarissen per jaar! Opleidings- en ontwikkelmogelijkheden op gebied van functioneel beheer en informatiemanagement. op basis van 36 uur per week, conform de cao Ziekenhuizen). De functie wordt momenteel opnieuw gewaardeerd. Meer weten? Of een dag meelopen om sfeer te proeven en kennis te met de afdeling en het team? Neem contact op met: Fred van den Hoogen (Staffunctionaris Centrum Beeldvorming) via 058 286 6044. Janny Wallinga (Teammanager Centrum Beeldvorming) via 058 286 7435. #teamFrisiusMC Wil jij ook komen werken bij #teamFrisiusMC? Of alvast even digitaal sfeerproeven? Bekijk ons Instagramaccount @frisiusmc.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Jouw afdeling en collega's Je komt terecht in een warm en enthousiast team. Collega's delen hun vakkennis graag met elkaar en helpen elkaar waar nodig. Het Centrum Beeldvorming is verdeeld over beide ziekenhuislocaties van Frisius MC (Leeuwarden en Heerenveen) en heeft daarnaast een aantal...",
+   "benefits": [
+    "32-36 uur"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-02T20:18:41.204511+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 10,
+    "matched_skills": [],
+    "missing_realistic": [
+     "MBB'er opleiding",
+     "radiologische praktijk"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze functie vereist een specifieke medische achtergrond als MBB'er die totaal niet op je cv staat.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "13aa0218599a",
    "source": "JobSpy",
    "title": "Functioneel beheerder",
@@ -9118,97 +9108,6 @@
     "ai": true,
     "check": false,
     "visible": true
-   }
-  },
-  {
-   "id": "011320bc9771",
-   "source": "JobSpy",
-   "title": "Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit",
-   "company": "HealthBytes",
-   "location": "Schiedam, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=f93359890bac892f",
-   "salary": "€4000 - €5400 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "HealthBytes is op zoek naar een Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit voor een zorg-organisatie in de regio Rotterdam. De functie Als Functioneel Beheerder AFAS ben je verantwoordelijk voor het beheren en optimaliseren van de AFAS omgeving. Je combineert jouw ervaring met de wensen vanuit de organisatie om AFAS optimaal in te zetten en ook verder te optimaliseren. Er wordt een pro-actieve houding verwacht om de organisatie verder te professionaliseren en de processen kritisch te bekijken en te verbeteren en / of te vereenvoudigen. De verantwoordelijkheid ligt grotendeels bij jou en daar moet je je uiteraard ook prettig bij voelen. Daarnaast moet je stevig in je schoenen staan om ook de kritische medewerkers inzicht te geven in de voordelen die AFAS met zich meebrengt én een samenwerking tot stand te brengen. Verantwoordelijkheden Het beheren, onderhouden en verbeteren van AFAS Het analyseren van wensen en behoeften van gebruikers en deze vertalen naar functionele oplossingen Het ontwikkelen van rapportages, workflows en koppelingen binnen AFAS Het trainen en ondersteunen van collega's in het gebruik van het systeem Het signaleren van kansen voor procesoptimalisatie en het begeleiden van verbeteringen Jouw profiel HBO werk- en denkniveau Ervaring met het Functioneel Beheer van AFAS Ervaring met projectmatig werken en kennis van procesoptimalisatie Sterke analytische vaardigheden en een oplossingsgerichte instelling Uitstekende communicatieve vaardigheden om met collega's op alle niveaus te schakelen Uitstekende beheersing van de Nederlandse taal in woord en geschrift Wat wij bieden Een goed salaris tot € 5.500 (op basis van 36 uur en uitstekende secundaire voorwaarden. Een eindejaarsuitkering van 8,33% én 8% vakantiegeld Uitstekende secundaire arbeidsvoorwaarden Persoonlijke opleidings- en ontwikkelingsmogelijkheden De functie is vanaf 32 uur in te vullen De X-factor Wat deze functie zo uniek maakt is dat je jouw kennis en ervaring breed kan inzetten binnen de organisatie. AFAS neemt een belangrijke positie in binnen de core-processen en met jouw analytische skills kan je de potentiële verbeteringen terugkoppelen aan de organisatie én daarmee de gebruikers ook daadwerkelijk ontlasten. Interesse? Als je meer wilt weten of interesse hebt, 'solliciteer nu' of bel me op 06-51644006. Wil je een afspraak inboeken om andere mogelijkheden door te spreken, dan kan je me ook via albert@healthbytes.nl bereiken. Salaris: €4.000,00 - €5.400,00 per maand Arbeidsvoorwaarden: Kosteloos parkeren Pensioen Reiskostenvergoeding Werklocatie: Fysiek",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "HealthBytes is op zoek naar een Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit voor een zorg-organisatie in de regio Rotterdam. De functie Als Functioneel Beheerder AFAS ben je verantwoordelijk voor het beheren en optimaliseren van de AFAS omgeving. Je combineert jouw ervaring met de...",
-   "benefits": [
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T18:23:08.200089+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 50,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "AFAS functioneel beheer"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt affiniteit met systemen, maar mist de specifieke werkervaring als functioneel beheerder in AFAS.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
-   "id": "49f175901dc2",
-   "source": "JobSpy",
-   "title": "MBB'er met specialisatie Functioneel Beheer",
-   "company": "Frisius MC",
-   "location": "Heerenveen, FR, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=65afb4c211a87c98",
-   "salary": "€3463 - €4914 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Jouw afdeling en collega's Je komt terecht in een warm en enthousiast team. Collega's delen hun vakkennis graag met elkaar en helpen elkaar waar nodig. Het Centrum Beeldvorming is verdeeld over beide ziekenhuislocaties van Frisius MC (Leeuwarden en Heerenveen) en heeft daarnaast een aantal buitenpoli's. Het Centrum Beeldvorming heeft een belangrijke regionale functie. We voeren diagnostische onderzoeken en therapeutische behandelingen uit met verschillende beeldvormende technieken. Denk aan radiodiagnostiek, CT, angiografie, MRI, mammografie, echografie, nucleaire geneeskunde, radiofarmacie en medische fotografie. Jij bij Frisius MC Als MBB'er met specialisatie Functioneel Beheer verdeel je jouw tijd tussen de Algemene Radiologie en functioneel beheer. Je maakt deel uit van beide teams. Heb je al een andere specialisatie binnen de radiologie? Dan is dat ook bespreekbaar. Op de dagen dat je als MBB'er werkt, voer je radiologische onderzoeken uit en rouleer je over verschillende onderzoekskamers. Ook denk je mee over verbeteringen in de werkprocessen op de afdeling. Minimaal twee dagen per week werk je als functioneel beheerder. Je maakt deel uit van een klein en betrokken team dat verantwoordelijk is voor de radiologische applicaties. Je werkt daarbij samen met onder andere de MID, ICT en Klinische Fysica. Zo help je het medisch beeldvormend proces binnen Frisius MC goed te laten verlopen. Binnen functioneel beheer houd je je bezig met: Het beheren en verbeteren van radiologische applicaties, zoals RIS, PACS en aanverwante systemen. Het ondersteunen van collega's bij vragen, incidenten en problemen met applicaties. Het onderzoeken van wensen vanuit de praktijk en vertalen daarvan naar oplossingen. Het meewerken aan projecten op het gebied van digitalisering en procesverbetering. Het geven van instructies en ondersteuning aan gebruikers. Je werkt op twee locaties, maar het is mogelijk om een vaste hoofdlocatie af te spreken. Dit ben jij Je bent een gemotiveerde en patiëntgerichte MBB'er die verder kijkt dan alleen de onderzoeksruimte. Je bent nieuwsgierig naar werkprocessen, systemen en de mogelijkheden van digitalisering binnen de zorg. Met jouw flexibele, service- en resultaatgerichte houding werk je prettig samen met verschillende collega's. Je denkt in grotere verbanden, neemt initiatief en kijkt verder dan de meest voor de hand liggende oplossingen. Daarbij kun je zelfstandig werken en houd je rekening met verschillende, soms tegengestelde belangen. De combinatie van radiologie en functioneel beheer spreekt je aan. Je krijgt graag de ruimte om mee te denken en je eigen ideeën in te brengen. Jouw kennis en ervaring Je hebt een MBRT-diploma of een vergelijkbare opleiding afgerond. Ervaring als MBB'er of een specialisatie binnen de radiologie is een pre, maar niet noodzakelijk. Ervaring met radiologische informatiesystemen of functioneel beheer is mooi meegenomen, maar geen vereiste. Je hebt affiniteit met ICT, applicaties en informatiestromen. Dit mag je van ons verwachten Contract : Je krijgt een tijdelijk dienstverband voor 24 tot 36 uur per week. Salaris: Je ontvangt een brutosalaris vanaf € 3.463 tot max € 4.914*, dit bespreken we natuurlijk graag met jou tijdens het arbeidsvoorwaardengesprek. Vrije dagen : Je kunt 144 vakantie uren en 57 uur Persoonlijk Levensfase Budget (PLB) per jaar gebruiken om vrij te nemen wanneer het jou uitkomt en in overleg met je leidinggevende (op basis van 36 uur). Arbeidsextra’s : Daarnaast krijg je ook nog eens 8,33% vakantietoeslag en 8,33% eindejaarsuitkering, samen goed voor ongeveer twee extra maandsalarissen per jaar! Opleidings- en ontwikkelmogelijkheden op gebied van functioneel beheer en informatiemanagement. op basis van 36 uur per week, conform de cao Ziekenhuizen). De functie wordt momenteel opnieuw gewaardeerd. Meer weten? Of een dag meelopen om sfeer te proeven en kennis te met de afdeling en het team? Neem contact op met: Fred van den Hoogen (Staffunctionaris Centrum Beeldvorming) via 058 286 6044. Janny Wallinga (Teammanager Centrum Beeldvorming) via 058 286 7435. #teamFrisiusMC Wil jij ook komen werken bij #teamFrisiusMC? Of alvast even digitaal sfeerproeven? Bekijk ons Instagramaccount @frisiusmc.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Jouw afdeling en collega's Je komt terecht in een warm en enthousiast team. Collega's delen hun vakkennis graag met elkaar en helpen elkaar waar nodig. Het Centrum Beeldvorming is verdeeld over beide ziekenhuislocaties van Frisius MC (Leeuwarden en Heerenveen) en heeft daarnaast een aantal...",
-   "benefits": [
-    "32-36 uur"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-02T20:18:41.204511+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 10,
-    "matched_skills": [],
-    "missing_realistic": [
-     "MBB'er opleiding",
-     "radiologische praktijk"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze functie vereist een specifieke medische achtergrond als MBB'er die totaal niet op je cv staat.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": false
    }
   },
   {
@@ -9276,56 +9175,50 @@
    }
   },
   {
-   "id": "e63da2bbe264",
+   "id": "011320bc9771",
    "source": "JobSpy",
-   "title": "Meewerkstage Data Analist",
-   "company": "KLM",
-   "location": "Amstelveen, NH, Netherlands",
+   "title": "Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit",
+   "company": "HealthBytes",
+   "location": "Schiedam, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7b37dc4f698b5dbf",
-   "salary": null,
+   "url": "https://nl.indeed.com/viewjob?jk=f93359890bac892f",
+   "salary": "€4000 - €5400 per maand",
    "tags": [
     "",
-    "fulltime"
+    "parttime, fulltime"
    ],
-   "full_text": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat ga je doen? Als stagiair Data Analist werk je met geavanceerde tools zoals Power BI om waardevolle inzichten te genereren en onze organisatie te helpen data-gedreven beslissingen te nemen. Daarnaast werk je in Power Apps om tools te ontwikkelen die kritieke bedrijfsprocessen automatiseren. Je wordt een belangrijke kracht in het team dat zich focust op het data-gedreven en toekomstbestendig maken van de organisatie. Als meewerk stagiair data analyst werk je aan het verzamelen en analyseren van gegevens die cruciaal zijn voor de performance van onze producten en processen. Je ondersteunt besluitvorming met data-gedreven inzichten en helpt het team bij het interpreteren van resultaten. Geen dag zal hetzelfde zijn! Wat je taken worden? Business requirements formuleren met diverse stakeholders en vertalen naar technische/data requirements; Data verzamelen, analyseren en waardevolle inzichten visualiseren; Werken met programmeer- en analysetools zoals SQL en Python; Rapportages en dashboards ontwikkelen in Power BI; Operationele apps ontwikkelen in Power Apps; Samenwerken met verschillende afdelingen om data-inzichten te vertalen naar praktische oplossingen; Ondersteuning bieden bij het implementeren van data-gedreven besluitvorming. Waar land je? Je landt op Schiphol-Oost, in Gebouw 410 Engine Services om precies te zijn. Engine Services is een van de drie units binnen Engineering & Maintenance en focust op het onderhoud van motoren en reparaties van onderdelen hieruit. Je wordt onderdeel van het Data Management & Analytics team binnen de Data, Transformation & Continuous Improvement afdeling, waarbij o.a. gewerkt wordt aan digitalisering, data management, procesverbeteringen en duurzaamheid. Samen met het Data Management & Analytics team draag je een belangrijk steentje bij door besluitvorming met data-gedreven inzichten te versterken en daarmee het succes van Engine Services te vergroten. Jouw profiel Wij zijn op zoek naar een WO- of HBO-student met een passie voor data en de behoefte om het verschil te willen maken in de luchtvaartindustrie. Je hebt een studieachtergrond in Data Science, Business Analytics of een vergelijkbare studie. Het gaat om een meewerkstage. Jij bent analytisch sterk, proactief en gaat oplossingsgericht te werk. Je analyseert snel waar knelpunten liggen met SQL en/of Python en brengt helder je advies. Je schakelt makkelijk tussen verschillende taken en bent in staat om data om te zetten naar visuele inzichten in Power BI. Je bent communicatief sterk en kan complexe data op een begrijpelijke manier presenteren. Je bent beschikbaar voor 4-5 dagen in de week voor de periode van 5-6 maanden. Mocht je het leuk vinden om jouw stage voor een langere periode te doen, is dat ook een mogelijkheid! Thuiswerken kan uiteraard, maar gelet op de inhoud van de functie en het feit dat we een nieuwe manier van werken aan het opzetten zijn wordt er ook veel op locatie gewerkt. Competenties Analytisch denken Probleemoplossend vermogen Zelfstandigheid Communicatieve vaardigheden Samenwerkingsgerichtheid Resultaatgerichtheid Herken je jezelf niet in alle competenties, maar denk je wel dat je deze rol goed kan vervullen, schroom niet om alsnog contact op te nemen! Wat bieden wij KLM biedt jou een zeer leerzame ervaring in een dynamische organisatie waarin jij een belangrijke rol gaat krijgen. Je kunt jezelf in deze stage, op persoonlijk en professioneel vlak, sterk ontwikkelen. Daarnaast biedt deze stage je de mogelijkheid om je netwerk op te bouwen, doordat je je met veel verschillende KLM'ers om tafel gaat zitten! Een ander voordeel van een stage binnen KLM is de vereniging door en voor stagiair(e)s; KLM Taxibaan. Deze vereniging vergroot je netwerk en verzorgt gezellige evenementen en interessante excursies binnen de KLM-organisatie. Ook is er sprake van een stagevergoeding. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 17-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je sollicitatie stellen we je enkele gerichte vragen. Binnen twee weken na sluitingsdatum van de vacature krijg je bericht van ons.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie.",
+   "full_text": "HealthBytes is op zoek naar een Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit voor een zorg-organisatie in de regio Rotterdam. De functie Als Functioneel Beheerder AFAS ben je verantwoordelijk voor het beheren en optimaliseren van de AFAS omgeving. Je combineert jouw ervaring met de wensen vanuit de organisatie om AFAS optimaal in te zetten en ook verder te optimaliseren. Er wordt een pro-actieve houding verwacht om de organisatie verder te professionaliseren en de processen kritisch te bekijken en te verbeteren en / of te vereenvoudigen. De verantwoordelijkheid ligt grotendeels bij jou en daar moet je je uiteraard ook prettig bij voelen. Daarnaast moet je stevig in je schoenen staan om ook de kritische medewerkers inzicht te geven in de voordelen die AFAS met zich meebrengt én een samenwerking tot stand te brengen. Verantwoordelijkheden Het beheren, onderhouden en verbeteren van AFAS Het analyseren van wensen en behoeften van gebruikers en deze vertalen naar functionele oplossingen Het ontwikkelen van rapportages, workflows en koppelingen binnen AFAS Het trainen en ondersteunen van collega's in het gebruik van het systeem Het signaleren van kansen voor procesoptimalisatie en het begeleiden van verbeteringen Jouw profiel HBO werk- en denkniveau Ervaring met het Functioneel Beheer van AFAS Ervaring met projectmatig werken en kennis van procesoptimalisatie Sterke analytische vaardigheden en een oplossingsgerichte instelling Uitstekende communicatieve vaardigheden om met collega's op alle niveaus te schakelen Uitstekende beheersing van de Nederlandse taal in woord en geschrift Wat wij bieden Een goed salaris tot € 5.500 (op basis van 36 uur en uitstekende secundaire voorwaarden. Een eindejaarsuitkering van 8,33% én 8% vakantiegeld Uitstekende secundaire arbeidsvoorwaarden Persoonlijke opleidings- en ontwikkelingsmogelijkheden De functie is vanaf 32 uur in te vullen De X-factor Wat deze functie zo uniek maakt is dat je jouw kennis en ervaring breed kan inzetten binnen de organisatie. AFAS neemt een belangrijke positie in binnen de core-processen en met jouw analytische skills kan je de potentiële verbeteringen terugkoppelen aan de organisatie én daarmee de gebruikers ook daadwerkelijk ontlasten. Interesse? Als je meer wilt weten of interesse hebt, 'solliciteer nu' of bel me op 06-51644006. Wil je een afspraak inboeken om andere mogelijkheden door te spreken, dan kan je me ook via albert@healthbytes.nl bereiken. Salaris: €4.000,00 - €5.400,00 per maand Arbeidsvoorwaarden: Kosteloos parkeren Pensioen Reiskostenvergoeding Werklocatie: Fysiek",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat...",
+   "short_desc": "HealthBytes is op zoek naar een Functioneel Beheerder AFAS met een ‘no-nonsense’ mentaliteit voor een zorg-organisatie in de regio Rotterdam. De functie Als Functioneel Beheerder AFAS ben je verantwoordelijk voor het beheren en optimaliseren van de AFAS omgeving. Je combineert jouw ervaring met de...",
    "benefits": [
-    "Thuiswerken"
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten"
    ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Data analyse",
-    "Power BI",
-    "Requirements"
-   ],
+   "skills": [],
    "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-11-03T18:23:08.200089+00:00",
    "match": {
-    "is_junior": true,
-    "score": 85,
+    "is_junior": false,
+    "score": 50,
     "matched_skills": [
-     "SQL",
-     "Python"
+     "SQL"
     ],
     "missing_realistic": [
-     "Power BI",
-     "Power Apps"
+     "AFAS functioneel beheer"
     ],
     "ignored_unrealistic": [],
-    "reason": "Je Python- en SQL-vaardigheden passen goed bij een data-analyse stage, hoewel je Power BI nog moet leren.",
-    "local_score": 58,
+    "reason": "Je hebt affiniteit met systemen, maar mist de specifieke werkervaring als functioneel beheerder in AFAS.",
+    "local_score": 50,
     "ai": true,
     "check": false,
-    "visible": true
+    "visible": false
    }
   },
   {
@@ -9384,6 +9277,110 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "e63da2bbe264",
+   "source": "JobSpy",
+   "title": "Meewerkstage Data Analist",
+   "company": "KLM",
+   "location": "Amstelveen, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7b37dc4f698b5dbf",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat ga je doen? Als stagiair Data Analist werk je met geavanceerde tools zoals Power BI om waardevolle inzichten te genereren en onze organisatie te helpen data-gedreven beslissingen te nemen. Daarnaast werk je in Power Apps om tools te ontwikkelen die kritieke bedrijfsprocessen automatiseren. Je wordt een belangrijke kracht in het team dat zich focust op het data-gedreven en toekomstbestendig maken van de organisatie. Als meewerk stagiair data analyst werk je aan het verzamelen en analyseren van gegevens die cruciaal zijn voor de performance van onze producten en processen. Je ondersteunt besluitvorming met data-gedreven inzichten en helpt het team bij het interpreteren van resultaten. Geen dag zal hetzelfde zijn! Wat je taken worden? Business requirements formuleren met diverse stakeholders en vertalen naar technische/data requirements; Data verzamelen, analyseren en waardevolle inzichten visualiseren; Werken met programmeer- en analysetools zoals SQL en Python; Rapportages en dashboards ontwikkelen in Power BI; Operationele apps ontwikkelen in Power Apps; Samenwerken met verschillende afdelingen om data-inzichten te vertalen naar praktische oplossingen; Ondersteuning bieden bij het implementeren van data-gedreven besluitvorming. Waar land je? Je landt op Schiphol-Oost, in Gebouw 410 Engine Services om precies te zijn. Engine Services is een van de drie units binnen Engineering & Maintenance en focust op het onderhoud van motoren en reparaties van onderdelen hieruit. Je wordt onderdeel van het Data Management & Analytics team binnen de Data, Transformation & Continuous Improvement afdeling, waarbij o.a. gewerkt wordt aan digitalisering, data management, procesverbeteringen en duurzaamheid. Samen met het Data Management & Analytics team draag je een belangrijk steentje bij door besluitvorming met data-gedreven inzichten te versterken en daarmee het succes van Engine Services te vergroten. Jouw profiel Wij zijn op zoek naar een WO- of HBO-student met een passie voor data en de behoefte om het verschil te willen maken in de luchtvaartindustrie. Je hebt een studieachtergrond in Data Science, Business Analytics of een vergelijkbare studie. Het gaat om een meewerkstage. Jij bent analytisch sterk, proactief en gaat oplossingsgericht te werk. Je analyseert snel waar knelpunten liggen met SQL en/of Python en brengt helder je advies. Je schakelt makkelijk tussen verschillende taken en bent in staat om data om te zetten naar visuele inzichten in Power BI. Je bent communicatief sterk en kan complexe data op een begrijpelijke manier presenteren. Je bent beschikbaar voor 4-5 dagen in de week voor de periode van 5-6 maanden. Mocht je het leuk vinden om jouw stage voor een langere periode te doen, is dat ook een mogelijkheid! Thuiswerken kan uiteraard, maar gelet op de inhoud van de functie en het feit dat we een nieuwe manier van werken aan het opzetten zijn wordt er ook veel op locatie gewerkt. Competenties Analytisch denken Probleemoplossend vermogen Zelfstandigheid Communicatieve vaardigheden Samenwerkingsgerichtheid Resultaatgerichtheid Herken je jezelf niet in alle competenties, maar denk je wel dat je deze rol goed kan vervullen, schroom niet om alsnog contact op te nemen! Wat bieden wij KLM biedt jou een zeer leerzame ervaring in een dynamische organisatie waarin jij een belangrijke rol gaat krijgen. Je kunt jezelf in deze stage, op persoonlijk en professioneel vlak, sterk ontwikkelen. Daarnaast biedt deze stage je de mogelijkheid om je netwerk op te bouwen, doordat je je met veel verschillende KLM'ers om tafel gaat zitten! Een ander voordeel van een stage binnen KLM is de vereniging door en voor stagiair(e)s; KLM Taxibaan. Deze vereniging vergroot je netwerk en verzorgt gezellige evenementen en interessante excursies binnen de KLM-organisatie. Ook is er sprake van een stagevergoeding. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 17-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je sollicitatie stellen we je enkele gerichte vragen. Binnen twee weken na sluitingsdatum van de vacature krijg je bericht van ons.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Ben jij een analytische denker met een passie voor data-analyse en visualisatie? Dan ben jij misschien wel het aanstormend talent waar wij naar op zoek zijn! KLM Engine Services biedt jou de kans om je analytische skills te ontwikkelen door data te verzamelen, te analyseren en te visualiseren. Wat...",
+   "benefits": [
+    "Thuiswerken"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Data analyse",
+    "Power BI",
+    "Requirements"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T18:23:08.200089+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 85,
+    "matched_skills": [
+     "SQL",
+     "Python"
+    ],
+    "missing_realistic": [
+     "Power BI",
+     "Power Apps"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je Python- en SQL-vaardigheden passen goed bij een data-analyse stage, hoewel je Power BI nog moet leren.",
+    "local_score": 58,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "3ca2d1523168",
+   "source": "JobSpy",
+   "title": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10)",
+   "company": "ABN AMRO",
+   "location": "Amsterdam, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=d1b535345a07790e",
+   "salary": "€5304 - €7577 per maand",
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10) At a glance Are you ready to be a part of the exciting changes happening in ABN Amro's Corporate Credit Landscape? We are seeking individuals who are passionate about learning and developing their skills while designing future-proof end-to-end lending processes within Financing Solutions. ABN AMRO is committed to enriching and renewing the lending landscape by simplifying and accelerating processes to better identify customer risks and serve them transparently. As part of the Credits Capability Grid department, we are digitizing customer data and building a new central credit platform. Your role will be crucial in identifying business needs and translating them to our IT department. If you are ready to contribute to the credit landscape of the future and be a part of our mission to serve our customers better, then we want you on our team. Join us as a Business Consultant / Analyst in building a brighter future for lending! Your job We are looking for a Business Consultant / Analyst to design and continuously improve our new digital end-to-end lending processes. In this position, you will have the opportunity to make a positive impact on the future of lending. You will be working for the Collateral Management Lifecycle team within Corporate Banking, responsible for a new digital end-to-end customer journey. Your role will involve driving requirement gathering from end-users and specialist teams , such as Lenders, Credit Risk, Contracting, Operations and Regulatory. Turning these into technical designs for our Salesforce credit origination platform. Balancing regulatory requirements with practical, day-to-day operational feasibility to ensure compliant yet workable solutions for end-users. As the bridge between end-users and our developers, you will learn the end-to-end journey of corporate credits and the daily tasks of our end-users. In order to excel at this job, you need to be creative, good at stakeholder management, organized, empathetic towards users, like a challenge, and eager to learn about our software and processes. Examples of day-to-day tasks include: Analysing services, business processes, information flows, user and system requirements to identify opportunities. Translating product roadmap features into concrete user stories by identifying and prioritizing technical and functional requirements. Creating system and/or data model designs which you translate in clear documentation to develop a shared understanding of the topic and improve organizational learning. Supporting implementation, helping the development team to deliver quality by collaborating on test design and user acceptance tests. Working environment We are excited to welcome you to our devops team within the Collateral Management Lifecycle shop. You will work closely with colleagues from other streams, such as Integrations, Business Implementation, Regulatory, and subject matter experts from departments such as Lending, Risk and FR&R. Collaboration is key to our success, and we are committed to create a supportive and inclusive workplace culture. A healthy work-life balance is essential for you to thrive and succeed in your role where we strive to be between 2 a 3 days a week at the office. Your profile You are passionate about devops, driven to learn and grow and eager to contribute to our mission of shaping the future of lending. If you are a team player who enjoys working collaboratively, then we would love to hear from you. Join us in making a positive impact on the world of Collateral Management! As a problem-solver, you enjoy tackling complex challenges and providing structure to problems. You take ownership of challenges and can translate requirements into Salesforce functionalities in collaboration with our IT teams. You are a connector, building bridges and bringing others together. We welcome candidates of all backgrounds and experiences, including those without professional working experience in banking. We are looking for someone who is eager to learn and can bring a positive attitude to the team. We will provide you with the necessary training and support to excel in the role. Requirements: Bachelor's, or Master's degree in any field Ability to identify solution options and present advice to stakeholders in a convincing and structured manner Experience in business analysis, stakeholder management and system/process design Strong affinity towards technology, data structures, and querying Knowledge of nCino system or Salesforce delivery is a plus, but willingness to learn is necessary Self-starter with a critical look and positive attitude Join us in shaping the future of lending with your problem-solving skills and collaborative attitude. We look forward to hearing from you! We are offering We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing. In addition, we offer: An attractive gross monthly salary based on a 36-hour work week, including holiday allowanceand a flexible benefit budget. An excellent pension scheme, ensuring that you are well prepared for the future. Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you. Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually. Five “Banking for better days”: extra days off that you can use for personal development or volunteer work. Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000. An annual public transport pass with free public transportation throughout the Netherlands for both business and private use. You can find more informat",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Business Consultant / Analyst Collateral Management Lifecycle (hay 10) At a glance Are you ready to be a part of the exciting changes happening in ABN Amro's Corporate Credit Landscape? We are seeking individuals who are passionate about learning and developing their skills while designing...",
+   "benefits": [
+    "Pensioen"
+   ],
+   "skills": [
+    "DevOps",
+    "Excel",
+    "Requirements",
+    "Stakeholdermanagement"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T18:23:08.200089+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     "REST API’s"
+    ],
+    "missing_realistic": [
+     "business consultancy ervaring",
+     "credit management domeinkennis"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Hoewel je klantgesprekken voert, is deze consultantrol te specifiek gericht op financiële processen en senior advies.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
    }
   },
   {
@@ -11443,53 +11440,6 @@
    }
   },
   {
-   "id": "baa208eeb2fc",
-   "source": "JobSpy",
-   "title": "Functioneel Beheerder Care4",
-   "company": "Parlan",
-   "location": "Alkmaar, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-02T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7e4671ea1750e989",
-   "salary": "€3055 - €4537 per maand",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "Jij maakt Care4 beter. Zodat collega’s verder kunnen. Een vastlopend proces? Een terugkerende storing? Jij zoekt uit wat erachter zit én hoe het beter kan. Als functioneel beheerder Care4 verbind je gebruikers, processen en techniek rondom ons elektronisch cliëntendossier (ECD). Je lost niet alleen op, je verbetert. Je maakt gebruikerswensen concreet en stelt de vraag die verder helpt: kan dit slimmer? Wat ga je doen? Jij laat Care4 aansluiten op de praktijk: voor goede zorgregistratie, kwaliteit van zorg en grip op de financiën. Je houdt je onder andere bezig met: het beheren, inrichten en verder optimaliseren van Care4; het bieden van eerste- en tweedelijnsondersteuning aan gebruikers en het analyseren en oplossen van functionele vragen en incidenten; het vertalen van gebruikerswensen naar concrete functionele oplossingen en heldere werkafspraken; het testen, documenteren en zorgvuldig implementeren van wijzigingen en nieuwe functionaliteiten; het begeleiden van wijzigingen volgens gestructureerde beheer- en changeprocessen; het signaleren van knelpunten en verbetermogelijkheden en het optimaliseren van werkprocessen en registraties; het bewaken van de samenhang tussen systeeminrichting, werkprocessen, registratie en datakwaliteit; samenwerken met gebruikers, Centrale Registratie, ICT en leveranciers om incidenten, problemen en wijzigingen volgens ITIL-principes gestructureerd aan te pakken. Jij ziet verbeteringen én pakt ze op. Wanneer word jij hier blij van? Waarschijnlijk als je graag puzzelt. Bij “Care4 werkt niet” vraag jij: wat is het doel, hoe loopt het proces en waar gaat het mis? Je puzzelt tot je een oplossing hebt die vandaag én morgen werkt. Dit breng je mee Je bent nieuwsgierig, neemt verantwoordelijkheid en wilt weten waarom. Je hebt: hbo-werk- en denkniveau; een sterk analytisch vermogen; gevoel voor processen én systemen; een klantgerichte en resultaatgerichte manier van werken; goede communicatieve vaardigheden; zelfstandigheid én gevoel voor samenwerking; zin om te blijven leren en verbeteren. Ervaring met Care4 of functioneel beheer is een plus. Kennis van ITIL en ervaring met changemanagement, gebruikersondersteuning of procesoptimalisatie zijn mooi meegenomen. Minstens zo belangrijk zijn je analytische vermogen en procesgevoel: daarmee leg je snel verbanden, vraag je kritisch door en pak je complexe puzzels met plezier aan. Waarom is deze functie leuk? Omdat je werk ertoe doet. Je helpt collega’s met goede zorgregistratie en financieel inzicht, en draagt zo bij aan betere zorg. Je krijgt ruimte voor eigen initiatief, ontwikkeling en verbeteringen die écht werken. Wat bieden wij jou? Bij Parlan draag je indirect bij aan goede jeugdhulp voor kinderen, jongeren en gezinnen. Samenwerking, professionaliteit en ontwikkeling staan centraal. Wij bieden jou: een functie voor 28 uur per week; inschaling in schaal 8 conform de cao Jeugdzorg; Een betrokken team en collega’s die samenwerken aan goede ondersteuning van de zorg. Waarom werken bij Parlan? Parlan biedt specialistische jeugdhulp en jeugd-ggz aan kinderen, jongeren en gezinnen in Noord-Holland. Samen met het gezin en hun netwerk helpen we hen om weer grip op het dagelijks leven te krijgen en verder te kunnen. Je werkt in een hecht team dat kennis deelt, elkaar helpt en zorgt dat hulp goed kan starten. Samenwerking met hulpverleners, teamleiders en externen maakt je werk afwisselend. Met trainingen en opleidingen krijg je ruimte om te groeien in je vak en loopbaan én het verschil te maken voor kinderen, jongeren en gezinnen. Solliciteer en kom kennismaken. Misschien maken we Care4 binnenkort samen een stukje beter. Vragen over de functie, het team of Parlan? Neem contact op met Ingrid Rademakers (HR): ingrid.rademakers@parlan.nl of 06-26 539 743.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Jij maakt Care4 beter. Zodat collega’s verder kunnen. Een vastlopend proces? Een terugkerende storing? Jij zoekt uit wat erachter zit én hoe het beter kan. Als functioneel beheerder Care4 verbind je gebruikers, processen en techniek rondom ons elektronisch cliëntendossier (ECD). Je lost niet alleen...",
-   "benefits": [
-    "Opleidingsbudget"
-   ],
-   "skills": [
-    "ITIL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-02T20:18:41.204511+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "ervaring met elektronisch cliëntendossier"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je klantgerichte houding en brede IT-basis passen wel bij functioneel beheer, al mis ik specifieke zorgsystemen.",
-    "local_score": 30,
-    "ai": true,
-    "check": true,
-    "visible": true
-   }
-  },
-  {
    "id": "4ee91b562a48",
    "source": "JobSpy",
    "title": "Vacature: Salesforce Engineer / Business Analyst - View vacancy",
@@ -11543,6 +11493,53 @@
     "local_score": 72,
     "ai": true,
     "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "baa208eeb2fc",
+   "source": "JobSpy",
+   "title": "Functioneel Beheerder Care4",
+   "company": "Parlan",
+   "location": "Alkmaar, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7e4671ea1750e989",
+   "salary": "€3055 - €4537 per maand",
+   "tags": [
+    "",
+    "parttime"
+   ],
+   "full_text": "Jij maakt Care4 beter. Zodat collega’s verder kunnen. Een vastlopend proces? Een terugkerende storing? Jij zoekt uit wat erachter zit én hoe het beter kan. Als functioneel beheerder Care4 verbind je gebruikers, processen en techniek rondom ons elektronisch cliëntendossier (ECD). Je lost niet alleen op, je verbetert. Je maakt gebruikerswensen concreet en stelt de vraag die verder helpt: kan dit slimmer? Wat ga je doen? Jij laat Care4 aansluiten op de praktijk: voor goede zorgregistratie, kwaliteit van zorg en grip op de financiën. Je houdt je onder andere bezig met: het beheren, inrichten en verder optimaliseren van Care4; het bieden van eerste- en tweedelijnsondersteuning aan gebruikers en het analyseren en oplossen van functionele vragen en incidenten; het vertalen van gebruikerswensen naar concrete functionele oplossingen en heldere werkafspraken; het testen, documenteren en zorgvuldig implementeren van wijzigingen en nieuwe functionaliteiten; het begeleiden van wijzigingen volgens gestructureerde beheer- en changeprocessen; het signaleren van knelpunten en verbetermogelijkheden en het optimaliseren van werkprocessen en registraties; het bewaken van de samenhang tussen systeeminrichting, werkprocessen, registratie en datakwaliteit; samenwerken met gebruikers, Centrale Registratie, ICT en leveranciers om incidenten, problemen en wijzigingen volgens ITIL-principes gestructureerd aan te pakken. Jij ziet verbeteringen én pakt ze op. Wanneer word jij hier blij van? Waarschijnlijk als je graag puzzelt. Bij “Care4 werkt niet” vraag jij: wat is het doel, hoe loopt het proces en waar gaat het mis? Je puzzelt tot je een oplossing hebt die vandaag én morgen werkt. Dit breng je mee Je bent nieuwsgierig, neemt verantwoordelijkheid en wilt weten waarom. Je hebt: hbo-werk- en denkniveau; een sterk analytisch vermogen; gevoel voor processen én systemen; een klantgerichte en resultaatgerichte manier van werken; goede communicatieve vaardigheden; zelfstandigheid én gevoel voor samenwerking; zin om te blijven leren en verbeteren. Ervaring met Care4 of functioneel beheer is een plus. Kennis van ITIL en ervaring met changemanagement, gebruikersondersteuning of procesoptimalisatie zijn mooi meegenomen. Minstens zo belangrijk zijn je analytische vermogen en procesgevoel: daarmee leg je snel verbanden, vraag je kritisch door en pak je complexe puzzels met plezier aan. Waarom is deze functie leuk? Omdat je werk ertoe doet. Je helpt collega’s met goede zorgregistratie en financieel inzicht, en draagt zo bij aan betere zorg. Je krijgt ruimte voor eigen initiatief, ontwikkeling en verbeteringen die écht werken. Wat bieden wij jou? Bij Parlan draag je indirect bij aan goede jeugdhulp voor kinderen, jongeren en gezinnen. Samenwerking, professionaliteit en ontwikkeling staan centraal. Wij bieden jou: een functie voor 28 uur per week; inschaling in schaal 8 conform de cao Jeugdzorg; Een betrokken team en collega’s die samenwerken aan goede ondersteuning van de zorg. Waarom werken bij Parlan? Parlan biedt specialistische jeugdhulp en jeugd-ggz aan kinderen, jongeren en gezinnen in Noord-Holland. Samen met het gezin en hun netwerk helpen we hen om weer grip op het dagelijks leven te krijgen en verder te kunnen. Je werkt in een hecht team dat kennis deelt, elkaar helpt en zorgt dat hulp goed kan starten. Samenwerking met hulpverleners, teamleiders en externen maakt je werk afwisselend. Met trainingen en opleidingen krijg je ruimte om te groeien in je vak en loopbaan én het verschil te maken voor kinderen, jongeren en gezinnen. Solliciteer en kom kennismaken. Misschien maken we Care4 binnenkort samen een stukje beter. Vragen over de functie, het team of Parlan? Neem contact op met Ingrid Rademakers (HR): ingrid.rademakers@parlan.nl of 06-26 539 743.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Jij maakt Care4 beter. Zodat collega’s verder kunnen. Een vastlopend proces? Een terugkerende storing? Jij zoekt uit wat erachter zit én hoe het beter kan. Als functioneel beheerder Care4 verbind je gebruikers, processen en techniek rondom ons elektronisch cliëntendossier (ECD). Je lost niet alleen...",
+   "benefits": [
+    "Opleidingsbudget"
+   ],
+   "skills": [
+    "ITIL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-02T20:18:41.204511+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "ervaring met elektronisch cliëntendossier"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je klantgerichte houding en brede IT-basis passen wel bij functioneel beheer, al mis ik specifieke zorgsystemen.",
+    "local_score": 30,
+    "ai": true,
+    "check": true,
     "visible": true
    }
   },
