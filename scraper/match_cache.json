@@ -2888,6 +2888,242 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt sterke analytische vaardigheden en programmeerervaring, maar mist specifieke achtergrond in financiële rapportages."
+  },
+  "00c07fba1aef": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Git",
+    "Python",
+    "JavaScript",
+    "C#"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al sterke programmeer- en GitHub-ervaring en past daardoor uitstekend bij deze projectrol."
+  },
+  "b0e76457841e": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "Kennis van kwantumfysica"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-basis is goed, maar de focus op kwantummetingen sluit minder nauw aan bij je achtergrond."
+  },
+  "26bfff0a2ffb": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "REST API’s",
+    "Azure",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Azure Logic Apps"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je C# en Azure-certificaat sluiten naadloos aan bij deze integratierol op het cloudplatform."
+  },
+  "3badbc86a42b": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "REST API’s",
+    "Azure",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "React",
+    "Next.js"
+   ],
+   "ignored_unrealistic": [
+    "Terraform",
+    "Kubernetes"
+   ],
+   "reason": "Je hebt veel ervaring met frontend en backend, hoewel je specifiek met Vue in plaats van React werkt."
+  },
+  "7f03346a7bff": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Azure",
+    "Linux"
+   ],
+   "missing_realistic": [
+    "Kubernetes"
+   ],
+   "ignored_unrealistic": [
+    "Diepgaande productiebeheereisingen voor bestaande enterprise AKS-platforms"
+   ],
+   "reason": "Deze rol vraagt specifiek om senior Kubernetes-beheerervaring die meer bij een medior dan een starter past."
+  },
+  "2f597bb3384b": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "3 tot 5 jaar relevante werkervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De vacature vraagt uitdrukkelijk om een medior met minstens 3 jaar ervaring, wat voor jou als junior te hoog gegrepen is."
+  },
+  "e54c4daee3ea": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Supportervaring"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede servicedesk- en beheerachtergrond sluit erg goed aan bij een ondersteunende automatiseringsrol."
+  },
+  "ebd863f718f9": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "LLM’s / AI"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring met AI-koppelingen en LLM's sluit goed aan bij deze generatieve AI-functie."
+  },
+  "5dd20e892ceb": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Agile/Scrum",
+    "testing"
+   ],
+   "missing_realistic": [
+    "ServiceNow"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt consultancy- en testvaardigheden, maar mist specifieke ServiceNow-ervaring."
+  },
+  "d5daf0d9ac6f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "JavaScript"
+   ],
+   "missing_realistic": [
+    "iOS/Android app development"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je C# en .NET vaardigheden sluiten goed aan bij de backend van de software."
+  },
+  "fac8c8e600fe": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Atlassian Jira",
+    "Confluence"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je klantgerichte houding past goed bij de consultancyrol, hoewel je Atlassian-ervaring mist."
+  },
+  "f0d69810c599": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [],
+   "missing_realistic": [
+    "AFAS software"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke communicatieve en adviesvaardigheden voor een rol als consultant."
+  },
+  "044297027153": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Jira Service Management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je beschikt over de gevraagde hbo-achtergrond en communicatie, maar mist Jira-ervaring."
+  },
+  "e4af29bf0b6f": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Mendix"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt gedegen programmeerervaring, maar je mist specifieke Mendix low-code kennis."
+  },
+  "4a8961ae92f5": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Dit traineeship sluit perfect aan bij je hbo-achtergrond, Python- en SQL-kennis."
+  },
+  "b12162192861": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je technische basis en interesse in data- en adviesrollen passen goed bij dit young professional program."
+  },
+  "f2d947027322": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "Data Science",
+    "Business Intelligence"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel een sterke IT-achtergrond, maar mist specifieke ervaring met Power BI en Business Intelligence voor deze rol."
+  },
+  "dc32ee7c3cc3": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Python",
+    "Informatica"
+   ],
+   "missing_realistic": [
+    "Machine Learning",
+    "Statistiek",
+    "Kwantitatief onderzoek"
+   ],
+   "ignored_unrealistic": [
+    "Demonstrated exceptional performance in mathematical competitions or competitive programming contests"
+   ],
+   "reason": "Deze rol is te zwaar gericht op geavanceerde kwantitatieve modellering en wiskundige wedstrijden wat niet past bij je huidige profiel."
   }
  }
 }
