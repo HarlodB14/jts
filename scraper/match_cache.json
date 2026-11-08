@@ -15,20 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "6c7c347cf204": {
-   "is_junior": false,
-   "score": 45,
-   "matched_skills": [
-    "Python",
-    "SQL"
-   ],
-   "missing_realistic": [
-    "strategische analyse-ervaring",
-    "commerciële planning"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt wel Python en SQL, maar deze rol vraagt om senior strategische analyse en commerciële planning in plaats van software engineering."
-  },
   "a44e51fd08b6": {
    "is_junior": true,
    "score": 85,
