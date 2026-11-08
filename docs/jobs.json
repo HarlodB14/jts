@@ -1,18 +1,18 @@
 {
- "updated_at": "2026-11-08T15:04:17.427223+00:00",
+ "updated_at": "2026-11-08T19:37:52.566189+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 722,
+  "jobspy": 702,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 40,
-  "himalayas": 1
+  "himalayas": 0
  },
- "count": 237,
+ "count": 236,
  "jobs": [
   {
    "id": "2800e175ae70",
@@ -184,6 +184,131 @@
     "ignored_unrealistic": [],
     "reason": "Je gedegen Java-kennis en hbo-achtergrond in software engineering passen perfect in dit IT-traineeship bij de Rechtspraak.",
     "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "0e7f964bf964",
+   "source": "JobSpy",
+   "title": "IT-traineeship .NET Developer Rechtspraak",
+   "company": "de Rechtspraak",
+   "location": "Utrecht Zuidwest, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=75ba69e510b8b927",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime, contract"
+   ],
+   "full_text": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee .Net Developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te werken. Spannend? Geen zorgen, je kunt rekenen op je collega’s en je buddy. Interessant? Zeker, want je ontwikkelt je ook persoonlijk. En dat samen met de andere IT-trainees, dus ook nog leuk! Wat ga je doen? Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als .NET Developer bij IVO Rechtspraak bouw je aan de front-end én back-end, van webportalen tot systeemkoppelingen. Leef je uit in je SCRUM-team. En werk in DevOps. Lijkt dit je wat? Lees snel verder. Waar je hart ook ligt als ontwikkelaar, je draagt heel concreet bij aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor medewerkers van de rechtspraak, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals het OM, advocaten, de politie of de kinderbescherming. Maar ook voor ‘de man of vrouw in de straat’ die met de rechtspraak te maken krijgt. Je werkt agile, in SCRUM-teams en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je de technologieën toe zoals .NET Core, Microservices, Azure DevOps, OpenShift, Docker, Angular en Splunk. Wat je nog niet kent, dat leren we je. Waar de markt stopt, ontwikkelen wij vaak zelf nog door. Je kunt je creativiteit dus goed kwijt! Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je direct onderdeel bent van een DevOps-team en meewerkt aan applicaties voor de rechtspraak. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Hieu waardeert aan het traineeship Hieu heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Hij deelt zijn ervaringen graag met jou. “Met mijn manager kijk ik welke cursussen het meest waardevol zijn voor mij en mijn team. Voor de rest leer ik on the job met tools te werken, ik pas mijn kennis meteen toe. Mijn buddy begeleidt me bij het werk en geeft me tips. Ook mijn soft skills ontwikkel ik, via leiderschaps- en communicatietrainingen. Daar heb ik veel aan!” Hieu, IT-trainee test automation engineer Benieuwd naar de ervaringen van Trainee test automation engineer Hieu? Je leest het in zijn blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, c",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee .Net Developer bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak, werk je mee aan projecten van betekenis. Met de collega’s in je team bouw je software die de rechtspraak helpt beter te werken....",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Coaching"
+   ],
+   "skills": [
+    ".NET",
+    "C",
+    "Angular",
+    "REST",
+    "Docker",
+    "Azure",
+    "Agile",
+    "DevOps",
+    "Microservices",
+    "Testautomatisering"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 90,
+    "matched_skills": [
+     "C#",
+     ".NET",
+     "Azure",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [
+     "Angular"
+    ],
+    "ignored_unrealistic": [
+     "OpenShift",
+     "Splunk"
+    ],
+    "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship.",
+    "local_score": 60,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "1fb069fbd19c",
+   "source": "JobSpy",
+   "title": "IT-traineeship Data engineer",
+   "company": "de Rechtspraak",
+   "location": "Utrecht Zuidwest, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-07T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=bca4033aad90b3e8",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime, contract"
+   ],
+   "full_text": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee Data Engineer werk je bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak aan iets van betekenis. Samen met de collega’s in je team help je dataproducten en -analyses te ontwikkelen, zodat rechters en andere medewerkers van de Rechtspraak datagedreven kunnen werken. Spannend? Geen zorgen, je kunt rekenen op je collega’s en je buddy. Interessant? Zeker, want je ontwikkelt je ook persoonlijk. En dat samen met de andere IT-trainees, dus ook nog leuk! Wat ga je doen? Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als IT-trainee data engineer bij IVO Rechtspraak werk je vanuit het IVO Datalab. Jij helpt dataproducten en -analyses te ontwikkelen en rechters en andere Rechtspraak-medewerkers datagedreven te werken. Je werkt op het snijvlak van data engineering, ML engineering en cloud engineering. Heel belangrijk dus! En dat is nog niet alles. De Rechtspraak wil flinke stappen zetten in datagedreven werken. Daar draag jij op allerlei manieren aan bij vanuit het IVO Datalab. Je kunt je creativiteit helemaal kwijt! Zo ontwikkel je pipelines (Infrastructure as Code) en koppelvlakken voor data ingestion en ben je betrokken bij de deployment van diverse dataproducten. Ook ben je bezig met cloud engineering. Samen met de Cloud Engineers van het lab doe je aan resource deployment en richt je de netwerkinfrastructuur vanaf scratch in. De eerste verkenningen zijn op een on-premise cloud, met later een transitie naar een private cloud. Een mooie gelegenheid om OpenShift en Azure Cloud beter te leren kennen. Word jij als data engineer blij van een rol met ruimte om initiatief te nemen? Waar je de techniek in kunt duiken en meer doet dan alleen de dagelijkse routine? Dan is dit jouw start. Een bijzonder IT-traineeship omdat... je leren en werken vanaf dag één combineert, onder persoonlijke begeleiding. je samen met andere IT-trainees niet alleen opleidingen volgt, maar ook leuke dingen doet. je onderdeel bent van een organisatie die inclusiviteit en diversiteit koestert. je werk onmisbaar is voor een rechtvaardige samenleving. Dit krijg je ervoor terug Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Wat jouw collega Hieu waardeert aan het traineeship Hieu heeft niet dezelfde functie als jij, maar kan je wel vertellen hoe het is om IT-trainee bij de Rechtspraak te zijn. Hij deelt zijn ervaringen graag met jou. “Met mijn manager kijk ik welke cursussen het meest waardevol zijn voor mij en mijn team. Voor de rest leer ik on the job met tools te werken, ik pas mijn kennis meteen toe. Mijn buddy begeleidt me bij het werk en geeft me tips. Ook mijn soft skills ontwikkel ik, via leiderschaps- en communicatietrainingen. Daar heb ik veel aan!” Hieu, IT-trainee test automation engineer Benieuwd naar de ervaringen van Trainee test automation engineer Hieu? Je leest het in zijn blog . Wat we van jou verwachten Kun jij: analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij: Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship a",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Wil je niet zomaar een IT-traineeship? En spreekt leren door te doen je aan? Als IT trainee Data Engineer werk je bij IVO Rechtspraak, de IT-dienstverlener van de Rechtspraak aan iets van betekenis. Samen met de collega’s in je team help je dataproducten en -analyses te ontwikkelen, zodat rechters...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Coaching"
+   ],
+   "skills": [
+    "REST",
+    "CI/CD",
+    "Azure",
+    "Machine learning",
+    "Testautomatisering"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T15:53:35.268011+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Python",
+     "AWS",
+     "Azure"
+    ],
+    "missing_realistic": [
+     "Data engineering"
+    ],
+    "ignored_unrealistic": [
+     "OpenShift"
+    ],
+    "reason": "Je Python-kennis en achtergrond in software engineering passen goed bij een data engineering traineeship.",
+    "local_score": 72,
     "ai": true,
     "check": false,
     "visible": true
@@ -1402,7 +1527,7 @@
    "tags": [
     "Technology"
    ],
-   "full_text": "HelloPrint is rebuilding the entire platform: new frontend, new pricing engine, new content engine, new product engine, everything ready for an agentic future. No one on the team writes code manually for what these systems handle. You'll work inside this rebuild, under the direction of our founding team (Hans, CEO, and Michael, CIO/Chief AI Officer), executing on high-leverage AI problems with real commercial impact, visible immediately in revenue or cost. There's no management layer between you and the outcome. You build, you ship, you measure, you move to the next problem. What you will build: The opportunity surface is large: 14 markets, 600,000 customers, a platform being rebuilt in parallel across four core engines. You'll work on problems from areas like: Dynamic pricing and margin optimization across markets. Agentic procurement: supplier selection, ordering, quality management. Customer journey automation from configuration to post-delivery. Intelligent content and SEO infrastructure at platform scale. Predictive demand and inventory across the supplier network. Internal tooling that multiplies the output of every team. Before you read further HelloPri nt is on a mission to become the world's leading infrastructure for customizable printed products. From our offices in Rotterdam and Valencia, 100+ professionals from 20+ nationalities are building an AI-first company that scales output faster than headcount. We're at EUR 100M revenue and aiming to disrupt a trillion-dollar industry. Every hire we make needs to help get us there. Commercial instinct first, engineering second. You think about what something is worth before you think about how to build it. Full-time in Rotterdam . Five days a week, in the building where the transformation is happening. You have been building since before it was a career. Side projects, tools, systems nobody asked for. The obsession came first. You ship continuously. You ship fast and you ship real systems. Not prototypes, not demos. You are more than just an engineer. You understand product decisions, user impact, and design tradeoffs. You do not need a PM to translate the business problem for you. Who you are: You've built and shipped real production systems, not just contributed to someone else's. You're comfortable with ambiguity and don't need a fully specified brief to start. You care about what your work is worth, not just whether it works. You want to build inside a company that's already proven, not another 0-to-1 bet. You do not think of yourself as an AI engineer. You think of yourself as someone who solves hard problems and builds the systems to prove it. The engineering is the method. The obsession is the identity. Three signals that tell us you are that person: You've spotted an opportunity for an AI solution before anyone assigned it to you, and built it, even if it started as a side project or a shortcut nobody asked for. Ask you to name one and it won't take you long. What you've shipped has been in production and actually used, not a prototype sitting in a repo or a demo that impressed someone once. You can point to at least one thing you built where you had a rough idea of what it was worth before building it, and checked afterward whether it delivered. Must-haves: Hands-on production experience, not purely architectural or supervisory. Commercial instinct that precedes technical execution: you know the business case before you write the first line. Track record of shipping production AI/software systems that are live and used by real users. Solid fluency in LLMs, agentic workflows, and modern AI infrastructure. Ability to reason about commercial impact, not just technical correctness. Comfortable working with high autonomy and limited process. Office-first: on-site in Rotterdam, five days a week. This role is not for you if you: This role is not for people who got into AI because it became important. It is for people who have been building since before anyone called it a career. The kind of person who coded as a teenager, shipped their first thing before anyone asked, and has never really stopped. Who finds it genuinely difficult to explain why they build: it is just what they do. Who would rather spend a Sunday solving a hard systems problem than almost anything else. If you have to think about whether that description fits you, it probably does not. Got into AI because it became an important skill, not because you could not imagine doing anything else. Need a brief, a PM, or a defined scope before taking action. Measure your output in technical quality or feature count rather than business impact. Would answer 'what would you build first?' with an infrastructure question. If you think a workweek of 40h is a lot. Prefer hybrid or remote working. What we offer 🎯 Room to grow: opportunities develop fast, within your role and across HelloPrint 🌍 The team: 100+ people from 20+ nationalities who build at a pace most companies cannot match. Rotterdam is not a compromise. It is where the work happens. 🚀 Real impact: shape the future of a high-growth, AI-driven company where your ideas land in production the same week. 💡 Full autonomy from day one: no roadmap to follow, no brief to wait for. You see the problem, you build the solution, you own the outcome. 🏃🏻‍♂️‍➡️ Hello-Benefits: including 24/7 HelloFit gym access, UrbanSportsClub discount, the best events and company-sponsored healthy meals every day 💶 Base salary: €50,000 to €75,000 gross per year, depending on skills, level and experience. Ready to build something? We need bold thinkers, fast executors, and AI-first problem solvers. If that sounds like you, apply now. Let's redefine an industry together. At HelloPrint, we believe diversity makes us better. We're building a workplace where everyone can be themselves, grow, and do their best work regardless of background, identity, or perspective. We welcome applicants from all backgrounds. Find more English Speaking Jobs in Netherlands",
+   "full_text": "HelloPrint is rebuilding the entire platform: new frontend, new pricing engine, new content engine, new product engine, everything ready for an agentic future. No one on the team writes code manually for what these systems handle. You'll work inside this rebuild, under the direction of our founding team (Hans, CEO, and Michael, CIO/Chief AI Officer), executing on high-leverage AI problems with real commercial impact, visible immediately in revenue or cost. There's no management layer between you and the outcome. You build, you ship, you measure, you move to the next problem. What you will build: The opportunity surface is large: 14 markets, 600,000 customers, a platform being rebuilt in parallel across four core engines. You'll work on problems from areas like: Dynamic pricing and margin optimization across markets. Agentic procurement: supplier selection, ordering, quality management. Customer journey automation from configuration to post-delivery. Intelligent content and SEO infrastructure at platform scale. Predictive demand and inventory across the supplier network. Internal tooling that multiplies the output of every team. Before you read further HelloPri nt is on a mission to become the world's leading infrastructure for customizable printed products. From our offices in Rotterdam and Valencia, 100+ professionals from 20+ nationalities are building an AI-first company that scales output faster than headcount. We're at EUR 100M revenue and aiming to disrupt a trillion-dollar industry. Every hire we make needs to help get us there. Commercial instinct first, engineering second. You think about what something is worth before you think about how to build it. Full-time in Rotterdam . Five days a week, in the building where the transformation is happening. You have been building since before it was a career. Side projects, tools, systems nobody asked for. The obsession came first. You ship continuously. You ship fast and you ship real systems. Not prototypes, not demos. You are more than just an engineer. You understand product decisions, user impact, and design tradeoffs. You do not need a PM to translate the business problem for you. Who you are: You've built and shipped real production systems, not just contributed to someone else's. You're comfortable with ambiguity and don't need a fully specified brief to start. You care about what your work is worth, not just whether it works. You want to build inside a company that's already proven, not another 0-to-1 bet. You do not think of yourself as an AI engineer. You think of yourself as someone who solves hard problems and builds the systems to prove it. The engineering is the method. The obsession is the identity. Three signals that tell us you are that person: You've spotted an opportunity for an AI solution before anyone assigned it to you, and built it, even if it started as a side project or a shortcut nobody asked for. Ask you to name one and it won't take you long. What you've shipped has been in production and actually used, not a prototype sitting in a repo or a demo that impressed someone once. You can point to at least one thing you built where you had a rough idea of what it was worth before building it, and checked afterward whether it delivered. Must-haves: Hands-on production experience, not purely architectural or supervisory. Commercial instinct that precedes technical execution: you know the business case before you write the first line. Track record of shipping production AI/software systems that are live and used by real users. Solid fluency in LLMs, agentic workflows, and modern AI infrastructure. Ability to reason about commercial impact, not just technical correctness. Comfortable working with high autonomy and limited process. Office-first: on-site in Rotterdam, five days a week. This role is not for you if you: This role is not for people who got into AI because it became important. It is for people who have been building since before anyone called it a career. The kind of person who coded as a teenager, shipped their first thing before anyone asked, and has never really stopped. Who finds it genuinely difficult to explain why they build: it is just what they do. Who would rather spend a Sunday solving a hard systems problem than almost anything else. If you have to think about whether that description fits you, it probably does not. Got into AI because it became an important skill, not because you could not imagine doing anything else. Need a brief, a PM, or a defined scope before taking action. Measure your output in technical quality or feature count rather than business impact. Would answer 'what would you build first?' with an infrastructure question. If you think a workweek of 40h is a lot. Prefer hybrid or remote working. What we offer 🎯 Room to grow: opportunities develop fast, within your role and across HelloPrint 🌍 The team: 100+ people from 20+ nationalities who build at a pace most companies cannot match. Rotterdam is not a compromise. It is where the work happens. 🚀 Real impact: shape the future of a high-growth, AI-driven company where your ideas land in production the same week. 💡 Full autonomy from day one: no roadmap to follow, no brief to wait for. You see the problem, you build the solution, you own the outcome. 🏃🏻‍♂️‍➡️ Hello-Benefits: including 24/7 HelloFit gym access, UrbanSportsClub discount, the best events and company-sponsored healthy meals every day 💶 Base salary: €50,000 to €75,000 gross per year, depending on skills, level and experience. Ready to build something? We need bold thinkers, fast executors, and AI-first problem solvers. If that sounds like you, apply now. Let's redefine an industry together. At HelloPrint, we believe diversity makes us better. We're building a workplace where everyone can be themselves, grow, and do their best work regardless of background, identity, or perspective. We welcome applicants from all backgrounds. Find Jobs in Netherlands on Arbeitnow",
    "applicants": null,
    "publisher": "Arbeitnow",
    "title_junior": true,
@@ -1413,8 +1538,7 @@
    ],
    "skills": [
     "AI",
-    "LLM",
-    "Engels"
+    "LLM"
    ],
    "lang": "en",
    "linkedin": false,
@@ -1918,70 +2042,6 @@
    }
   },
   {
-   "id": "0e7f964bf964",
-   "source": "JobSpy",
-   "title": "IT-traineeship .NET Developer Rechtspraak",
-   "company": "de Rechtspraak",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=0fc6bec3b09081f1",
-   "salary": "€3579 - €4999 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als .NET Developer bij IVO Rechtspraak bouw je aan de front-end én back-end, van webportalen tot systeemkoppelingen. Leef je uit in je SCRUM-team. En werk in DevOps. Lijkt dit je wat? Lees snel verder. Waar je hart ook ligt als ontwikkelaar, je draagt heel concreet bij aan de digitalisering en het digitaal toegankelijk maken van de rechtspraak. Met toepassingen voor medewerkers van de rechtspraak, zoals rechters en de mensen van de Griffies. Voor ketenpartners, zoals het OM, advocaten, de politie of de kinderbescherming. Maar ook voor ‘de man of vrouw in de straat’ die met de rechtspraak te maken krijgt. Je werkt agile, in SCRUM-teams en op basis van DevOps. Lekker dynamisch en dicht bij de gebruiker. Ook pas je de technologieën toe zoals .NET Core, Microservices, Azure DevOps, OpenShift, Docker, Angular en Splunk. Wat je nog niet kent, dat leren we je. Waar de markt stopt, ontwikkelen wij vaak zelf nog door. Je kunt je creativiteit dus goed kwijt! Dit krijg je Schaal 9 €3.579 - €4.999 (bruto) Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 1 jaar 36 uur Het salaris is gebaseerd op een werkweek van 36 uur. Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis kunt deelnemen. Tijdens dit gesprek gaan we op zoek naar jouw drijfveren. Vervolggesprek (op locatie) Als er bij het eerste gesprek van beide kanten een match is, plannen we een tweede gesprek in op ons kantoor in Utrecht. Arbeidsvoorwaarden Na een positieve afronding van de gesprekk",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Utrecht Hbo, Wo 36 uur Schaal 9 / €3.579 - €4.999 (bruto) Development en testing Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan",
-    "Coaching"
-   ],
-   "skills": [
-    ".NET",
-    "Angular",
-    "Docker",
-    "Azure",
-    "Agile",
-    "DevOps",
-    "Microservices"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 90,
-    "matched_skills": [
-     "C#",
-     ".NET",
-     "Azure",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [
-     "Angular"
-    ],
-    "ignored_unrealistic": [
-     "OpenShift",
-     "Splunk"
-    ],
-    "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij dit traineeship.",
-    "local_score": 60,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "3a99f1a89579",
    "source": "JobSpy",
    "title": "Rabobank Traineeship Business & IT",
@@ -2090,64 +2150,6 @@
     ],
     "reason": "Je hebt affiniteit met security en Azure, wat een goede basis vormt voor dit security traineeship.",
     "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "1fb069fbd19c",
-   "source": "JobSpy",
-   "title": "IT-traineeship Data engineer",
-   "company": "de Rechtspraak",
-   "location": "Utrecht, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=24245c7decba32f1",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Utrecht Hbo, Wo 36 uur €3579 ICT Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van jou! In twee jaar tijd krijg je volop de kans om kennis en ervaring op te doen en je soft skills te vergroten. Als IT-trainee data engineer bij IVO Rechtspraak werk je vanuit het IVO Datalab. Jij helpt dataproducten en -analyses te ontwikkelen en rechters en andere Rechtspraak-medewerkers datagedreven te werken. Je werkt op het snijvlak van data engineering, ML engineering en cloud engineering. Heel belangrijk dus! En dat is nog niet alles. De Rechtspraak wil flinke stappen zetten in datagedreven werken. Daar draag jij op allerlei manieren aan bij vanuit het IVO Datalab. Je kunt je creativiteit helemaal kwijt! Zo ontwikkel je pipelines (Infrastructure as Code) en koppelvlakken voor data ingestion en ben je betrokken bij de deployment van diverse dataproducten. Ook ben je bezig met cloud engineering. Samen met de Cloud Engineers van het lab doe je aan resource deployment en richt je de netwerkinfrastructuur vanaf scratch in. De eerste verkenningen zijn op een on-premise cloud, met later een transitie naar een private cloud. Een mooie gelegenheid om OpenShift en Azure Cloud beter te leren kennen. Word jij als data engineer blij van een rol met ruimte om initiatief te nemen? Waar je de techniek in kunt duiken en meer doet dan alleen de dagelijkse routine? Dan is dit jouw start. Dit krijg je €3579 Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 36 uur Dit bieden we nog meer Om te beginnen een leuke, informele werksfeer. We houden de lijnen graag kort! En je arbeidsvoorwaarden zijn prima geregeld volgens de CAO Rijk. Wat belangrijke punten op een rij: Contract: een jaarcontract voor 36 uur per week, met uitzicht op een vast dienstverband. Salaris: Je zit in schaal 9 (trede 0) en hebt een salaris van € 3.579,02 bruto per maand bij een werkweek van 36 uur Daarnaast heb je een Individueel Keuzebudget van € 590,54, waarmee je zelf je arbeidsvoorwaarden samenstelt. Koop bijvoorbeeld extra verlof, schaf een fiets aan of los je studieschuld fiscaal vriendelijk af. Doorgroeimogelijkheden: je functie zit vol mogelijkheden om je kennis verder uit te breiden en je persoonlijke ontwikkeling te stimuleren. En bij onze IVO Academie kun je allerlei trainingen en opleidingen doen. Werk-privébalans: je bent vrij om je werkdagen flexibel in te delen. Zo kun je deels vanuit huis werken. We dragen € 750 bij aan het inrichten van een comfortabele thuiswerkplek. Vakanties en vrije dagen : je hebt 26 vrije dagen op basis van een 36-urige werkweek. Gratis OV: je krijgt van ons een OV-chipkaart voor je woon-werkverkeer. Pensioen: je bouwt je pensioen op bij het ABP, een van de grootste pensioenfondsen van Nederland. Ook dat is dus goed geregeld. Leuke activiteiten : een teamdag, borrelmiddagen, een after summer-feest … er gebeurt van alles. Of organiseer ook zelf iets met je collega’s, van padel tot yoga of een pubquiz. Bekijk hier alle arbeidsvoorwaarden > Dit vragen wij Kun jij analytisch denken? gestructureerd te werk gaan? goed samenwerken? zorgvuldig en helder communiceren? Heb jij Een afgeronde hbo- of wo-opleiding met als richting software of informatica? maximaal 2 jaar werkervaring na je studie? een uitstekende beheersing van de Nederlandse taal, zowel in mondelinge als schriftelijke communicatie? een brede leergierigheid en de wil om jezelf te ontwikkelen? veel initiatief en houd je wel van een uitdaging? En, ben jij: een starter in de wereld van IT? Dan is ons IT-traineeship écht iets voor jou! Hier kom je te werken Over IVO Rechtspraak Bij IVO Rechtspraak werken rond de 1.000 bevlogen, trotse en betrokken professionals. Samen ontwikkelen en beheren we de digitale systemen voor de rechtspraak. Zo zorgen we dat rechtszaken iedere dag soepel verlopen. Onze kernwaarde integriteit is verweven in het DNA van al onze medewerkers. Van IT’er tot communicatieadviseur of beleidsmedewerker. Daarom vinden wij het ook belangrijk dat iedereen die bij ons werkt zich thuis voelt, plezier heeft in het werk en zichzelf kan zijn in een informele werksfeer. IVO Rechtspraak > Werklocatie IVO Rechtspraak Uniceflaan 1 3527 WX, Utrecht Jouw IT-traineeship Hoe kom je het snelste op vlieghoogte in een richting die bij jou past? We kijken er samen naar en maken een programma op maat voor je. In ieder geval is je IT-traineeship altijd een combinatie van werkervaring opdoen en leren. Juist dat maakt het zo waardevol! Je ontwikkelt je talenten in de praktijk door mee te werken in je team. Spannend? Geen zorgen, je collega’s, coach en je buddy helpen je. Daarnaast doe je via vakinhoudelijke opleidingen de nodige kennis op. En je volgt trainingen in soft skills samen met de andere IT-trainees uit jouw lichting. Zo ontwikkel je ál je talenten, en het is nog gezellig ook. Kortom, we hechten veel waarde aan jouw ontwikkeling en werkplezier! Daar blijven we met elkaar over in gesprek. Ook nadat je IT-traineeship is afgelopen en wanneer je bij ons blijft werken. Bijzonderheden De sollicitatieprocedure bij IVO Rechtspraak loopt via onderstaande stappen. Hiermee willen we zo veel mogelijk over jou te weten komen, maar laten we je ook kennismaken met ons Sollicitatie en selectie Je kunt solliciteren tot en met 30 november 2026. We nemen na afloop van de sluitingsdatum contact met je op. Het traineeship start op 1 maart 2027. Oriënterende kennismaking (online) Sluit je profiel voldoende aan? Dan maken we graag oriënterend kennis met je. Online assessment We nodigen je per telefoon of e-mail uit voor een online assessment waaraan je thuis kunt deelnemen. Tijdens dit gesprek gaan we op zoek naar jouw drijfveren. Vervolggesprek (op locatie) Als er bij het eerste gesprek van beide kanten een match is, plannen we een tweede gesprek in o",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Utrecht Hbo, Wo 36 uur €3579 ICT Solliciteer voor 1 december 2026 Dit ga je doen Het antwoord op die vraag is een inkoppertje. Want ons Traineeship draait maar om één ding: dat jij je talenten als professional maximaal ontwikkelt en inzet! We halen alles uit de kast, met een programma op maat van...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Vaste baan",
-    "Coaching"
-   ],
-   "skills": [
-    "CI/CD",
-    "Azure",
-    "Machine learning"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-06T15:53:35.268011+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Python",
-     "AWS",
-     "Azure"
-    ],
-    "missing_realistic": [
-     "Data engineering"
-    ],
-    "ignored_unrealistic": [
-     "OpenShift"
-    ],
-    "reason": "Je Python-kennis en achtergrond in software engineering passen goed bij een data engineering traineeship.",
-    "local_score": 77,
     "ai": true,
     "check": false,
     "visible": true
@@ -3036,6 +3038,57 @@
    }
   },
   {
+   "id": "4d9d0482ef91",
+   "source": "JobSpy",
+   "title": "Flight Analyst",
+   "company": "KLM",
+   "location": "Amstelveen, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=7b74d7e7f863fccb",
+   "salary": "€3796 - €3905 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "De wereld ligt aan je voeten als Flight Analyst bij KLM. Jij optimaliseert de prijzen en omzet voor je eigen portfolio vluchten en bent daarmee onmisbaar voor de winstgevendheid van onze organisatie. Je komt terecht in een dynamische omgeving waar je jezelf voortdurend kunt ontwikkelen. Bij KLM krijg je de kans om je grenzen te verleggen en bij te dragen aan een organisatie die wereldwijd bekend staat om haar kwaliteit. Wat ga je doen? Als flight analyst ben je verantwoordelijk voor het bepalen en optimaliseren van de beschikbaarheidsstrategie voor alle vluchten binnen jouw portfolio. Je beheert de input en output van het revenue management systeem, voert aanpassingen door waar nodig en biedt inzichten aan het management om de besluitvorming te ondersteunen. Verder: ben je proactief op zoek naar kansen om de omzet te maximaliseren; bedenk je constant nieuwe ideeën om onze prijsstrategieën te optimaliseren; doorgrond je grote hoeveelheden data, op zoek naar slimme manieren om elk vliegtuig zo goed mogelijk te vullen; houd je de boekingtrends onder reizigers scherp in de gaten, om daar handig op in te spelen; neem je deel aan nevenprojecten, zoals het verbeteren van onze strategieën en tools. Waar land je? Je komt te werken op ons hoofdkantoor in Amstelveen, in het hart van het team Inventory Management. Dit team bestaat uit enthousiaste en gedreven collega's die nauw samenwerken om de beste resultaten te behalen. Samen dragen jullie bij aan de optimalisatie van ons netwerk en de ervaring van onze passagiers. Jouw profiel Jij bent een innovatieve, initiatiefrijke en commerciële professional. Cijfers? Je bent er dol op én weet er wel raad mee. Samen of alleen werken, dat is jou om het even. Jij zorgt er gewoon voor dat je kwaliteit levert, punt. Door je analytische skills heb jij altijd binnen no-time het lek boven, én weet je het te dichten. Bovendien leg je alles ook nog eens haarfijn en kristalhelder uit aan je collega’s – op elk niveau van onze organisatie. Verder heb je: een universitair diploma op zak, en affiniteit met data; geen enkel probleem met geschreven en gesproken Nederlands en Engels; een resultaatgerichte, commerciële werkhouding; ervaring met data-analyse en rapportagetools; een besluitvaardige persoonlijkheid. Competenties: Aandacht voor kwaliteit Besluitvaardigheid Kritisch denken Initiatief nemen Overtuigingskracht Wat bieden wij Een uitdagende rol bij een uniek Nederlands bedrijf; Een brutosalaris tussen € 3.796,93 en € 3.905, 41 bruto per maand; Volop ruimte voor persoonlijke ontwikkeling en mooie doorgroeimogelijkheden; Een uitstekende pensioenregeling; 8% vakantiegeld; Een eindejaarsuitkering van 8,33%; Een regeling voor winstdeling, tot 20%; 25 vakantiedagen en 5 extra vrije dagen; Fikse korting op vliegtickets (als je minimaal 6 maanden in dienst bent); Een duurzaam vervoersbeleid, met o.a. 100% gratis reizen naar het werk met het Openbaar Vervoer (binnen Nederland); Als je functie dit toelaat: thuiswerken en tot 8 weken werken vanuit het buitenland (EU en Caribisch gebied); Korting op je ziektekostenverzekering; Een budget voor duurzame inzetbaarheid. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 20-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je online sollicitatie stellen we je enkele gerichte vragen. Je sollicitatieprocedure bestaat uit twee gesprekken en mogelijk een assessment, capaciteitentest en een veiligheidsonderzoek. Kandidaten die positief worden geselecteerd voor het eerste gesprek ontvangen een e-mail waarin zij zelf een geschikt tijdslot kunnen kiezen voor het interview. Zo houden we het proces snel en overzichtelijk, en heb jij regie over je planning. Binnen twee weken na sluiting van de vacature hoor je van ons. Let op: Bij voldoende geschikte reacties zullen we de vacature eerder sluiten. Via je persoonlijke kandidaatprofiel kun je op elk moment inloggen. Hier vind je de vacature waarop je hebt gesolliciteerd - ook nadat deze is gesloten - én een overzichtelijk dashboard met eventuele andere lopende sollicitaties binnen KLM, inclusief status updates. Heb jij de drive om in deze rol verder te groeien? Dan kijken we uit naar je sollicitatie.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie. Een referentiecheck kan onderdeel uitmaken van de sollicitatieprocedure.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "De wereld ligt aan je voeten als Flight Analyst bij KLM. Jij optimaliseert de prijzen en omzet voor je eigen portfolio vluchten en bent daarmee onmisbaar voor de winstgevendheid van onze organisatie. Je komt terecht in een dynamische omgeving waar je jezelf voortdurend kunt ontwikkelen. Bij KLM...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "Bonus"
+   ],
+   "skills": [
+    "Data analyse",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-06T21:27:14.638591+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 20,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Revenue management ervaring"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt sterke analytische vaardigheden, maar de inhoud van deze rol ligt te ver van software engineering.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "d911dfb5e620",
    "source": "JobSpy",
    "title": "Data-analist infectiepreventie",
@@ -3085,54 +3138,55 @@
    }
   },
   {
-   "id": "4d9d0482ef91",
+   "id": "d743aa1fdf82",
    "source": "JobSpy",
-   "title": "Flight Analyst",
-   "company": "KLM",
-   "location": "Amstelveen, NH, Netherlands",
+   "title": "Junior Data & Reporting Analyst",
+   "company": "Robeco",
+   "location": "Rotterdam, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=7b74d7e7f863fccb",
-   "salary": "€3796 - €3905 per maand",
+   "url": "https://nl.indeed.com/viewjob?jk=d78a045c3539ba65",
+   "salary": null,
    "tags": [
     "",
-    "fulltime"
+    ""
    ],
-   "full_text": "De wereld ligt aan je voeten als Flight Analyst bij KLM. Jij optimaliseert de prijzen en omzet voor je eigen portfolio vluchten en bent daarmee onmisbaar voor de winstgevendheid van onze organisatie. Je komt terecht in een dynamische omgeving waar je jezelf voortdurend kunt ontwikkelen. Bij KLM krijg je de kans om je grenzen te verleggen en bij te dragen aan een organisatie die wereldwijd bekend staat om haar kwaliteit. Wat ga je doen? Als flight analyst ben je verantwoordelijk voor het bepalen en optimaliseren van de beschikbaarheidsstrategie voor alle vluchten binnen jouw portfolio. Je beheert de input en output van het revenue management systeem, voert aanpassingen door waar nodig en biedt inzichten aan het management om de besluitvorming te ondersteunen. Verder: ben je proactief op zoek naar kansen om de omzet te maximaliseren; bedenk je constant nieuwe ideeën om onze prijsstrategieën te optimaliseren; doorgrond je grote hoeveelheden data, op zoek naar slimme manieren om elk vliegtuig zo goed mogelijk te vullen; houd je de boekingtrends onder reizigers scherp in de gaten, om daar handig op in te spelen; neem je deel aan nevenprojecten, zoals het verbeteren van onze strategieën en tools. Waar land je? Je komt te werken op ons hoofdkantoor in Amstelveen, in het hart van het team Inventory Management. Dit team bestaat uit enthousiaste en gedreven collega's die nauw samenwerken om de beste resultaten te behalen. Samen dragen jullie bij aan de optimalisatie van ons netwerk en de ervaring van onze passagiers. Jouw profiel Jij bent een innovatieve, initiatiefrijke en commerciële professional. Cijfers? Je bent er dol op én weet er wel raad mee. Samen of alleen werken, dat is jou om het even. Jij zorgt er gewoon voor dat je kwaliteit levert, punt. Door je analytische skills heb jij altijd binnen no-time het lek boven, én weet je het te dichten. Bovendien leg je alles ook nog eens haarfijn en kristalhelder uit aan je collega’s – op elk niveau van onze organisatie. Verder heb je: een universitair diploma op zak, en affiniteit met data; geen enkel probleem met geschreven en gesproken Nederlands en Engels; een resultaatgerichte, commerciële werkhouding; ervaring met data-analyse en rapportagetools; een besluitvaardige persoonlijkheid. Competenties: Aandacht voor kwaliteit Besluitvaardigheid Kritisch denken Initiatief nemen Overtuigingskracht Wat bieden wij Een uitdagende rol bij een uniek Nederlands bedrijf; Een brutosalaris tussen € 3.796,93 en € 3.905, 41 bruto per maand; Volop ruimte voor persoonlijke ontwikkeling en mooie doorgroeimogelijkheden; Een uitstekende pensioenregeling; 8% vakantiegeld; Een eindejaarsuitkering van 8,33%; Een regeling voor winstdeling, tot 20%; 25 vakantiedagen en 5 extra vrije dagen; Fikse korting op vliegtickets (als je minimaal 6 maanden in dienst bent); Een duurzaam vervoersbeleid, met o.a. 100% gratis reizen naar het werk met het Openbaar Vervoer (binnen Nederland); Als je functie dit toelaat: thuiswerken en tot 8 weken werken vanuit het buitenland (EU en Caribisch gebied); Korting op je ziektekostenverzekering; Een budget voor duurzame inzetbaarheid. Ready for your next destination? Wacht dan niet langer, en solliciteer voor de ‘final boarding call’ op 20-11-2026! Je hoeft geen motivatiebrief te schrijven; tijdens je online sollicitatie stellen we je enkele gerichte vragen. Je sollicitatieprocedure bestaat uit twee gesprekken en mogelijk een assessment, capaciteitentest en een veiligheidsonderzoek. Kandidaten die positief worden geselecteerd voor het eerste gesprek ontvangen een e-mail waarin zij zelf een geschikt tijdslot kunnen kiezen voor het interview. Zo houden we het proces snel en overzichtelijk, en heb jij regie over je planning. Binnen twee weken na sluiting van de vacature hoor je van ons. Let op: Bij voldoende geschikte reacties zullen we de vacature eerder sluiten. Via je persoonlijke kandidaatprofiel kun je op elk moment inloggen. Hier vind je de vacature waarop je hebt gesolliciteerd - ook nadat deze is gesloten - én een overzichtelijk dashboard met eventuele andere lopende sollicitaties binnen KLM, inclusief status updates. Heb jij de drive om in deze rol verder te groeien? Dan kijken we uit naar je sollicitatie.Wist je dat volgens onderzoek vrouwen minder graag solliciteren dan mannen, als ze niet aan alle functie-eisen voldoen? Zonde. Want ‘de perfecte kandidaat’ is wat ons betreft een fabeltje. Dus heb jij de drive om op enkele aspecten in deze rol nog te groeien? We kijken uit naar je sollicitatie. Een referentiecheck kan onderdeel uitmaken van de sollicitatieprocedure.",
+   "full_text": "Department You will join the Reporting Services team, which empowers Robeco’s Operations and Investment teams by delivering high-end, strategic, client-centric, digital, and data-driven reporting solutions for both internal and external clients. Within the Reporting Services team, we have two sub-teams: the Business Insight Center and Client Insight Reporting. The Business Insight Center focuses on business intelligence and analytics, while Client Insight Reporting develops and delivers client-facing reporting solutions. In this role, you will be part of the Client Insight Reporting team. This team is responsible for delivering high-quality reporting for Robeco’s clients. The team combines data, reporting expertise and technology to transform complex information into clear reporting solutions for clients. By working closely with Robeco’s business teams, Client Insight Reporting helps to ensure the right information is available in the right format, at the right time. Position & Requirements As a Data & Reporting Analyst, you'll work with data, reporting, and business stakeholders to deliver valuable insights and solutions. You'll be part of a supportive team that values collaboration, continuous learning, and helping you grow into a data professional. You will be part of a team that designs, builds, and maintains reporting solutions. You will collaborate closely with both IT and business stakeholders and take ownership of delivering reporting solutions. You are expected to work independently while contributing to the continuous improvement of our reporting landscape. What you will do In this role, you will: Collaborate with stakeholders to gather and clarify reporting requirements. Translate business needs into effective reporting solutions in close coordination with the development team. Support the design, testing, and delivery of reports using tools such as Seismic and Vermilion. Build, maintain and improve our reporting solutions. Solving incidents and data issues, and actively contribute to the continuous improvement of reporting workflows. Maintain clear documentation and promote knowledge sharing within the team. Present progress and key updates to internal stakeholders and the broader organization. What You Bring We are looking for someone who: Has a completed HBO or university degree in a relevant field. Strong attention to detail and a structured way of working. A proactive mindset and eagerness to learn and grow. Good communication skills and the ability to work effectively with stakeholders. Fluency in English. Experience with Excel, SQL, or reporting tools is a plus, but not required. If you are passionate about Reporting and thrive in an Agile environment, we would love to hear from you! Join us and be part of a team that values creativity, collaboration, and excellence! All applications will be treated with the utmost confidentiality. An assessment and integrity test may be used in the selection procedure. Robeco Recruiting Team",
    "applicants": null,
    "publisher": "Indeed",
-   "title_junior": false,
+   "title_junior": true,
    "traineeship": false,
-   "short_desc": "De wereld ligt aan je voeten als Flight Analyst bij KLM. Jij optimaliseert de prijzen en omzet voor je eigen portfolio vluchten en bent daarmee onmisbaar voor de winstgevendheid van onze organisatie. Je komt terecht in een dynamische omgeving waar je jezelf voortdurend kunt ontwikkelen. Bij KLM...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "Bonus"
-   ],
+   "short_desc": "Department You will join the Reporting Services team, which empowers Robeco’s Operations and Investment teams by delivering high-end, strategic, client-centric, digital, and data-driven reporting solutions for both internal and external clients. Within the Reporting Services team, we have two...",
+   "benefits": [],
    "skills": [
-    "Data analyse",
-    "Engels",
-    "Nederlands"
+    "SQL",
+    "Agile",
+    "Excel",
+    "Requirements",
+    "Engels"
    ],
-   "lang": "nl",
+   "lang": "en",
    "linkedin": false,
    "unrealistic_hint": false,
-   "first_seen": "2026-11-06T21:27:14.638591+00:00",
+   "first_seen": "2026-11-07T15:37:32.292067+00:00",
    "match": {
-    "is_junior": false,
-    "score": 20,
+    "is_junior": true,
+    "score": 60,
     "matched_skills": [
-     "SQL"
+     "SQL",
+     "Python",
+     "Agile/Scrum"
     ],
     "missing_realistic": [
-     "Revenue management ervaring"
+     "Business Intelligence",
+     "Financial or investment reporting domain knowledge"
     ],
     "ignored_unrealistic": [],
-    "reason": "Je hebt sterke analytische vaardigheden, maar de inhoud van deze rol ligt te ver van software engineering.",
-    "local_score": 30,
+    "reason": "Je hebt sterke analytische vaardigheden en programmeerervaring, maar mist specifieke achtergrond in financiële rapportages.",
+    "local_score": 65,
     "ai": true,
     "check": false,
-    "visible": false
+    "visible": true
    }
   },
   {
@@ -3332,58 +3386,6 @@
     "ai": true,
     "check": true,
     "visible": false
-   }
-  },
-  {
-   "id": "d743aa1fdf82",
-   "source": "JobSpy",
-   "title": "Junior Data & Reporting Analyst",
-   "company": "Robeco",
-   "location": "Rotterdam, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-06T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=d78a045c3539ba65",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Department You will join the Reporting Services team, which empowers Robeco’s Operations and Investment teams by delivering high-end, strategic, client-centric, digital, and data-driven reporting solutions for both internal and external clients. Within the Reporting Services team, we have two sub-teams: the Business Insight Center and Client Insight Reporting. The Business Insight Center focuses on business intelligence and analytics, while Client Insight Reporting develops and delivers client-facing reporting solutions. In this role, you will be part of the Client Insight Reporting team. This team is responsible for delivering high-quality reporting for Robeco’s clients. The team combines data, reporting expertise and technology to transform complex information into clear reporting solutions for clients. By working closely with Robeco’s business teams, Client Insight Reporting helps to ensure the right information is available in the right format, at the right time. Position & Requirements As a Data & Reporting Analyst, you'll work with data, reporting, and business stakeholders to deliver valuable insights and solutions. You'll be part of a supportive team that values collaboration, continuous learning, and helping you grow into a data professional. You will be part of a team that designs, builds, and maintains reporting solutions. You will collaborate closely with both IT and business stakeholders and take ownership of delivering reporting solutions. You are expected to work independently while contributing to the continuous improvement of our reporting landscape. What you will do In this role, you will: Collaborate with stakeholders to gather and clarify reporting requirements. Translate business needs into effective reporting solutions in close coordination with the development team. Support the design, testing, and delivery of reports using tools such as Seismic and Vermilion. Build, maintain and improve our reporting solutions. Solving incidents and data issues, and actively contribute to the continuous improvement of reporting workflows. Maintain clear documentation and promote knowledge sharing within the team. Present progress and key updates to internal stakeholders and the broader organization. What You Bring We are looking for someone who: Has a completed HBO or university degree in a relevant field. Strong attention to detail and a structured way of working. A proactive mindset and eagerness to learn and grow. Good communication skills and the ability to work effectively with stakeholders. Fluency in English. Experience with Excel, SQL, or reporting tools is a plus, but not required. If you are passionate about Reporting and thrive in an Agile environment, we would love to hear from you! Join us and be part of a team that values creativity, collaboration, and excellence! All applications will be treated with the utmost confidentiality. An assessment and integrity test may be used in the selection procedure. Robeco Recruiting Team",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Department You will join the Reporting Services team, which empowers Robeco’s Operations and Investment teams by delivering high-end, strategic, client-centric, digital, and data-driven reporting solutions for both internal and external clients. Within the Reporting Services team, we have two...",
-   "benefits": [],
-   "skills": [
-    "SQL",
-    "Agile",
-    "Excel",
-    "Requirements",
-    "Engels"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-07T15:37:32.292067+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL",
-     "Python",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [
-     "Business Intelligence",
-     "Financial or investment reporting domain knowledge"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt sterke analytische vaardigheden en programmeerervaring, maar mist specifieke achtergrond in financiële rapportages.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -3901,60 +3903,6 @@
    }
   },
   {
-   "id": "9bcab09f8a01",
-   "source": "JobSpy",
-   "title": "Data Engineer / BI Developer",
-   "company": "Vitalis",
-   "location": "Eindhoven, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=696300ae012328d9",
-   "salary": "€4157 - €6171 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Zo maak jij het verschil Data speelt een steeds grotere rol binnen Vitalis. Daarom staan we aan de start van een belangrijke ontwikkeling: de transitie naar een toekomstbestendig datawarehouse. Als Data Engineer / BI Developer speel je hierin een belangrijke rol. Samen met een team van zes dataspecialisten werk je aan betrouwbare en toekomstbestendige dataoplossingen voor de hele organisatie. Je ontsluit, combineert en structureert data uit verschillende bronnen, ontwikkelt datamodellen en zorgt ervoor dat informatie beschikbaar, betrouwbaar en bruikbaar is. Daarnaast vertaal je informatiebehoeften naar slimme oplossingen die collega's helpen om beter te sturen, vooruit te kijken en onderbouwde beslissingen te nemen. Je denkt mee over de verdere ontwikkeling van de dataomgeving en krijgt de ruimte om jouw ideeën en expertise in te brengen. Daarbij kijk je niet alleen naar de techniek, maar vooral naar hoe data optimaal kan bijdragen aan de vragen en uitdagingen binnen de organisatie. De inzichten die jij mogelijk maakt, helpen collega's iedere dag verder. Of het nu gaat om zorg, bedrijfsvoering of organisatieontwikkeling: jouw werk helpt anderen betere keuzes te maken. En daarmee draag je indirect bij aan wat ons iedere dag drijft: de kunst van gelukkig ouder worden. Dit maakt jou gelukkig Voor veel Data Engineers is het een droom om in te stappen op een moment waarop een organisatie een belangrijke volgende stap zet in haar dataontwikkeling. Bij Vitalis krijg je die kans. De komende jaren maken we de transitie naar een toekomstbestendig datawarehouse. Een ontwikkeling die je niet vaak meemaakt en waarin je samen met je collega's kunt meedenken, meebouwen en meegroeien. Hoe mooi is het om over een paar jaar terug te kijken en te kunnen zeggen: daar heb ik aan meegebouwd? Je doet dat in een team van collega's die net zo enthousiast worden van data als jij. Een divers team waarin iedereen zijn eigen expertise, ervaring en talenten meebrengt. Juist daardoor blijf je van elkaar leren. Je spart met collega's, deelt kennis en vindt samen oplossingen die je alleen nooit had bedacht. Wat het werk extra leuk maakt, is dat je dicht bij de organisatie staat. Je leert collega's uit verschillende disciplines kennen, begrijpt wat hen bezighoudt en ziet hoe jouw werk helpt om betere keuzes te maken. Daardoor zie je niet alleen wat je maakt, maar ook wat het oplevert. Zo combineer je een uitdagende ontwikkeling, een sterk team en zichtbaar resultaat. En dat binnen een organisatie die zich iedere dag inzet voor de kunst van gelukkig ouder worden. Wat je van ons mag verwachten Een mooie uitdaging binnen een enthousiast team van dataspecialisten. Natuurlijk zorgen we er ook voor dat de randvoorwaarden goed geregeld zijn. een contract voor 32-36 uur per week voor een jaar, met de intentie tot een contract voor onbepaalde tijd; een salaris volgens cao VVT ingeschaald in FWG 60 (min. € 4.157,20 - max. € 6.171,02) op basis van een contract van 36 uur; 8% vakantiegeld en een eindejaarsuitkering van 8,33%; een balansbudget dat je kunt inzetten voor extra verlof of bijvoorbeeld een sabbatical; een goede pensioenregeling via PFZW, waarbij Vitalis 50% van de premie betaalt; de vrijheid om zelf te kiezen of je vakantiegeld en eindejaarsuitkering maandelijks of jaarlijks ontvangt; de mogelijkheid om zelf te bepalen wanneer meeruren worden uitbetaald; volop mogelijkheden om jezelf verder te ontwikkelen, opleidingen te volgen en certificeringen te behalen; de mogelijkheid om hybride te werken; een reiskostenvergoeding van € 0,21 per kilometer voor woon-werkverkeer en € 0,32 per kilometer voor reizen tussen locaties. En misschien nog wel het leukste... Vitale teams Je werkt samen met betrokken collega's die elkaar kennen, helpen en scherp houden. Hard werken én veel lachen gaan hier prima samen. Teamuitjes Elk team krijgt een eigen budget. Wat jullie ermee doen? Dat bepalen jullie zelf. Van een escaperoom tot een gezellige borrel of iets compleet onverwachts. Teamcoaching Soms wil je als team net een stap verder. Daar is ruimte voor, bijvoorbeeld met teamcoaching of begeleiding. Personeelsfeest Eens in de twee jaar pakken we uit met een groot Vitalis-feest. Zo'n avond waar nog lang over wordt nagepraat. Blijven groeien Of je nu een opleiding wilt volgen, je wilt verdiepen in je vakgebied of je verder wilt ontwikkelen binnen Vitalis: we denken graag met je mee. Jij past bij ons als... Je enthousiast wordt van data, maar vooral van wat je ermee mogelijk maakt. Je bent nieuwsgierig, denkt graag in oplossingen en vindt het leuk om samen te werken met collega's die vanuit verschillende invalshoeken naar vraagstukken kijken. Daarnaast breng je mee: hbo- of wo-werk- en denkniveau; ervaring als Data Engineer, BI Developer of in een vergelijkbare functie; ervaring met datawarehouses, datamodellering en business intelligence; ervaring met Power BI; de drive om jezelf te blijven ontwikkelen en nieuwe mogelijkheden te verkennen. Ervaring met Qlik en ervaring binnen de zorg zijn mooie aanvullingen, maar zeker geen vereiste. We geloven dat een frisse blik, de juiste kennis en de motivatie om samen met ons te bouwen aan de toekomst van data binnen Vitalis minstens zo waardevol zijn. Elkaar beter leren kennen? Misschien herken jij jezelf al helemaal in deze vacature. Of misschien ben je nog benieuwd of Vitalis bij jou past. Hoe dan ook: we leren je graag kennen. Daarom geen motivatiebrief, maar solliciteer met wat jou gelukkig maakt. Upload je cv en beantwoord onderstaande vragen: Wat maakt jou gelukkig? Op welke prestatie uit het verleden ben je super trots en waarom? Wat hoop je bij Vitalis te vinden wat je in je huidige functie mist? Toch niet helemaal een match, maar ken je iemand voor wie deze vacature op het lijf is geschreven? Tip hem of haar dan. Je maakt diegene én ons erg gelukkig. Heb je vragen over de functie of de procedure? Neem dan gerust contact op met Recruitment via werken@vitalisgroep.nl , of stuur even een appje naa",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Zo maak jij het verschil Data speelt een steeds grotere rol binnen Vitalis. Daarom staan we aan de start van een belangrijke ontwikkeling: de transitie naar een toekomstbestendig datawarehouse. Als Data Engineer / BI Developer speel je hierin een belangrijke rol. Samen met een team van zes...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten",
-    "Vaste baan",
-    "Coaching"
-   ],
-   "skills": [
-    "Power BI"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T10:45:44.960320+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 50,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Data warehousing",
-     "BI-specifieke tools"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze rol vraagt specifieke data engineering- en BI-ervaring die buiten jouw directe software- en beheerachtergrond valt.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": false
-   }
-  },
-  {
    "id": "65a5c6c6a811",
    "source": "JobSpy",
    "title": "Adviseur data en informatievoorziening",
@@ -4432,6 +4380,53 @@
    }
   },
   {
+   "id": "ea9cff8cb516",
+   "source": "JobSpy",
+   "title": "Functioneel Beheerder INTUS Inplanning",
+   "company": "Vlirdens",
+   "location": "Doorn, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=59bc8796d5f1baf8",
+   "salary": "€4000 - €5500 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Een rooster dat niet klopt is vervelend. Een verkeerde urenberekening, verlofregeling of koppeling die vervolgens doorwerkt richting salaris? Da’s een ander verhaal. Daarom zoeken we bij Vlirdens iemand die InPlanning niet alleen kent, maar écht begrijpt. Iemand die ziet wat er achter een gebruikersvraag zit, weet welke gevolgen een wijziging verderop in het proces kan hebben en ervoor zorgt dat verschillende klantomgevingen blijven draaien zoals ze bedoeld zijn. Als Functioneel Beheerder INTUS InPlanning krijg je bij ons meerdere klanten onder je hoede. Je beheert, lost op, richt in, test, adviseert en verbetert. Zelfstandig, maar nooit alleen. Wat ga je doen? In het kort? Jij zorgt ervoor dat InPlanning bij onze klanten functioneel goed staat én goed blijft staan. Je beheert verschillende InPlanning-omgevingen en bent voor klanten het inhoudelijke aanspreekpunt. Je houdt de inrichting actueel en vertaalt vastgestelde cao-, bedrijfs- en roosterafspraken naar InPlanning. Daarbij kijk je altijd een paar stappen verder. Want één wijziging kan gevolgen hebben voor urenberekeningen, toeslagen, verlofsaldi, rapportages, koppelingen of uiteindelijk de salarisverwerking. Komt er een incident of gebruikersvraag binnen? Dan duik je erin. Je zoekt naar de oorzaak en lost het waar mogelijk zelfstandig op. Moet INTUS, IT of een andere leverancier aanhaken? Dan zorg jij voor een goede overdracht én houd je regie totdat het is opgelost. Beheren, maar ook verbeteren Functioneel beheer betekent bij Vlirdens niet alleen zorgen dat de boel blijft draaien. Bij wijzigingsverzoeken kijk jij wat er écht nodig is, wat de impact is en of de voorgestelde oplossing verstandig is. Wordt een wijziging doorgevoerd? Dan bereid je hem voor, test je hem en leg je vast wat er veranderd is. Ook bij nieuwe releases kijk jij wat er op klanten afkomt. Je bewaakt jobs, koppelingen en gegevensstromen met bijvoorbeeld HR- en salarissystemen en onderzoekt afwijkingen wanneer die ontstaan. En zie je iets wat structureel beter kan? Graag. Je adviseert klanten over slimmer gebruik van InPlanning, deelt kennis met collega’s en zorgt dat belangrijke keuzes en oplossingen goed worden vastgelegd. Zodat we dezelfde puzzel niet drie maanden later opnieuw hoeven op te lossen. Waarom Vlirdens? Vlirdens draait om Workforce Management. We helpen organisaties om vraag en aanbod van personeel slimmer bij elkaar te brengen en zorgen dat plannen, roosteren en capaciteit in de praktijk ook écht werken. In deze rol zit je precies op het snijvlak van software en WFM. Achter iedere inrichting zit een organisatie met medewerkers, planners, afspraken en processen. En het leuke: omdat je bij Vlirdens voor verschillende klanten werkt, krijg je ook verschillende inrichtingen en vraagstukken voor je kiezen. Genoeg om over te blijven puzzelen dus. Daarnaast is Vlirdens onderdeel van Werkend2040, een netwerk van consultancybedrijven met hun eigen vakspecialisten. Samen met deze bedrijven maken we Nederland Meer Werkend. Wat bieden wij jou? Razendsnel een contract van 32 tot 40 uur! En daarnaast: Een salaris tussen de €4.000 en €5.500 bruto per maand op basis van 40 uur, afhankelijk van jouw kennis en ervaring. 26 vakantiedagen en de mogelijkheid om extra dagen bij te kopen. Een laptop, telefoonvergoeding en onkostenvergoeding. Een pensioenregeling. Reiskostenvergoeding van €0,25 per kilometer. Fietsleaseplan, lease fiscaal voordelig een fiets via ons en wij betalen ook nog €25 per maand mee. Voor werk en/of privé. Veel zelfstandigheid en verantwoordelijkheid over je eigen klanten. Een omgeving vol collega’s die WFM, plannen en roosteren net zo interessant vinden als jij. Ruimte om mee te denken over hoe we ons functioneel beheer verder verbeteren en professionaliseren. Werken op een inspirerende locatie midden in het bos in Doorn, perfect voor een wandeling tussendoor. Wie ben jij? Laten we de belangrijkste meteen noemen: INTUS InPlanning moet voor jou bekend terrein zijn. Je hebt aantoonbare praktijkervaring met het zelfstandig functioneel beheren én inrichten van InPlanning. Je kent niet alleen de knoppen, maar begrijpt ook wat erachter gebeurt. Je snapt planning- en roosterprocessen en ziet de samenhang tussen contracten, diensten, tijdsoorten, tellers, verlof, toeslagen en urenberekeningen. Daarnaast: werk en denk je op hbo-niveau; heb je ervaring met functioneel beheer, incidenten en wijzigingen; kun je jouw kennis begrijpelijk overbrengen aan gebruikers, klanten en collega’s; ken je de Arbeidstijdenwet en heb je ervaring met cao-gerelateerde roosterregels; is ervaring met BiSL, ITIL, rapportages of gegevensanalyse mooi meegenomen. Maar we zoeken vooral iemand die verantwoordelijkheid pakt. Die een vraag niet alleen doorschuift, maar wil weten waarom iets niet werkt. Die nauwkeurig genoeg is om te beseffen dat één aanpassing gevolgen kan hebben op vijf andere plekken. En die tegen een klant ook gewoon kan zeggen: dit kán technisch misschien wel, maar ik zou het niet zo oplossen. Klinkt dit als jouw omgeving? Mooi. Dan hoeven we jou waarschijnlijk niet meer uit te leggen wat een teller, tijdsoort of regelset doet. Vertel ons liever wat jij met InPlanning hebt gedaan. Dan vertellen wij je graag welke puzzels er bij Vlirdens op je liggen te wachten. We bellen je zo snel mogelijk terug.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Een rooster dat niet klopt is vervelend. Een verkeerde urenberekening, verlofregeling of koppeling die vervolgens doorwerkt richting salaris? Da’s een ander verhaal. Daarom zoeken we bij Vlirdens iemand die InPlanning niet alleen kent, maar écht begrijpt. Iemand die ziet wat er achter een...",
+   "benefits": [
+    "Pensioen",
+    "Laptop",
+    "Reiskosten"
+   ],
+   "skills": [
+    "ITIL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T10:45:44.960320+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 50,
+    "matched_skills": [],
+    "missing_realistic": [
+     "Ervaring met InPlanning en salarisverwerking"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je mist de specifieke domeinkennis van roostersystemen zoals InPlanning die voor deze beheerrol vereist is.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
    "id": "8987fb466fd6",
    "source": "JobSpy",
    "title": "Functioneel beheerder",
@@ -4484,53 +4479,6 @@
     "ai": true,
     "check": true,
     "visible": true
-   }
-  },
-  {
-   "id": "ea9cff8cb516",
-   "source": "JobSpy",
-   "title": "Functioneel Beheerder INTUS Inplanning",
-   "company": "Vlirdens",
-   "location": "Doorn, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=59bc8796d5f1baf8",
-   "salary": "€4000 - €5500 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Een rooster dat niet klopt is vervelend. Een verkeerde urenberekening, verlofregeling of koppeling die vervolgens doorwerkt richting salaris? Da’s een ander verhaal. Daarom zoeken we bij Vlirdens iemand die InPlanning niet alleen kent, maar écht begrijpt. Iemand die ziet wat er achter een gebruikersvraag zit, weet welke gevolgen een wijziging verderop in het proces kan hebben en ervoor zorgt dat verschillende klantomgevingen blijven draaien zoals ze bedoeld zijn. Als Functioneel Beheerder INTUS InPlanning krijg je bij ons meerdere klanten onder je hoede. Je beheert, lost op, richt in, test, adviseert en verbetert. Zelfstandig, maar nooit alleen. Wat ga je doen? In het kort? Jij zorgt ervoor dat InPlanning bij onze klanten functioneel goed staat én goed blijft staan. Je beheert verschillende InPlanning-omgevingen en bent voor klanten het inhoudelijke aanspreekpunt. Je houdt de inrichting actueel en vertaalt vastgestelde cao-, bedrijfs- en roosterafspraken naar InPlanning. Daarbij kijk je altijd een paar stappen verder. Want één wijziging kan gevolgen hebben voor urenberekeningen, toeslagen, verlofsaldi, rapportages, koppelingen of uiteindelijk de salarisverwerking. Komt er een incident of gebruikersvraag binnen? Dan duik je erin. Je zoekt naar de oorzaak en lost het waar mogelijk zelfstandig op. Moet INTUS, IT of een andere leverancier aanhaken? Dan zorg jij voor een goede overdracht én houd je regie totdat het is opgelost. Beheren, maar ook verbeteren Functioneel beheer betekent bij Vlirdens niet alleen zorgen dat de boel blijft draaien. Bij wijzigingsverzoeken kijk jij wat er écht nodig is, wat de impact is en of de voorgestelde oplossing verstandig is. Wordt een wijziging doorgevoerd? Dan bereid je hem voor, test je hem en leg je vast wat er veranderd is. Ook bij nieuwe releases kijk jij wat er op klanten afkomt. Je bewaakt jobs, koppelingen en gegevensstromen met bijvoorbeeld HR- en salarissystemen en onderzoekt afwijkingen wanneer die ontstaan. En zie je iets wat structureel beter kan? Graag. Je adviseert klanten over slimmer gebruik van InPlanning, deelt kennis met collega’s en zorgt dat belangrijke keuzes en oplossingen goed worden vastgelegd. Zodat we dezelfde puzzel niet drie maanden later opnieuw hoeven op te lossen. Waarom Vlirdens? Vlirdens draait om Workforce Management. We helpen organisaties om vraag en aanbod van personeel slimmer bij elkaar te brengen en zorgen dat plannen, roosteren en capaciteit in de praktijk ook écht werken. In deze rol zit je precies op het snijvlak van software en WFM. Achter iedere inrichting zit een organisatie met medewerkers, planners, afspraken en processen. En het leuke: omdat je bij Vlirdens voor verschillende klanten werkt, krijg je ook verschillende inrichtingen en vraagstukken voor je kiezen. Genoeg om over te blijven puzzelen dus. Daarnaast is Vlirdens onderdeel van Werkend2040, een netwerk van consultancybedrijven met hun eigen vakspecialisten. Samen met deze bedrijven maken we Nederland Meer Werkend. Wat bieden wij jou? Razendsnel een contract van 32 tot 40 uur! En daarnaast: Een salaris tussen de €4.000 en €5.500 bruto per maand op basis van 40 uur, afhankelijk van jouw kennis en ervaring. 26 vakantiedagen en de mogelijkheid om extra dagen bij te kopen. Een laptop, telefoonvergoeding en onkostenvergoeding. Een pensioenregeling. Reiskostenvergoeding van €0,25 per kilometer. Fietsleaseplan, lease fiscaal voordelig een fiets via ons en wij betalen ook nog €25 per maand mee. Voor werk en/of privé. Veel zelfstandigheid en verantwoordelijkheid over je eigen klanten. Een omgeving vol collega’s die WFM, plannen en roosteren net zo interessant vinden als jij. Ruimte om mee te denken over hoe we ons functioneel beheer verder verbeteren en professionaliseren. Werken op een inspirerende locatie midden in het bos in Doorn, perfect voor een wandeling tussendoor. Wie ben jij? Laten we de belangrijkste meteen noemen: INTUS InPlanning moet voor jou bekend terrein zijn. Je hebt aantoonbare praktijkervaring met het zelfstandig functioneel beheren én inrichten van InPlanning. Je kent niet alleen de knoppen, maar begrijpt ook wat erachter gebeurt. Je snapt planning- en roosterprocessen en ziet de samenhang tussen contracten, diensten, tijdsoorten, tellers, verlof, toeslagen en urenberekeningen. Daarnaast: werk en denk je op hbo-niveau; heb je ervaring met functioneel beheer, incidenten en wijzigingen; kun je jouw kennis begrijpelijk overbrengen aan gebruikers, klanten en collega’s; ken je de Arbeidstijdenwet en heb je ervaring met cao-gerelateerde roosterregels; is ervaring met BiSL, ITIL, rapportages of gegevensanalyse mooi meegenomen. Maar we zoeken vooral iemand die verantwoordelijkheid pakt. Die een vraag niet alleen doorschuift, maar wil weten waarom iets niet werkt. Die nauwkeurig genoeg is om te beseffen dat één aanpassing gevolgen kan hebben op vijf andere plekken. En die tegen een klant ook gewoon kan zeggen: dit kán technisch misschien wel, maar ik zou het niet zo oplossen. Klinkt dit als jouw omgeving? Mooi. Dan hoeven we jou waarschijnlijk niet meer uit te leggen wat een teller, tijdsoort of regelset doet. Vertel ons liever wat jij met InPlanning hebt gedaan. Dan vertellen wij je graag welke puzzels er bij Vlirdens op je liggen te wachten. We bellen je zo snel mogelijk terug.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Een rooster dat niet klopt is vervelend. Een verkeerde urenberekening, verlofregeling of koppeling die vervolgens doorwerkt richting salaris? Da’s een ander verhaal. Daarom zoeken we bij Vlirdens iemand die InPlanning niet alleen kent, maar écht begrijpt. Iemand die ziet wat er achter een...",
-   "benefits": [
-    "Pensioen",
-    "Laptop",
-    "Reiskosten"
-   ],
-   "skills": [
-    "ITIL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T10:45:44.960320+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 50,
-    "matched_skills": [],
-    "missing_realistic": [
-     "Ervaring met InPlanning en salarisverwerking"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je mist de specifieke domeinkennis van roostersystemen zoals InPlanning die voor deze beheerrol vereist is.",
-    "local_score": 30,
-    "ai": true,
-    "check": false,
-    "visible": false
    }
   },
   {
@@ -4738,65 +4686,6 @@
    }
   },
   {
-   "id": "d6ce12a25ec5",
-   "source": "JobSpy",
-   "title": "Data Engineer",
-   "company": "Koninklijke Horeca Nederland",
-   "location": "Woerden, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-05T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=693b1422afa143e0",
-   "salary": "€4600 - €5500 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "32-40 uur Woerden (hybride) €4.600 - €5.500 Informatiemanagement Bouw jij mee aan een dataplatform dat de horeca verder helpt? Zet jij ruwe data om in betrouwbare inzichten en slimme oplossingen? Dan zoeken we jou! Voor KHN zoeken we een Data Engineer die samen met ons bouwt aan de toekomst van data. Wat ga je doen? Je bouwt de technische basis van het nieuwe dataplatform van KHN in Microsoft Fabric. Je haalt data uit onze bronsystemen, waaronder ons CRM, en verwerkt die volgens de medallion-architectuur tot betrouwbare datamodellen en dataproducten. Je bewaakt de datakwaliteit, ziet afwijkingen op tijd en zorgt dat gegevens veilig en volgens de AVG worden verwerkt. Je bent de eerste Data Engineer bij KHN. Dat betekent dat je niet aanhaakt bij een bestaand platform, maar meebepaalt hoe het wordt ingericht. Samen met de Business Analist vertaal je vragen uit de organisatie naar technische oplossingen. Je levert data aan voor rapportages in Power BI. Zo help je KHN verder te groeien als hét kennisknooppunt voor de horeca. Je werkt in het team Informatiemanagement & Innovatie, samen met de Business Analist, de Functioneel Applicatiebeheerder en de Database Administrator. Wie zoeken wij? Je hebt sterke SQL-vaardigheden en ervaring met Python voor het bouwen van datapipelines. Je hebt ervaring met medallion-architectuur of vergelijkbare gelaagde datamodellen. Je hebt ervaring met het ontwerpen en beheren van ETL/ELT-processen. Je werkt met versiebeheer (Git); ervaring met CI/CD is een pré. Je kunt zelfstandig werken en neemt initiatief, ook in een klein team. Ervaring met Microsoft Fabric of Azure Data Factory/Synapse is een pré. Affiniteit met Business Intelligence en rapportages is mooi meegenomen. Affiniteit met de horeca of ledenorganisaties is een voordeel. Wat bieden wij? Wij bieden je een uitdagende en leuke baan met veel ruimte voor eigen initiatief, in een gezellige en professionele werkomgeving. Je kunt rekenen op een goed salaris van circa € 4.600,- tot € 5.500,- bruto per maand op fulltime basis. Daarnaast bieden we je een bovengemiddeld aantal vakantiedagen (25 vakantiedagen en 13 ADV-dagen op fulltime basis) en een premievrij pensioen. KHN is een organisatie met veel oog voor de persoonlijke ontwikkeling van medewerkers. Interesse? Wil je meer weten over deze functie? Bel dan met Marlin Hooijer via 06-12867916. Heb je interesse? Stuur dan je cv en een korte motivatie naar werkenbij@khn.nl. We nemen snel contact met je op!",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "32-40 uur Woerden (hybride) €4.600 - €5.500 Informatiemanagement Bouw jij mee aan een dataplatform dat de horeca verder helpt? Zet jij ruwe data om in betrouwbare inzichten en slimme oplossingen? Dan zoeken we jou! Voor KHN zoeken we een Data Engineer die samen met ons bouwt aan de toekomst van...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Git",
-    "CI/CD",
-    "Azure",
-    "Power BI",
-    "ETL"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-05T18:41:39.490165+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Python",
-     "SQL",
-     "Git"
-    ],
-    "missing_realistic": [
-     "Microsoft Fabric",
-     "ETL/ELT-processen"
-    ],
-    "ignored_unrealistic": [
-     "Eerste Data Engineer bij KHN"
-    ],
-    "reason": "Je Python- en SQL-vaardigheden sluiten goed aan bij de basis van deze data-engineeringrol.",
-    "local_score": 80,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "a663a3c09444",
    "source": "JobSpy",
    "title": "Machine Learning Engineer",
@@ -4853,6 +4742,119 @@
     "ai": true,
     "check": false,
     "visible": false
+   }
+  },
+  {
+   "id": "9bcab09f8a01",
+   "source": "JobSpy",
+   "title": "Data Engineer / BI Developer",
+   "company": "Vitalis",
+   "location": "Eindhoven, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=696300ae012328d9",
+   "salary": "€4157 - €6171 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Zo maak jij het verschil Data speelt een steeds grotere rol binnen Vitalis. Daarom staan we aan de start van een belangrijke ontwikkeling: de transitie naar een toekomstbestendig datawarehouse. Als Data Engineer / BI Developer speel je hierin een belangrijke rol. Samen met een team van zes dataspecialisten werk je aan betrouwbare en toekomstbestendige dataoplossingen voor de hele organisatie. Je ontsluit, combineert en structureert data uit verschillende bronnen, ontwikkelt datamodellen en zorgt ervoor dat informatie beschikbaar, betrouwbaar en bruikbaar is. Daarnaast vertaal je informatiebehoeften naar slimme oplossingen die collega's helpen om beter te sturen, vooruit te kijken en onderbouwde beslissingen te nemen. Je denkt mee over de verdere ontwikkeling van de dataomgeving en krijgt de ruimte om jouw ideeën en expertise in te brengen. Daarbij kijk je niet alleen naar de techniek, maar vooral naar hoe data optimaal kan bijdragen aan de vragen en uitdagingen binnen de organisatie. De inzichten die jij mogelijk maakt, helpen collega's iedere dag verder. Of het nu gaat om zorg, bedrijfsvoering of organisatieontwikkeling: jouw werk helpt anderen betere keuzes te maken. En daarmee draag je indirect bij aan wat ons iedere dag drijft: de kunst van gelukkig ouder worden. Dit maakt jou gelukkig Voor veel Data Engineers is het een droom om in te stappen op een moment waarop een organisatie een belangrijke volgende stap zet in haar dataontwikkeling. Bij Vitalis krijg je die kans. De komende jaren maken we de transitie naar een toekomstbestendig datawarehouse. Een ontwikkeling die je niet vaak meemaakt en waarin je samen met je collega's kunt meedenken, meebouwen en meegroeien. Hoe mooi is het om over een paar jaar terug te kijken en te kunnen zeggen: daar heb ik aan meegebouwd? Je doet dat in een team van collega's die net zo enthousiast worden van data als jij. Een divers team waarin iedereen zijn eigen expertise, ervaring en talenten meebrengt. Juist daardoor blijf je van elkaar leren. Je spart met collega's, deelt kennis en vindt samen oplossingen die je alleen nooit had bedacht. Wat het werk extra leuk maakt, is dat je dicht bij de organisatie staat. Je leert collega's uit verschillende disciplines kennen, begrijpt wat hen bezighoudt en ziet hoe jouw werk helpt om betere keuzes te maken. Daardoor zie je niet alleen wat je maakt, maar ook wat het oplevert. Zo combineer je een uitdagende ontwikkeling, een sterk team en zichtbaar resultaat. En dat binnen een organisatie die zich iedere dag inzet voor de kunst van gelukkig ouder worden. Wat je van ons mag verwachten Een mooie uitdaging binnen een enthousiast team van dataspecialisten. Natuurlijk zorgen we er ook voor dat de randvoorwaarden goed geregeld zijn. een contract voor 32-36 uur per week voor een jaar, met de intentie tot een contract voor onbepaalde tijd; een salaris volgens cao VVT ingeschaald in FWG 60 (min. € 4.157,20 - max. € 6.171,02) op basis van een contract van 36 uur; 8% vakantiegeld en een eindejaarsuitkering van 8,33%; een balansbudget dat je kunt inzetten voor extra verlof of bijvoorbeeld een sabbatical; een goede pensioenregeling via PFZW, waarbij Vitalis 50% van de premie betaalt; de vrijheid om zelf te kiezen of je vakantiegeld en eindejaarsuitkering maandelijks of jaarlijks ontvangt; de mogelijkheid om zelf te bepalen wanneer meeruren worden uitbetaald; volop mogelijkheden om jezelf verder te ontwikkelen, opleidingen te volgen en certificeringen te behalen; de mogelijkheid om hybride te werken; een reiskostenvergoeding van € 0,21 per kilometer voor woon-werkverkeer en € 0,32 per kilometer voor reizen tussen locaties. En misschien nog wel het leukste... Vitale teams Je werkt samen met betrokken collega's die elkaar kennen, helpen en scherp houden. Hard werken én veel lachen gaan hier prima samen. Teamuitjes Elk team krijgt een eigen budget. Wat jullie ermee doen? Dat bepalen jullie zelf. Van een escaperoom tot een gezellige borrel of iets compleet onverwachts. Teamcoaching Soms wil je als team net een stap verder. Daar is ruimte voor, bijvoorbeeld met teamcoaching of begeleiding. Personeelsfeest Eens in de twee jaar pakken we uit met een groot Vitalis-feest. Zo'n avond waar nog lang over wordt nagepraat. Blijven groeien Of je nu een opleiding wilt volgen, je wilt verdiepen in je vakgebied of je verder wilt ontwikkelen binnen Vitalis: we denken graag met je mee. Jij past bij ons als... Je enthousiast wordt van data, maar vooral van wat je ermee mogelijk maakt. Je bent nieuwsgierig, denkt graag in oplossingen en vindt het leuk om samen te werken met collega's die vanuit verschillende invalshoeken naar vraagstukken kijken. Daarnaast breng je mee: hbo- of wo-werk- en denkniveau; ervaring als Data Engineer, BI Developer of in een vergelijkbare functie; ervaring met datawarehouses, datamodellering en business intelligence; ervaring met Power BI; de drive om jezelf te blijven ontwikkelen en nieuwe mogelijkheden te verkennen. Ervaring met Qlik en ervaring binnen de zorg zijn mooie aanvullingen, maar zeker geen vereiste. We geloven dat een frisse blik, de juiste kennis en de motivatie om samen met ons te bouwen aan de toekomst van data binnen Vitalis minstens zo waardevol zijn. Elkaar beter leren kennen? Misschien herken jij jezelf al helemaal in deze vacature. Of misschien ben je nog benieuwd of Vitalis bij jou past. Hoe dan ook: we leren je graag kennen. Daarom geen motivatiebrief, maar solliciteer met wat jou gelukkig maakt. Upload je cv en beantwoord onderstaande vragen: Wat maakt jou gelukkig? Op welke prestatie uit het verleden ben je super trots en waarom? Wat hoop je bij Vitalis te vinden wat je in je huidige functie mist? Toch niet helemaal een match, maar ken je iemand voor wie deze vacature op het lijf is geschreven? Tip hem of haar dan. Je maakt diegene én ons erg gelukkig. Heb je vragen over de functie of de procedure? Neem dan gerust contact op met Recruitment via werken@vitalisgroep.nl , of stuur even een appje naa",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Zo maak jij het verschil Data speelt een steeds grotere rol binnen Vitalis. Daarom staan we aan de start van een belangrijke ontwikkeling: de transitie naar een toekomstbestendig datawarehouse. Als Data Engineer / BI Developer speel je hierin een belangrijke rol. Samen met een team van zes...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten",
+    "Vaste baan",
+    "Coaching"
+   ],
+   "skills": [
+    "Power BI"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T10:45:44.960320+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 50,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Data warehousing",
+     "BI-specifieke tools"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze rol vraagt specifieke data engineering- en BI-ervaring die buiten jouw directe software- en beheerachtergrond valt.",
+    "local_score": 30,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
+   "id": "d6ce12a25ec5",
+   "source": "JobSpy",
+   "title": "Data Engineer",
+   "company": "Koninklijke Horeca Nederland",
+   "location": "Woerden, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-05T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=693b1422afa143e0",
+   "salary": "€4600 - €5500 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "32-40 uur Woerden (hybride) €4.600 - €5.500 Informatiemanagement Bouw jij mee aan een dataplatform dat de horeca verder helpt? Zet jij ruwe data om in betrouwbare inzichten en slimme oplossingen? Dan zoeken we jou! Voor KHN zoeken we een Data Engineer die samen met ons bouwt aan de toekomst van data. Wat ga je doen? Je bouwt de technische basis van het nieuwe dataplatform van KHN in Microsoft Fabric. Je haalt data uit onze bronsystemen, waaronder ons CRM, en verwerkt die volgens de medallion-architectuur tot betrouwbare datamodellen en dataproducten. Je bewaakt de datakwaliteit, ziet afwijkingen op tijd en zorgt dat gegevens veilig en volgens de AVG worden verwerkt. Je bent de eerste Data Engineer bij KHN. Dat betekent dat je niet aanhaakt bij een bestaand platform, maar meebepaalt hoe het wordt ingericht. Samen met de Business Analist vertaal je vragen uit de organisatie naar technische oplossingen. Je levert data aan voor rapportages in Power BI. Zo help je KHN verder te groeien als hét kennisknooppunt voor de horeca. Je werkt in het team Informatiemanagement & Innovatie, samen met de Business Analist, de Functioneel Applicatiebeheerder en de Database Administrator. Wie zoeken wij? Je hebt sterke SQL-vaardigheden en ervaring met Python voor het bouwen van datapipelines. Je hebt ervaring met medallion-architectuur of vergelijkbare gelaagde datamodellen. Je hebt ervaring met het ontwerpen en beheren van ETL/ELT-processen. Je werkt met versiebeheer (Git); ervaring met CI/CD is een pré. Je kunt zelfstandig werken en neemt initiatief, ook in een klein team. Ervaring met Microsoft Fabric of Azure Data Factory/Synapse is een pré. Affiniteit met Business Intelligence en rapportages is mooi meegenomen. Affiniteit met de horeca of ledenorganisaties is een voordeel. Wat bieden wij? Wij bieden je een uitdagende en leuke baan met veel ruimte voor eigen initiatief, in een gezellige en professionele werkomgeving. Je kunt rekenen op een goed salaris van circa € 4.600,- tot € 5.500,- bruto per maand op fulltime basis. Daarnaast bieden we je een bovengemiddeld aantal vakantiedagen (25 vakantiedagen en 13 ADV-dagen op fulltime basis) en een premievrij pensioen. KHN is een organisatie met veel oog voor de persoonlijke ontwikkeling van medewerkers. Interesse? Wil je meer weten over deze functie? Bel dan met Marlin Hooijer via 06-12867916. Heb je interesse? Stuur dan je cv en een korte motivatie naar werkenbij@khn.nl. We nemen snel contact met je op!",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "32-40 uur Woerden (hybride) €4.600 - €5.500 Informatiemanagement Bouw jij mee aan een dataplatform dat de horeca verder helpt? Zet jij ruwe data om in betrouwbare inzichten en slimme oplossingen? Dan zoeken we jou! Voor KHN zoeken we een Data Engineer die samen met ons bouwt aan de toekomst van...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Git",
+    "CI/CD",
+    "Azure",
+    "Power BI",
+    "ETL"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-05T18:41:39.490165+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Python",
+     "SQL",
+     "Git"
+    ],
+    "missing_realistic": [
+     "Microsoft Fabric",
+     "ETL/ELT-processen"
+    ],
+    "ignored_unrealistic": [
+     "Eerste Data Engineer bij KHN"
+    ],
+    "reason": "Je Python- en SQL-vaardigheden sluiten goed aan bij de basis van deze data-engineeringrol.",
+    "local_score": 80,
+    "ai": true,
+    "check": false,
+    "visible": true
    }
   },
   {
@@ -6979,57 +6981,6 @@
    }
   },
   {
-   "id": "a77cd8a5460f",
-   "source": "JobSpy",
-   "title": "Trainee Consultant Supply Chain (Microsoft Dynamics 365) - Maart 2027 Program",
-   "company": "HSO",
-   "location": "Veenendaal, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-04T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=3c2335c097c71c6c",
-   "salary": "€2895 - €3061 per maand",
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We garanderen je dat deze weken een ijzersterke start zijn van jouw carrière in IT Consulting. Naast de hard skills, zetten wij ons ook volledig in op de soft skills. Zo leer je alles over de Microsoft Technologie, hoe je dit optimaal inzet bij de klant én hoe je dit met overtuigingskracht presenteert. Dit is pas het begin! Je krijgt ook inzicht in onze HSO-projectmethodologie en je sluit af met een volledige Microsoft-certificering. En hoe dan verder? Na de 'Masterclass' ga je meteen door! Als Young Professional werk je in een innovatieve, internationale omgeving. HSO is uitgegroeid tot één van de leading Microsoft-partners wereldwijd. En hier speel jij een sleutelrol in! Je wordt onderdeel van een ervaren projectteam, bij toonaangevende klanten. Je wordt betrokken bij diverse fases van het project, zoals het digitaliseren en automatiseren van processen. Je adviseert hen over Microsoft-based applicaties (Dynamics 365 ERP) en helpt hen daarna om deze daadwerkelijk te implementeren. Je houdt ervan om processen in kaart te brengen en zoekt naar mogelijkheden om deze te optimaliseren. Daarom start je aan het begin van het project met het achterhalen van de behoeften en verwachtingen van de klant. Je bouwt aan de relatie met de klant en investeert in verwachtingsmanagement. Op basis van de opgehaalde informatie zorg jij voor een passend advies en implementeert de software die de optimalisatie ondersteunt. Maar, ondanks dat je zelfstandig veel bereikt, hoef je dit niet alleen te doen. Een Senior Consultant is zowel je buddy als je mentor die je volledig ondersteunt, terwijl je je carrière ontwikkelt van Trainee Consultant tot Medior en Lead Consultant. Door intensieve training en begeleiding leer je alle ins en outs van het consultancyvak. Na jaar één ben je een volwaardige Junior Consultant. We vinden het belangrijk dat je groeit als Consultant, maar ook als mens. Daarom krijg je alle tools en begeleiding om het beste uit jezelf én je werk te halen! HSO werkt onder andere voor mooie merken als: Rituals, Royal BAM, Heineken en Intergamma. Je krijgt de kans om bij veel verschillende bedrijven, branche-en mensenkennis te doen, op verschillende organisatieniveaus mee te denken en te adviseren. Je kunt trainingen volgen via de HSO Academy. Jij komt met een plan en je manager helpt je bij de uitvoering daarvan. Wat zoeken we? Een afgeronde HBO- of WO-opleiding, bij voorkeur in de richting van bedrijfseconomie, engineering, (technische) bedrijfskunde, ICT, bedrijfskundige informatica of een vergelijkbare studie; Analytisch sterk en communicatief vaardig; Affiniteit met IT en technologie; Ambitieuze en onbedwingbare nieuwsgierige houding; Uitstekende beheersing van de Nederlandse en Engelse taal; Beschikbaar vanaf maart? Top, dan begint het Young Professional Program! Wat bieden we? Werken bij HSO is uitdagend, dus daar zetten we graag een goede beloning tegenover (2895 – 3061 euro brutoloon, excl. 8% vakantiegeld); De basis is geregeld. Leaseauto (of mobiliteitsvergoeding van 675 euro), laptop en mobiele telefoon? Zeker weten! Hybride werken, vanuit huis, op kantoor (Rotterdam, Veenendaal) of zelfs tijdens je Workation; Vitaliteitsbudget: € 65,- netto, dit kun je inzetten voor je sportabonnement of voor een goede thuiswerkplek. We vinden het belangrijk dat jij fit en gezond blijft. Op kantoor of remote; Je kunt deelnemen aan het leasefietsplan; Vakantie: 25 vakantiedagen. Wil je meer vrije tijd? Koop tot 10 dagen bij. Natuurlijk behoort een Workation tot de mogelijkheden; Pensioen van BeFrank; En vooral een leven lang leren. Op dag één start jouw onboardingsprogramma en daarna heeft onze HSO-Academy een leerreis voor je gedefinieerd; Je ontvangt ook een GoodHabitz account, een online trainingstool voor je persoonlijke ontwikkeling. Vrijheid, flexibiliteit en fun Je werkt in een internationale omgeving met professionals met verschillende nationaliteiten. HSO heeft professionals in dienst die plezier hebben in hun werk en klaar staan voor elkaar. Om het plezier in ons werk nog groter te maken, organiseren we uiteraard teamuitjes en bedrijfsfeesten, maar ook wekelijkse zomerborrels op ons dakterras, allerlei sportactiviteiten en is er de mogelijkheid bij te dragen aan onze Maatschappelijk Verantwoord Ondernemen-werkzaamheden. Ben jij klaar voor de reis of heb je nog vragen? Neem contact op met Sheling Goh via sgoh@hso.com.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": true,
-   "short_desc": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Leaseauto",
-    "Pensioen",
-    "Laptop",
-    "Coaching"
-   ],
-   "skills": [
-    "Consultancy"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-04T21:15:35.082581+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Nederlands",
-     "Engels"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je hbo-opleiding en communicatieve vaardigheden passen goed bij dit supply chain-traineeship.",
-    "local_score": 60,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "4d0b0878461a",
    "source": "JobSpy",
    "title": "Trainee Consultant Finance (Microsoft D365) - Maart 2027 Program",
@@ -7074,6 +7025,57 @@
     "missing_realistic": [],
     "ignored_unrealistic": [],
     "reason": "Je hbo-bachelor Informatica en klantgerichte ervaring maken je een geschikte kandidaat voor dit consultancy-traineeship.",
+    "local_score": 60,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "a77cd8a5460f",
+   "source": "JobSpy",
+   "title": "Trainee Consultant Supply Chain (Microsoft Dynamics 365) - Maart 2027 Program",
+   "company": "HSO",
+   "location": "Veenendaal, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-04T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=3c2335c097c71c6c",
+   "salary": "€2895 - €3061 per maand",
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We garanderen je dat deze weken een ijzersterke start zijn van jouw carrière in IT Consulting. Naast de hard skills, zetten wij ons ook volledig in op de soft skills. Zo leer je alles over de Microsoft Technologie, hoe je dit optimaal inzet bij de klant én hoe je dit met overtuigingskracht presenteert. Dit is pas het begin! Je krijgt ook inzicht in onze HSO-projectmethodologie en je sluit af met een volledige Microsoft-certificering. En hoe dan verder? Na de 'Masterclass' ga je meteen door! Als Young Professional werk je in een innovatieve, internationale omgeving. HSO is uitgegroeid tot één van de leading Microsoft-partners wereldwijd. En hier speel jij een sleutelrol in! Je wordt onderdeel van een ervaren projectteam, bij toonaangevende klanten. Je wordt betrokken bij diverse fases van het project, zoals het digitaliseren en automatiseren van processen. Je adviseert hen over Microsoft-based applicaties (Dynamics 365 ERP) en helpt hen daarna om deze daadwerkelijk te implementeren. Je houdt ervan om processen in kaart te brengen en zoekt naar mogelijkheden om deze te optimaliseren. Daarom start je aan het begin van het project met het achterhalen van de behoeften en verwachtingen van de klant. Je bouwt aan de relatie met de klant en investeert in verwachtingsmanagement. Op basis van de opgehaalde informatie zorg jij voor een passend advies en implementeert de software die de optimalisatie ondersteunt. Maar, ondanks dat je zelfstandig veel bereikt, hoef je dit niet alleen te doen. Een Senior Consultant is zowel je buddy als je mentor die je volledig ondersteunt, terwijl je je carrière ontwikkelt van Trainee Consultant tot Medior en Lead Consultant. Door intensieve training en begeleiding leer je alle ins en outs van het consultancyvak. Na jaar één ben je een volwaardige Junior Consultant. We vinden het belangrijk dat je groeit als Consultant, maar ook als mens. Daarom krijg je alle tools en begeleiding om het beste uit jezelf én je werk te halen! HSO werkt onder andere voor mooie merken als: Rituals, Royal BAM, Heineken en Intergamma. Je krijgt de kans om bij veel verschillende bedrijven, branche-en mensenkennis te doen, op verschillende organisatieniveaus mee te denken en te adviseren. Je kunt trainingen volgen via de HSO Academy. Jij komt met een plan en je manager helpt je bij de uitvoering daarvan. Wat zoeken we? Een afgeronde HBO- of WO-opleiding, bij voorkeur in de richting van bedrijfseconomie, engineering, (technische) bedrijfskunde, ICT, bedrijfskundige informatica of een vergelijkbare studie; Analytisch sterk en communicatief vaardig; Affiniteit met IT en technologie; Ambitieuze en onbedwingbare nieuwsgierige houding; Uitstekende beheersing van de Nederlandse en Engelse taal; Beschikbaar vanaf maart? Top, dan begint het Young Professional Program! Wat bieden we? Werken bij HSO is uitdagend, dus daar zetten we graag een goede beloning tegenover (2895 – 3061 euro brutoloon, excl. 8% vakantiegeld); De basis is geregeld. Leaseauto (of mobiliteitsvergoeding van 675 euro), laptop en mobiele telefoon? Zeker weten! Hybride werken, vanuit huis, op kantoor (Rotterdam, Veenendaal) of zelfs tijdens je Workation; Vitaliteitsbudget: € 65,- netto, dit kun je inzetten voor je sportabonnement of voor een goede thuiswerkplek. We vinden het belangrijk dat jij fit en gezond blijft. Op kantoor of remote; Je kunt deelnemen aan het leasefietsplan; Vakantie: 25 vakantiedagen. Wil je meer vrije tijd? Koop tot 10 dagen bij. Natuurlijk behoort een Workation tot de mogelijkheden; Pensioen van BeFrank; En vooral een leven lang leren. Op dag één start jouw onboardingsprogramma en daarna heeft onze HSO-Academy een leerreis voor je gedefinieerd; Je ontvangt ook een GoodHabitz account, een online trainingstool voor je persoonlijke ontwikkeling. Vrijheid, flexibiliteit en fun Je werkt in een internationale omgeving met professionals met verschillende nationaliteiten. HSO heeft professionals in dienst die plezier hebben in hun werk en klaar staan voor elkaar. Om het plezier in ons werk nog groter te maken, organiseren we uiteraard teamuitjes en bedrijfsfeesten, maar ook wekelijkse zomerborrels op ons dakterras, allerlei sportactiviteiten en is er de mogelijkheid bij te dragen aan onze Maatschappelijk Verantwoord Ondernemen-werkzaamheden. Ben jij klaar voor de reis of heb je nog vragen? Neem contact op met Sheling Goh via sgoh@hso.com.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": true,
+   "short_desc": "Afgestudeerd? What's next? Stap in bij het HSO Young Professional Program! Kickstart je IT-carrière ! Klaar voor de reis? Join the journey to explore! Wat ga je doen? Als Young Professional (Trainee Consultant) start je reis met de Masterclass van 6 weken, een intensief trainingsprogramma. We...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Leaseauto",
+    "Pensioen",
+    "Laptop",
+    "Coaching"
+   ],
+   "skills": [
+    "Consultancy"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-04T21:15:35.082581+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Nederlands",
+     "Engels"
+    ],
+    "missing_realistic": [],
+    "ignored_unrealistic": [],
+    "reason": "Je hbo-opleiding en communicatieve vaardigheden passen goed bij dit supply chain-traineeship.",
     "local_score": 60,
     "ai": true,
     "check": false,
@@ -9017,55 +9019,6 @@
    }
   },
   {
-   "id": "13aa0218599a",
-   "source": "JobSpy",
-   "title": "Functioneel beheerder",
-   "company": "Novon Schoonmaak",
-   "location": "Zwolle, OV, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=000d82b9ea4d820d",
-   "salary": "€3400 - €5000 per maand",
-   "tags": [
-    "",
-    "parttime"
-   ],
-   "full_text": "Krijg jij energie van slimme systemen, digitale innovatie en het steeds een beetje beter maken van onze organisatie? Dan zoeken we jou! Een systeem dat nét even slimmer is ingericht. Een collega die dankzij jouw hulp weer verder kan. Of een proces dat door een kleine aanpassing een stuk eenvoudiger wordt. Daar krijg jij energie van! Bij Novon maken onze medewerkers elke dag het verschil. Goede digitale systemen helpen hen daarbij. Daarom bouwen we aan een professionele afdeling Digitale bedrijfsvoering, waarin functioneel beheer, automatisering en digitale innovatie samenkomen. Als Functioneel Beheerder zorg jij ervoor dat onze digitale systemen goed werken én blijven aansluiten bij wat onze organisatie nodig heeft. Je ondersteunt collega’s, duikt in vragen en problemen en ziet vooral kansen om dingen te verbeteren. Je kijkt niet alleen naar wat er vandaag nodig is, maar ook naar hoe het morgen slimmer kan. Je krijgt de ruimte om initiatief te nemen, verbeteringen aan te dragen en samen met collega's en leveranciers onze digitale bedrijfsvoering verder te ontwikkelen. Wat ga je doen? Je werkt binnen onze nieuwe afdeling Digitale Bedrijfsvoering. Je bent de schakel tussen onze collega's die met de systemen werken, de processen van onze organisatie en de techniek erachter. Jij zorgt dat onze systemen goed werken Je houdt je vooral bezig met AFAS en Appreo, deze systemen ondersteunen belangrijke processen binnen onze organisatie, zoals HR, salarisverwerking, financiën, projecten en planning. Je zorgt ervoor dat collega's er goed mee kunnen werken en dat de systemen blijven aansluiten op onze processen. Je werkzaamheden zijn onder andere: Je beantwoordt gebruikersvragen en helpt collega's om goed met de systemen te werken. Je analyseert storingen en problemen, zoekt naar de oorzaak en zorgt dat er een passende oplossing komt. Je beheert en verbetert de inrichting van applicaties en autorisaties. Je beoordeelt wijzigingsverzoeken en helpt bepalen welke verbeteringen prioriteit hebben. Je stemt af met collega's, leveranciers en consultants om wijzigingen en oplossingen goed door te voeren. Je test updates, bewaakt de kwaliteit en zorgt dat gebruikers weten wat er verandert. Je wacht dus niet tot iemand aangeeft dat iets beter kan, maar kijkt zelf ook kritisch naar hoe we problemen kunnen voorkomen en hoe onze processen en systemen eenvoudiger, slimmer en efficiënter kunnen. Je ontdekt hoe technologie ons werk slimmer maakt Digitalisering staat niet stil. Daarom krijg je ook de ruimte om mee te denken over nieuwe toepassingen en verbeteringen in onze digitale werkomgeving. Je houdt je onder andere bezig met: Het slimmer inrichten en beter benutten van Microsoft 365 en de bijbehorende applicaties. Het verkennen en toepassen van AI en automatisering en om onze dagelijkse werkzaamheden te vereenvoudigen en slimmer te maken. Het signaleren van kansen om processen te verbeteren en het vertalen daarvan naar praktische oplossingen. Het ondersteunen van collega's bij het gebruik van digitale hulpmiddelen. Het bijdragen aan veilig digitaal werken, bijvoorbeeld door het organiseren en beheren van cybersecurity-e-learnings. Je hoeft niet overal al expert in te zijn. We zoeken vooral iemand die verantwoordelijkheid neemt, graag leert, meedenkt en samen met ons wil bouwen aan een steeds betere digitale werkomgeving. Wat breng je mee? Je bent een praktische en nieuwsgierige professional die graag problemen oplost, maar ook verder kijkt dan de vraag van vandaag. Je vindt het leuk om met systemen bezig te zijn én om mensen verder te helpen. Je werkt zelfstandig, neemt initiatief en krijgt energie van verbeteringen die écht iets opleveren. Heb je ervaring met functioneel beheer of affiniteit met applicatiebeheer en digitale bedrijfsprocessen. Heb je bij voorkeur ervaring met AFAS. Heb je die ervaring nog niet, maar beschik je over de juiste basis en wil je het leren? Dan nodigen we je ook van harte uit om te reageren. Ben je handig met digitale systemen en vind je het leuk om nieuwe functionaliteiten te ontdekken. Heb je interesse in AI, automatisering, Microsoft 365 en cybersecurity. Wat krijg je ervoor terug? Een veelzijdige functie waarin je niet alleen systemen beheert, maar ook daadwerkelijk invloed hebt op hoe onze organisatie werkt en zich ontwikkelt. Je kunt rekenen op: Een salaris tussen € 3.400 en € 5.000 bruto per maand, op basis van een fulltime dienstverband (38 uur). De exacte inschaling is afhankelijk van je kennis en ervaring. Een werkweek van 24 tot 38 uur. Arbeidsvoorwaarden volgens de cao Schoonmaak- en Glazenwassersbedrijf. Een werkplek op ons hoofdkantoor in Zwolle, met mogelijkheden om deels thuis te werken. Veel afwisseling, verantwoordelijkheid en ruimte voor eigen initiatief. De mogelijkheid om je verder te ontwikkelen op het gebied van functioneel beheer, AI, automatisering en cybersecurity. De kans om nieuwe ideeën aan te dragen en digitale verbeteringen van begin tot eind mee vorm te geven. Zin om met ons aan de slag te gaan? Lijkt het je leuk om onze digitale systemen niet alleen goed te laten werken, maar ze ook steeds slimmer te maken? En wil je werken in een functie waarin techniek, mensen en verbetering samenkomen? Dan maken we graag kennis met je! Solliciteer via sollicitatie button. Heb je eerst nog vragen over de functie? Neem dan contact op met Xandra Deelen, 06 – 14 61 14 15. In week 49 verwachten wij een eerste terugkoppeling te kunnen geven. Acquisitie wordt niet op prijs gesteld !",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Krijg jij energie van slimme systemen, digitale innovatie en het steeds een beetje beter maken van onze organisatie? Dan zoeken we jou! Een systeem dat nét even slimmer is ingericht. Een collega die dankzij jouw hulp weer verder kan. Of een proces dat door een kleine aanpassing een stuk eenvoudiger...",
-   "benefits": [],
-   "skills": [
-    "AI",
-    "Microsoft 365",
-    "Security"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T18:23:08.200089+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "Windows Server",
-     "Active Directory"
-    ],
-    "missing_realistic": [
-     "AFAS",
-     "Appreo"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt een solide beheerachtergrond bij OGD, maar mist ervaring met de specifieke pakketten zoals AFAS.",
-    "local_score": 77,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "9b3248aa0b0f",
    "source": "JobSpy",
    "title": "IT Service Coördinator Digitale Werkplek",
@@ -9119,41 +9072,29 @@
    }
   },
   {
-   "id": "c4e06b51ccf5",
+   "id": "13aa0218599a",
    "source": "JobSpy",
-   "title": "Cloud engineer",
-   "company": "Enexis",
-   "location": "Den Bosch, NB, Netherlands",
+   "title": "Functioneel beheerder",
+   "company": "Novon Schoonmaak",
+   "location": "Zwolle, OV, Netherlands",
    "remote": false,
    "posted_at": "2026-11-03T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=2985aa15a5b1f1e2",
-   "salary": "€4223 - €6033 per maand",
+   "url": "https://nl.indeed.com/viewjob?jk=000d82b9ea4d820d",
+   "salary": "€3400 - €5000 per maand",
    "tags": [
     "",
-    "parttime, fulltime"
+    "parttime"
    ],
-   "full_text": "Den Bosch € 4.223,- en € 6.033,- HBO 32 tot 40 uur Wat ga je doen? Met jouw energie kan het De energietransitie is in volle gang. Dat vraagt niet alleen om uitbreiding en vernieuwing van ons energienet, maar ook om betrouwbare en toekomstbestendige digitale oplossingen. Als Cloud Engineer bij Enexis zorg jij ervoor dat de applicaties en systemen die onze collega’s dagelijks gebruiken kunnen rekenen op een robuuste, veilige en goed beheersbare cloudomgeving. Zo ga jij deze uitdaging aan Als Cloud Engineer werk je samen met je collega’s aan het ontwikkelen, automatiseren en beheren van de cloudinfrastructuur die nodig is om de applicaties binnen het landschap betrouwbaar en toekomstbestendig te laten draaien. Je werkt agile aan scripted cloud infrastructure en denkt mee over containerization, connectivity, security en verdere automatisering. Je vertaalt technische vraagstukken naar passende oplossingsrichtingen en gaat vervolgens ook zelf aan de slag met de realisatie ervan. Met Infrastructure as Code en CI/CD zorg je ervoor dat infrastructuur reproduceerbaar, beheersbaar en zoveel mogelijk geautomatiseerd wordt ingericht. Daarbij kijk je verder dan alleen de oplossing van vandaag. Je volgt nieuwe ontwikkelingen op cloudgebied en onderzoekt hoe nieuwe technologie het IT-landschap van Enexis verder kan verbeteren. Je werkt daarbij niet alleen aan nieuwe oplossingen. Ook het betrouwbaar en veilig laten functioneren van het bestaande landschap hoort erbij. Binnen Team Athena zijn onder andere continuity management, monitoring, capacity management, lifecycle management en deploymentautomatisering onderdeel van de verantwoordelijkheid van het team. Kortom: een brede Cloud Engineer-rol waarin bouwen, automatiseren en beheren bij elkaar komen. Dit zijn jouw verantwoordelijkheden Ontwikkelen, automatiseren en beheren van cloudinfrastructuur. Werken met Infrastructure as Code, onder andere met Terraform en Ansible. Bouwen en onderhouden van CI/CD-pipelines. Meedenken over en toepassen van containerization (kubernetes based). Werken aan netwerkconnectiviteit binnen de cloudomgeving (web application firewalls). Monitoren van de omgeving en bijdragen aan de continuïteit en betrouwbaarheid ervan. Signaleren en toepassen van nieuwe cloudtechnologieën die het landschap verder kunnen verbeteren. Samenwerken met engineers, functioneel beheerders en andere disciplines binnen en buiten Team Athena. Kennis delen en collega’s met minder ervaring meenemen in jouw expertise. Functie-eisen Zo pak jij het aan Je bent een klantgerichte en communicatief sterke teamspeler. Je vindt het leuk om complexe technische vraagstukken uit te pluizen en uiteindelijk ook daadwerkelijk een oplossing neer te zetten. Je werkt zelfstandig wanneer dat nodig is, maar zoekt actief de samenwerking op. Je deelt kennis met collega’s en helpt het team om technisch steeds een stap verder te komen. Nieuwe technologie maakt je nieuwsgierig. Je wilt begrijpen hoe iets werkt en vooral hoe we het binnen Enexis slim, veilig en beheersbaar kunnen inzetten. Verder heb je: Minimaal drie á vier jaar relevante werkervaring in cloud engineering. Hands-on ervaring met Ansible of vergelijkbare automation tooling. Ervaring met werken binnen een Agile/Scrum-omgeving. Ervaring met GitLab CI/CD-pipelines of vergelijkbare CI/CD-oplossingen. Kennis van containerization en kubernetes hosting Kennis van het AWS-platform. Kennis van Datadog of vergelijkbare monitoring tooling. Kennis van Python en objectgeoriënteerd programmeren. Kennis van Terraform. Team & cultuur Je zet je schouders eronder met Je komt terecht in Team Athena, binnen de keten HS/MS. Binnen dit domein werken we aan de digitale ondersteuning van de processen rondom onze hoog- en middenspanningsstations. Team Athena is verantwoordelijk voor het beheer en de continuïteit van een omvangrijk landschap aan softwareproducten en applicatiepakketten. Denk bijvoorbeeld aan applicaties als Meridian, Autodesk Vault en Cyclomedia. Het team houdt zich bezig met onder andere incidenten en changes, monitoring, lifecycle management, deploymentautomatisering, security en compliance. Binnen Athena bouwen we de cloudkennis en -competentie verder uit. En daar kom jij in beeld. We vinden het belangrijk dat je je bij ons thuis voelt. We zijn allemaal anders en het mooie daarvan is dat we elkaar vanuit die verschillen aanvullen. We hebben elkaars perspectieven en meningen nodig voor een succesvolle energietransitie! Lees hier mee over ons beleid op diversiteit en inclusie. Wat krijg je van ons? En wij steken natuurlijk ook energie in jou Bij Enexis werk je in de voorhoede van een van de grootste uitdagingen van onze tijd: de energietransitie. Daarbij zorgen we goed voor je. Dat begint met een uitgebreid welkomstpakket en -programma om je collega’s te leren kennen. En met goede arbeidsvoorwaarden: Salaris tussen €4.223,- en € 6.033,- bruto per maand (op basis van 40 uur per week). Inclusief secundaire arbeidsvoorwaarden kan je salaris oplopen tot € 7.764,- bruto per maand. Pensioenbijdrage: 70% bijdrage aan je ABP keuzepensioen. Persoonlijk budget: 10% en een 13e maand van 10,7% van je bruto jaarsalaris. Flexibel inzetbaar. Vakantiedagen: 24,5 vakantie bij fulltime dienstverband. Mogelijkheid om extra verlofdagen te kopen. Thuiswerken: Inclusief ingerichte thuiswerkplek en een vergoeding van € 2,45 per thuiswerkdag. Apparatuur: Laptop/tablet en telefoon ook voor privégebruik. Reiskosten: Reiskostenvergoeding en eersteklas OV-abonnement voor zakelijk gebruik. Vitaliteit: € 700,- vitaliteitsbudget voor bijvoorbeeld een sportabonnement. Opleidingsmogelijkheden: Interne ontwikkelplatform of externe opleidingen en trainingen. Lees meer over onze arbeidsvoorwaarden. Werk als Cloud engineer aan het energienetwerk van morgen Solliciteer via de button onder aan deze pagina. Heb je vragen over de functie? Neem dan contact op met Marvin Kerdel, Corporate Recruiter IT, marvin.kerdel@enexis.nl Goed om te weten Een screening maakt o",
+   "full_text": "Krijg jij energie van slimme systemen, digitale innovatie en het steeds een beetje beter maken van onze organisatie? Dan zoeken we jou! Een systeem dat nét even slimmer is ingericht. Een collega die dankzij jouw hulp weer verder kan. Of een proces dat door een kleine aanpassing een stuk eenvoudiger wordt. Daar krijg jij energie van! Bij Novon maken onze medewerkers elke dag het verschil. Goede digitale systemen helpen hen daarbij. Daarom bouwen we aan een professionele afdeling Digitale bedrijfsvoering, waarin functioneel beheer, automatisering en digitale innovatie samenkomen. Als Functioneel Beheerder zorg jij ervoor dat onze digitale systemen goed werken én blijven aansluiten bij wat onze organisatie nodig heeft. Je ondersteunt collega’s, duikt in vragen en problemen en ziet vooral kansen om dingen te verbeteren. Je kijkt niet alleen naar wat er vandaag nodig is, maar ook naar hoe het morgen slimmer kan. Je krijgt de ruimte om initiatief te nemen, verbeteringen aan te dragen en samen met collega's en leveranciers onze digitale bedrijfsvoering verder te ontwikkelen. Wat ga je doen? Je werkt binnen onze nieuwe afdeling Digitale Bedrijfsvoering. Je bent de schakel tussen onze collega's die met de systemen werken, de processen van onze organisatie en de techniek erachter. Jij zorgt dat onze systemen goed werken Je houdt je vooral bezig met AFAS en Appreo, deze systemen ondersteunen belangrijke processen binnen onze organisatie, zoals HR, salarisverwerking, financiën, projecten en planning. Je zorgt ervoor dat collega's er goed mee kunnen werken en dat de systemen blijven aansluiten op onze processen. Je werkzaamheden zijn onder andere: Je beantwoordt gebruikersvragen en helpt collega's om goed met de systemen te werken. Je analyseert storingen en problemen, zoekt naar de oorzaak en zorgt dat er een passende oplossing komt. Je beheert en verbetert de inrichting van applicaties en autorisaties. Je beoordeelt wijzigingsverzoeken en helpt bepalen welke verbeteringen prioriteit hebben. Je stemt af met collega's, leveranciers en consultants om wijzigingen en oplossingen goed door te voeren. Je test updates, bewaakt de kwaliteit en zorgt dat gebruikers weten wat er verandert. Je wacht dus niet tot iemand aangeeft dat iets beter kan, maar kijkt zelf ook kritisch naar hoe we problemen kunnen voorkomen en hoe onze processen en systemen eenvoudiger, slimmer en efficiënter kunnen. Je ontdekt hoe technologie ons werk slimmer maakt Digitalisering staat niet stil. Daarom krijg je ook de ruimte om mee te denken over nieuwe toepassingen en verbeteringen in onze digitale werkomgeving. Je houdt je onder andere bezig met: Het slimmer inrichten en beter benutten van Microsoft 365 en de bijbehorende applicaties. Het verkennen en toepassen van AI en automatisering en om onze dagelijkse werkzaamheden te vereenvoudigen en slimmer te maken. Het signaleren van kansen om processen te verbeteren en het vertalen daarvan naar praktische oplossingen. Het ondersteunen van collega's bij het gebruik van digitale hulpmiddelen. Het bijdragen aan veilig digitaal werken, bijvoorbeeld door het organiseren en beheren van cybersecurity-e-learnings. Je hoeft niet overal al expert in te zijn. We zoeken vooral iemand die verantwoordelijkheid neemt, graag leert, meedenkt en samen met ons wil bouwen aan een steeds betere digitale werkomgeving. Wat breng je mee? Je bent een praktische en nieuwsgierige professional die graag problemen oplost, maar ook verder kijkt dan de vraag van vandaag. Je vindt het leuk om met systemen bezig te zijn én om mensen verder te helpen. Je werkt zelfstandig, neemt initiatief en krijgt energie van verbeteringen die écht iets opleveren. Heb je ervaring met functioneel beheer of affiniteit met applicatiebeheer en digitale bedrijfsprocessen. Heb je bij voorkeur ervaring met AFAS. Heb je die ervaring nog niet, maar beschik je over de juiste basis en wil je het leren? Dan nodigen we je ook van harte uit om te reageren. Ben je handig met digitale systemen en vind je het leuk om nieuwe functionaliteiten te ontdekken. Heb je interesse in AI, automatisering, Microsoft 365 en cybersecurity. Wat krijg je ervoor terug? Een veelzijdige functie waarin je niet alleen systemen beheert, maar ook daadwerkelijk invloed hebt op hoe onze organisatie werkt en zich ontwikkelt. Je kunt rekenen op: Een salaris tussen € 3.400 en € 5.000 bruto per maand, op basis van een fulltime dienstverband (38 uur). De exacte inschaling is afhankelijk van je kennis en ervaring. Een werkweek van 24 tot 38 uur. Arbeidsvoorwaarden volgens de cao Schoonmaak- en Glazenwassersbedrijf. Een werkplek op ons hoofdkantoor in Zwolle, met mogelijkheden om deels thuis te werken. Veel afwisseling, verantwoordelijkheid en ruimte voor eigen initiatief. De mogelijkheid om je verder te ontwikkelen op het gebied van functioneel beheer, AI, automatisering en cybersecurity. De kans om nieuwe ideeën aan te dragen en digitale verbeteringen van begin tot eind mee vorm te geven. Zin om met ons aan de slag te gaan? Lijkt het je leuk om onze digitale systemen niet alleen goed te laten werken, maar ze ook steeds slimmer te maken? En wil je werken in een functie waarin techniek, mensen en verbetering samenkomen? Dan maken we graag kennis met je! Solliciteer via sollicitatie button. Heb je eerst nog vragen over de functie? Neem dan contact op met Xandra Deelen, 06 – 14 61 14 15. In week 49 verwachten wij een eerste terugkoppeling te kunnen geven. Acquisitie wordt niet op prijs gesteld !",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Den Bosch € 4.223,- en € 6.033,- HBO 32 tot 40 uur Wat ga je doen? Met jouw energie kan het De energietransitie is in volle gang. Dat vraagt niet alleen om uitbreiding en vernieuwing van ons energienet, maar ook om betrouwbare en toekomstbestendige digitale oplossingen. Als Cloud Engineer bij...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Laptop",
-    "Reiskosten"
-   ],
+   "short_desc": "Krijg jij energie van slimme systemen, digitale innovatie en het steeds een beetje beter maken van onze organisatie? Dan zoeken we jou! Een systeem dat nét even slimmer is ingericht. Een collega die dankzij jouw hulp weer verder kan. Of een proces dat door een kleine aanpassing een stuk eenvoudiger...",
+   "benefits": [],
    "skills": [
-    "Python",
-    "Git",
-    "CI/CD",
-    "Kubernetes",
-    "AWS",
-    "Terraform",
-    "Ansible",
-    "Agile",
+    "AI",
+    "Microsoft 365",
     "Security"
    ],
    "lang": "nl",
@@ -9161,25 +9102,22 @@
    "unrealistic_hint": false,
    "first_seen": "2026-11-03T18:23:08.200089+00:00",
    "match": {
-    "is_junior": false,
-    "score": 55,
+    "is_junior": true,
+    "score": 65,
     "matched_skills": [
-     "AWS",
-     "Microsoft Azure",
-     "Ubuntu / Linux",
-     "Git / Bitbucket"
+     "Windows Server",
+     "Active Directory"
     ],
     "missing_realistic": [
-     "ervaring als zelfstandig cloud engineer"
+     "AFAS",
+     "Appreo"
     ],
-    "ignored_unrealistic": [
-     "ervaring met complexe cloudinfrastructuren"
-    ],
-    "reason": "Je hebt basiskennis van Azure en AWS, maar deze cloud engineer rol vraagt meer senior ervaring dan je huidige junior status.",
+    "ignored_unrealistic": [],
+    "reason": "Je hebt een solide beheerachtergrond bij OGD, maar mist ervaring met de specifieke pakketten zoals AFAS.",
     "local_score": 77,
     "ai": true,
     "check": false,
-    "visible": false
+    "visible": true
    }
   },
   {
@@ -9268,6 +9206,70 @@
     "ignored_unrealistic": [],
     "reason": "Deze functie vereist een specifieke medische achtergrond als MBB'er die totaal niet op je cv staat.",
     "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": false
+   }
+  },
+  {
+   "id": "c4e06b51ccf5",
+   "source": "JobSpy",
+   "title": "Cloud engineer",
+   "company": "Enexis",
+   "location": "Den Bosch, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-03T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=2985aa15a5b1f1e2",
+   "salary": "€4223 - €6033 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Den Bosch € 4.223,- en € 6.033,- HBO 32 tot 40 uur Wat ga je doen? Met jouw energie kan het De energietransitie is in volle gang. Dat vraagt niet alleen om uitbreiding en vernieuwing van ons energienet, maar ook om betrouwbare en toekomstbestendige digitale oplossingen. Als Cloud Engineer bij Enexis zorg jij ervoor dat de applicaties en systemen die onze collega’s dagelijks gebruiken kunnen rekenen op een robuuste, veilige en goed beheersbare cloudomgeving. Zo ga jij deze uitdaging aan Als Cloud Engineer werk je samen met je collega’s aan het ontwikkelen, automatiseren en beheren van de cloudinfrastructuur die nodig is om de applicaties binnen het landschap betrouwbaar en toekomstbestendig te laten draaien. Je werkt agile aan scripted cloud infrastructure en denkt mee over containerization, connectivity, security en verdere automatisering. Je vertaalt technische vraagstukken naar passende oplossingsrichtingen en gaat vervolgens ook zelf aan de slag met de realisatie ervan. Met Infrastructure as Code en CI/CD zorg je ervoor dat infrastructuur reproduceerbaar, beheersbaar en zoveel mogelijk geautomatiseerd wordt ingericht. Daarbij kijk je verder dan alleen de oplossing van vandaag. Je volgt nieuwe ontwikkelingen op cloudgebied en onderzoekt hoe nieuwe technologie het IT-landschap van Enexis verder kan verbeteren. Je werkt daarbij niet alleen aan nieuwe oplossingen. Ook het betrouwbaar en veilig laten functioneren van het bestaande landschap hoort erbij. Binnen Team Athena zijn onder andere continuity management, monitoring, capacity management, lifecycle management en deploymentautomatisering onderdeel van de verantwoordelijkheid van het team. Kortom: een brede Cloud Engineer-rol waarin bouwen, automatiseren en beheren bij elkaar komen. Dit zijn jouw verantwoordelijkheden Ontwikkelen, automatiseren en beheren van cloudinfrastructuur. Werken met Infrastructure as Code, onder andere met Terraform en Ansible. Bouwen en onderhouden van CI/CD-pipelines. Meedenken over en toepassen van containerization (kubernetes based). Werken aan netwerkconnectiviteit binnen de cloudomgeving (web application firewalls). Monitoren van de omgeving en bijdragen aan de continuïteit en betrouwbaarheid ervan. Signaleren en toepassen van nieuwe cloudtechnologieën die het landschap verder kunnen verbeteren. Samenwerken met engineers, functioneel beheerders en andere disciplines binnen en buiten Team Athena. Kennis delen en collega’s met minder ervaring meenemen in jouw expertise. Functie-eisen Zo pak jij het aan Je bent een klantgerichte en communicatief sterke teamspeler. Je vindt het leuk om complexe technische vraagstukken uit te pluizen en uiteindelijk ook daadwerkelijk een oplossing neer te zetten. Je werkt zelfstandig wanneer dat nodig is, maar zoekt actief de samenwerking op. Je deelt kennis met collega’s en helpt het team om technisch steeds een stap verder te komen. Nieuwe technologie maakt je nieuwsgierig. Je wilt begrijpen hoe iets werkt en vooral hoe we het binnen Enexis slim, veilig en beheersbaar kunnen inzetten. Verder heb je: Minimaal drie á vier jaar relevante werkervaring in cloud engineering. Hands-on ervaring met Ansible of vergelijkbare automation tooling. Ervaring met werken binnen een Agile/Scrum-omgeving. Ervaring met GitLab CI/CD-pipelines of vergelijkbare CI/CD-oplossingen. Kennis van containerization en kubernetes hosting Kennis van het AWS-platform. Kennis van Datadog of vergelijkbare monitoring tooling. Kennis van Python en objectgeoriënteerd programmeren. Kennis van Terraform. Team & cultuur Je zet je schouders eronder met Je komt terecht in Team Athena, binnen de keten HS/MS. Binnen dit domein werken we aan de digitale ondersteuning van de processen rondom onze hoog- en middenspanningsstations. Team Athena is verantwoordelijk voor het beheer en de continuïteit van een omvangrijk landschap aan softwareproducten en applicatiepakketten. Denk bijvoorbeeld aan applicaties als Meridian, Autodesk Vault en Cyclomedia. Het team houdt zich bezig met onder andere incidenten en changes, monitoring, lifecycle management, deploymentautomatisering, security en compliance. Binnen Athena bouwen we de cloudkennis en -competentie verder uit. En daar kom jij in beeld. We vinden het belangrijk dat je je bij ons thuis voelt. We zijn allemaal anders en het mooie daarvan is dat we elkaar vanuit die verschillen aanvullen. We hebben elkaars perspectieven en meningen nodig voor een succesvolle energietransitie! Lees hier mee over ons beleid op diversiteit en inclusie. Wat krijg je van ons? En wij steken natuurlijk ook energie in jou Bij Enexis werk je in de voorhoede van een van de grootste uitdagingen van onze tijd: de energietransitie. Daarbij zorgen we goed voor je. Dat begint met een uitgebreid welkomstpakket en -programma om je collega’s te leren kennen. En met goede arbeidsvoorwaarden: Salaris tussen €4.223,- en € 6.033,- bruto per maand (op basis van 40 uur per week). Inclusief secundaire arbeidsvoorwaarden kan je salaris oplopen tot € 7.764,- bruto per maand. Pensioenbijdrage: 70% bijdrage aan je ABP keuzepensioen. Persoonlijk budget: 10% en een 13e maand van 10,7% van je bruto jaarsalaris. Flexibel inzetbaar. Vakantiedagen: 24,5 vakantie bij fulltime dienstverband. Mogelijkheid om extra verlofdagen te kopen. Thuiswerken: Inclusief ingerichte thuiswerkplek en een vergoeding van € 2,45 per thuiswerkdag. Apparatuur: Laptop/tablet en telefoon ook voor privégebruik. Reiskosten: Reiskostenvergoeding en eersteklas OV-abonnement voor zakelijk gebruik. Vitaliteit: € 700,- vitaliteitsbudget voor bijvoorbeeld een sportabonnement. Opleidingsmogelijkheden: Interne ontwikkelplatform of externe opleidingen en trainingen. Lees meer over onze arbeidsvoorwaarden. Werk als Cloud engineer aan het energienetwerk van morgen Solliciteer via de button onder aan deze pagina. Heb je vragen over de functie? Neem dan contact op met Marvin Kerdel, Corporate Recruiter IT, marvin.kerdel@enexis.nl Goed om te weten Een screening maakt o",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Den Bosch € 4.223,- en € 6.033,- HBO 32 tot 40 uur Wat ga je doen? Met jouw energie kan het De energietransitie is in volle gang. Dat vraagt niet alleen om uitbreiding en vernieuwing van ons energienet, maar ook om betrouwbare en toekomstbestendige digitale oplossingen. Als Cloud Engineer bij...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Laptop",
+    "Reiskosten"
+   ],
+   "skills": [
+    "Python",
+    "Git",
+    "CI/CD",
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "Ansible",
+    "Agile",
+    "Security"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T18:23:08.200089+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 55,
+    "matched_skills": [
+     "AWS",
+     "Microsoft Azure",
+     "Ubuntu / Linux",
+     "Git / Bitbucket"
+    ],
+    "missing_realistic": [
+     "ervaring als zelfstandig cloud engineer"
+    ],
+    "ignored_unrealistic": [
+     "ervaring met complexe cloudinfrastructuren"
+    ],
+    "reason": "Je hebt basiskennis van Azure en AWS, maar deze cloud engineer rol vraagt meer senior ervaring dan je huidige junior status.",
+    "local_score": 77,
     "ai": true,
     "check": false,
     "visible": false
@@ -11126,64 +11128,6 @@
    }
   },
   {
-   "id": "755173c97b2f",
-   "source": "JobSpy",
-   "title": "Business intelligence ontwikkelaar",
-   "company": "Fidus.nl/ Heinenoord",
-   "location": "Den Bosch, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-02T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=6318570aa90dd908",
-   "salary": "€3838 - €7623 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent gefuseerde organisatie. Je denkt actief mee over AI-toepassingen en helpt de organisatie betere beslissingen te nemen op basis van betrouwbare data. Dit doe je vanuit ons hoofdkantoor in Den Bosch en vanuit huis. Jouw baan als business intelligence ontwikkelaar: Als business intelligence ontwikkelaar werk je op het snijvlak van data, techniek en business. Je beheert en ontwikkelt ons datawarehouse en maakt een vertaling van de informatiestrategie van HeinenoordZicht Groep naar praktische BI-oplossingen. Verder denk je graag gevraagd en ongevraagd mee over mogelijkheden op het gebied van data en hoe je deze het beste voor onze organisatie kunt gebruiken. Je staat in nauw contact met de business om hun behoeften op te halen als het gaat om informatievoorziening. Je begrijpt als geen ander hoe onze bedrijfsprocessen werken en hoe je deze kunt omzetten naar slimme technische oplossingen en bruikbare stuurinformatie. Met jouw expertise en analytisch inzicht, krijgt de business de juiste informatie aangeleverd om hun klanten uitstekend te bedienen. Bijvoorbeeld in de vorm van rapportages en dashboards. De functie van business intelligence ontwikkelaar combineert architectuur, ontwikkeling, beheer en advisering. Je werkt samen met gebruikers, projectleiders, management en externe specialisten. Daarbij zorg je ervoor dat BI-oplossingen niet alleen technisch goed werken, maar ook aansluiten bij de behoeften van de organisatie. Wat krijg je van ons: Een goed salaris: schaal loopt van € 3.838,- tot € 7.623,- bruto op basis van 40 uur per week. We stemmen de hoogte van je salaris af op je kennis en ervaring. Een dienstverband van 32 of 40 uur per week, afhankelijk van jouw voorkeur. Deelname aan de collectieve pensioenregeling bij BeFrank. Maandelijkse netto internetvergoeding van € 20,-. 27 vakantiedagen en de mogelijkheid om jaarlijks maximaal 5 dagen bij te kopen. Reiskostenvergoeding van € 0,25 per kilometer tot 40 km of volledige vergoeding bij reizen met het openbaar vervoer. Aantrekkelijke kortingen op je zorgverzekering en de eigen verzekeringsproducten van HZG. De mogelijkheid om een (elektrische) fiets te leasen tegen fiscaal voordelige voorwaarden. De flexibiliteit om deels vanuit huis te werken, waarbij ook gezorgd wordt voor een fijne en veilige thuiswerkplek. Werken bij een topspeler in de Nederlandse assurantiemarkt, onderdeel van de stabiele, internationale NN Group. Blijvende aandacht voor jouw ontwikkeling en inzetbaarheid. Jouw profiel: Je krijgt energie van het vertalen van complexe informatievraagstukken naar praktische oplossingen. Je vindt het leuk om met verschillende stakeholders samen te werken en kunt technische mogelijkheden begrijpelijk uitleggen aan gebruikers en management. Je kijkt kritisch naar processen en systemen, signaleert verbetermogelijkheden en neemt verantwoordelijkheid voor de kwaliteit van informatievoorziening. Daarbij weet je het evenwicht te bewaren tussen techniek, gebruikerswensen en organisatiedoelen. Verder vragen wij: Hbo-werk- en -denkniveau en ervaring in een soortgelijke functie als business intelligence ontwikkelaar. Ervaring met SQL, Python, Azure en Databricks. Wanneer je naast bovenstaande ook verstand hebt van Power BI en/of ANVA maakt dit jou misschien wel de ideale kandidaat. Uitstekende beheersing van de Nederlandse taal, in woord en geschrift. Dit zijn wij: Twee sterke bedrijven, Heinenoord Holding en Zicht, risico- en verzekeringsadviseurs. Samengebracht in één toekomstgerichte organisatie: HeinenoordZicht Groep. Een nieuwe naam, gebouwd op meer dan een eeuw ervaring. De kracht van digitale mogelijkheden combineren we met lokaal ondernemerschap én de professionaliteit van een grote landelijke Nederlandse speler. Wij helpen elkaar en onze klanten vooruit. We geven onafhankelijk en professioneel advies en helpen bij het maken van bewuste keuzes over financiële risico’s. Dit geldt zowel richting onze klanten, als binnen de organisatie. Dit is wat ons energie geeft en waar ons talent ligt. Dit doen wij vanuit ons vakmanschap, onze passie, de rijke ervaring, maar ook de lokale verbinding. Dat is de reden waarom onze collega’s hier werken, waarom onze klanten bij ons komen. En wat ons verbindt. HeinenoordZicht Groep is een gaaf bedrijf: goed geregeld, aantrekkelijk voor medewerkers, aantrekkelijk voor klanten en financieel gezond. De afdeling: Jouw werkplek vind je in ons splinternieuw en moderne hoofdkantoor in ’s-Hertogenbosch, dicht bij het Provinciehuis. Maar thuiswerken is ook helemaal onderdeel van onze cultuur. Samen met je collega’s ben je verantwoordelijk voor data en informatievoorziening binnen HeinenoordZicht Groep. Je rapporteert aan de manager data- en informatiemanagement. De sfeer is informeel. Werken in jeans en op sneakers vinden we de normaalste zaak van de wereld. We geven je ruimte om verantwoordelijkheid te nemen vanuit je eigen expertise en werken vanuit vertrouwen en samenwerking. Enthousiast? Enthousiast geworden over deze vacature van business intelligence ontwikkelaar bij HeinenoordZicht Groep? Reageer dan via de solliciteerbutton. We sluiten deze vacature als we een passende kandidaat hebben gevonden. Voor deze vacature werken wij niet samen met werving- en selectiebureaus. Een assessment kan onderdeel zijn van de procedure. Voor meer informatie, mail ons op hr@heinenoordzichtgroep.nl.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "Reiskosten"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Azure",
-    "AI",
-    "Power BI",
-    "Databricks"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-03T02:52:46.099571+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "SQL",
-     "Python",
-     "AWS",
-     "Microsoft Azure"
-    ],
-    "missing_realistic": [
-     "Ervaring met datawarehousing",
-     "Ervaring met BI-tools zoals Power BI"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt sterke programmeer- en SQL-vaardigheden voor een junior BI-rol, maar mist directe ervaring met datawarehouses en BI-rapportagetools.",
-    "local_score": 77,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "7bda725c9cbd",
    "source": "JobSpy",
    "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
@@ -11802,6 +11746,64 @@
    }
   },
   {
+   "id": "755173c97b2f",
+   "source": "JobSpy",
+   "title": "Business intelligence ontwikkelaar",
+   "company": "Fidus.nl/ Heinenoord",
+   "location": "Den Bosch, NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-02T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=6318570aa90dd908",
+   "salary": "€3838 - €7623 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent gefuseerde organisatie. Je denkt actief mee over AI-toepassingen en helpt de organisatie betere beslissingen te nemen op basis van betrouwbare data. Dit doe je vanuit ons hoofdkantoor in Den Bosch en vanuit huis. Jouw baan als business intelligence ontwikkelaar: Als business intelligence ontwikkelaar werk je op het snijvlak van data, techniek en business. Je beheert en ontwikkelt ons datawarehouse en maakt een vertaling van de informatiestrategie van HeinenoordZicht Groep naar praktische BI-oplossingen. Verder denk je graag gevraagd en ongevraagd mee over mogelijkheden op het gebied van data en hoe je deze het beste voor onze organisatie kunt gebruiken. Je staat in nauw contact met de business om hun behoeften op te halen als het gaat om informatievoorziening. Je begrijpt als geen ander hoe onze bedrijfsprocessen werken en hoe je deze kunt omzetten naar slimme technische oplossingen en bruikbare stuurinformatie. Met jouw expertise en analytisch inzicht, krijgt de business de juiste informatie aangeleverd om hun klanten uitstekend te bedienen. Bijvoorbeeld in de vorm van rapportages en dashboards. De functie van business intelligence ontwikkelaar combineert architectuur, ontwikkeling, beheer en advisering. Je werkt samen met gebruikers, projectleiders, management en externe specialisten. Daarbij zorg je ervoor dat BI-oplossingen niet alleen technisch goed werken, maar ook aansluiten bij de behoeften van de organisatie. Wat krijg je van ons: Een goed salaris: schaal loopt van € 3.838,- tot € 7.623,- bruto op basis van 40 uur per week. We stemmen de hoogte van je salaris af op je kennis en ervaring. Een dienstverband van 32 of 40 uur per week, afhankelijk van jouw voorkeur. Deelname aan de collectieve pensioenregeling bij BeFrank. Maandelijkse netto internetvergoeding van € 20,-. 27 vakantiedagen en de mogelijkheid om jaarlijks maximaal 5 dagen bij te kopen. Reiskostenvergoeding van € 0,25 per kilometer tot 40 km of volledige vergoeding bij reizen met het openbaar vervoer. Aantrekkelijke kortingen op je zorgverzekering en de eigen verzekeringsproducten van HZG. De mogelijkheid om een (elektrische) fiets te leasen tegen fiscaal voordelige voorwaarden. De flexibiliteit om deels vanuit huis te werken, waarbij ook gezorgd wordt voor een fijne en veilige thuiswerkplek. Werken bij een topspeler in de Nederlandse assurantiemarkt, onderdeel van de stabiele, internationale NN Group. Blijvende aandacht voor jouw ontwikkeling en inzetbaarheid. Jouw profiel: Je krijgt energie van het vertalen van complexe informatievraagstukken naar praktische oplossingen. Je vindt het leuk om met verschillende stakeholders samen te werken en kunt technische mogelijkheden begrijpelijk uitleggen aan gebruikers en management. Je kijkt kritisch naar processen en systemen, signaleert verbetermogelijkheden en neemt verantwoordelijkheid voor de kwaliteit van informatievoorziening. Daarbij weet je het evenwicht te bewaren tussen techniek, gebruikerswensen en organisatiedoelen. Verder vragen wij: Hbo-werk- en -denkniveau en ervaring in een soortgelijke functie als business intelligence ontwikkelaar. Ervaring met SQL, Python, Azure en Databricks. Wanneer je naast bovenstaande ook verstand hebt van Power BI en/of ANVA maakt dit jou misschien wel de ideale kandidaat. Uitstekende beheersing van de Nederlandse taal, in woord en geschrift. Dit zijn wij: Twee sterke bedrijven, Heinenoord Holding en Zicht, risico- en verzekeringsadviseurs. Samengebracht in één toekomstgerichte organisatie: HeinenoordZicht Groep. Een nieuwe naam, gebouwd op meer dan een eeuw ervaring. De kracht van digitale mogelijkheden combineren we met lokaal ondernemerschap én de professionaliteit van een grote landelijke Nederlandse speler. Wij helpen elkaar en onze klanten vooruit. We geven onafhankelijk en professioneel advies en helpen bij het maken van bewuste keuzes over financiële risico’s. Dit geldt zowel richting onze klanten, als binnen de organisatie. Dit is wat ons energie geeft en waar ons talent ligt. Dit doen wij vanuit ons vakmanschap, onze passie, de rijke ervaring, maar ook de lokale verbinding. Dat is de reden waarom onze collega’s hier werken, waarom onze klanten bij ons komen. En wat ons verbindt. HeinenoordZicht Groep is een gaaf bedrijf: goed geregeld, aantrekkelijk voor medewerkers, aantrekkelijk voor klanten en financieel gezond. De afdeling: Jouw werkplek vind je in ons splinternieuw en moderne hoofdkantoor in ’s-Hertogenbosch, dicht bij het Provinciehuis. Maar thuiswerken is ook helemaal onderdeel van onze cultuur. Samen met je collega’s ben je verantwoordelijk voor data en informatievoorziening binnen HeinenoordZicht Groep. Je rapporteert aan de manager data- en informatiemanagement. De sfeer is informeel. Werken in jeans en op sneakers vinden we de normaalste zaak van de wereld. We geven je ruimte om verantwoordelijkheid te nemen vanuit je eigen expertise en werken vanuit vertrouwen en samenwerking. Enthousiast? Enthousiast geworden over deze vacature van business intelligence ontwikkelaar bij HeinenoordZicht Groep? Reageer dan via de solliciteerbutton. We sluiten deze vacature als we een passende kandidaat hebben gevonden. Voor deze vacature werken wij niet samen met werving- en selectiebureaus. Een assessment kan onderdeel zijn van de procedure. Voor meer informatie, mail ons op hr@heinenoordzichtgroep.nl.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Functieomschrijving Data omzetten in inzichten waar onze organisatie echt mee verder kan. Dat is waar jij als business intelligence ontwikkelaar bij HeinenoordZicht Groep voor zorgt. Je bouwt mee aan een toekomstbestendig datawarehouse en draagt bij aan de verdere professionalisering van een recent...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "Reiskosten"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "AI",
+    "Power BI",
+    "Databricks"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-03T02:52:46.099571+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "SQL",
+     "Python",
+     "AWS",
+     "Microsoft Azure"
+    ],
+    "missing_realistic": [
+     "Ervaring met datawarehousing",
+     "Ervaring met BI-tools zoals Power BI"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt sterke programmeer- en SQL-vaardigheden voor een junior BI-rol, maar mist directe ervaring met datawarehouses en BI-rapportagetools.",
+    "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "03d8c2dc8fdc",
    "source": "JobSpy",
    "title": "Junior Data Analyst: Internal Audit, Risk & Control - Full-time - Minor Hotels Europe & Americas",
@@ -12284,54 +12286,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "a44e51fd08b6",
-   "source": "JobSpy",
-   "title": "Junior Projectmanager – AI & Softwareontwikkeling.",
-   "company": "Vixx Badkamers B.V.",
-   "location": "Etten-Leur, NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-01T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=da38bf5f41ddb28d",
-   "salary": "€2400 - €3916 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "AI & Development Projectmanager Etten-Leur | 32–40 uur | €2.600 – €3.900 bruto per maand Ben jij gedreven, leergierig en iemand die graag dingen voor elkaar krijgt? Dan zoeken wij jou! Vixx Badkamers & Tegels groeit hard. Achter de schermen zijn we volop bezig met het ontwikkelen en verbeteren van onze eigen software en systemen, waarbij AI en automatisering een belangrijke rol spelen . We hebben inmiddels ons eigen maatwerksysteem gebouwd en willen dit de komende jaren steeds verder uitbreiden. Van voorraadbeheer en offertes tot productinformatie en interne bedrijfsprocessen. Daarom zoeken we iemand die ons helpt om deze ontwikkelingen verder te organiseren, begeleiden en verbeteren. Geen traditionele administratieve functie, maar een veelzijdige rol waarin projectmanagement, softwareontwikkeling, AI en procesverbetering samenkomen. Ervaring? Niet nodig. Wij zoeken vooral de juiste mentaliteit. We leren je graag hoe onze systemen werken. Wat we veel belangrijker vinden, is dat je gemotiveerd bent, initiatief neemt en de drive hebt om jezelf te ontwikkelen. Wat ga je doen? Je werkt voornamelijk aan de verdere ontwikkeling en verbetering van onze eigen systemen. Je houdt overzicht over lopende projecten, helpt nieuwe ideeën uitwerken en zorgt dat ontwikkelingen daadwerkelijk worden opgepakt. Denk hierbij aan: Projectmanagement: projecten rondom onze eigen software organiseren, begeleiden en opvolgen. AI & automatisering: ontdekken hoe we werkzaamheden slimmer en efficiënter kunnen uitvoeren. Softwareontwikkeling: meedenken over nieuwe functies en verbeteringen binnen onze systemen. Processen verbeteren: onderzoeken welke werkzaamheden sneller, eenvoudiger of beter kunnen. Testen en controleren: nieuwe ontwikkelingen testen, fouten signaleren en oplossingen bedenken. Data & Excel: bedrijfsinformatie verwerken, controleren en overzichtelijk houden. Nieuwe ideeën uitwerken: kansen signaleren en helpen deze om te zetten naar concrete verbeteringen. Je hoeft niet alles vanaf dag één te begrijpen of te kunnen. We vinden het belangrijker dat je vragen stelt, initiatief neemt en bereid bent om dingen uit te zoeken. Je krijgt bij ons de ruimte om te leren, te experimenteren en steeds meer verantwoordelijkheid te krijgen. Wie zoeken wij? We zoeken iemand met een frisse blik, een positieve instelling en vooral heel veel motivatie. Iemand die niet afwacht totdat alles wordt uitgelegd, maar zelf nieuwsgierig is naar hoe dingen werken. Je hoeft geen ervaring te hebben met softwareontwikkeling, AI of projectmanagement. Ook een specifieke opleiding is niet noodzakelijk. Wat we wél belangrijk vinden: Je bent gedreven, ambitieus en gemotiveerd . Je wilt graag nieuwe dingen leren. Je bent handig met computers of hebt interesse om hier beter in te worden. Je neemt graag initiatief. Je denkt in oplossingen in plaats van problemen. Je kunt zelfstandig werken en overzicht houden. Je bent nauwkeurig en gestructureerd. Je vindt het leuk om met nieuwe technologie bezig te zijn. Je spreekt en schrijft goed Nederlands. Je voelt je thuis in een informele en ambitieuze werkomgeving. Of je nu aan het begin van je carrière staat, een andere richting op wilt of al werkervaring hebt: bij ons draait het om jouw instelling en drive. We zoeken geen perfect cv. We zoeken iemand die écht zin heeft om samen met ons iets op te bouwen. Werken bij Vixx Vixx Badkamers & Tegels is een snelgroeiende onderneming in Etten-Leur. In vijf jaar tijd zijn we hard gegroeid. En we hebben nog grote plannen voor de toekomst. We werken met een betrokken, enthousiast en ambitieus team waarin hard wordt gewerkt, maar ook veel wordt gelachen. Geen ingewikkelde managementlagen, lange vergaderingen of eindeloze procedures. Bij ons zijn de lijnen kort en worden beslissingen snel genomen. Je werkt direct samen met de eigenaren en krijgt de kans om een belangrijke bijdrage te leveren aan de verdere ontwikkeling van ons bedrijf. We zijn continu bezig met verbeteren, vernieuwen en groeien. Daarbij speelt onze eigen software een steeds grotere rol. En daar kun jij vanaf het begin onderdeel van zijn. Je krijgt een eigen werkplek, veel vrijheid en de mogelijkheid om jezelf te ontwikkelen. Bij ons ben je geen nummer binnen een grote organisatie. Je krijgt de kans om echt impact te maken. Wat bieden wij? €2.600 – €3.900 bruto per maand op basis van 40 uur, afhankelijk van kennis en ervaring. Een functie van 32–40 uur per week . Een eigen, compleet ingerichte werkplek. Een betrokken, informeel en ambitieus team. Een belangrijke rol in de verdere ontwikkeling van onze eigen software. Veel vrijheid, zelfstandigheid en verantwoordelijkheid. Geen ervaring vereist: wij leren je graag alles wat je moet weten. Volop mogelijkheden om jezelf te ontwikkelen. Doorgroeimogelijkheden binnen een snelgroeiend bedrijf. Direct samenwerken met de eigenaren. Een informele werksfeer met korte lijnen. Bedrijfsfeesten. Kerstpakket. Vrijdagmiddagborrel. Interesse? Heb jij de motivatie en drive om samen met ons verder te bouwen? Dan maken we graag kennis met je! Stuur ons je cv en een korte motivatie. Je hoeft geen ervaring te hebben met AI, software of projectmanagement. We zijn vooral benieuwd naar wie je bent, wat je motiveert en waarom je graag bij ons wilt werken. Wij geloven dat je veel kunt leren, zolang je maar de juiste instelling hebt. Vixx Badkamers & Tegels Etten-Leur Soort dienstverband: Fulltime Salaris: €2.400,00 - €3.916,25 per maand Arbeidsvoorwaarden: Bedrijfsfeesten Kerstpakket Mogelijkheid tot promotie Vrijdagmiddagborrel Werklocatie: Fysiek",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "AI & Development Projectmanager Etten-Leur 32–40 uur €2.600 – €3.900 bruto per maand Ben jij gedreven, leergierig en iemand die graag dingen voor elkaar krijgt? Dan zoeken wij jou! Vixx Badkamers & Tegels groeit hard. Achter de schermen zijn we volop bezig met het ontwikkelen en verbeteren van onze...",
-   "benefits": [],
-   "skills": [
-    "AI",
-    "Excel",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-01T17:05:58.123562+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 85,
-    "matched_skills": [
-     "Softwareontwikkeling",
-     "AI",
-     "Klantgericht",
-     "Communicatief vaardig"
-    ],
-    "missing_realistic": [],
-    "ignored_unrealistic": [],
-    "reason": "Je communicatieve vaardigheden en achtergrond in softwareontwikkeling sluiten uitstekend aan bij deze junior projectmanagementrol.",
-    "local_score": 65,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
