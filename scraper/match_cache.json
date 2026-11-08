@@ -3124,6 +3124,22 @@
     "Demonstrated exceptional performance in mathematical competitions or competitive programming contests"
    ],
    "reason": "Deze rol is te zwaar gericht op geavanceerde kwantitatieve modellering en wiskundige wedstrijden wat niet past bij je huidige profiel."
+  },
+  "2800e175ae70": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Data Warehousing",
+    "Datamodellering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeer- en cloudvaardigheden, maar mist specifieke ervaring met data warehousing en datamodellering."
   }
  }
 }
