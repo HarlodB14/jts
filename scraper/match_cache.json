@@ -15,97 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "db3d27372a82": {
-   "is_junior": false,
-   "score": 60,
-   "matched_skills": [
-    "Azure",
-    "Cloud"
-   ],
-   "missing_realistic": [
-    "Dynamics CRM",
-    "AFAS"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt wel Azure-ervaring, maar de rol vraagt specifiek om senior ervaring met AFAS en Dynamics CRM."
-  },
-  "1f8a7a436408": {
-   "is_junior": false,
-   "score": 85,
-   "matched_skills": [
-    "Vue / Nuxt",
-    "JavaScript"
-   ],
-   "missing_realistic": [
-    "React"
-   ],
-   "ignored_unrealistic": [
-    "Minimum 2 years of experience in front-end development"
-   ],
-   "reason": "Je JavaScript- en Vue/Nuxt-ervaring sluit goed aan bij deze front-end functie."
-  },
-  "dd8a50bd60c7": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "C#",
-    ".NET",
-    "JavaScript",
-    "Python"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in software engineering en ervaring met .NET en Python passen uitstekend bij deze rol."
-  },
-  "4ee91b562a48": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "REST API’s",
-    "AI"
-   ],
-   "missing_realistic": [
-    "Salesforce"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke analytische vaardigheden en ervaring met AI en klantgesprekken, maar mist Salesforce-kennis."
-  },
-  "d61ec570e720": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "SQL",
-    "Python"
-   ],
-   "missing_realistic": [
-    "data science specifieke ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je opleiding Informatica en vaardigheid met Python en SQL sluiten redelijk aan bij deze data-analyse rol."
-  },
-  "4e827147b105": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "data governance"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een brede IT-achtergrond en SQL-kennis, maar mist specifieke ervaring met data stewardship."
-  },
-  "addbe7e72d88": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "SQL",
-    "Python"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je technische opleiding en ervaring met data-extractie en programmeren passen goed bij deze data-analist functie."
-  },
   "015d515659e0": {
    "is_junior": true,
    "score": 85,
@@ -3369,6 +3278,207 @@
     "complex trading environment"
    ],
    "reason": "Hoewel je Python beheerst, is deze rol te specifiek gericht op high-frequency trading infrastructuur en mist het een echt junior opleidingsprofiel."
+  },
+  "773ae9b49d82": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al goede C# en .NET ervaring opgedaan in je huidige baan, waardoor je deze junior rol goed aankan."
+  },
+  "18d01f7e05a9": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "REST API’s",
+    "Git"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in softwareontwikkeling en IT sluit erg goed aan bij deze startersfunctie."
+  },
+  "1c4886f192f7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Microsoft Dynamics 365"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond, maar mist specifieke ervaring met Microsoft Dynamics 365."
+  },
+  "33f0cd01a777": {
+   "is_junior": true,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "elektronica op PCB-niveau",
+    "analoge en digitale elektronica"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie richt zich op hardware-elektronica, terwijl jouw specialisatie in software en IT ligt."
+  },
+  "ec8954e2f0b9": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "support"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt jarenlange ervaring op de servicedesk en met systeembeheer, waardoor deze IT-functie je erg makkelijk zal afgaan."
+  },
+  "2908b72aaf6d": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "EPLAN",
+    "elektrotechnische ontwerpen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een mbo-achtergrond in ICT-beheer, maar mist specifieke ervaring met EPLAN en industriële hardware-ontwikkeling."
+  },
+  "d6d6109dc49c": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke data- en hbo-achtergrond, maar specifieke Power BI-ervaring ontbreekt nog op je cv."
+  },
+  "3625cf436623": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "fashion design",
+    "kledingcollecties ontwikkelen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Dit is een creatieve modefunctie die totaal niet aansluit bij jouw technische IT-achtergrond."
+  },
+  "939129d6ea8c": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Microsoft Azure",
+    "REST API’s",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "Uitgebreide enterprise cloud architectuur ervaring"
+   ],
+   "ignored_unrealistic": [
+    "Deep understanding of AWS products as a global expert"
+   ],
+   "reason": "Je hebt al wat cloud-ervaring opgedaan, maar deze ProServe rol is te senior voor een starter."
+  },
+  "f40da384b99e": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Git",
+    "Klantencontact"
+   ],
+   "missing_realistic": [
+    "Specifieke WMS-kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en ervaring met klantcontact sluiten goed aan bij deze functioneel beheer rol."
+  },
+  "c8ad30b9ad6f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Data Science minor"
+   ],
+   "missing_realistic": [
+    "Business Intelligence dashboardservaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je opleiding Informatica met Data Science vakken past goed bij deze data en AI consultant functie."
+  },
+  "dfa1c1ed08f1": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Servicedesk ervaring"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je mbo ICT-beheer diploma en uitgebreide servicedesk-ervaring sluiten perfect aan bij dit systeembeheer."
+  },
+  "ecd93d402f3e": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "PowerShell geautomatiseerde uitrol"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als ICT-medewerker en Azure-certificaat passen goed bij deze moderne werkplek functie."
+  },
+  "b3bc96009532": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "HBO Informatica"
+   ],
+   "missing_realistic": [
+    "Onderwijsspecifieke IT-systemen"
+   ],
+   "ignored_unrealistic": [
+    "Ervaring tot schaal schaal 11"
+   ],
+   "reason": "Je hbo-bachelor past qua niveau, maar de salarisindicatie duidt op een te senior profiel."
+  },
+  "a7c57944fff8": {
+   "is_junior": false,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Microsoft Azure",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Professionele data engineering ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met SQL en Azure, maar een volwaardige Data Engineer rol vraagt meer gerichte ervaring."
+  },
+  "9f711969ab3e": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Servicedesk",
+    "Hardware en software ondersteuning",
+    "Netwerkproblemen oplossen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je jarenlange ervaring bij OGD en Paradigit maken je een ideale kandidaat voor deze supportfunctie."
   }
  }
 }
