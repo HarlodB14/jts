@@ -3113,6 +3113,262 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt sterke programmeer- en cloudvaardigheden, maar mist specifieke ervaring met data warehousing en datamodellering."
+  },
+  "4000ebb3ea70": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Nederlands",
+    "Engels",
+    "REST API’s",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Data-analyse",
+    "Machine learning"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond en communicatieve vaardigheden die goed passen bij een IT-consultancy traineeship, hoewel specifieke data science-ervaring ontbreekt."
+  },
+  "36fe9b38d001": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt",
+    "Git / Bitbucket",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "React",
+    "Cypress"
+   ],
+   "ignored_unrealistic": [
+    "schaal 10 salaris",
+    "jarenlange specifieke ervaring met microservices"
+   ],
+   "reason": "Je frontend- en JavaScript-kennis sluit goed aan, al werk je vaker met Vue dan met het gevraagde React."
+  },
+  "f323299c3887": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "PLC-programmering",
+    "SCADA",
+    "DCS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante technische hbo-opleiding en Python-ervaring, maar je mist specifieke achtergrond in industriële automatisering en PLC's."
+  },
+  "e01abee57bee": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Agile/Scrum",
+    "Klantgesprekken"
+   ],
+   "missing_realistic": [
+    "OutSystems",
+    "Business analyse methodes"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met klantgesprekken en softwareontwikkeling, wat goed aansluit bij de rol van brug tussen business en IT."
+  },
+  "b15ea10e76c5": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL",
+    "Bedrijfsprocessen"
+   ],
+   "missing_realistic": [
+    "Infor LN ERP",
+    "Ervaring in ERP-omgevingen"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange senior ERP-ervaring"
+   ],
+   "reason": "Deze vacature is te senior van aard en vraagt specifieke ERP-ervaring die je nog niet hebt opgebouwd."
+  },
+  "3ac5d1161cf0": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Communicatieve vaardigheden"
+   ],
+   "missing_realistic": [
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sociale vaardigheden en analytische achtergrond passen goed bij een adviesrol, hoewel je nog ervaring moet opdoen met Power BI."
+  },
+  "1bdf62769021": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C# / .NET",
+    "SQL",
+    "Zorg-IT",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring met C# en .NET in de zorg-IT sluit naadloos aan bij wat deze rol vraagt."
+  },
+  "5bf2dd6fa008": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "C# / .NET",
+    "Playwright (testing)",
+    "Git / Bitbucket CI/CD"
+   ],
+   "missing_realistic": [
+    "C++"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al goede ervaring met testautomatisering, Python en CI/CD-pipelines, wat een sterke basis vormt voor deze testfunctie."
+  },
+  "b2090044226a": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [
+    "Informatica"
+   ],
+   "missing_realistic": [
+    "C++"
+   ],
+   "ignored_unrealistic": [
+    "C++ expertise"
+   ],
+   "reason": "Je hebt geen C++-ervaring in je cv staan om deze embedded softwarefunctie goed in te vullen."
+  },
+  "285820eaa422": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met AI-koppelingen en automatisering sluit heel mooi aan bij deze werkstudentrol."
+  },
+  "cd8c0de589ce": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "E-commerce data-analyse"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifiek om e-commerce data-analyse in plaats van algemene software engineering."
+  },
+  "177fc107e765": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "ICT-beheer"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als ICT-medewerker en beheerder past goed bij dit technische applicatiebeheer."
+  },
+  "4871fe54fe5d": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [
+    "Python",
+    "C#"
+   ],
+   "missing_realistic": [
+    "Motion control",
+    "C++"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist specifieke achtergrond in motion control en machinesoftware voor deze engineeringrol."
+  },
+  "fe4a0f90dd4c": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "Agile"
+   ],
+   "missing_realistic": [
+    "Dynamics 365"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET-achtergrond en adviesvaardigheden vormen een prima basis, hoewel je nog geen Dynamics 365 noemt."
+  },
+  "2fbc1a077fcc": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Agile",
+    "Klantgesprekken"
+   ],
+   "missing_realistic": [
+    "Dynamics 365"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en consultancy-ambitie passen erg goed bij deze junior CRM-rol."
+  },
+  "d468660aed3c": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Java"
+   ],
+   "missing_realistic": [
+    "Kotlin",
+    "Android Jetpack Compose"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt veel mobile-gerelateerde programmeerkennis, maar de specifieke Android- en Kotlin-stack ontbreekt in je cv."
+  },
+  "a54463db8659": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "MCP / AI-koppelingen",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met Python, AI-koppelingen en consultancyvaardigheden, waardoor deze junior traineeship-rol uitstekend aansluit bij je achtergrond."
+  },
+  "d2ef0c9c27bf": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "lage-latentie infrastructuur",
+    "tradingdomein ervaring"
+   ],
+   "ignored_unrealistic": [
+    "high-volume data flow over a low-latency infrastructure",
+    "complex trading environment"
+   ],
+   "reason": "Hoewel je Python beheerst, is deze rol te specifiek gericht op high-frequency trading infrastructuur en mist het een echt junior opleidingsprofiel."
   }
  }
 }
