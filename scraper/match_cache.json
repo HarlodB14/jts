@@ -15,101 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "d8c80121b0ab": {
-   "is_junior": false,
-   "score": 35,
-   "matched_skills": [
-    "Agile/Scrum"
-   ],
-   "missing_realistic": [
-    "Mechatronica achtergrond",
-    "Machinebouw ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke software-achtergrond, maar deze mechatronica machinebouwrol sluit niet aan bij je profiel."
-  },
-  "ffd1e16cbf90": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Elektrotechniek",
-    "Werktuigbouwkunde"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je opleiding en ervaring liggen in software en IT-beheer, niet in elektrotechnische energiedistributie."
-  },
-  "bbad501cf838": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Python",
-    "C#",
-    "Algoritmes",
-    "Engels"
-   ],
-   "missing_realistic": [
-    "Maritieme domeinkennis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je Python- en C#-ervaring sluiten goed aan bij deze software engineering rol, al mis je maritieme kennis."
-  },
-  "c7a7465f2dc0": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Python",
-    "Java",
-    "C#",
-    "TypeScript",
-    "Backend development",
-    "API's",
-    "Testing"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je sterke backend- en testervaring in talen zoals Python en Java sluiten uitstekend aan bij deze AI-trainingsrol."
-  },
-  "edade466795b": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Systeembeheer",
-    "Agile/Scrum",
-    "Scripting",
-    "Testen"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in IT-beheer en servicedesk sluit naadloos aan bij deze functioneel beheerder rol."
-  },
-  "03d8c2dc8fdc": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL",
-    "Data-analyse"
-   ],
-   "missing_realistic": [
-    "Ervaring binnen internal audit"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt basiskennis van SQL en data, maar je mist specifieke ervaring met internal audit en risk control."
-  },
-  "9185441bb243": {
-   "is_junior": false,
-   "score": 50,
-   "matched_skills": [
-    "Data-analyse",
-    "Probleemoplossend vermogen"
-   ],
-   "missing_realistic": [
-    "Ervaring als business analist",
-    "Logistieke capaciteitsplanning"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke analytische vaardigheden, maar mist de specifieke ervaring als business analist in de logistiek."
-  },
   "3e2ae1faa701": {
    "is_junior": true,
    "score": 75,
@@ -3401,6 +3306,84 @@
     "Jarenlange ervaring in arbodienstverlening"
    ],
    "reason": "Je uitgebreide servicedesk-ervaring bij OGD en je klantgerichte houding maken je erg geschikt voor deze supportrol."
+  },
+  "950b9b03d3a4": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "IT-ondersteuning",
+    "Analytisch vermogen",
+    "Communicatieve vaardigheden"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "ruime ervaring in functioneel beheer",
+    "BiSL",
+    "ITIL 4 Foundation"
+   ],
+   "reason": "Je achtergrond in ICT-beheer en helpdeskervaring sluiten goed aan bij deze ondersteunende rol."
+  },
+  "0a03c1157f59": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "PowerShell",
+    "Klantcontact"
+   ],
+   "missing_realistic": [
+    "SharePoint-beheer",
+    "Ervaring met CUs en SharePoint-farms"
+   ],
+   "ignored_unrealistic": [
+    "Schaal 11 salarisniveau",
+    "Diepgaande SharePoint-specialisatie"
+   ],
+   "reason": "Deze functie op schaal 11 niveau vraagt te veel gerichte SharePoint-ervaring voor een starter."
+  },
+  "7e64c0fb5133": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Python",
+    "Engels"
+   ],
+   "missing_realistic": [
+    "Defold game engine",
+    "Lua scripting"
+   ],
+   "ignored_unrealistic": [
+    "Strong professional experience using the Defold game engine"
+   ],
+   "reason": "Hoewel je Python-ervaring hebt, mis je de specifieke game development ervaring met Defold en Lua."
+  },
+  "7cab1092a973": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Servicedesk",
+    "Klantgerichtheid",
+    "Incidentmanagement",
+    "Communicatie"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je jarenlange servicedeskervaring en sterke communicatieve vaardigheden maken je een ideale kandidaat voor deze junior IT-ondersteuningsrol."
+  },
+  "9095e87d2e18": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Procesmatig denken",
+    "Schakelen tussen gebruikers en IT"
+   ],
+   "missing_realistic": [
+    "Ervaring met roosterplanning applicaties"
+   ],
+   "ignored_unrealistic": [
+    "Salaris tot 6.171",
+    "Jarenlange ervaring als functioneel beheerder"
+   ],
+   "reason": "Deze functie is te zwaar en vraagt specifieke domeinkennis over roosterplanning en cao-wetgeving die je nog niet hebt."
   }
  }
 }
