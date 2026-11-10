@@ -15,76 +15,6 @@
    "ignored_unrealistic": [],
    "reason": "De kandidaat heeft relevante mbo ICT-beheerdiploma's en servicedesk-ervaring, wat goed aansluit bij deze beheerrol."
   },
-  "06b2c8ddb428": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [
-    "Ervaring met gebouwautomatisering",
-    "Kennis van klimaatbeheersing en verlichting"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een passende achtergrond in ICT-beheer en informatica voor een junior engineer rol, hoewel gebouwautomatisering specifiek is."
-  },
-  "755173c97b2f": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "SQL",
-    "Python",
-    "AWS",
-    "Microsoft Azure"
-   ],
-   "missing_realistic": [
-    "Ervaring met datawarehousing",
-    "Ervaring met BI-tools zoals Power BI"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke programmeer- en SQL-vaardigheden voor een junior BI-rol, maar mist directe ervaring met datawarehouses en BI-rapportagetools."
-  },
-  "f7a80f2f3301": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "C# / .NET",
-    "Python",
-    "REST API’s",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je sluit met je programmeerervaring in C# en Python en je stage-achtergrond in complexe codebases erg goed aan bij deze software developer rol."
-  },
-  "dd3d7bbedafe": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Ervaring als functioneel beheerder binnen een corporatie of ERP-omgeving"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je servicedesk- en systeembeheerervaring sluiten goed aan bij applicatiebeheer en ondersteuning, hoewel de specifieke domeinkennis ontbreekt."
-  },
-  "82cb76d90752": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Ervaring met digitale analytics zoals GA4",
-    "Ervaring met BI-tools"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze business analist rol vraagt specifieke marketing- en webanalytics-ervaring die niet primair in je technische software- en beheer-achtergrond naar voren komt."
-  },
   "d8c80121b0ab": {
    "is_junior": false,
    "score": 35,
@@ -3358,6 +3288,119 @@
     "jarenlange senior financiële analyse"
    ],
    "reason": "Je technische achtergrond bevat datavaardigheden, maar de vacature vereist specifiek financiële en administratieve ervaring die je mist."
+  },
+  "4e3dcda16a53": {
+   "is_junior": false,
+   "score": 15,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "MRI reconstruction algorithms",
+    "C++",
+    "Image processing"
+   ],
+   "ignored_unrealistic": [
+    "Global team collaboration across geographical boundaries",
+    "File patent disclosures"
+   ],
+   "reason": "Je hebt geen ervaring met MRI-reconstructie of medische algoritmes, waardoor deze rol niet bij je achtergrond past."
+  },
+  "cbf1f8f89b26": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Klantgesprekken",
+    "Support"
+   ],
+   "missing_realistic": [
+    "Financiële administratie",
+    "Projectadministratie"
+   ],
+   "ignored_unrealistic": [
+    "Toonaangevend IT-bedrijf ervaring"
+   ],
+   "reason": "Je hebt sterke communicatieve skills en ervaring met support en klantgesprekken, hoewel specifieke financiële softwarekennis ontbreekt."
+  },
+  "d93662dd06b2": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "SQL",
+    "Support"
+   ],
+   "missing_realistic": [
+    "AFAS ERP",
+    "AFAS FIN"
+   ],
+   "ignored_unrealistic": [
+    "Ambtelijke context ervaring"
+   ],
+   "reason": "Je hebt ervaring met ondersteuning en IT-systemen, maar je mist specifieke kennis van AFAS."
+  },
+  "ed525c83655b": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Data Science"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "Power Query"
+   ],
+   "ignored_unrealistic": [
+    "Voortrekkersrol bij maatschappelijke opgaven"
+   ],
+   "reason": "Je analytische achtergrond en opleiding sluiten redelijk aan, hoewel je nog ervaring met Power BI moet opbouwen."
+  },
+  "1e61dcfc6757": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    ".NET",
+    "C#",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Microsoft Dynamics 365 Business Central"
+   ],
+   "ignored_unrealistic": [
+    "Salarisindicatie tot 5600 euro per maand"
+   ],
+   "reason": "Je achtergrond met C# en .NET past goed bij deze back-end rol en de vacature biedt ruimte om de specifieke toolset te leren."
+  },
+  "19bca8e615f2": {
+   "is_junior": true,
+   "score": 55,
+   "matched_skills": [
+    "Support"
+   ],
+   "missing_realistic": [
+    "AFAS",
+    "Topdesk",
+    "Nedap ONS"
+   ],
+   "ignored_unrealistic": [
+    "Pro-actief anticiperen op meerdere complexe zorgsystemen tegelijk"
+   ],
+   "reason": "Je servicedesk-ervaring bij OGD sluit goed aan bij functioneel beheer, hoewel je de specifieke zorgsystemen nog moet leren."
+  },
+  "b8b8bdfa72b5": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Support"
+   ],
+   "missing_realistic": [
+    "Specifieke applicaties binnen Arbo Unie"
+   ],
+   "ignored_unrealistic": [
+    "Jarenlange ervaring in arbodienstverlening"
+   ],
+   "reason": "Je uitgebreide servicedesk-ervaring bij OGD en je klantgerichte houding maken je erg geschikt voor deze supportrol."
   }
  }
 }
