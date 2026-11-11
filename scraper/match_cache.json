@@ -1,119 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "c3cbbb39b543": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Microsoft Azure"
-   ],
-   "missing_realistic": [
-    "PowerBI"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een relevante hbo-bachelor en ervaring met Python, Java, C# en Azure die goed aansluiten bij deze junior data engineering rol."
-  },
-  "43aa3fc4a848": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Consultancyervaring",
-    "Relocation management"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze vacature is gericht op global assignment management en relocation in plaats van software engineering."
-  },
-  "99e5ffb5df06": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Testing"
-   ],
-   "missing_realistic": [
-    "C++",
-    "Embedded Systems",
-    "Radar technology"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Hoewel je ervaring hebt met testen en complexe systemen, mis je specifieke C++-kennis en achtergrond in radarsoftware."
-  },
-  "3f4584466a3f": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Cyber Security Awareness",
-    "Principles of Secure Coding"
-   ],
-   "missing_realistic": [
-    "OT (Operational Technology) kennis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in cybersecurity en secure coding sluit goed aan, al mis je nog specifieke ervaring met industriële OT-omgevingen."
-  },
-  "67484ac15410": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "Java",
-    "SQL",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Uitgebreide professionele Java enterprise-ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een gedegen basis in Java en SQL vanuit je opleiding, al ligt je recente werkervaring meer bij Laravel en .NET."
-  },
-  "ba5405cc37ee": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "C#",
-    ".NET",
-    "SQL",
-    "Engels"
-   ],
-   "missing_realistic": [
-    "C++",
-    "WPF",
-    "XAML",
-    "UML"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je sterke C# en .NET-vaardigheden passen goed, hoewel ze specifiek vragen om C++ en WPF/XAML."
-  },
-  "4d8e9b0e34b9": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Ubuntu / Linux",
-    "Servicedesk / Support"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je uitgebreide achtergrond als ICT-medewerker bij OGD en je mbo-opleidingen systeembeheer sluiten hier naadloos op aan."
-  },
-  "1234d4ffe60a": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "Python",
-    "C#",
-    ".NET"
-   ],
-   "missing_realistic": [
-    "PLC-programmering",
-    "SCADA-systemen"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een goede technische programmeerbasis, maar mist specifieke ervaring met industriële PLC- en SCADA-systemen."
-  },
   "b79068ec50f6": {
    "is_junior": true,
    "score": 60,
@@ -3186,6 +3073,362 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je achtergrond in IT-support en sterke communicatieve vaardigheden maken je een uitstekende kandidaat voor functioneel beheer."
+  },
+  "c69797e59d18": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "Linux",
+    "AWS",
+    "Git"
+   ],
+   "missing_realistic": [
+    "DevOps ervaring"
+   ],
+   "ignored_unrealistic": [
+    "ervaring met militaire besluitvorming",
+    "jarenlange MLOps ervaring"
+   ],
+   "reason": "Je Python- en Linux-ervaring sluiten goed aan bij deze junior DevOps en MLOPS rol."
+  },
+  "b22324bc5ace": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "sterke achtergrond in statistiek of econometrie"
+   ],
+   "ignored_unrealistic": [
+    "ervaring met alle big data platforms"
+   ],
+   "reason": "Je hebt affiniteit met Python, hoewel je achtergrond meer software engineering dan data science is."
+  },
+  "58c582711b3e": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Linux",
+    "Ubuntu",
+    "Python"
+   ],
+   "missing_realistic": [
+    "uitgebreide kernel- of driverkennis"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange ervaring met alle hardware architecturen"
+   ],
+   "reason": "Je Linux- en Python-vaardigheden passen goed bij deze open-source Ubuntu engineer rol."
+  },
+  "f7c6780c5d9c": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "ervaring met productie-waardige machine learning pipelines"
+   ],
+   "ignored_unrealistic": [
+    "ervaring met volledige product lifecycle van complexe ML-modellen"
+   ],
+   "reason": "Deze rol vraagt meer specifieke data science en machine learning ervaring dan je tot nu toe hebt opgebouwd."
+  },
+  "efc63d36c6c6": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "REST API's",
+    "Git"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "jarenlange achtergrond in logistieke planningstools"
+   ],
+   "reason": "Je C# en .NET ervaring sluiten uitstekend aan bij deze back-end ontwikkelaarsrol."
+  },
+  "21c6c28959bd": {
+   "is_junior": true,
+   "score": 55,
+   "matched_skills": [
+    "Python",
+    "Git"
+   ],
+   "missing_realistic": [
+    "ervaring met embedded systems of C/C++"
+   ],
+   "ignored_unrealistic": [
+    "specifieke kennis van quantum netwerken"
+   ],
+   "reason": "Je hebt goede programmeerbasics, maar mist specifieke embedded software ervaring voor deze rol."
+  },
+  "0cc2761802bb": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "PHP",
+    "Laravel",
+    "REST API's"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "ervaring met terminal management systems"
+   ],
+   "reason": "Je PHP- en Laravel-ervaring passen perfect bij deze backend ontwikkelaarsfunctie."
+  },
+  "629f2f59a247": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [],
+   "missing_realistic": [
+    "ervaring als security officer of consultant"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange advieservaring op senior niveau"
+   ],
+   "reason": "Hoewel je security-vakken hebt gevolgd, is dit een medior/senior adviesrol en ben je nog starter."
+  },
+  "6250444efd2e": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Nederlands"
+   ],
+   "missing_realistic": [
+    "Elektrotechniek of Industriële Automatisering achtergrond",
+    "Siemens PCS7 of TIA Portal"
+   ],
+   "ignored_unrealistic": [
+    "Ongeveer twee jaar relevante werkervaring"
+   ],
+   "reason": "Je hebt wel een IT-achtergrond en spreekt Nederlands, maar mist de specifieke industriële automatisering en Siemens-ervaring."
+  },
+  "465e162bdae5": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Nederlands",
+    "klantcontact",
+    "support",
+    "implementatie"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden, ervaring met klantgesprekken en affiniteit met software-implementaties sluiten uitstekend aan bij deze rol."
+  },
+  "02ec7c3276e9": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Nederlands",
+    "Engels",
+    "consultancy-houding"
+   ],
+   "missing_realistic": [
+    "Bedrijfskundige of operationele achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je HBO Informatica-achtergrond en sterke communicatieve vaardigheden passen goed bij een consultancy-traject, al is je achtergrond meer technisch dan bedrijfskundig."
+  },
+  "7bdf5fbd631a": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "analytische vaardigheden",
+    "klantcontact"
+   ],
+   "missing_realistic": [
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede datavaardigheden en SQL-kennis, maar mist specifieke ervaring met Power BI."
+  },
+  "d4c1290053c6": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Nederlands"
+   ],
+   "missing_realistic": [
+    "Elektrotechniek of Industriële Automatisering achtergrond",
+    "Siemens PCS7 of TIA Portal"
+   ],
+   "ignored_unrealistic": [
+    "Ongeveer twee jaar relevante werkervaring"
+   ],
+   "reason": "Je hebt wel een IT-achtergrond en spreekt Nederlands, maar mist de specifieke industriële automatisering en Siemens-ervaring."
+  },
+  "b44ff3fdf2b4": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "REST API's",
+    "support",
+    "klantcontact",
+    "probleemoplossend vermogen",
+    "Nederlands"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond met API's, integraties, helpdeskervaring en sterke klantvaardigheden sluiten naadloos aan bij deze koppelingsrol."
+  },
+  "a7131f3e92e2": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "technisch inzicht",
+    "klantcontact"
+   ],
+   "missing_realistic": [
+    "Tacton CPQ"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische software-achtergrond en ervaring met .NET/C# vormen een goede basis, hoewel je nog geen ervaring hebt met specifiek CPQ-software."
+  },
+  "7e0a17a4d0e3": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Nederlands",
+    "klantcontact",
+    "consultancy",
+    "technische achtergrond",
+    "support"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je combinatie van een HBO Informatica-diploma, klantgerichte ervaring en technische skills passen perfect bij een junior IT-consultant."
+  },
+  "bd728bac0fb7": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Finance/Controlling",
+    "Jedox"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond en leert snel, wat goed past bij een traineeship in de IT-richting."
+  },
+  "f79a6736c4b1": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "AWS",
+    "REST API’s",
+    "MCP / AI-koppelingen"
+   ],
+   "missing_realistic": [
+    "Google Cloud",
+    "BigQuery",
+    "N8N"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring met AI en automatisering sluit nauw aan bij dit e-commerce en AI-traineeship."
+  },
+  "9cfc8073f8d2": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Microsoft Azure",
+    "REST API’s",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "Power Platform",
+    "Power Apps",
+    "Copilot Studio"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische inzicht en ervaring met Microsoft-ecosystemen vormen een solide basis voor deze rol."
+  },
+  "3f2d178b4014": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Java"
+   ],
+   "missing_realistic": [
+    "Data lakes",
+    "Data warehouses",
+    "ETL/ELT"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je bachelor Informatica en programmeerervaring passen goed bij de start van een carrière als data engineer."
+  },
+  "faeb5c43fed1": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "SQL",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "ASP.NET Core 8.0",
+    "PostgreSQL"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je recente ervaring als C#/.NET Developer sluit naadloos aan bij de eisen van deze junior vacature."
+  },
+  "b9ca30abefb7": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C# / .NET",
+    "PHP / Laravel",
+    "JavaScript",
+    "Java",
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede programmeerervaring en recente werk als software engineer passen uitstekend in dit talentprogramma."
+  },
+  "9562c4010ed0": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "GIS",
+    "Geo-informatie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hbo-bachelor en IT-achtergrond geven je een goede leerbaarheid voor dit georiënteerde traineeship."
+  },
+  "9593a3bca6a6": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "OAuth / MFA",
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "Enkele jaren werkervaring binnen IT risk, compliance of audit"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifiek om meerdere jaren ervaring in IT-compliance en audit, wat te senior is voor een starter."
   }
  }
 }
