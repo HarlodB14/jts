@@ -1,93 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "b79068ec50f6": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "industriële automatisering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke technische basisvaardigheden, maar de rol vraagt specifieke kennis van industriële automatisering."
-  },
-  "ea0cd723f8f2": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Deze vacature is expliciet bedoeld voor een senior developer en past daardoor niet bij jouw junior profiel."
-  },
-  "114dcd1b2308": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "REST API’s",
-    "Python"
-   ],
-   "missing_realistic": [
-    "Power BI",
-    "Qlik",
-    "data-warehousing"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt affiniteit met data en software, maar mist specifieke ervaring met dashboarding en data-warehousing."
-  },
-  "a2fa78fe5064": {
-   "is_junior": true,
-   "score": 50,
-   "matched_skills": [],
-   "missing_realistic": [
-    "data governance",
-    "compliance"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een relevante ICT-achtergrond, maar de focus op data governance en wetgeving sluit minder direct aan op je development-ervaring."
-  },
-  "097e4bfe1f21": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "Agile/Scrum"
-   ],
-   "missing_realistic": [
-    "verandermanagement"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je opleiding Informatica en klantgerichte ervaring sluiten goed aan bij dit IT-traineeship."
-  },
-  "a764be644d0a": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [],
-   "missing_realistic": [
-    "gebouwautomatisering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke technische basis en MBO-achtergrond in beheer, maar mist ervaring binnen gebouwautomatisering."
-  },
-  "70d832ae5d86": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Dit IT-traineeship sluit door je brede technische achtergrond, HBO-diploma en leergierigheid uitstekend aan bij jouw profiel."
-  },
-  "72ae3b040794": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "incidenten oplossen",
-    "gebruikersondersteuning"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je MBO ICT-beheerdiploma en ervaring met servicedesk en support sluiten naadloos aan bij deze functie voor functioneel beheer."
-  },
   "0a9971ed898f": {
    "is_junior": true,
    "score": 75,
@@ -3429,6 +3342,76 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Deze rol vraagt specifiek om meerdere jaren ervaring in IT-compliance en audit, wat te senior is voor een starter."
+  },
+  "5fb4568bdb9b": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ruime ervaring met IT-support en systeembeheer bij OGD, waardoor deze junior supportrol heel goed bij je achtergrond aansluit."
+  },
+  "fb65f6ade1d0": {
+   "is_junior": true,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Elektrotechniek",
+    "Eplan"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond ligt volledig in software en IT in plaats van elektrotechniek, waardoor deze hardwarematige technische rol minder goed past."
+  },
+  "c86f1b3d29d7": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Ervaring met vakapplicaties en functioneel beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je affiniteit hebt met gebruikers en systemen, vraagt deze schaal 9 functie meer senior functioneel beheerervaring dan je als starter meebrengt."
+  },
+  "f7403c9f1ef0": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Tactische ervaring met Ultimo en asset management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifiek om ervaren en tactische kennis van Ultimo en procesoptimalisatie, wat nog te vroeg komt voor je profiel."
+  },
+  "91c75d733d2b": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Cyber Security Awareness",
+    "Principles of Secure Coding"
+   ],
+   "missing_realistic": [
+    "Ervaring met vulnerability management en security analyses"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt basiskennis van security via je opleiding en certificaten, maar deze analytische securityrol vraagt meer gespecialiseerde ervaring dan een starter doorgaans heeft."
+  },
+  "51e1e95790ef": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide servicedesk- en supportervaring sluit naadloos aan bij deze junior supportmedewerker rol binnen een internationale omgeving."
   }
  }
 }
