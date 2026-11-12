@@ -3415,6 +3415,45 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je technische achtergrond, drive en sterke communicatieve vaardigheden passen goed bij een commercieel IT-traineeship met veel verantwoordelijkheid."
+  },
+  "5b6d03f9f6da": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "AWS",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Data engineering ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met AWS en Python, wat goed aansluit bij de platform- en datafocus van de rol."
+  },
+  "1b75ea9d71b7": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT-beheer en ervaring met gebruikersondersteuning en systemen sluit naadloos aan bij deze werkplekrol."
+  },
+  "4553ac217c85": {
+   "is_junior": false,
+   "score": 35,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring als datamodelleur",
+    "Salarisniveau duidt op senioriteit"
+   ],
+   "ignored_unrealistic": [
+    "Salaris tot € 6.675"
+   ],
+   "reason": "Deze functie is te senior gezien de hoge salarisschaal en de vereiste specialistische ervaring met datamodellering."
   }
  }
 }
