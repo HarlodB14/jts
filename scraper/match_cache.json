@@ -1,70 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "26a7effc596e": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "OAuth / MFA"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-ondersteuningsachtergrond en mbo-diploma's sluiten naadloos aan bij deze startersrol in de support."
-  },
-  "9c626ba48afc": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "C#",
-    ".NET",
-    "SQL",
-    "REST API’s",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je recente ervaring met C# en .NET sluit goed aan bij deze applicatie-ontwikkelingsrol."
-  },
-  "9bcab09f8a01": {
-   "is_junior": false,
-   "score": 50,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Data warehousing",
-    "BI-specifieke tools"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol vraagt specifieke data engineering- en BI-ervaring die buiten jouw directe software- en beheerachtergrond valt."
-  },
-  "8987fb466fd6": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory"
-   ],
-   "missing_realistic": [
-    "Zorgapplicaties zoals Care4"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in IT-beheer en klantcontact past goed bij de taken van functioneel beheer."
-  },
-  "ce4df766fdb8": {
-   "is_junior": false,
-   "score": 45,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Ervaring met gemeentelijke applicaties"
-   ],
-   "ignored_unrealistic": [
-    "Salarisindicatie schaal 9 met jarenlange ervaring"
-   ],
-   "reason": "Deze functie van functioneel beheerder in het sociaal domein vraagt specifieke overheids- en applicatiekennis."
-  },
   "ea9cff8cb516": {
    "is_junior": false,
    "score": 50,
@@ -74,54 +10,6 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je mist de specifieke domeinkennis van roostersystemen zoals InPlanning die voor deze beheerrol vereist is."
-  },
-  "e53c10d7a2f7": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je eerdere ervaring bij de servicedesk sluit aan bij de operationele processen, hoewel deze rol meer op workforce management focust."
-  },
-  "a663a3c09444": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Python"
-   ],
-   "missing_realistic": [
-    "Diepgaande machine learning en causal inference"
-   ],
-   "ignored_unrealistic": [
-    "Jarenlange ervaring binnen grote data science teams"
-   ],
-   "reason": "Dit is een medior/senior machine learning-rol waarin je te veel gespecialiseerde data science-ervaring mist."
-  },
-  "99b022d21c81": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "Python",
-    "SQL",
-    "AWS"
-   ],
-   "missing_realistic": [
-    "Data engineering pipelines",
-    "Looker"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt goede Python- en AWS-basisvaardigheden, maar mist specifieke data engineering ervaring voor deze rol."
-  },
-  "fb34159619b3": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Werktuigbouwkunde",
-    "Installatietechniek"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze functie is gericht op werktuigbouwkundige installaties en past niet bij jouw software engineering achtergrond."
   },
   "882194e4bcbf": {
    "is_junior": true,
@@ -3454,6 +3342,79 @@
     "Salaris tot € 6.675"
    ],
    "reason": "Deze functie is te senior gezien de hoge salarisschaal en de vereiste specialistische ervaring met datamodellering."
+  },
+  "1297570c96fb": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "Data Science",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Ervaring als data analist",
+    "Beleid en toezicht processen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met data en Python, maar de rol vraagt meer specifieke analyse- en toezichtservaring."
+  },
+  "939b0a300d97": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "JavaScript",
+    "Vue / Nuxt",
+    "REST API’s",
+    "Git / Bitbucket",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je full-stack ervaring met C# en Vue sluit naadloos aan bij de werkzaamheden voor dit SaaS-platform."
+  },
+  "064b74aadd6a": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met functioneel beheer",
+    "Ervaring met het LMS Canvas"
+   ],
+   "ignored_unrealistic": [
+    "Salaris tot 5715 euro"
+   ],
+   "reason": "Deze rol van functioneel beheerder vraagt specifieke onderwijskundige systeemkennis die niet direct uit je development-achtergrond komt."
+  },
+  "79e72c3cf9c0": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [
+    "Cyber Security"
+   ],
+   "missing_realistic": [
+    "Jarenmalige ervaring als CISO",
+    "Management- en strategie-ervaring"
+   ],
+   "ignored_unrealistic": [
+    "Strategisch adviseur van directie",
+    "Jarenlange CISO ervaring"
+   ],
+   "reason": "Als starter ben je nog lang niet toe aan een strategische CISO-functie op directieniveau."
+  },
+  "87747e24148a": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "C# / .NET",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Tacton CPQ software"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische achtergrond en klantgerichte ervaring sluiten goed aan bij deze CPQ ontwikkelaarsrol voor starters."
   }
  }
 }
