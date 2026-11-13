@@ -1,29 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "882194e4bcbf": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Power BI",
-    "Datamodellering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke analytische vaardigheden en klantervaring, maar mist specifieke Power BI-ervaring voor deze datafunctie."
-  },
-  "6ac8ec054fe4": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Python"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een afgeronde hbo-studie en Python-ervaring, wat goed past bij dit data-traineeship."
-  },
   "e6bde8a65657": {
    "is_junior": true,
    "score": 95,
@@ -36,19 +13,6 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je opleiding en eerdere ervaring als systeembeheerder sluiten naadloos aan bij deze junior vacature."
-  },
-  "a67a91c9e9eb": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "Azure Fundamentals"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-achtergrond bij OGD en je reeds behaalde Azure-certificaat sluiten uitstekend aan bij dit IT-traineeship."
   },
   "83b8ff63696d": {
    "is_junior": true,
@@ -3197,6 +3161,57 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je uitgebreide servicedesk- en ondersteuningservaring maakt je direct geschikt voor deze regie- en supportrol."
+  },
+  "928aa3b0fe57": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Powershell",
+    "Systeembeheer",
+    "Processen"
+   ],
+   "missing_realistic": [
+    "Ultimo",
+    "Afas"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-achtergrond en ervaring met systemen sluiten erg goed aan bij deze functioneel beheerrol."
+  },
+  "34efbdfbed70": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "AFAS HR"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie vraagt specifieke senior-achtige ervaring met AFAS HR die je nog niet hebt opgebouwd."
+  },
+  "e9782ab3dbc9": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-vaardigheden en leergierigheid sluiten naadloos aan bij deze studentenrol."
+  },
+  "d38b0ed12a76": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Full-stack",
+    "Web development"
+   ],
+   "missing_realistic": [
+    "Rust",
+    "TypeScript",
+    "React",
+    "Web3"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De vacature vraagt specifieke expertise in Rust en Web3 die buiten jouw huidige stack valt."
   }
  }
 }
