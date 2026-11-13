@@ -118,76 +118,6 @@
    "ignored_unrealistic": [],
    "reason": "Je achtergrond in IT en informatiesystemen sluit redelijk aan bij deze scriptiestage, maar je mist specifieke IT Audit kennis."
   },
-  "ae0970e19cc9": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Werktuigbouw opleiding"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt geen achtergrond in werktuigbouw die voor deze productie-engineerrol vereist is."
-  },
-  "8329f8c6e478": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Werktuigbouwkunde of mechatronica opleiding"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je opleiding en achtergrond sluiten niet aan bij deze werktuigbouwkundige rol."
-  },
-  "dec03be2c3ff": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "Linux",
-    "Netwerkbeveiliging"
-   ],
-   "missing_realistic": [
-    "SCADA-systemen"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-beheerervaring past bij de technische aspecten, maar je hebt geen SCADA-ervaring."
-  },
-  "1bf7921a475b": {
-   "is_junior": false,
-   "score": 25,
-   "matched_skills": [
-    "REST API’s",
-    "OAuth"
-   ],
-   "missing_realistic": [
-    "Bedrijfskundige werkervaring op seniorniveau"
-   ],
-   "ignored_unrealistic": [
-    "Salarisschaal 12"
-   ],
-   "reason": "Deze senioranalistrol op schaal 12 vraagt veel meer ervaring dan je momenteel hebt."
-  },
-  "4d9d0482ef91": {
-   "is_junior": false,
-   "score": 20,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Revenue management ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke analytische vaardigheden, maar de inhoud van deze rol ligt te ver van software engineering."
-  },
-  "fc25c0537647": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Analytische laboratoriumervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een IT-achtergrond in plaats van de gevraagde laboratoriumervaring voor deze QC-rol."
-  },
   "8410be93097d": {
    "is_junior": false,
    "score": 40,
@@ -3026,6 +2956,104 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt wel een hbo-diploma, maar deze functie vraagt om een specifieke achtergrond in supply chain of bedrijfskunde in plaats van software engineering."
+  },
+  "7089bcdaf23a": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "Academische achtergrond in wiskunde, fysica of econometrie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met Python, maar mist een exacte bsc/msc achtergrond zoals wiskunde of econometrie."
+  },
+  "598758d16437": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Playwright",
+    "Analytisch vermogen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met testing via Playwright en past goed bij de gevraagde leergierige instelling."
+  },
+  "9c615c107c33": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Linux",
+    "Git / Bitbucket",
+    "Windows Server"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en ervaring met Linux en tooling sluiten goed aan bij dit DevOps traineeship."
+  },
+  "4c1eaa1f5559": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Python",
+    "AWS",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "Ruby on Rails",
+    "Terraform"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist gedegen ervaring met Ruby on Rails en Terraform die hier cruciaal zijn voor de backend."
+  },
+  "99dea1f3a6a4": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Productie- en procestechnologie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol richt zich op industriële procestechnologie en sluit niet aan bij jouw IT-opleiding en ervaring."
+  },
+  "099a37777d43": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "C#",
+    ".NET"
+   ],
+   "missing_realistic": [
+    "Elektrotechniek",
+    "PLC-programmering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je C# en .NET kennis is sterk, maar je mist de achtergrond in elektrotechniek en commissioning."
+  },
+  "6c39e438863b": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Consultancy-ervaring binnen defensie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze consultancyfunctie vraagt specifieke ervaring met defensievraagstukken die je nog niet hebt opgebouwd."
+  },
+  "4689f96dca50": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [
+    "Gedegen ervaring met .NET in een vergelijkbare rol"
+   ],
+   "reason": "Je C# en .NET-ervaring uit je werk en studie sluiten naadloos aan bij deze .NET developer rol."
   }
  }
 }
