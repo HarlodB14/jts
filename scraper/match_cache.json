@@ -27,21 +27,6 @@
    "ignored_unrealistic": [],
    "reason": "Je achtergrond in IT en informatiesystemen sluit redelijk aan bij deze scriptiestage, maar je mist specifieke IT Audit kennis."
   },
-  "d743aa1fdf82": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL",
-    "Python",
-    "Agile/Scrum"
-   ],
-   "missing_realistic": [
-    "Business Intelligence",
-    "Financial or investment reporting domain knowledge"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke analytische vaardigheden en programmeerervaring, maar mist specifieke achtergrond in financiële rapportages."
-  },
   "00c07fba1aef": {
    "is_junior": true,
    "score": 90,
@@ -3918,6 +3903,50 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Deze rol vraagt specifiek om Salesforce-expertise die niet in je cv staat."
+  },
+  "721195a626f1": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Active Directory",
+    "Windows Server"
+   ],
+   "missing_realistic": [
+    "ervaring als business analist",
+    "kennis van autorisatiemanagement en wet- en regelgeving"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt om een ervaren business analist in plaats van een software developer."
+  },
+  "9d37e3131f9c": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Active Directory",
+    "Windows Server",
+    "Ubuntu / Linux",
+    "netwerkproblemen",
+    "klantgerichte communicatie"
+   ],
+   "missing_realistic": [
+    "ervaring met aansturen van externe leveranciers"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-ondersteuningservaring en technische mbo-achtergrond sluiten erg goed aan bij deze regiefunctie."
+  },
+  "07439b9b46d5": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "AI",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "ervaring als business analyst",
+    "diepgaande adviesvaardigheden op enterprise niveau"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De vacature vraagt om een senior business analist, terwijl jouw profiel meer gericht is op software engineering."
   }
  }
 }
