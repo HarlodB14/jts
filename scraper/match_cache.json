@@ -3697,6 +3697,23 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt sterke software engineering skills en ervaring met AI, maar specifieke gebouwautomatisering ontbreekt nog."
+  },
+  "eeb91476eae6": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "API's"
+   ],
+   "missing_realistic": [
+    "PID-regelingen",
+    "hydraulische schakelingen",
+    "BACnet",
+    "KNX",
+    "Modbus",
+    "MQTT"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met techniek en API's, maar mist specifieke domeinkennis over gebouwautomatisering zoals HVAC, KNX en BACnet."
   }
  }
 }
