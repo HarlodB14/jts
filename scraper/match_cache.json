@@ -27,22 +27,6 @@
    "ignored_unrealistic": [],
    "reason": "Je achtergrond in IT en informatiesystemen sluit redelijk aan bij deze scriptiestage, maar je mist specifieke IT Audit kennis."
   },
-  "2800e175ae70": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "Git"
-   ],
-   "missing_realistic": [
-    "Data Warehousing",
-    "Datamodellering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke programmeer- en cloudvaardigheden, maar mist specifieke ervaring met data warehousing en datamodellering."
-  },
   "4000ebb3ea70": {
    "is_junior": true,
    "score": 80,
