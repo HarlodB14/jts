@@ -1,19 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "e6bde8a65657": {
-   "is_junior": true,
-   "score": 95,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "MBO 4 ICT-beheerder",
-    "Microsoft Azure"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je opleiding en eerdere ervaring als systeembeheerder sluiten naadloos aan bij deze junior vacature."
-  },
   "eaba66b54271": {
    "is_junior": true,
    "score": 60,
