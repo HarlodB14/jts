@@ -1,19 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "eaba66b54271": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "informatiesystemen",
-    "data-analyse"
-   ],
-   "missing_realistic": [
-    "IT Audit kennis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in IT en informatiesystemen sluit redelijk aan bij deze scriptiestage, maar je mist specifieke IT Audit kennis."
-  },
   "4000ebb3ea70": {
    "is_junior": true,
    "score": 80,
@@ -3714,6 +3701,53 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt affiniteit met techniek en API's, maar mist specifieke domeinkennis over gebouwautomatisering zoals HVAC, KNX en BACnet."
+  },
+  "de2cd725009e": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Business Intelligence ervaring",
+    "Data-analyse"
+   ],
+   "ignored_unrealistic": [
+    "Global internal consultancy op senior niveau"
+   ],
+   "reason": "Je hebt wel programmeer- en SQL-kennis, maar deze rol vraagt specifiek om ervaren business intelligence-expertise op internationaal niveau."
+  },
+  "a613ed6dd701": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [
+    "AI",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Programmamanagement ervaring",
+    "Strategisch besturen van zorgorganisaties"
+   ],
+   "ignored_unrealistic": [
+    "Jarenlange managementervaring als programmamanager"
+   ],
+   "reason": "Je affiniteit met AI is erg sterk, maar een programmamanagersfunctie is een senior managementrol die niet past bij je starterservaring."
+  },
+  "49b732efe251": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Workforce management ervaring",
+    "Traffic analysis"
+   ],
+   "ignored_unrealistic": [
+    "Ervaring met complexe workforce management systemen"
+   ],
+   "reason": "Je hebt een sterke achtergrond in klantgerichte IT-support en systemen, maar de specifieke traffic- en workforceanalyse sluit onvoldoende aan."
   }
  }
 }
