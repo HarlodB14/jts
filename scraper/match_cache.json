@@ -1,88 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "bb752e54233f": {
-   "is_junior": false,
-   "score": 15,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Quantum physics",
-    "Superconducting circuit design"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt geen achtergrond in quantum hardware of superconductor design."
-  },
-  "b2e8f165533c": {
-   "is_junior": true,
-   "score": 45,
-   "matched_skills": [
-    "Python",
-    "Linux"
-   ],
-   "missing_realistic": [
-    "Quantum networking",
-    "Embedded development"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke programmeerskills, maar mist specifieke ervaring met embedded systemen en quantum netwerken."
-  },
-  "a27d8a196e2c": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Microsoft 365",
-    "Servicedesk",
-    "Klantencontact"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je uitgebreide servicedesk-ervaring bij OGD en je mbo ICT-achtergrond maken je zeer geschikt voor deze supportfunctie."
-  },
-  "046bfe29c223": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "ICT-infrastructuur",
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "Klanten adviseren"
-   ],
-   "missing_realistic": [
-    "ChipSoft HiX ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in ICT-beheer en ervaring met systemen en support sluiten goed aan bij deze technische consultantrol."
-  },
-  "38944defef19": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "BSc Informatica",
-    "Analyseren",
-    "Requirements",
-    "Testen",
-    "Samenwerken"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je hbo-opleiding Informatica en je ervaring met het doorgronden van software en klantwensen passen goed bij deze analyseerrol."
-  },
-  "f943636230a7": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Servicedesk",
-    "Incidenten oplossen",
-    "Communicatief sterk",
-    "Klantgerichtheid"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in IT-support en sterke communicatieve vaardigheden maken je een uitstekende kandidaat voor functioneel beheer."
-  },
   "c69797e59d18": {
    "is_junior": true,
    "score": 75,
@@ -3902,6 +3820,382 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je klantgerichte ervaring en technische achtergrond passen goed bij een analyserende en verbindende rol."
+  },
+  "1302b4cdf1d5": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Business analysis",
+    "Energiemanagement"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol sluit niet aan bij je technische achtergrond als softwareontwikkelaar."
+  },
+  "42a055cdbb79": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "ICT-achtergrond"
+   ],
+   "missing_realistic": [
+    "Inlichtingenanalyse"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-achtergrond en MBO/HBO-opleidingen passen redelijk bij deze startersfunctie."
+  },
+  "e610acba5004": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Marketing",
+    "New business development"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze marketingfunctie past niet bij je technische profiel als software developer."
+  },
+  "3aabbcb2be0a": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Opleidingen ontwikkelen",
+    "Docentervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel ervaring met het uitleggen van techniek aan klanten, maar mist onderwijservaring."
+  },
+  "bde0bbc3f108": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Python",
+    "Game-engine ervaring"
+   ],
+   "missing_realistic": [
+    "Game development ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je stage-ervaring met Python en game-engines sluit goed aan bij deze startfunctie."
+  },
+  "dbf858e6b2c8": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Java"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je Java-vaardigheden passen goed bij deze rol als ontwikkelaar."
+  },
+  "5fc52791dff9": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je C# en .NET ervaring sluit naadloos aan bij de gevraagde technologieën."
+  },
+  "b7892851d8ff": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Git"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede programmeerervaring in JavaScript, Python en SQL past erg goed bij deze full-stack rol."
+  },
+  "996e1392292c": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Java",
+    "SQL",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Hibernate"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Java-ervaring en achtergrond sluiten goed aan bij deze software engineering rol."
+  },
+  "b2ca69eb1af0": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Java",
+    "SQL",
+    "Git"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt voldoende Java-kennis en technische achtergrond voor dit digitale behoud project."
+  },
+  "f7baeeec9afd": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede programmeerervaring in onder andere Python en JavaScript past goed bij deze functie."
+  },
+  "548852e60a06": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "D365FO",
+    "SCM",
+    "Consultancyervaring op senior niveau"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke en gevorderde ERP-kennis die niet direct uit je cv blijkt."
+  },
+  "a5f7d766b0ff": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Klantcontact",
+    "Netwerk- en IT-kennis"
+   ],
+   "missing_realistic": [
+    "Commerciële telecomervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede communicatieve vaardigheden, maar de focus ligt hier sterk op telecomsales."
+  },
+  "b55d55282792": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "ICT-beheer",
+    "Klantgerichtheid"
+   ],
+   "missing_realistic": [
+    "Ervaring met Burgerzaken"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT-beheer en ondersteuning sluit aardig aan bij functioneel beheer."
+  },
+  "370c411e3fda": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Systeembeheer",
+    "Ondersteuning"
+   ],
+   "missing_realistic": [
+    "AFAS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je beheerervaring is relevant, maar je mist specifieke kennis van het AFAS-systeem."
+  },
+  "d40bd666c647": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Systeembeheer",
+    "Klantondersteuning"
+   ],
+   "missing_realistic": [
+    "AFAS"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-beheerbasis, hoewel je nog geen ervaring hebt met het gevraagde ERP-systeem."
+  },
+  "5c89eaa44227": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Data analyse ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel programmeer- en SQL-kennis, maar mist de specifieke data-analist ervaring voor deze rol."
+  },
+  "9050e97416d3": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Data-analyse achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond ligt sterk in software development en niet in data- en informatie-analyse."
+  },
+  "2848f56cbb50": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring binnen opsporing of als data-analist"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt SQL-vaardigheden, maar de rol vraagt gerichte ervaring als data-analist."
+  },
+  "0625183b0735": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Ervaring met datavisualisatie en analyse"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeer- en SQL-skills sluiten aan, maar je mist de focus op data-analyse."
+  },
+  "4a81cac4a2b6": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "E-commerce data-analist ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische basis met Python en SQL past, maar je mist de e-commerce analyse-ervaring."
+  },
+  "3d7de9a1d636": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Risk management ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een IT-achtergrond in plaats van ervaring als risk analyst."
+  },
+  "6e966be7caab": {
+   "is_junior": false,
+   "score": 35,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Business analyse ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je profiel is gericht op software engineering in plaats van business analyse."
+  },
+  "15fd13d3ee04": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Gerichte data engineering ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-, SQL- en AWS-kennis sluiten goed aan bij data engineering."
+  },
+  "ea10dad02852": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Data analyse en visualisatie",
+    "Business intelligence tools"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt enige ervaring met Python en SQL, maar je profiel mist gerichte data-analist ervaring."
+  },
+  "c8fe75e9c6ad": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "JavaScript",
+    "REST API’s",
+    "AI-koppelingen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeervaardigheden in Python en JavaScript en relevante ervaring met AI-koppelingen."
+  },
+  "132ec61ccec0": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Klantgerichtheid",
+    "Analytisch vermogen"
+   ],
+   "missing_realistic": [
+    "Perl",
+    "Level 2 werkervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifiek om niveau 2 ervaring en Perl, wat niet goed aansluit bij je achtergrond."
+  },
+  "d751169160e5": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Cloud",
+    "Consultancy vaardigheden"
+   ],
+   "missing_realistic": [
+    "Ervaring als data engineer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je consultancy-achtergrond en technische basis passen goed, maar je mist specifieke data engineering ervaring."
+  },
+  "9c746b0ed7e0": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Uitgebreide enterprise Java ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede basiskennis van Java en API's opgedaan tijdens je opleiding en projecten."
+  },
+  "b8259b3029b9": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Java",
+    "Git",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Banking domein kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt de benodigde Java-kennis en ervaring met Agile werken, hoewel bancaire ervaring ontbreekt."
   }
  }
 }
