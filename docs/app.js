@@ -528,7 +528,10 @@
     sheetShell(OWN, `
       ${msg ? `<p class="issues">${esc(msg)}</p>` : ""}
       <textarea id="own-text" aria-label="Vacaturetekst" placeholder="Plak hier de hele vacaturetekst (functie, bedrijf, taken en eisen)">${esc(pre.text || "")}</textarea>
-      <div class="sheet-tools">${navigator.clipboard?.readText ? `<button class="btn" id="own-paste">Plak van klembord</button>` : ""}</div>
+      <div class="sheet-tools">${navigator.clipboard?.readText ? `<button class="btn" id="own-paste">Plak van klembord</button>` : ""}
+        <div class="seg" role="group" aria-label="Taal van de brief">
+          ${[["", "Auto"], ["nl", "NL"], ["en", "EN"]].map(([v, t]) => `<button class="chip ${(pre.letterLang || "") === v ? "on" : ""}" data-ownlang="${v}" aria-pressed="${(pre.letterLang || "") === v}">${t}</button>`).join("")}
+        </div></div>
       <details class="covbox"${open ? " open" : ""}><summary>Functie, bedrijf en link (optioneel, anders leest JTS ze zelf uit)</summary>
         <label class="field">Functie <input id="own-title" value="${esc(pre.title || "")}"></label>
         <label class="field">Bedrijf <input id="own-company" value="${esc(pre.company || "")}"></label>
@@ -539,7 +542,14 @@
     if ($("#own-paste")) $("#own-paste").onclick = async () => {
       try { $("#own-text").value = await navigator.clipboard.readText(); } catch { toast("Plakken niet toegestaan, houd het veld ingedrukt en kies Plakken"); }
     };
-    $("#own-go").onclick = () => makeOwnJob({
+    let ownLang = pre.letterLang || "";
+    document.querySelectorAll("#sheet [data-ownlang]").forEach((b) => b.onclick = () => {
+      ownLang = b.dataset.ownlang;
+      document.querySelectorAll("#sheet [data-ownlang]").forEach((x) => {
+        x.classList.toggle("on", x === b); x.setAttribute("aria-pressed", x === b);
+      });
+    });
+    $("#own-go").onclick = () => makeOwnJob({ letterLang: ownLang,
       text: $("#own-text").value.trim(), title: $("#own-title").value.trim(), company: $("#own-company").value.trim(),
       location: $("#own-loc").value.trim(), url: $("#own-url").value.trim(),
     });
@@ -562,6 +572,7 @@
       source: "Eigen vacature", first_seen: new Date().toISOString(),
     };
     ownJobs[job.id] = job; store.set("ownJobs", ownJobs);
+    if (f.letterLang) { letterLang[job.id] = f.letterLang; store.set("letterLang", letterLang); }
     setStatus(job, "saved");   // staat meteen in de tracker, ook als je de brief later afmaakt
     openSheet(job);
   }
