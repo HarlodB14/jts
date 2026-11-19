@@ -445,6 +445,8 @@
     }
     const lang = langOf(job), key = letterKey(job);
     let text = letters[key];
+    // Opgeslagen brief in de verkeerde taal (bijv. een eerdere mislukte EN-poging)? Dan opnieuw schrijven.
+    if (text && L.wordCount(text) > 40 && L.detectLang(text) !== lang) text = "";
     if (!text || extraKeywords) {
       sheetShell(job, `<div class="sheet-loading"><span class="spinner"></span>${lang === "en" ? "Engelse" : "Nederlandse"} brief schrijven voor ${esc(job.company)}...<div class="muted">Duurt meestal 5 tot 10 seconden</div></div>`);
       try {
@@ -467,8 +469,8 @@
     const cov = L.coverage({ jobKeywords, cv: profile.cv, letter: text }, findSkills);
     const fixable = cov.filter((c) => !c.inLetter && c.inCv).map((c) => c.keyword);
     const tips = cov.filter((c) => !c.inCv).map((c) => c.keyword);
-    const issues = L.problems(text, job);
     const lang = langOf(job), key = letterKey(job);
+    const issues = L.problems(text, { ...job, lang });
     const applied = status[job.id]?.s === "applied";
     sheetShell(job, `
       <textarea id="letter" aria-label="Motivatiebrief">${esc(text)}</textarea>

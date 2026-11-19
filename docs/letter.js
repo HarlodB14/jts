@@ -31,6 +31,9 @@
   function buildPrompt({ job, cv, profile, coreStory, coreStoryEn, extraKeywords }) {
     const en = job.lang === "en";
     const lines = [
+      en ? "OUTPUT LANGUAGE: ENGLISH. Write the entire letter in English, even though these instructions and the vacancy may be in Dutch."
+         : "UITVOERTAAL: NEDERLANDS. Schrijf de hele brief in het Nederlands, ook als de vacature in het Engels is.",
+      "",
       `Schrijf een complete, unieke motivatiebrief voor de vacature hieronder. Taal: ${en ? "Engels" : "Nederlands"} op B2-niveau.`,
       `De brief moet zo specifiek zijn dat hij alleen voor ${job.company} en de functie ${job.title} kan gelden.`,
       "",
@@ -58,6 +61,9 @@
     if (extraKeywords && extraKeywords.length) {
       lines.push("", `Verwerk deze vakwoorden die in het cv staan zeker in de brief: ${extraKeywords.join(", ")}.`);
     }
+    lines.push("", en
+      ? "FINAL REMINDER: the whole letter must be in English (B2 level). Translate Dutch terms from the vacancy, but keep product and technology names as they are."
+      : "LAATSTE HERINNERING: de hele brief moet in het Nederlands zijn.");
     lines.push("", `Sluit af met: ${en ? "Kind regards" : "Met vriendelijke groet"}, ${profile.name || "[naam]"}`);
     if (profile.email || profile.phone) {
       lines.push(`Zet daaronder op aparte regels: ${[profile.email, profile.phone].filter(Boolean).join(" en ")}`);
@@ -84,6 +90,13 @@
     return t.trim();
   }
 
+  // Grove taaldetectie op basis van veelvoorkomende functiewoorden.
+  function detectLang(t) {
+    const en = (t.match(/\b(the|and|you|your|with|my|our|have|this|that|for|to|of|is)\b/gi) || []).length;
+    const nl = (t.match(/\b(de|het|een|en|ik|je|jouw|mijn|met|van|voor|dat|die|is|bij)\b/gi) || []).length;
+    return en >= nl ? "en" : "nl";
+  }
+
   function wordCount(t) {
     return (t.match(/\S+/g) || []).length;
   }
@@ -99,6 +112,9 @@
       const company = String(job.company || "").toLowerCase().split(/[\s(,]/)[0];
       const titleWord = String(job.title || "").toLowerCase().replace(/junior|medior|\(.*?\)/g, "").trim().split(/\s+/)[0];
       if (company && company.length > 2 && !low0.includes(company) && titleWord && !low0.includes(titleWord)) out.push("noemt bedrijf en functie niet");
+    }
+    if (job && job.lang && wordCount(t) > 40 && detectLang(t) !== (job.lang === "en" ? "en" : "nl")) {
+      out.push(job.lang === "en" ? "brief is niet in het Engels" : "brief is niet in het Nederlands");
     }
     if (/[—–;!]/.test(t)) out.push("verboden leesteken");
     const low = t.toLowerCase();
@@ -195,7 +211,7 @@
     }));
   }
 
-  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, DEFAULT_MODEL, normalizeModel, buildPrompt, extractJob, sanitize, problems, wordCount, generate, coverage };
+  const api = { CORE_STORY, CORE_STORY_EN, BANNED_PHRASES, MAX_WORDS, DEFAULT_MODEL, normalizeModel, buildPrompt, detectLang, extractJob, sanitize, problems, wordCount, generate, coverage };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.JTSLetter = api;
 })(typeof window !== "undefined" ? window : globalThis);
