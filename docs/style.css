@@ -224,6 +224,7 @@ html, body { overscroll-behavior-y: contain; } /* geen eigen browser-reload, wij
 .sheet-body textarea { min-height: 42vh; font-size: 16px; }
 .sheet-tools { display: flex; gap: 8px; margin: 10px 0; flex-wrap: wrap; }
 .sheet-tools .btn { flex: 1 1 140px; }
+.sheet-tools .seg { display: flex; gap: 4px; align-items: center; }
 .sheet-foot { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); background: var(--surface); }
 .sheet-foot .btn { min-height: 48px; display: flex; align-items: center; justify-content: center; text-align: center; text-decoration: none; font-weight: 600; }
 .sheet-foot a.btn { color: var(--text); }

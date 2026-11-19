@@ -13,6 +13,10 @@
   profile.model = L.normalizeModel(profile.model);   // oude, trage modelkeuze omzetten
   const status = store.get("status", {});      // id -> {s: skip|saved|applied, at, title, company, url}
   const letters = store.get("letters2", {});   // id -> tekst (nieuwe versie: oude, onvolledige brieven niet hergebruiken)
+  const letterLang = store.get("letterLang", {}); // id -> "nl" | "en": gekozen brieftaal (anders de taal van de vacature)
+  const langOf = (job) => letterLang[job.id] || (job.lang === "en" ? "en" : "nl");
+  // Brief per taal bewaren. De taal van de vacature houdt de oude sleutel, zodat bestaande brieven blijven werken.
+  const letterKey = (job) => langOf(job) === (job.lang === "en" ? "en" : "nl") ? job.id : `${job.id}@${langOf(job)}`;
   const ownJobs = store.get("ownJobs", {});    // id -> zelf geplakte vacature
   // Lokale kopie van alle vacatures (7 dagen), zodat niets verdwijnt als jobs.json ververst of offline is.
   const cache = store.get("jobsCache", {});
@@ -439,14 +443,15 @@
       $("#go-prof").onclick = () => { closeSheet(); show("profile"); };
       return;
     }
-    let text = letters[job.id];
+    const lang = langOf(job), key = letterKey(job);
+    let text = letters[key];
     if (!text || extraKeywords) {
-      sheetShell(job, `<div class="sheet-loading"><span class="spinner"></span>Brief schrijven voor ${esc(job.company)}...<div class="muted">Duurt meestal 5 tot 10 seconden</div></div>`);
+      sheetShell(job, `<div class="sheet-loading"><span class="spinner"></span>${lang === "en" ? "Engelse" : "Nederlandse"} brief schrijven voor ${esc(job.company)}...<div class="muted">Duurt meestal 5 tot 10 seconden</div></div>`);
       try {
-        const res = await L.generate({ job, cv: profile.cv, profile, coreStory: profile.coreStory, coreStoryEn: profile.coreStoryEn,
+        const res = await L.generate({ job: { ...job, lang }, cv: profile.cv, profile, coreStory: profile.coreStory, coreStoryEn: profile.coreStoryEn,
           key: profile.key, model: profile.model, extraKeywords });
         text = res.text;
-        letters[job.id] = text; store.set("letters2", letters);
+        letters[key] = text; store.set("letters2", letters);
       } catch (e) {
         sheetShell(job, `<p class="issues">Fout bij genereren: ${esc(e.message)}</p>`,
           `<button class="btn primary" id="retry">Opnieuw proberen</button>${openBtn}`);
@@ -463,11 +468,16 @@
     const fixable = cov.filter((c) => !c.inLetter && c.inCv).map((c) => c.keyword);
     const tips = cov.filter((c) => !c.inCv).map((c) => c.keyword);
     const issues = L.problems(text, job);
+    const lang = langOf(job), key = letterKey(job);
     const applied = status[job.id]?.s === "applied";
     sheetShell(job, `
       <textarea id="letter" aria-label="Motivatiebrief">${esc(text)}</textarea>
       <div class="muted"><span id="wc">${L.wordCount(text)}</span> woorden ${issues.length ? `<span class="issues">· ${esc(issues.join(", "))}</span>` : "· ATS-clean"}</div>
       <div class="sheet-tools">
+        <div class="seg" role="group" aria-label="Taal van de brief">
+          <button class="chip ${lang === "nl" ? "on" : ""}" data-lang="nl" aria-pressed="${lang === "nl"}">NL</button>
+          <button class="chip ${lang === "en" ? "on" : ""}" data-lang="en" aria-pressed="${lang === "en"}">EN</button>
+        </div>
         <button class="btn" id="regen">↻ Nieuwe versie</button>
         ${fixable.length ? `<button class="btn" id="fix">+ Verwerk ontbrekende (${fixable.length})</button>` : ""}
       </div>
@@ -481,7 +491,7 @@
        <button class="btn good wide" id="applied">${applied ? "Gesolliciteerd ✓" : "Markeer als gesolliciteerd"}</button>`);
     const ta = $("#letter");
     ta.oninput = () => {
-      letters[job.id] = ta.value; store.set("letters2", letters);
+      letters[key] = ta.value; store.set("letters2", letters);
       $("#wc").textContent = L.wordCount(ta.value);
     };
     $("#copy").onclick = async () => {
@@ -492,7 +502,12 @@
     };
     if ($("#open")) $("#open").onclick = () => { if (!status[job.id]) setStatus(job, "saved"); };
     if (fixable.length) $("#fix").onclick = () => openSheet(job, fixable);
-    $("#regen").onclick = () => { delete letters[job.id]; openSheet(job); };
+    $("#regen").onclick = () => { delete letters[key]; openSheet(job); };
+    document.querySelectorAll("#sheet [data-lang]").forEach((b) => b.onclick = () => {
+      if (b.dataset.lang === lang) return;
+      letterLang[job.id] = b.dataset.lang; store.set("letterLang", letterLang);
+      openSheet(job);   // bestaande brief in die taal wordt hergebruikt, anders nieuw genereren
+    });
     $("#applied").onclick = () => { setStatus(job, "applied"); toast("Opgeslagen in tracker"); closeSheet(); };
   }
 
