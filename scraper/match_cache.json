@@ -1,79 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "1297570c96fb": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "Python",
-    "SQL",
-    "Data Science",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Ervaring als data analist",
-    "Beleid en toezicht processen"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt affiniteit met data en Python, maar de rol vraagt meer specifieke analyse- en toezichtservaring."
-  },
-  "939b0a300d97": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "C# / .NET",
-    "JavaScript",
-    "Vue / Nuxt",
-    "REST API’s",
-    "Git / Bitbucket",
-    "Agile/Scrum"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je full-stack ervaring met C# en Vue sluit naadloos aan bij de werkzaamheden voor dit SaaS-platform."
-  },
-  "064b74aadd6a": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Ervaring met functioneel beheer",
-    "Ervaring met het LMS Canvas"
-   ],
-   "ignored_unrealistic": [
-    "Salaris tot 5715 euro"
-   ],
-   "reason": "Deze rol van functioneel beheerder vraagt specifieke onderwijskundige systeemkennis die niet direct uit je development-achtergrond komt."
-  },
-  "79e72c3cf9c0": {
-   "is_junior": false,
-   "score": 10,
-   "matched_skills": [
-    "Cyber Security"
-   ],
-   "missing_realistic": [
-    "Jarenmalige ervaring als CISO",
-    "Management- en strategie-ervaring"
-   ],
-   "ignored_unrealistic": [
-    "Strategisch adviseur van directie",
-    "Jarenlange CISO ervaring"
-   ],
-   "reason": "Als starter ben je nog lang niet toe aan een strategische CISO-functie op directieniveau."
-  },
-  "87747e24148a": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "C# / .NET",
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Tacton CPQ software"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je technische achtergrond en klantgerichte ervaring sluiten goed aan bij deze CPQ ontwikkelaarsrol voor starters."
-  },
   "9f59726ac671": {
    "is_junior": true,
    "score": 60,
@@ -3749,6 +3676,486 @@
     "Salarisindicatie die past bij een senior profiel"
    ],
    "reason": "Deze consultancyfunctie vraagt meerjarige ervaring op het gebied van data governance die je als starter nog niet hebt."
+  },
+  "6735774b38f4": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "PLC programmering",
+    "machinebouw"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt geen ervaring met PLC-programmering en machinebouw, dus deze rol past niet."
+  },
+  "0d0eae8888b9": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Nederlands",
+    "Engels"
+   ],
+   "missing_realistic": [
+    "industriële automatisering",
+    "Siemens"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke communicatieve vaardigheden en IT-achtergrond, maar mist specifieke kennis van industriële automatisering en Siemens."
+  },
+  "f5a87db9d64b": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "Nederlands",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "TypeScript"
+   ],
+   "ignored_unrealistic": [
+    "1,5 jaar programmeerervaring met TypeScript en/of Python"
+   ],
+   "reason": "Je Python-kennis en ervaring met echte softwarebouw passen goed bij deze AI-startup."
+  },
+  "db513c1b4f7d": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "Databricks"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede programmeer- en databasetechnische vaardigheden, maar mist specifieke ervaring met Databricks."
+  },
+  "94efb981bb36": {
+   "is_junior": true,
+   "score": 55,
+   "matched_skills": [
+    "Nederlands",
+    "Linux"
+   ],
+   "missing_realistic": [
+    "technische informatica",
+    "SCADA"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-opleiding sluit redelijk aan, maar je mist specifieke ervaring met industriële SCADA- en DCS-systemen."
+  },
+  "a4a6fb86cd1b": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "REST API's",
+    "SQL",
+    "Microsoft Azure",
+    "Git",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je C#, .NET en Azure-ervaring sluiten uitstekend aan bij deze back-end en DevOps rol."
+  },
+  "250cd7b5f487": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "Java",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt de juiste Python-, Java- en Azure-vaardigheden om direct als junior developer aan de slag te gaan."
+  },
+  "aaf09578a72d": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "REST API's",
+    "Nederlands"
+   ],
+   "missing_realistic": [
+    "TypeScript",
+    "React"
+   ],
+   "ignored_unrealistic": [
+    "minstens een jaar dagelijks TypeScript"
+   ],
+   "reason": "Je Python-ervaring en klantgerichte mentaliteit passen goed, hoewel je minder ervaring hebt met TypeScript en React."
+  },
+  "1b4bb289e25d": {
+   "is_junior": true,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "PLC-programmering",
+    "SCADA-systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt geen ervaring met PLC- of SCADA-systemen die voor deze rol vereist zijn."
+  },
+  "b2fe381e6d8c": {
+   "is_junior": true,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "PLC-programmering",
+    "SCADA-systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist de gevraagde industriële automatiseringskennis zoals PLC en SCADA."
+  },
+  "bc3912950591": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "Testen"
+   ],
+   "missing_realistic": [
+    "CAN",
+    "Modbus",
+    "MQTT"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeer- en testervaring sluit gedeeltelijk aan, maar je mist specifieke protocollen zoals CAN en Modbus."
+  },
+  "594246387866": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "AI"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke .NET- en C#-achtergrond past uitstekend bij dit junior .NET-traineeship."
+  },
+  "9fe705d0a119": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Java",
+    "AI"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je gedegen Java-kennis sluit goed aan bij de focus van dit junior Java-traineeship."
+  },
+  "ece5935388ab": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "JavaScript",
+    "C#",
+    ".NET",
+    "API"
+   ],
+   "missing_realistic": [
+    "Bootstrap"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je C#, .NET en JavaScript-vaardigheden sluiten naadloos aan op deze junior developer rol."
+  },
+  "a65b50fee725": {
+   "is_junior": true,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Duitse taal",
+    "SAP"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist de vereiste Duitse taalvaardigheid en SAP-ervaring voor deze ondersteunende rol."
+  },
+  "882194e4bcbf": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "SQL",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "Data modeling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT en data sluit deels aan, maar je mist specifieke Power BI-ervaring."
+  },
+  "0a66143042db": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "REST API’s",
+    "Git / Bitbucket",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met klantgesprekken en consultancy-taken, waardoor deze junior implementatierol erg goed aansluit."
+  },
+  "773ae9b49d82": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "C# / .NET",
+    "REST API’s",
+    "SQL",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET-ervaring en affiniteit met financiële software en AI sluiten naadloos aan bij deze junior bankrol."
+  },
+  "c59d05872e44": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Java"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede basiskennis van Java en een sterke leergierigheid voor een young professional traject."
+  },
+  "ea8bc91a1469": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "C# / .NET",
+    "JavaScript",
+    "Vue / Nuxt",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET en C# ervaring sluiten perfect aan bij dit Microsoft-gerichte traineeship."
+  },
+  "6ac8ec054fe4": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-bachelor Informatica en ervaring met Python en data-vakken."
+  },
+  "2bdf38e5f829": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "MCP / AI-koppelingen",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je recente werkervaring met AI-koppelingen en data-analyse past erg goed bij deze junior HR AI rol."
+  },
+  "18b4cee36ea3": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Zorg-IT"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je opgedane ervaring met EPD en patiëntportalen in de Zorg-IT vormt een sterke basis voor dit consultancy traineeship."
+  },
+  "0d53cea36b29": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Playwright (testing)",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je praktische ervaring met end-to-end testing via Playwright maakt je direct inzetbaar als junior tester."
+  },
+  "3be8f0c601b7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "spatial data analysis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke Python- en SQL-skills die goed aansluiten, maar mist specifieke ervaring met ruimtelijke data-analyse."
+  },
+  "b1bf8bc067f9": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Azure",
+    "AWS"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en ervaring met Windows Server en cloudomgevingen sluiten uitstekend aan bij deze startersfunctie."
+  },
+  "68f1895bc6e7": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "Unity 3D"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeer- en Python-skills opgedaan tijdens je stage bij Guerrilla, maar je mist specifieke Unity 3D-ervaring."
+  },
+  "8e19edb8c282": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [
+    "ervaring met defensiesystemen"
+   ],
+   "ignored_unrealistic": [
+    "Salarisniveau Burgerschaal IBBAD 08"
+   ],
+   "reason": "Hoewel je beheerervaring hebt, vraagt deze rol op basis van schaal en verantwoordelijkheden om een medior/senior profiel."
+  },
+  "dc51e8a0b98d": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "helpdesk",
+    "klantondersteuning",
+    "netwerkproblemen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je uitgebreide servicedesk- en supportervaring bij OGD sluit naadloos aan op de gevraagde vaardigheden voor deze supportrol."
+  },
+  "87df73b53a86": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Linux",
+    "Cloud",
+    "support",
+    "log-analyse"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt de juiste technische basis in Linux en cloudservices en ervaring met klantgerichte IT-ondersteuning."
+  },
+  "e0679f4db347": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "datamigraties",
+    "analytische vaardigheden"
+   ],
+   "missing_realistic": [
+    "BI-tooling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede SQL- en datakennis opgedaan tijdens je studie, maar mist gerichte praktijkervaring met BI-dashboards."
+  },
+  "39f5eb8331f6": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "software development",
+    "UI"
+   ],
+   "missing_realistic": [
+    "Delta Lake"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeerervaring en brede technische achtergrond passen goed bij deze software engineering rol."
+  },
+  "bb27adf026d7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "embedded systems",
+    "robotics engineering"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke Python- en programmeerervaring, maar deze R&D-rol vraagt specifiek om hardware- en roboticakennis die minder aansluit bij je softwareachtergrond."
+  },
+  "6bc92b703f41": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "OAuth / MFA",
+    "Cyber Security Awareness"
+   ],
+   "missing_realistic": [
+    "consultancy ervaring",
+    "auditing frameworks"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt basiskennis van security, maar de rol richt zich sterk op strategisch cybersecurity-advies en auditing in plaats van development."
+  },
+  "5b13633e94dc": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "AFAS software"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je klantgerichte houding en IT-achtergrond passen goed bij een consultancy-traineeship, al moet je het specifieke AFAS-systeem nog leren."
+  },
+  "26813594252e": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "Data Science"
+   ],
+   "missing_realistic": [
+    "ERP-systemen",
+    "datamigratie methodes"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede programmeer- en dataskills opgedaan tijdens je opleiding, wat goed aansluit bij een data- en transformatierol voor starters."
+  },
+  "c029b104d111": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Python",
+    "AI-koppelingen",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met AI-koppelingen en LLM's sluit uitstekend aan bij dit startersbureau voor AI-consultancy."
   }
  }
 }
