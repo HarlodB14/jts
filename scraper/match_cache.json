@@ -1,57 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "928aa3b0fe57": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Powershell",
-    "Systeembeheer",
-    "Processen"
-   ],
-   "missing_realistic": [
-    "Ultimo",
-    "Afas"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-achtergrond en ervaring met systemen sluiten erg goed aan bij deze functioneel beheerrol."
-  },
-  "34efbdfbed70": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [],
-   "missing_realistic": [
-    "AFAS HR"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze functie vraagt specifieke senior-achtige ervaring met AFAS HR die je nog niet hebt opgebouwd."
-  },
-  "e9782ab3dbc9": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Python"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je Python-vaardigheden en leergierigheid sluiten naadloos aan bij deze studentenrol."
-  },
-  "d38b0ed12a76": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Full-stack",
-    "Web development"
-   ],
-   "missing_realistic": [
-    "Rust",
-    "TypeScript",
-    "React",
-    "Web3"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "De vacature vraagt specifieke expertise in Rust en Web3 die buiten jouw huidige stack valt."
-  },
   "2333ab723dd4": {
    "is_junior": true,
    "score": 90,
@@ -3794,6 +3743,74 @@
     "Ervaring met grootschalige kritieke overheidsinfrastructuur"
    ],
    "reason": "Je hebt wel Linux- en API-ervaring, maar deze complexe infrastructuurrol vraagt te specifieke enterprise-tools zoals Ansible en Jenkins Groovy."
+  },
+  "a8b87d9355d8": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Master’s degree in a technical field related to (audio) digital signal processing",
+    "2 years+ in role of (junior) audio software developer in C",
+    "2 years+ proven track record in audio processing / DSP",
+    "Chinese speaking"
+   ],
+   "ignored_unrealistic": [
+    "2 years+ in role of (junior) audio software developer",
+    "2 years+ proven track record"
+   ],
+   "reason": "Je mist de vereiste Master, C-ervaring en DSP-achtergrond voor deze audio-rol."
+  },
+  "49469df82754": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Agile",
+    "C#",
+    ".NET",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Ervaring met hypotheeksystemen en financiële wetgeving"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET-ervaring en Agile-achtergrond passen goed bij de technische eisen van deze rol."
+  },
+  "1962b89c8545": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "AWS",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [
+    "Ervaring met compliance en privacy-frameworks"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met security en AWS, maar mist specifieke compliance-ervaring."
+  },
+  "51237ca56536": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Laboratoriumervaring",
+    "Biologische en chemische achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze laboratoriumfunctie sluit niet aan bij je ICT-opleiding en software-achtergrond."
+  },
+  "9ccdead7b43e": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Ervaring met HR-processen en performance management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede analytische vaardigheden, maar mist specifieke ervaring als business analist."
   }
  }
 }
