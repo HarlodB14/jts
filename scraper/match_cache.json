@@ -1,126 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "2333ab723dd4": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    ".NET",
-    "Vue.js",
-    "Nuxt",
-    "MCP",
-    "AI-koppelingen"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je .NET- en Vue-ervaring sluit naadloos aan bij deze studentenrol in AI-ontwikkeling."
-  },
-  "1adabe11590c": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Ervaring met data-analyse en finance"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hbo-achtergrond en analytisch vermogen passen goed, maar je mist gerichte data-analist ervaring."
-  },
-  "78fba91a2cec": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "Netwerken"
-   ],
-   "missing_realistic": [
-    "VoIP-specifieke kennis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-beheer achtergrond en helpdeskervaring vormen een prima basis voor deze technische supportrol."
-  },
-  "e7d84026f432": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "API's",
-    "Python"
-   ],
-   "missing_realistic": [
-    "Gebouwautomatisering",
-    "HVAC-systemen"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je technische opleiding en programmeerskills passen erbij, maar je mist specifieke ervaring met gebouwbeheer."
-  },
-  "a7d1da810843": {
-   "is_junior": true,
-   "score": 55,
-   "matched_skills": [
-    "ITSM",
-    "Documentbeheer"
-   ],
-   "missing_realistic": [
-    "Ervaring als functioneel beheerder"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke IT-achtergrond, maar weinig directe ervaring met specifiek functioneel beheer."
-  },
-  "9147cb7f0c94": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Analytisch vermogen"
-   ],
-   "missing_realistic": [
-    "Aantoonbare ervaring als business analist"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol vraagt meer senior advies- en analyseervaring dan je als starter meebrengt."
-  },
-  "407cd9c451be": {
-   "is_junior": false,
-   "score": 35,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Ruime ervaring als data-analist"
-   ],
-   "ignored_unrealistic": [
-    "€ 5.400 - € 6.300 salaris voor junior"
-   ],
-   "reason": "Dit is een medior/senior functie die te veel gerichte analyse- en dashboardervaring vereist."
-  },
-  "abfff2224f1e": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Data-analyse",
-    "Rapportages"
-   ],
-   "missing_realistic": [
-    "HR-data ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Als starter pas je goed bij deze graduate rol vanwege je sterke analytische hbo-achtergrond."
-  },
-  "7807be4de2fc": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "HBO opleiding"
-   ],
-   "missing_realistic": [
-    "Supply Chain of Bedrijfskunde achtergrond",
-    "Ervaring met Master Data Management"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt wel een hbo-diploma, maar deze functie vraagt om een specifieke achtergrond in supply chain of bedrijfskunde in plaats van software engineering."
-  },
   "7089bcdaf23a": {
    "is_junior": true,
    "score": 60,
@@ -3811,6 +3691,277 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt goede analytische vaardigheden, maar mist specifieke ervaring als business analist."
+  },
+  "eefdebb5d8c7": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "SAP SuccessFactors",
+    "Functioneel beheer ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al IT-beheerevaring en hbo-niveau, maar mist specifieke SAP SuccessFactors-ervaring."
+  },
+  "4c577fb4d174": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "REST API’s",
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Data-analyse tools",
+    "Functional requirements modeling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als software engineer met klantcontact past goed bij de rol van technical analyst."
+  },
+  "c9246ff96f22": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [
+    "Java/JEE enterprise framework"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede Java- en webontwikkeling-vaardigheden om onder begeleiding van een senior te starten."
+  },
+  "c7e0085ab7b4": {
+   "is_junior": false,
+   "score": 25,
+   "matched_skills": [
+    "C# / .NET"
+   ],
+   "missing_realistic": [
+    "PLC",
+    "HMI",
+    "SCADA",
+    "Industriële automatisering"
+   ],
+   "ignored_unrealistic": [
+    "Ervaren software engineer met industriële automatisering achtergrond"
+   ],
+   "reason": "Deze vacature vraagt om ervaren industriële automatisering en PLC's, wat niet in je cv staat."
+  },
+  "33950a08aaaa": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "ERP-systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke communicatieve vaardigheden en consultancy-ambities, maar mist nog ERP-kennis."
+  },
+  "04aef4106b41": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Windows Server",
+    "Ubuntu / Linux"
+   ],
+   "missing_realistic": [
+    "Ervaren monteur",
+    "Machinebouw installatie"
+   ],
+   "ignored_unrealistic": [
+    "Ervaren monteur voor wereldwijde machinebouw"
+   ],
+   "reason": "Dit is een mechanische monteursrol voor machines, wat niet aansluit bij je software- en hbo-achtergrond."
+  },
+  "beafbdd8a8ca": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Helpdesk"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ruime ervaring als ICT-medewerker bij OGD en sluit daardoor naadloos aan bij deze helpdeskrol."
+  },
+  "4926a4c52117": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [
+    "Python"
+   ],
+   "missing_realistic": [
+    "Mechanical engineering",
+    "Machine development"
+   ],
+   "ignored_unrealistic": [
+    "2 - 5 years experience",
+    "Mechanical engineering degree"
+   ],
+   "reason": "Dit is een mechanische engineeringrol in plaats van software engineering, ondanks je eerdere Python-stage."
+  },
+  "5af9ef2866cd": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "SAP Retail",
+    "SAP ECC"
+   ],
+   "ignored_unrealistic": [
+    "End to end ownership of SAP Retail landscape"
+   ],
+   "reason": "Je hebt geen ervaring met SAP, aangezien deze rol specifiek vraagt om een SAP Retail consultant is deze niet geschikt."
+  },
+  "9bd65f42835f": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "Verzekeringsbranche kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je communicatieve vaardigheden en consulting-achtergrond passen goed bij deze implementatierol in een startersfunctie."
+  },
+  "1057b4bd1701": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "Functioneel beheer ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je brede ICT-achtergrond en ervaring met ondersteuning passen goed bij deze functie als functioneel beheerder."
+  },
+  "a0084cfd55cf": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring met catalogiseringsplatformen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke communicatieve vaardigheden en ervaring met IT-ondersteuning, wat goed aansluit bij deze beheersrol."
+  },
+  "4305024ae61c": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met Treasury Management Systemen",
+    "Functioneel beheer"
+   ],
+   "ignored_unrealistic": [
+    "Schaal 11 salarisniveau",
+    "Beheren van kritische staatsschuldsystemen"
+   ],
+   "reason": "Deze functie is ingedeeld op schaal 11 en te zwaar voor een startende kandidaat met jouw werkervaring."
+  },
+  "8efa6bc69f2e": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "AFAS HRM en Payroll"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met systemen en koppelingen, maar mist specifieke kennis van het AFAS-pakket."
+  },
+  "28b527eb1fb5": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [
+    "Zorg-IT applicaties"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met zorg-IT en het oplossen van problemen, waardoor deze junior beheersrol goed aansluit."
+  },
+  "18b45ed5ea58": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Regulatory reporting"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke analytische vaardigheden en data-achtergrond passen goed bij een startersfunctie als analist."
+  },
+  "396b5e912328": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "zorg-IT ervaring",
+    "klantgerichtheid",
+    "adviseren"
+   ],
+   "missing_realistic": [
+    "bedrijfskundige achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ervaring met zorg-IT en klantgesprekken, wat goed past bij deze adviesrol in de zorg."
+  },
+  "535001324963": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "analyse",
+    "klantwensen vertalen",
+    "communicatief vaardig"
+   ],
+   "missing_realistic": [
+    "specifieke business analyse ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke communicatieve vaardigheden en ervaring met klantwensen sluiten goed aan bij deze analysetaak."
+  },
+  "04a817294faa": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Python",
+    "Data Science minor"
+   ],
+   "missing_realistic": [
+    "uitgebreide professionele data science ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-vaardigheden en je minor Data Science vormen een goede basis voor deze junior functie."
+  },
+  "5ef2be6e515a": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "recruitment ervaring"
+   ],
+   "missing_realistic": [
+    "financiële sector kennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifieke recruitmentervaring in finance, wat niet past bij jouw technische achtergrond."
   }
  }
 }
