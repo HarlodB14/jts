@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-21T17:24:51.513426+00:00",
+ "updated_at": "2026-11-21T23:06:39.237106+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 499,
+  "jobspy": 493,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
@@ -12,7 +12,7 @@
   "remotive": 40,
   "himalayas": 0
  },
- "count": 276,
+ "count": 275,
  "jobs": [
   {
    "id": "5b121963e52e",
@@ -939,60 +939,6 @@
    }
   },
   {
-   "id": "4c577fb4d174",
-   "source": "JobSpy",
-   "title": "Technical Analyst (Junior / Medior)",
-   "company": "EWS Group",
-   "location": "NB, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-20T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=956b258d62d39c07",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Do you enjoy connecting business needs with smart IT solutions? Do you enjoy understanding how processes, people and technology fit together? Are you someone who asks the right questions, gets to the heart of a problem and translates ideas into practical solutions? Then this could be the perfect next step in your career! At NBV, our organisation is evolving rapidly. As a Technical Analyst (Junior / Medior), you play an important role in connecting business needs with IT solutions. You'll work closely with colleagues, developers and external partners to analyse processes, define requirements and help improve our systems. Whether you're just starting your career or already have some experience, you'll have the opportunity to learn, contribute and make a difference. Wat zijn je werkzaamheden als Technical Analyst (Junior / Medior) Connecting business and IT: Work with stakeholders to understand their needs and translate them into clear functional and technical requirements. Turning ideas into requirements: Create user stories, use cases and acceptance criteria that help developers build the right solutions. Understanding the bigger picture: Map existing processes, identify opportunities for improvement and analyse data flows and system dependencies. Making data meaningful: Use tools such as SQL, Excel or BI platforms to analyse information, support decisions and validate solutions. Testing and improving: Help prepare test scenarios, support user acceptance testing (UAT) and assist with the introduction of new functionality. Making change easier: Document processes and solutions, and help colleagues get started with new systems and tools. Over EWS Group EWS staat voor Eco Worldwide Solutions. Wij zijn gespecialiseerd in pest control management, gasmeten, heat treatment en het begassen en ontgassen van vrachtcontainers, silo’s, schepen en gebouwen. EWS groeit enorm en heeft naast Nederland en België ook vestigingen in Duitsland, Oostenrijk, Italië, Frankrijk, Spanje en het Verenigd Koninkrijk. Wat breng je mee als Technical Analyst (Junior / Medior) A bachelor's degree (HBO), preferably in IT, Business IT & Management or Business Administration with a strong interest in technology. 0–5 years of experience in a business or functional analyst role, or a relevant graduation internship. Strong analytical skills and the ability to translate complex challenges into clear, structured solutions. A basic understanding of databases, APIs, integrations and application landscapes. Experience with SQL is a plus. Excellent communication skills, enabling you to work effectively with both technical and non-technical colleagues. Good command of English, both written and spoken. Dutch is a plus. A proactive, curious mindset and the motivation to learn, take ownership and improve processes. Wat bieden we je als Technical Analyst (Junior / Medior) A competitive salary: Based on your knowledge and experience. Room to grow: Opportunities to develop your technical and analytical skills. A varied role: Work on different projects, systems and business challenges. Real impact: Help shape the way our organisation works with technology. Flexibility: A combination of working from our office in Werkendam and remotely. A collaborative environment: Work closely with colleagues across business and IT.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": true,
-   "traineeship": false,
-   "short_desc": "Do you enjoy connecting business needs with smart IT solutions? Do you enjoy understanding how processes, people and technology fit together? Are you someone who asks the right questions, gets to the heart of a problem and translates ideas into practical solutions? Then this could be the perfect...",
-   "benefits": [
-    "Thuiswerken"
-   ],
-   "skills": [
-    "SQL",
-    "Excel",
-    "Requirements",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": true,
-   "first_seen": "2026-11-20T20:02:16.438769+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "SQL",
-     "REST API’s",
-     "Agile/Scrum"
-    ],
-    "missing_realistic": [
-     "Data-analyse tools",
-     "Functional requirements modeling"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je achtergrond als software engineer met klantcontact past goed bij de rol van technical analyst.",
-    "local_score": 53,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "eefdebb5d8c7",
    "source": "JobSpy",
    "title": "Junior Functioneel Beheerder",
@@ -1041,6 +987,60 @@
     "ignored_unrealistic": [],
     "reason": "Je hebt al IT-beheerevaring en hbo-niveau, maar mist specifieke SAP SuccessFactors-ervaring.",
     "local_score": 65,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "4c577fb4d174",
+   "source": "JobSpy",
+   "title": "Technical Analyst (Junior / Medior)",
+   "company": "EWS Group",
+   "location": "NB, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-20T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=956b258d62d39c07",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Do you enjoy connecting business needs with smart IT solutions? Do you enjoy understanding how processes, people and technology fit together? Are you someone who asks the right questions, gets to the heart of a problem and translates ideas into practical solutions? Then this could be the perfect next step in your career! At NBV, our organisation is evolving rapidly. As a Technical Analyst (Junior / Medior), you play an important role in connecting business needs with IT solutions. You'll work closely with colleagues, developers and external partners to analyse processes, define requirements and help improve our systems. Whether you're just starting your career or already have some experience, you'll have the opportunity to learn, contribute and make a difference. Wat zijn je werkzaamheden als Technical Analyst (Junior / Medior) Connecting business and IT: Work with stakeholders to understand their needs and translate them into clear functional and technical requirements. Turning ideas into requirements: Create user stories, use cases and acceptance criteria that help developers build the right solutions. Understanding the bigger picture: Map existing processes, identify opportunities for improvement and analyse data flows and system dependencies. Making data meaningful: Use tools such as SQL, Excel or BI platforms to analyse information, support decisions and validate solutions. Testing and improving: Help prepare test scenarios, support user acceptance testing (UAT) and assist with the introduction of new functionality. Making change easier: Document processes and solutions, and help colleagues get started with new systems and tools. Over EWS Group EWS staat voor Eco Worldwide Solutions. Wij zijn gespecialiseerd in pest control management, gasmeten, heat treatment en het begassen en ontgassen van vrachtcontainers, silo’s, schepen en gebouwen. EWS groeit enorm en heeft naast Nederland en België ook vestigingen in Duitsland, Oostenrijk, Italië, Frankrijk, Spanje en het Verenigd Koninkrijk. Wat breng je mee als Technical Analyst (Junior / Medior) A bachelor's degree (HBO), preferably in IT, Business IT & Management or Business Administration with a strong interest in technology. 0–5 years of experience in a business or functional analyst role, or a relevant graduation internship. Strong analytical skills and the ability to translate complex challenges into clear, structured solutions. A basic understanding of databases, APIs, integrations and application landscapes. Experience with SQL is a plus. Excellent communication skills, enabling you to work effectively with both technical and non-technical colleagues. Good command of English, both written and spoken. Dutch is a plus. A proactive, curious mindset and the motivation to learn, take ownership and improve processes. Wat bieden we je als Technical Analyst (Junior / Medior) A competitive salary: Based on your knowledge and experience. Room to grow: Opportunities to develop your technical and analytical skills. A varied role: Work on different projects, systems and business challenges. Real impact: Help shape the way our organisation works with technology. Flexibility: A combination of working from our office in Werkendam and remotely. A collaborative environment: Work closely with colleagues across business and IT.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": true,
+   "traineeship": false,
+   "short_desc": "Do you enjoy connecting business needs with smart IT solutions? Do you enjoy understanding how processes, people and technology fit together? Are you someone who asks the right questions, gets to the heart of a problem and translates ideas into practical solutions? Then this could be the perfect...",
+   "benefits": [
+    "Thuiswerken"
+   ],
+   "skills": [
+    "SQL",
+    "Excel",
+    "Requirements",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": true,
+   "first_seen": "2026-11-20T20:02:16.438769+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "SQL",
+     "REST API’s",
+     "Agile/Scrum"
+    ],
+    "missing_realistic": [
+     "Data-analyse tools",
+     "Functional requirements modeling"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je achtergrond als software engineer met klantcontact past goed bij de rol van technical analyst.",
+    "local_score": 53,
     "ai": true,
     "check": false,
     "visible": true
@@ -1578,6 +1578,54 @@
    }
   },
   {
+   "id": "a0084cfd55cf",
+   "source": "JobSpy",
+   "title": "Functioneel beheerder",
+   "company": "NBD Biblion",
+   "location": "Zoetermeer, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-20T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=d8eeeb830e06f3ed",
+   "salary": "€3421 - €4345 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Zoetermeer, 32-36 uur Ben jij een verbindende professional die de behoeften van bibliotheken weet te vertalen naar een nieuw landelijk platform voor catalogiseren? Onderhoud en bouw jij duurzame relaties met gebruikers, stakeholders en technische specialisten en breng jij met je inhoudelijke expertise en dienstverlening dit platform tot een hoger niveau? Solliciteer dan naar de functie van Functioneel Beheerder bij NBD Biblion en draag actief bij aan het Openbaar Bibliotheek Catalogiseer Platform (OBCP), een netwerkvoorziening van en voor openbare bibliotheken waardoor bibliotheken de collectie effectief kunnen samenstellen en bibliotheekbezoekers boeken gemakkelijker kunnen vinden. NBD Biblion en het OBCP Wij werken al meer dan 50 jaar samen met de bibliotheeksector om lezen toegankelijker en leuker te maken. We ondersteunen en ontzorgen Openbare Bibliotheken en schoolbibliotheken, zodat zij zich kunnen richten op wat echt telt: inspireren en verbinden. Voor het OBCP werkt NBD Biblion samen met de Koninklijke Bibliotheek en het OB-netwerk (het netwerk van openbare bibliotheken). Dit platform vormt een gezamenlijk fundament voor al deze partijen voor metadata en catalogisering en wordt door NBD Biblion en de openbare bibliotheken gebruikt om de collectie van bibliotheken te beschrijven. Dit ga je doen Samen met jouw collega Functioneel Beheerder ben je verantwoordelijk voor de functionele inrichting en het dagelijkse beheer van het OBCP. Het is een nieuwe rol binnen NBD Biblion, die verder gaat dan traditioneel applicatiebeheer: jij bent de schakel tussen de inhoudelijke eisen van het OB-netwerk en de technische mogelijkheden van het platform. Juist omdat het OBCP een netwerkvoorziening is, van en voor de openbare bibliotheken in Nederland, is het opbouwen en onderhouden van relaties in de sector een even wezenlijk onderdeel van de rol als de beheertaken. Je richt het OBCP in en houdt het actueel via de beheeromgeving van het platform. Daarbij richt je onder andere workflows in, stel je validatieregels ten behoeve van kwaliteitscontrole op en beheer je de toegang en autorisaties voor de gebruikers van het platform. Je bewaakt de kwaliteit van de data en rapporteert hierover. Structurele kwaliteitsproblemen meld je aan het Metadata Office (MDO). Je beheert de dataverwerkingsstraat. Het platform wordt door diverse leveranciers gevoed met data en jij bewaakt en monitort de import hiervan. Je ondersteunt eindgebruikers, waarbij je als eerste aanspreekpunt fungeert voor catalogiseerders uit het OB-netwerk bij functionele vragen. Verder onderhoud je documentatie en ondersteun je bij het organiseren van trainingen voor gebruikers. Het OBCP is een gezamenlijke voorziening van en voor het OB-netwerk. Daarbij vertegenwoordig jij NBD Biblion in dit netwerk en bouw je duurzame relaties op met catalogiseerders en hun organisaties. Je bezoekt op regelmatige basis bibliotheken en POI’s, neemt actief deel aan de catalogiseerdergemeenschap en treedt op als toegankelijk aanspreekpunt voor catalogiseerders in het netwerk voor functionele vragen en voor signalen over de werkpraktijk. Je volgt pro-actief ontwikkelingen van relevante internationale standaarden (RDA-updates, IFLA LRM-versies) en vertaalt deze naar impact op de configuratie van het platform. De toegevoegde waarde van jouw functie Het OBCP is een belangrijke infrastructuurvernieuwing in de Nederlandse openbare bibliotheeksector. Het platform wordt gebouwd op open internationale standaarden, dat betekent meer autonomie voor NBD Biblion en het OB-netwerk, maar vraagt ook een bewuste investering in kennis en samenwerking. De functioneel beheerder staat in het hart van die vernieuwing. Enerzijds als beheerder van een technisch geavanceerd platform, anderzijds als verbinder in een netwerk van professionals die dagelijks met de collectie van de openbare bibliotheek werken. Dat vraagt iemand die even thuis is in een beheerscherm als op de werkvloer van een bibliotheek. Wat bieden wij jou? NBD Biblion heeft een open en moderne werkomgeving met bevlogen, vakkundige collega’s. Onze cultuur is laagdrempelig met aandacht voor jou en jouw (persoonlijke) ontwikkeling, dat ook blijkt uit onze arbeidsvoorwaarden: De functie is ingedeeld in schaal 8 van de cao Openbare Bibliotheken. Het bruto maandsalaris bedraagt € 3.421 tot € 4.345 op basis van 36 uur per week. Bij de vaststelling van de arbeidsvoorwaarden wordt rekening gehouden met de kennis, ervaring en toegevoegde waarde van de kandidaat. Een dienstverband van één jaar met uitzicht op een vast dienstverband bij goed functioneren Een eindejaarsuitkering van 5% Een jaarlijks duurzaam inzetbaarheidsbudget ter hoogte van €500,- netto De mogelijkheid om extra verlofdagen te kopen Gratis sportactiviteiten in onze eigen sportzaal Een gratis bibliotheekabonnement NBD Biblion is aangesloten bij het Pensioenfonds Openbare Bibliotheken en levert een pensioenbijdrage Reiskostenvergoeding van €0.25 per km en zelfs een volledige reiskostenvergoeding wanneer je met het OV reist. Daarnaast biedt onze locatie gratis parkeergelegenheid en goede bereikbaarheid met het OV. Directe samenwerking en aanwezigheid op kantoor is erg belangrijk voor deze rol. In overleg met je leidinggevende kun je ook 1 dag vanuit huis werken, inclusief een thuiswerkvergoeding. Wat breng je mee? Om succesvol te zijn in deze functie vinden wij de volgende punten belangrijk: Je hebt kennis van of aantoonbare affiniteit met bibliografische beschrijving en informatiewetenschap. Die basis kan komen uit werkervaring in de sector of een opleiding in informatiekunde, library science of een verwante richting. Je hebt werkende kennis van of aantoonbare interesse in het WEMI-model, authority files (NTA, SISO) en de principes van linked data. Je herkent datakwaliteitsproblemen, stelt prioriteiten en vertaalt deze naar concrete acties. Je verbindt inhoudelijke expertise met technische mogelijkheden en communiceert helder met zowel catalogiseerders als van het t",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Zoetermeer, 32-36 uur Ben jij een verbindende professional die de behoeften van bibliotheken weet te vertalen naar een nieuw landelijk platform voor catalogiseren? Onderhoud en bouw jij duurzame relaties met gebruikers, stakeholders en technische specialisten en breng jij met je inhoudelijke...",
+   "benefits": [
+    "Thuiswerken",
+    "Pensioen",
+    "32-36 uur",
+    "Reiskosten"
+   ],
+   "skills": [],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-20T20:02:16.438769+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 70,
+    "matched_skills": [
+     "SQL"
+    ],
+    "missing_realistic": [
+     "Ervaring met catalogiseringsplatformen"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je hebt sterke communicatieve vaardigheden en ervaring met IT-ondersteuning, wat goed aansluit bij deze beheersrol.",
+    "local_score": 50,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "1057b4bd1701",
    "source": "JobSpy",
    "title": "Functioneel beheerder financiele applicaties",
@@ -1622,54 +1670,6 @@
     "ignored_unrealistic": [],
     "reason": "Je brede ICT-achtergrond en ervaring met ondersteuning passen goed bij deze functie als functioneel beheerder.",
     "local_score": 100,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "a0084cfd55cf",
-   "source": "JobSpy",
-   "title": "Functioneel beheerder",
-   "company": "NBD Biblion",
-   "location": "Zoetermeer, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-20T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=d8eeeb830e06f3ed",
-   "salary": "€3421 - €4345 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Zoetermeer, 32-36 uur Ben jij een verbindende professional die de behoeften van bibliotheken weet te vertalen naar een nieuw landelijk platform voor catalogiseren? Onderhoud en bouw jij duurzame relaties met gebruikers, stakeholders en technische specialisten en breng jij met je inhoudelijke expertise en dienstverlening dit platform tot een hoger niveau? Solliciteer dan naar de functie van Functioneel Beheerder bij NBD Biblion en draag actief bij aan het Openbaar Bibliotheek Catalogiseer Platform (OBCP), een netwerkvoorziening van en voor openbare bibliotheken waardoor bibliotheken de collectie effectief kunnen samenstellen en bibliotheekbezoekers boeken gemakkelijker kunnen vinden. NBD Biblion en het OBCP Wij werken al meer dan 50 jaar samen met de bibliotheeksector om lezen toegankelijker en leuker te maken. We ondersteunen en ontzorgen Openbare Bibliotheken en schoolbibliotheken, zodat zij zich kunnen richten op wat echt telt: inspireren en verbinden. Voor het OBCP werkt NBD Biblion samen met de Koninklijke Bibliotheek en het OB-netwerk (het netwerk van openbare bibliotheken). Dit platform vormt een gezamenlijk fundament voor al deze partijen voor metadata en catalogisering en wordt door NBD Biblion en de openbare bibliotheken gebruikt om de collectie van bibliotheken te beschrijven. Dit ga je doen Samen met jouw collega Functioneel Beheerder ben je verantwoordelijk voor de functionele inrichting en het dagelijkse beheer van het OBCP. Het is een nieuwe rol binnen NBD Biblion, die verder gaat dan traditioneel applicatiebeheer: jij bent de schakel tussen de inhoudelijke eisen van het OB-netwerk en de technische mogelijkheden van het platform. Juist omdat het OBCP een netwerkvoorziening is, van en voor de openbare bibliotheken in Nederland, is het opbouwen en onderhouden van relaties in de sector een even wezenlijk onderdeel van de rol als de beheertaken. Je richt het OBCP in en houdt het actueel via de beheeromgeving van het platform. Daarbij richt je onder andere workflows in, stel je validatieregels ten behoeve van kwaliteitscontrole op en beheer je de toegang en autorisaties voor de gebruikers van het platform. Je bewaakt de kwaliteit van de data en rapporteert hierover. Structurele kwaliteitsproblemen meld je aan het Metadata Office (MDO). Je beheert de dataverwerkingsstraat. Het platform wordt door diverse leveranciers gevoed met data en jij bewaakt en monitort de import hiervan. Je ondersteunt eindgebruikers, waarbij je als eerste aanspreekpunt fungeert voor catalogiseerders uit het OB-netwerk bij functionele vragen. Verder onderhoud je documentatie en ondersteun je bij het organiseren van trainingen voor gebruikers. Het OBCP is een gezamenlijke voorziening van en voor het OB-netwerk. Daarbij vertegenwoordig jij NBD Biblion in dit netwerk en bouw je duurzame relaties op met catalogiseerders en hun organisaties. Je bezoekt op regelmatige basis bibliotheken en POI’s, neemt actief deel aan de catalogiseerdergemeenschap en treedt op als toegankelijk aanspreekpunt voor catalogiseerders in het netwerk voor functionele vragen en voor signalen over de werkpraktijk. Je volgt pro-actief ontwikkelingen van relevante internationale standaarden (RDA-updates, IFLA LRM-versies) en vertaalt deze naar impact op de configuratie van het platform. De toegevoegde waarde van jouw functie Het OBCP is een belangrijke infrastructuurvernieuwing in de Nederlandse openbare bibliotheeksector. Het platform wordt gebouwd op open internationale standaarden, dat betekent meer autonomie voor NBD Biblion en het OB-netwerk, maar vraagt ook een bewuste investering in kennis en samenwerking. De functioneel beheerder staat in het hart van die vernieuwing. Enerzijds als beheerder van een technisch geavanceerd platform, anderzijds als verbinder in een netwerk van professionals die dagelijks met de collectie van de openbare bibliotheek werken. Dat vraagt iemand die even thuis is in een beheerscherm als op de werkvloer van een bibliotheek. Wat bieden wij jou? NBD Biblion heeft een open en moderne werkomgeving met bevlogen, vakkundige collega’s. Onze cultuur is laagdrempelig met aandacht voor jou en jouw (persoonlijke) ontwikkeling, dat ook blijkt uit onze arbeidsvoorwaarden: De functie is ingedeeld in schaal 8 van de cao Openbare Bibliotheken. Het bruto maandsalaris bedraagt € 3.421 tot € 4.345 op basis van 36 uur per week. Bij de vaststelling van de arbeidsvoorwaarden wordt rekening gehouden met de kennis, ervaring en toegevoegde waarde van de kandidaat. Een dienstverband van één jaar met uitzicht op een vast dienstverband bij goed functioneren Een eindejaarsuitkering van 5% Een jaarlijks duurzaam inzetbaarheidsbudget ter hoogte van €500,- netto De mogelijkheid om extra verlofdagen te kopen Gratis sportactiviteiten in onze eigen sportzaal Een gratis bibliotheekabonnement NBD Biblion is aangesloten bij het Pensioenfonds Openbare Bibliotheken en levert een pensioenbijdrage Reiskostenvergoeding van €0.25 per km en zelfs een volledige reiskostenvergoeding wanneer je met het OV reist. Daarnaast biedt onze locatie gratis parkeergelegenheid en goede bereikbaarheid met het OV. Directe samenwerking en aanwezigheid op kantoor is erg belangrijk voor deze rol. In overleg met je leidinggevende kun je ook 1 dag vanuit huis werken, inclusief een thuiswerkvergoeding. Wat breng je mee? Om succesvol te zijn in deze functie vinden wij de volgende punten belangrijk: Je hebt kennis van of aantoonbare affiniteit met bibliografische beschrijving en informatiewetenschap. Die basis kan komen uit werkervaring in de sector of een opleiding in informatiekunde, library science of een verwante richting. Je hebt werkende kennis van of aantoonbare interesse in het WEMI-model, authority files (NTA, SISO) en de principes van linked data. Je herkent datakwaliteitsproblemen, stelt prioriteiten en vertaalt deze naar concrete acties. Je verbindt inhoudelijke expertise met technische mogelijkheden en communiceert helder met zowel catalogiseerders als van het t",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Zoetermeer, 32-36 uur Ben jij een verbindende professional die de behoeften van bibliotheken weet te vertalen naar een nieuw landelijk platform voor catalogiseren? Onderhoud en bouw jij duurzame relaties met gebruikers, stakeholders en technische specialisten en breng jij met je inhoudelijke...",
-   "benefits": [
-    "Thuiswerken",
-    "Pensioen",
-    "32-36 uur",
-    "Reiskosten"
-   ],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-20T20:02:16.438769+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 70,
-    "matched_skills": [
-     "SQL"
-    ],
-    "missing_realistic": [
-     "Ervaring met catalogiseringsplatformen"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt sterke communicatieve vaardigheden en ervaring met IT-ondersteuning, wat goed aansluit bij deze beheersrol.",
-    "local_score": 50,
     "ai": true,
     "check": false,
     "visible": true
@@ -6733,7 +6733,7 @@
    "source": "JobSpy",
    "title": "Technisch beheerder- Security minded",
    "company": "Certe",
-   "location": "Groningen, GR, Netherlands",
+   "location": "DR, Netherlands",
    "remote": false,
    "posted_at": "2026-11-18T00:00:00+00:00",
    "url": "https://nl.indeed.com/viewjob?jk=b8175027fc60919b",
@@ -6742,12 +6742,12 @@
     "",
     "parttime, fulltime"
    ],
-   "full_text": "Regio Groningen, Friesland, Drenthe Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe is betrouwbare en veilige ICT essentieel voor onze diagnostische dienstverlening. Daarom zoeken we een technisch beheerder die systemen soepel laat draaien, risico’s herkent en beveiliging vanzelfsprekend meeneemt in het dagelijkse werk. Wat ga je doen? Je beheert en verbetert onze technische ICT-omgeving. Samen met collega’s zorg je voor veilige systemen. Daarbij houd je oog voor continuïteit en gebruiksgemak. Je houdt je bezig met: Veilig systeembeheer: systemen veilig inrichten volgens onder meer CIS Benchmarks, patches en kwetsbaarheden aanpakken op basis van risico en impact. Toegangsbeheer: zorgen voor passende rechten, MFA en gescheiden beheeraccounts, met regelmatige controles. Veilige wijzigingen: changes beoordelen op beveiligingsrisico’s en waar nodig tegenhouden of escaleren. Monitoring en incidenten: bruikbare logging inrichten, verdachte activiteiten herkennen en samen met securityspecialisten incidenten onderzoeken. Back-up en herstel: ransomwarebestendige back-ups beheren en herstelprocedures periodiek testen. Automatisering en documentatie: beheerhandelingen veilig automatiseren met PowerShell of Bash en configuraties, wijzigingen en uitzonderingen vastleggen. Het team Het team Technisch Beheer bestaat uit ongeveer twintig collega’s: servicedeskmedewerkers, systeem-, netwerk- en werkplekbeheerders en drie lead engineers. We pakken werkzaamheden zoveel mogelijk samen op binnen verschillende clusters. Je wordt onderdeel van een betrokken team met oog voor elkaar. Je deelt je kennis, zoekt collega’s op en werkt samen aan oplossingen. Na een gedegen inwerkperiode is gedeeltelijk thuiswerken mogelijk. Tevens draai je mee de consignatiediensten. Certe Certe is een organisatie voor integrale medische diagnostiek en advies voor de eerste- en tweedelijnsgezondheidszorg. Wij leveren hoogstaande medische diagnostiek en hiervan afgeleide producten en diensten voor zorgverleners en hun patiënten. Ziekenhuizen, (huis)artsen, verloskundigen en daarmee honderdduizenden mensen vertrouwen al jarenlang op onze zorg. Met vijftien miljoen testen per jaar is Certe dé onmisbare schakel voor de zorg in Noord-Nederland. Zichtbaar én onzichtbaar. Omdat iedereen zorg verdient. In de regio, persoonlijk én dichtbij. Zo zijn we in wát we doen en hóé we het doen, de enige in het Noorden. Wat heb je nodig? Je bent een technisch sterke en nieuwsgierige beheerder met een kritische blik. Je wilt begrijpen hoe systemen werken en waar kwetsbaarheden kunnen ontstaan. Je hebt een dienstverlenende instelling en kunt technische risico’s begrijpelijk uitleggen. Je zoekt naar werkbare oplossingen en durft ook aan te geven wanneer iets nog niet veilig genoeg is. Daarbij help je collega’s te bepalen wat er nodig is om verder te kunnen. Wat breng je mee? Hbo-werk- en denkniveau, bij voorkeur met een relevante opleiding zoals HBO-ICT. Minimaal drie jaar ervaring in technisch beheer, bijvoorbeeld als systeembeheerder of IT engineer. Beveiliging was daarbij een vast onderdeel van je werk. Ervaring met meerdere technologieën uit onze omgeving, zoals Azure, VMware, Windows Server, Virtual Desktop, Microsoft 365, Intune, Microsoft SQL Server en Remote Desktop- en RemoteApp-oplossingen. Praktische ervaring met hardening, patch- en kwetsbaarheidsbeheer. Je kunt risico’s afwegen en afwijkingen onderbouwd vastleggen. Kennis van veilige toegangsverlening, waaronder MFA, gescheiden beheeraccounts en periodieke toegangscontroles. Ervaring met logging, ransomwarebestendige back-ups en het uitvoeren van hersteltesten. Ervaring met PowerShell of Bash en het veilig automatiseren van beheerwerkzaamheden. Ervaring met Topdesk en Jira is welkom. Dat geldt ook voor een relevante security- of platformcertificering, kennis van kwetsbaarheidsscanners, EDR, SIEM[CvdP1] of PAM en ervaring in een omgeving met strenge beveiligings- en compliance-eisen. Wat bieden wij jou? Onze missie is ‘Zeker voor zorg’, maar zekerheid voor onze medewerkers vinden wij net zo belangrijk. Wij bieden: Een salaris conform FWG 55 van cao Ziekenhuizen. € 3.903,- en € 5.503,- op basis van een fulltime dienstverband. Een contract voor één jaar met uitzicht op een vaste aanstelling. Een dienstverband van 32-36 uur per week. 144 vakantie uren en 57 PLB uren op basis van fulltime dienstverband. Een eindejaarsuitkering in de vorm van een 13e maand en 8,33% vakantietoeslag. Wij vinden persoonlijke en professionele ontwikkeling belangrijk, je krijgt diverse (digitale) scholingsmogelijkheden om je kennis en kunde up-to-date te houden. Diverse regelingen waar jij als medewerker aan kan deelnemen. Bijvoorbeeld fiscale uitruil reiskosten, OV-regeling en een fietsregeling. Solliciteren Spreekt deze functie jou aan en herken jij jezelf in het profiel? Dan komen wij graag in contact met jou! Reageren kan tot en met 6 december 2026 via de knop ‘nu solliciteren’. De eerste gesprekken voeren we op 10 en/of 14 december 2026. Voor meer informatie over de vacature kan je contact opnemen met Simon Velis, Teammanager Technisch Beheer, via telefoonnummer 06-38907978.",
+   "full_text": "Regio Drenthe, Groningen, Friesland Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe is betrouwbare en veilige ICT essentieel voor onze diagnostische dienstverlening. Daarom zoeken we een technisch beheerder die systemen soepel laat draaien, risico’s herkent en beveiliging vanzelfsprekend meeneemt in het dagelijkse werk. Wat ga je doen? Je beheert en verbetert onze technische ICT-omgeving. Samen met collega’s zorg je voor veilige systemen. Daarbij houd je oog voor continuïteit en gebruiksgemak. Je houdt je bezig met: Veilig systeembeheer: systemen veilig inrichten volgens onder meer CIS Benchmarks, patches en kwetsbaarheden aanpakken op basis van risico en impact. Toegangsbeheer: zorgen voor passende rechten, MFA en gescheiden beheeraccounts, met regelmatige controles. Veilige wijzigingen: changes beoordelen op beveiligingsrisico’s en waar nodig tegenhouden of escaleren. Monitoring en incidenten: bruikbare logging inrichten, verdachte activiteiten herkennen en samen met securityspecialisten incidenten onderzoeken. Back-up en herstel: ransomwarebestendige back-ups beheren en herstelprocedures periodiek testen. Automatisering en documentatie: beheerhandelingen veilig automatiseren met PowerShell of Bash en configuraties, wijzigingen en uitzonderingen vastleggen. Het team Het team Technisch Beheer bestaat uit ongeveer twintig collega’s: servicedeskmedewerkers, systeem-, netwerk- en werkplekbeheerders en drie lead engineers. We pakken werkzaamheden zoveel mogelijk samen op binnen verschillende clusters. Je wordt onderdeel van een betrokken team met oog voor elkaar. Je deelt je kennis, zoekt collega’s op en werkt samen aan oplossingen. Na een gedegen inwerkperiode is gedeeltelijk thuiswerken mogelijk. Tevens draai je mee de consignatiediensten. Certe Certe is een organisatie voor integrale medische diagnostiek en advies voor de eerste- en tweedelijnsgezondheidszorg. Wij leveren hoogstaande medische diagnostiek en hiervan afgeleide producten en diensten voor zorgverleners en hun patiënten. Ziekenhuizen, (huis)artsen, verloskundigen en daarmee honderdduizenden mensen vertrouwen al jarenlang op onze zorg. Met vijftien miljoen testen per jaar is Certe dé onmisbare schakel voor de zorg in Noord-Nederland. Zichtbaar én onzichtbaar. Omdat iedereen zorg verdient. In de regio, persoonlijk én dichtbij. Zo zijn we in wát we doen en hóé we het doen, de enige in het Noorden. Wat heb je nodig? Je bent een technisch sterke en nieuwsgierige beheerder met een kritische blik. Je wilt begrijpen hoe systemen werken en waar kwetsbaarheden kunnen ontstaan. Je hebt een dienstverlenende instelling en kunt technische risico’s begrijpelijk uitleggen. Je zoekt naar werkbare oplossingen en durft ook aan te geven wanneer iets nog niet veilig genoeg is. Daarbij help je collega’s te bepalen wat er nodig is om verder te kunnen. Wat breng je mee? Hbo-werk- en denkniveau, bij voorkeur met een relevante opleiding zoals HBO-ICT. Minimaal drie jaar ervaring in technisch beheer, bijvoorbeeld als systeembeheerder of IT engineer. Beveiliging was daarbij een vast onderdeel van je werk. Ervaring met meerdere technologieën uit onze omgeving, zoals Azure, VMware, Windows Server, Virtual Desktop, Microsoft 365, Intune, Microsoft SQL Server en Remote Desktop- en RemoteApp-oplossingen. Praktische ervaring met hardening, patch- en kwetsbaarheidsbeheer. Je kunt risico’s afwegen en afwijkingen onderbouwd vastleggen. Kennis van veilige toegangsverlening, waaronder MFA, gescheiden beheeraccounts en periodieke toegangscontroles. Ervaring met logging, ransomwarebestendige back-ups en het uitvoeren van hersteltesten. Ervaring met PowerShell of Bash en het veilig automatiseren van beheerwerkzaamheden. Ervaring met Topdesk en Jira is welkom. Dat geldt ook voor een relevante security- of platformcertificering, kennis van kwetsbaarheidsscanners, EDR, SIEM[CvdP1] of PAM en ervaring in een omgeving met strenge beveiligings- en compliance-eisen. Wat bieden wij jou? Onze missie is ‘Zeker voor zorg’, maar zekerheid voor onze medewerkers vinden wij net zo belangrijk. Wij bieden: Een salaris conform FWG 55 van cao Ziekenhuizen. € 3.903,- en € 5.503,- op basis van een fulltime dienstverband. Een contract voor één jaar met uitzicht op een vaste aanstelling. Een dienstverband van 32-36 uur per week. 144 vakantie uren en 57 PLB uren op basis van fulltime dienstverband. Een eindejaarsuitkering in de vorm van een 13e maand en 8,33% vakantietoeslag. Wij vinden persoonlijke en professionele ontwikkeling belangrijk, je krijgt diverse (digitale) scholingsmogelijkheden om je kennis en kunde up-to-date te houden. Diverse regelingen waar jij als medewerker aan kan deelnemen. Bijvoorbeeld fiscale uitruil reiskosten, OV-regeling en een fietsregeling. Solliciteren Spreekt deze functie jou aan en herken jij jezelf in het profiel? Dan komen wij graag in contact met jou! Reageren kan tot en met 6 december 2026 via de knop ‘nu solliciteren’. De eerste gesprekken voeren we op 10 en/of 14 december 2026. Voor meer informatie over de vacature kan je contact opnemen met Simon Velis, Teammanager Technisch Beheer, via telefoonnummer 06-38907978.",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Regio Groningen, Friesland, Drenthe Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe...",
+   "short_desc": "Regio Drenthe, Groningen, Friesland Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe...",
    "benefits": [
     "Thuiswerken",
     "Opleidingsbudget",
@@ -6791,59 +6791,6 @@
     "local_score": 65,
     "ai": true,
     "check": false,
-    "visible": false
-   }
-  },
-  {
-   "id": "5bab5aa13bdc",
-   "source": "JobSpy",
-   "title": "COÖRDINATOR IT, PROCESSEN & DIGITALISERING - Bunschoten - Spakenburg",
-   "company": "Sterk bv",
-   "location": "Bunschoten, UT, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-18T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=c125989d94157524",
-   "salary": "€4600 - €6000 per maand",
-   "tags": [
-    "",
-    "parttime, fulltime"
-   ],
-   "full_text": "Over Sterk Wij zijn een gezond en ambitieus bedrijf in de funderingsbranche, met beide voeten stevig in de klei én het vizier op de toekomst. We hebben geen eigen IT-afdeling, maar we willen wel verder digitaliseren, verder automatiseren en voornamelijk optimaliseren. Een beter proces met gelukkigere werknemers, meer efficiëntie en productie; dat is het doel. Een functie met twee petten: digitalisering & procesverbetering en regie op IT en functioneel beheer. Wat doe je in deze functie? Procesverbetering, digitalisering en automatisering Je: Analyseert werkwijzen (zijn we niet vastgeroest?), processen en informatiestromen; Haalt knelpunten en verbetersuggesties op bij je collega’s; Helpt bij het kritisch onder de loep nemen van processen en ze te vereenvoudigen voordat we ze gaan digitaliseren. Ziet kansen voor automatisering, data, apps en AI en hoe je deze praktisch in kunt zetten. Maakt met gebruikers/collega’s duidelijke functionele eisen. Initieert en leidt (digitale) verbeterprojecten Schakelt met externe ontwikkelaars en specialisten waar nodig Begeleidt implementaties Borgt het daadwerkelijke gebruik van de nieuwe oplossingen. Bewaakt samenhang. We willen geen wildgroei aan losse oplossingen. IT-regie Je: coördineert accounts, licenties, toegangsrechten en gebruikersrollen; zorgt dat digitale in-, door- en uitstroom van medewerkers goed is georganiseerd; bewaakt de functionele inrichting van onze belangrijkste applicaties; coördineert werkplekken, laptops, telefoons en andere IT-middelen; beoordeelt gebruikersvragen en zorgt dat storingen bij de juiste partij terechtkomen; bewaakt openstaande IT-vragen en zorgt dat deze worden opgelost; coördineert releases, wijzigingen en functionele tests; houdt relevante documentatie, rechten en beheerafspraken actueel; stuurt externe IT- en softwarepartners aan en bewaakt gemaakte afspraken; ondersteunt bij informatiebeveiliging en IT-audits; signaleert terugkerende problemen en maakt daar waar mogelijk structurele verbeteringen van. Je hoeft daarbij niet zelf de technische systeembeheerder te zijn. Specialistisch technisch beheer kan bij onze IT-partners liggen. Jij zorgt vanuit Sterk voor de functionele regie: wat hebben we nodig, wie mag waartoe toegang hebben, wat heeft prioriteit en wordt het goed opgelost? Met welke omgeving werk je? Onze digitale omgeving bestaat onder andere uit Microsoft 365, SharePoint en Microsoft Dynamics 365 Business Central/4PS. Daarnaast ontwikkelen we eigen digitale toepassingen en automatiseringen. Zo werken we onder andere aan de Sterk App, waarmee operationele processen worden gedigitaliseerd en informatie tussen uitvoering en kantoor beter wordt ontsloten. Ook onderzoeken en realiseren we toepassingen op het gebied van automatisering en AI. Je hoeft niet overal al specialist in te zijn. Veel belangrijker vinden we dat je de processen (en de interactie daartussen) begrijpt, technologie snel doorgrondt en weet wanneer je zelf iets oppakt en wanneer je een specialist inschakelt. Waar wij blij van worden: Een positieve systeembeheerder, die nieuwsgierig is en op pragmatische wijze techniek, processen en mensen met elkaar weet te verbinden. Je hebt HBO werk- en denkniveau, bijvoorbeeld richting technische bedrijfskunde, bedrijfskunde, ICT of informatiemanagement; Pré als je ervaring hebt met: Microsoft 365, SharePoint, Business Central/4PS, Power Platform, data, AI, API’s, workflows. Je hebt ervaring of sterke affiniteit met procesverbetering, digitalisering en automatisering; Je kunt een bedrijfsproces doorgronden en terugbrengen tot de essentie; Je kunt een verbeteridee omzetten in een concreet project en dit ook daadwerkelijk realiseren; Je bent analytisch, praktisch en resultaatgericht; Je communiceert makkelijk met mensen op verschillende niveaus; Je durft bestaande werkwijzen ter discussie te stellen, maar begrijpt ook dat verandering alleen werkt als je mensen meekrijgt; Je voelt je thuis in een nuchtere, ondernemende en technische organisatie. Je bent iemand die niet genoegen neemt met “zo doen we het nu eenmaal”. Je bent geen adviseur die alleen een rapport achterlaat. Je maakt het concreet, organiseert het en zorgt dat het werkt. Wat bieden wij? Een zelfstandige functie met veel vrijheid en verantwoordelijkheid. Een plek in een professionele organisatie met continue aandacht voor kwaliteit en veiligheid. Een persoonlijke benadering, waar collegialiteit voorop staat, je bent bij ons geen nummertje! Een laptop en telefoon van de zaak. Een auto van de zaak. Een winstdeling. Een fietsplan van de zaak. Altijd al een elektrische bakfiets willen hebben? Dat kan dus heel voordelig! Een persoonlijk FIT-budget en een duurzaam inzetbaarheidsbudget. Jezelf ontwikkelen. Flexibel (hybride) werken. Thuis, op de zaak en natuurlijk op de projecten! Hele korte lijntjes binnen de organisatie. Onderdeel zijn van een enthousiaste club met mensen. Tal van leuke activiteiten zoals vrijmibo’s, een personeelsfeest en een personeelsvereniging die verschillende activiteiten per jaar organiseert. Waar jij blij van wordt: Veel ruimte en verantwoordelijkheid. Niet alles ligt al vast. Sterker nog: een deel van de uitdaging is juist dat jij samen met ons verder vormgeeft hoe we digitalisering en automatisering binnen Sterk organiseren. Een goed salaris. Je start tussen circa € 4.700,= en € 6.000,= bruto per maand, afhankelijk van jouw opleiding, kennis en werkervaring in deze functie. Er is ruimte voor verdere ontwikkeling na indiensttreding. De mogelijkheid om zichtbaar invloed te hebben op hoe Sterk de komende jaren werkt. Een organisatie waarin de lijnen kort zijn en ideeën snel werkelijkheid kunnen worden. Een plek in een professionele organisatie met continue aandacht voor kwaliteit en veiligheid. Een persoonlijke benadering, waar collegialiteit voorop staat, je bent bij ons geen nummertje! Een werkomgeving waar jouw werk echt zichtbaar resultaat oplevert. Een ruime verlofregeling. Een persoonlijk FIT-budget. Een winstdeling. T",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Over Sterk Wij zijn een gezond en ambitieus bedrijf in de funderingsbranche, met beide voeten stevig in de klei én het vizier op de toekomst. We hebben geen eigen IT-afdeling, maar we willen wel verder digitaliseren, verder automatiseren en voornamelijk optimaliseren. Een beter proces met...",
-   "benefits": [
-    "Thuiswerken",
-    "Laptop",
-    "Bonus"
-   ],
-   "skills": [
-    "AI",
-    "Microsoft 365",
-    "Security",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-18T13:51:50.692284+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 40,
-    "matched_skills": [
-     "REST API’s"
-    ],
-    "missing_realistic": [
-     "Functioneel beheer",
-     "Procesverbetering"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Deze coördinerende en procesgerichte rol past minder goed bij jouw technische software- en beheerachtergrond.",
-    "local_score": 82,
-    "ai": true,
-    "check": true,
     "visible": false
    }
   },
@@ -6901,6 +6848,59 @@
     "ai": true,
     "check": false,
     "visible": true
+   }
+  },
+  {
+   "id": "5bab5aa13bdc",
+   "source": "JobSpy",
+   "title": "COÖRDINATOR IT, PROCESSEN & DIGITALISERING - Bunschoten - Spakenburg",
+   "company": "Sterk bv",
+   "location": "Bunschoten, UT, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-18T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=c125989d94157524",
+   "salary": "€4600 - €6000 per maand",
+   "tags": [
+    "",
+    "parttime, fulltime"
+   ],
+   "full_text": "Over Sterk Wij zijn een gezond en ambitieus bedrijf in de funderingsbranche, met beide voeten stevig in de klei én het vizier op de toekomst. We hebben geen eigen IT-afdeling, maar we willen wel verder digitaliseren, verder automatiseren en voornamelijk optimaliseren. Een beter proces met gelukkigere werknemers, meer efficiëntie en productie; dat is het doel. Een functie met twee petten: digitalisering & procesverbetering en regie op IT en functioneel beheer. Wat doe je in deze functie? Procesverbetering, digitalisering en automatisering Je: Analyseert werkwijzen (zijn we niet vastgeroest?), processen en informatiestromen; Haalt knelpunten en verbetersuggesties op bij je collega’s; Helpt bij het kritisch onder de loep nemen van processen en ze te vereenvoudigen voordat we ze gaan digitaliseren. Ziet kansen voor automatisering, data, apps en AI en hoe je deze praktisch in kunt zetten. Maakt met gebruikers/collega’s duidelijke functionele eisen. Initieert en leidt (digitale) verbeterprojecten Schakelt met externe ontwikkelaars en specialisten waar nodig Begeleidt implementaties Borgt het daadwerkelijke gebruik van de nieuwe oplossingen. Bewaakt samenhang. We willen geen wildgroei aan losse oplossingen. IT-regie Je: coördineert accounts, licenties, toegangsrechten en gebruikersrollen; zorgt dat digitale in-, door- en uitstroom van medewerkers goed is georganiseerd; bewaakt de functionele inrichting van onze belangrijkste applicaties; coördineert werkplekken, laptops, telefoons en andere IT-middelen; beoordeelt gebruikersvragen en zorgt dat storingen bij de juiste partij terechtkomen; bewaakt openstaande IT-vragen en zorgt dat deze worden opgelost; coördineert releases, wijzigingen en functionele tests; houdt relevante documentatie, rechten en beheerafspraken actueel; stuurt externe IT- en softwarepartners aan en bewaakt gemaakte afspraken; ondersteunt bij informatiebeveiliging en IT-audits; signaleert terugkerende problemen en maakt daar waar mogelijk structurele verbeteringen van. Je hoeft daarbij niet zelf de technische systeembeheerder te zijn. Specialistisch technisch beheer kan bij onze IT-partners liggen. Jij zorgt vanuit Sterk voor de functionele regie: wat hebben we nodig, wie mag waartoe toegang hebben, wat heeft prioriteit en wordt het goed opgelost? Met welke omgeving werk je? Onze digitale omgeving bestaat onder andere uit Microsoft 365, SharePoint en Microsoft Dynamics 365 Business Central/4PS. Daarnaast ontwikkelen we eigen digitale toepassingen en automatiseringen. Zo werken we onder andere aan de Sterk App, waarmee operationele processen worden gedigitaliseerd en informatie tussen uitvoering en kantoor beter wordt ontsloten. Ook onderzoeken en realiseren we toepassingen op het gebied van automatisering en AI. Je hoeft niet overal al specialist in te zijn. Veel belangrijker vinden we dat je de processen (en de interactie daartussen) begrijpt, technologie snel doorgrondt en weet wanneer je zelf iets oppakt en wanneer je een specialist inschakelt. Waar wij blij van worden: Een positieve systeembeheerder, die nieuwsgierig is en op pragmatische wijze techniek, processen en mensen met elkaar weet te verbinden. Je hebt HBO werk- en denkniveau, bijvoorbeeld richting technische bedrijfskunde, bedrijfskunde, ICT of informatiemanagement; Pré als je ervaring hebt met: Microsoft 365, SharePoint, Business Central/4PS, Power Platform, data, AI, API’s, workflows. Je hebt ervaring of sterke affiniteit met procesverbetering, digitalisering en automatisering; Je kunt een bedrijfsproces doorgronden en terugbrengen tot de essentie; Je kunt een verbeteridee omzetten in een concreet project en dit ook daadwerkelijk realiseren; Je bent analytisch, praktisch en resultaatgericht; Je communiceert makkelijk met mensen op verschillende niveaus; Je durft bestaande werkwijzen ter discussie te stellen, maar begrijpt ook dat verandering alleen werkt als je mensen meekrijgt; Je voelt je thuis in een nuchtere, ondernemende en technische organisatie. Je bent iemand die niet genoegen neemt met “zo doen we het nu eenmaal”. Je bent geen adviseur die alleen een rapport achterlaat. Je maakt het concreet, organiseert het en zorgt dat het werkt. Wat bieden wij? Een zelfstandige functie met veel vrijheid en verantwoordelijkheid. Een plek in een professionele organisatie met continue aandacht voor kwaliteit en veiligheid. Een persoonlijke benadering, waar collegialiteit voorop staat, je bent bij ons geen nummertje! Een laptop en telefoon van de zaak. Een auto van de zaak. Een winstdeling. Een fietsplan van de zaak. Altijd al een elektrische bakfiets willen hebben? Dat kan dus heel voordelig! Een persoonlijk FIT-budget en een duurzaam inzetbaarheidsbudget. Jezelf ontwikkelen. Flexibel (hybride) werken. Thuis, op de zaak en natuurlijk op de projecten! Hele korte lijntjes binnen de organisatie. Onderdeel zijn van een enthousiaste club met mensen. Tal van leuke activiteiten zoals vrijmibo’s, een personeelsfeest en een personeelsvereniging die verschillende activiteiten per jaar organiseert. Waar jij blij van wordt: Veel ruimte en verantwoordelijkheid. Niet alles ligt al vast. Sterker nog: een deel van de uitdaging is juist dat jij samen met ons verder vormgeeft hoe we digitalisering en automatisering binnen Sterk organiseren. Een goed salaris. Je start tussen circa € 4.700,= en € 6.000,= bruto per maand, afhankelijk van jouw opleiding, kennis en werkervaring in deze functie. Er is ruimte voor verdere ontwikkeling na indiensttreding. De mogelijkheid om zichtbaar invloed te hebben op hoe Sterk de komende jaren werkt. Een organisatie waarin de lijnen kort zijn en ideeën snel werkelijkheid kunnen worden. Een plek in een professionele organisatie met continue aandacht voor kwaliteit en veiligheid. Een persoonlijke benadering, waar collegialiteit voorop staat, je bent bij ons geen nummertje! Een werkomgeving waar jouw werk echt zichtbaar resultaat oplevert. Een ruime verlofregeling. Een persoonlijk FIT-budget. Een winstdeling. T",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Over Sterk Wij zijn een gezond en ambitieus bedrijf in de funderingsbranche, met beide voeten stevig in de klei én het vizier op de toekomst. We hebben geen eigen IT-afdeling, maar we willen wel verder digitaliseren, verder automatiseren en voornamelijk optimaliseren. Een beter proces met...",
+   "benefits": [
+    "Thuiswerken",
+    "Laptop",
+    "Bonus"
+   ],
+   "skills": [
+    "AI",
+    "Microsoft 365",
+    "Security",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-18T13:51:50.692284+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 40,
+    "matched_skills": [
+     "REST API’s"
+    ],
+    "missing_realistic": [
+     "Functioneel beheer",
+     "Procesverbetering"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Deze coördinerende en procesgerichte rol past minder goed bij jouw technische software- en beheerachtergrond.",
+    "local_score": 82,
+    "ai": true,
+    "check": true,
+    "visible": false
    }
   },
   {
@@ -7152,6 +7152,66 @@
     "ignored_unrealistic": [],
     "reason": "Je hebt een sterke IT-opleiding, maar mist specifieke affiniteit met financiële processen en reporting.",
     "local_score": 82,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "15fd13d3ee04",
+   "source": "JobSpy",
+   "title": "GRC Data Engineer",
+   "company": "Just Eat Takeaway.com",
+   "location": "Amsterdam, NH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-18T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=04e512f6dadb6ec8",
+   "salary": null,
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role Join our Risk & Internal Control department as a GRC Data Engineer, where our team protects and empowers the business by turning complex data into trusted insights. You will design scalable big data solutions on Google Cloud Platform (GCP), building reliable pipelines that power continuous control monitoring and unlock Artificial Intelligence (AI) capabilities across the company. Guided by our values to Lead, Deliver, and Care , we take a customer-centric approach to everything we build—relying on strong teamwork to deliver impactful data products that raise the bar and help our stakeholders succeed. Location: Amsterdam (Hybrid: 3 days in the office, 2 days working from home) Reporting to: Head of Internal Control These are some of the key components to the position: Aim high by designing and maintaining scalable ETL and ELT data pipelines using Airflow and dbt. Build dimensional data models (such as star and snowflake schemas) to simplify complex data and optimize reporting. Drive excellence by developing AI-ready pipelines and feature datasets that power machine learning and advanced analytics. Transform and analyze large partner and sales datasets using SQL and Python to deliver clear, actionable insights. Elevate data reliability by contributing to Data Quality (DQ) frameworks, Service Level Agreements (SLAs), and proactive alerting systems. Partner closely with analysts, data scientists, and business stakeholders to translate goals into trusted data solutions. What will you bring to the team? Proven background in data engineering with a track record of delivering production-grade data pipelines. Strong proficiency in SQL, dimensional data modeling, and Python for automating data workflows. Hands-on experience with orchestration and transformation tools like Airflow and dbt, alongside Git and CI/CD practices. Working knowledge of a major cloud platform, such as Google Cloud Platform (GCP), AWS, or Azure. Curiosity for Large Language Model (LLM) developer tools and building data foundations for AI and Machine Learning (ML). Ability to develop a strong understanding of our internal and external partners, communicating clearly to solve problems together. A commitment to achieving goals and aiming higher to drive excellence in data quality and system reliability. A mindset to act responsibly while making a lasting impact—a general understanding of risk reporting or control monitoring is a plus. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn’t just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers’ loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we’re building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belongings No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We’re committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else are we delivering? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET journeys. Are you ready to join the team? Apply now",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
+   "benefits": [
+    "Thuiswerken"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Git",
+    "CI/CD",
+    "Azure",
+    "AWS",
+    "GCP",
+    "Machine learning",
+    "AI",
+    "LLM",
+    "ETL"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-18T04:12:26.754006+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 60,
+    "matched_skills": [
+     "SQL",
+     "Python",
+     "AWS",
+     "Git"
+    ],
+    "missing_realistic": [
+     "Gerichte data engineering ervaring"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je Python-, SQL- en AWS-kennis sluiten goed aan bij data engineering.",
+    "local_score": 81,
     "ai": true,
     "check": false,
     "visible": true
@@ -7866,66 +7926,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "15fd13d3ee04",
-   "source": "JobSpy",
-   "title": "GRC Data Engineer",
-   "company": "Just Eat Takeaway.com",
-   "location": "Amsterdam, NH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-18T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=04e512f6dadb6ec8",
-   "salary": null,
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe. About this role Join our Risk & Internal Control department as a GRC Data Engineer, where our team protects and empowers the business by turning complex data into trusted insights. You will design scalable big data solutions on Google Cloud Platform (GCP), building reliable pipelines that power continuous control monitoring and unlock Artificial Intelligence (AI) capabilities across the company. Guided by our values to Lead, Deliver, and Care , we take a customer-centric approach to everything we build—relying on strong teamwork to deliver impactful data products that raise the bar and help our stakeholders succeed. Location: Amsterdam (Hybrid: 3 days in the office, 2 days working from home) Reporting to: Head of Internal Control These are some of the key components to the position: Aim high by designing and maintaining scalable ETL and ELT data pipelines using Airflow and dbt. Build dimensional data models (such as star and snowflake schemas) to simplify complex data and optimize reporting. Drive excellence by developing AI-ready pipelines and feature datasets that power machine learning and advanced analytics. Transform and analyze large partner and sales datasets using SQL and Python to deliver clear, actionable insights. Elevate data reliability by contributing to Data Quality (DQ) frameworks, Service Level Agreements (SLAs), and proactive alerting systems. Partner closely with analysts, data scientists, and business stakeholders to translate goals into trusted data solutions. What will you bring to the team? Proven background in data engineering with a track record of delivering production-grade data pipelines. Strong proficiency in SQL, dimensional data modeling, and Python for automating data workflows. Hands-on experience with orchestration and transformation tools like Airflow and dbt, alongside Git and CI/CD practices. Working knowledge of a major cloud platform, such as Google Cloud Platform (GCP), AWS, or Azure. Curiosity for Large Language Model (LLM) developer tools and building data foundations for AI and Machine Learning (ML). Ability to develop a strong understanding of our internal and external partners, communicating clearly to solve problems together. A commitment to achieving goals and aiming higher to drive excellence in data quality and system reliability. A mindset to act responsibly while making a lasting impact—a general understanding of risk reporting or control monitoring is a plus. At JET, this is how we play Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn’t just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side. At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers’ loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we’re building a customer-first culture which enables us to stay one step ahead of the competition. Inclusion, Diversity & Belongings No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We’re committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day. What else are we delivering? Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET journeys. Are you ready to join the team? Apply now",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Ready for a challenge? Then Just Eat Takeaway.com might be the place for you. We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of...",
-   "benefits": [
-    "Thuiswerken"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Git",
-    "CI/CD",
-    "Azure",
-    "AWS",
-    "GCP",
-    "Machine learning",
-    "AI",
-    "LLM",
-    "ETL"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-18T04:12:26.754006+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 60,
-    "matched_skills": [
-     "SQL",
-     "Python",
-     "AWS",
-     "Git"
-    ],
-    "missing_realistic": [
-     "Gerichte data engineering ervaring"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je Python-, SQL- en AWS-kennis sluiten goed aan bij data engineering.",
-    "local_score": 81,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {
@@ -9178,6 +9178,69 @@
    }
   },
   {
+   "id": "beaf8d410a4f",
+   "source": "JobSpy",
+   "title": "Software Engineer Java - digitaal behoud",
+   "company": "Koninklijke Bibliotheek",
+   "location": "Den Haag, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-17T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=c32b07d92d4574fe",
+   "salary": "€3630 - €5758 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Wat ga je doen? Als software engineer ben je medeverantwoordelijk voor de ontwikkeling en het onderhoud van meerdere producten en diensten binnen ons domein behouden digitaal, waaronder de IR Harvester valt. Dit is een applicatie die digitale publicaties en bijbehorende metadata automatisch verzamelt uit academische repositories en opslaat in het Digitaal Magazijn, onderdeel van de e-Depot-infrastructuur (ons digitale magazijn). Daarnaast draag je in dit kader bij aan een landelijk project en aan de doorontwikkeling van kleinere applicaties binnen ons applicatielandschap. Samen met je team werk je aan het aansluiten van nieuwe datastromen, het verbeteren van bestaande processen en het verder ontwikkelen van onze applicaties, zodat nieuwe datastromen in de toekomst sneller en met minder maatwerk kunnen worden toegevoegd. Je werkzaamheden bestaan onder andere uit het: ontwerpen, ontwikkelen, testen en onderhouden van Java-gebaseerde software (met o.a. Spring Boot); ontwikkelen en onderhouden van configuraties en standaarden waarmee nieuwe datastromen efficiënt kunnen worden aangesloten; het schrijven van geautomatiseerde tests en het bewaken van de technische kwaliteit van de code; toepassen van Domain Driven Design en het realiseren van SOAP- en REST-koppelingen; het optimaliseren van de performance en stabiliteit van de applicatie; het deelnemen aan scrum-events en het delen van kennis met collega’s binnen en buiten het team; het afstemmen met functioneel beheerders, metadata- en contentspecialisten en architecten over eisen en validaties. Maak jij het mogelijk? De rol vraagt om technisch inzicht, analytisch vermogen en het kunnen samenwerken in een omgeving waar datakwaliteit en schaalbaarheid belangrijk zijn. Je bent nieuwsgierig naar complexe datastromen en haalt energie uit het oplossen van technische uitdagingen. We vinden het belangrijk dat je nieuwe dingen en technieken wilt leren en een open en nieuwsgierige houding hebt. Wat je meebrengt: hbo-werk- en denkniveau; minimaal drie jaar ervaring als software engineer; ervaring met Java, bij voorkeur in combinatie met Spring Boot; ervaring met Domain Driven Design (DDD); ervaring met Linux en geautomatiseerd testen (bijvoorbeeld JUnit) is een pre; ervaring met Agile/Scrum-werken; een open en nieuwsgierige houding - bereidheid ook in andere techstacks ervaring op te doen; uitstekende communicatieve vaardigheden in het Nederlands. Over het team De KB werkt aan duurzame toegang tot informatie en zet zich in om het digitale erfgoed van Nederland toegankelijk te maken en houden. In ons agile domeinteam Beheren: Behouden Digitaal werken we met enkele teams, elk met hun eigen focus, gezamenlijk aan het mogelijk maken van die duurzame toegankelijkheid. We geloven in autonome, zelf-organiserende en cross-functionele teams die zich gezamenlijk verantwoordelijk voelen voor de levering van waarde aan onze afnemers. Waar kan je op rekenen? Als je kiest voor de KB, dan kies je ook voor uitstekende arbeidsvoorwaarden. Om precies te zijn valt jouw keuze op onder andere: een bruto maandsalaris tussen € 3.630,- en € 5.758,- (schaal 10). Een dienstverband voor 1 jaar met uitzicht op verlenging voor onbepaalde tijd een goede werk-privébalans. Zo heb je 42 vrije dagen en praten we graag met je over thuiswerken en flexibele werktijden. 100% vergoeding van jouw OV-reiskosten op basis van 2de klas. pensioenopbouw via pensioenfonds ABP, waarbij de KB 70% van de premie betaalt. een dertiende maand (8,33%). Deze arbeidsvoorwaarden gelden voor een fulltime dienstverband van 40 uur per week. Voor de vacature Software engineer domein beheren: behouden digitaal is een dienstverband voor 32 - 40 uur per week aan de orde. Lees hier meer over onze uitstekende secundaire arbeidsvoorwaarden. Over het sollicitatieproces Kom bijdragen aan onze innovatie! We ontvangen graag jouw CV en motivatie. Vragen over de procedure? Nena Lukic geeft antwoord via nena.lukic@kb.nl . Solliciteren kan tot en met 31 december 2026. Na een eerste selectie nodigen we passende kandidaten uit voor een online kennismakingsgesprek. Deze gesprekken vinden plaats in week 1. De eerste selectiegesprekken op locatie staan gepland in week 2. Vervolggesprekken plannen we in week 3. Een referentiecheck en het aanvragen van een Verklaring Omtrent Gedrag (VOG) maken standaard onderdeel uit van onze sollicitatieprocedure. Tijdens de selectieprocedure bewaren we je gegevens. Uiterlijk vier weken na afloop van de procedure verwijderen wij deze conform de Algemene Verordening Gegevensbescherming (AVG). Lees meer hierover in onze privacyverklaring sollicitanten. Wij verzorgen onze eigen wervingen. Acquisitie naar aanleiding van deze publicatie wordt niet op prijs gesteld. Over de KB De KB is de nationale bibliotheek van Nederland. Wat meer mensen mogen weten, is dat de KB innoveert. Samen met meer dan 700 collega’s zetten we ons in om Nederland elke dag slimmer, vaardiger en creatiever te maken. Dit lukt ons door bijvoorbeeld alle digitale publicaties van én over ons land te verzamelen, te bewaren en te delen. En door met elkaar te streven naar een samenleving waar iedereen volwaardig mee kan doen. Zo zijn we er voor de allerjongsten met voorleeskoffertjes, voor senioren met tabletcursussen en voor laaggeletterden met taalhulp. Maatschappelijke uitdagingen zoals deze gaan we aan met onze netwerkpartners. We omarmen de verschillen van al onze collega’s. Sterker nog: we zien dat verschillen elkaar versterken. .",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Wat ga je doen? Als software engineer ben je medeverantwoordelijk voor de ontwikkeling en het onderhoud van meerdere producten en diensten binnen ons domein behouden digitaal, waaronder de IR Harvester valt. Dit is een applicatie die digitale publicaties en bijbehorende metadata automatisch...",
+   "benefits": [
+    "Thuiswerken",
+    "Opleidingsbudget",
+    "Pensioen",
+    "Reiskosten",
+    "Vaste baan",
+    "Flexibele uren"
+   ],
+   "skills": [
+    "Java",
+    "Spring",
+    "REST",
+    "Linux",
+    "Agile",
+    "Unit testing",
+    "Nederlands"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-17T13:12:24.246737+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 70,
+    "matched_skills": [
+     "Java",
+     "REST API’s",
+     "Git"
+    ],
+    "missing_realistic": [
+     "Spring Boot",
+     "dataharvesting"
+    ],
+    "ignored_unrealistic": [
+     "Domain Driven Design"
+    ],
+    "reason": "Je programmeert in Java en hebt de juiste opleiding, maar mist aantoonbare praktijkervaring met Spring Boot en harvesters.",
+    "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "a9ac4047fbe2",
    "source": "JobSpy",
    "title": "Software engineer Java en Hibernate",
@@ -9238,69 +9301,6 @@
     ],
     "reason": "Je beheerst Java op basisniveau, maar mist specifieke professionele ervaring met Spring Boot, Hibernate en ETL-processen.",
     "local_score": 70,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
-   "id": "beaf8d410a4f",
-   "source": "JobSpy",
-   "title": "Software Engineer Java - digitaal behoud",
-   "company": "Koninklijke Bibliotheek",
-   "location": "Den Haag, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-17T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=c32b07d92d4574fe",
-   "salary": "€3630 - €5758 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Wat ga je doen? Als software engineer ben je medeverantwoordelijk voor de ontwikkeling en het onderhoud van meerdere producten en diensten binnen ons domein behouden digitaal, waaronder de IR Harvester valt. Dit is een applicatie die digitale publicaties en bijbehorende metadata automatisch verzamelt uit academische repositories en opslaat in het Digitaal Magazijn, onderdeel van de e-Depot-infrastructuur (ons digitale magazijn). Daarnaast draag je in dit kader bij aan een landelijk project en aan de doorontwikkeling van kleinere applicaties binnen ons applicatielandschap. Samen met je team werk je aan het aansluiten van nieuwe datastromen, het verbeteren van bestaande processen en het verder ontwikkelen van onze applicaties, zodat nieuwe datastromen in de toekomst sneller en met minder maatwerk kunnen worden toegevoegd. Je werkzaamheden bestaan onder andere uit het: ontwerpen, ontwikkelen, testen en onderhouden van Java-gebaseerde software (met o.a. Spring Boot); ontwikkelen en onderhouden van configuraties en standaarden waarmee nieuwe datastromen efficiënt kunnen worden aangesloten; het schrijven van geautomatiseerde tests en het bewaken van de technische kwaliteit van de code; toepassen van Domain Driven Design en het realiseren van SOAP- en REST-koppelingen; het optimaliseren van de performance en stabiliteit van de applicatie; het deelnemen aan scrum-events en het delen van kennis met collega’s binnen en buiten het team; het afstemmen met functioneel beheerders, metadata- en contentspecialisten en architecten over eisen en validaties. Maak jij het mogelijk? De rol vraagt om technisch inzicht, analytisch vermogen en het kunnen samenwerken in een omgeving waar datakwaliteit en schaalbaarheid belangrijk zijn. Je bent nieuwsgierig naar complexe datastromen en haalt energie uit het oplossen van technische uitdagingen. We vinden het belangrijk dat je nieuwe dingen en technieken wilt leren en een open en nieuwsgierige houding hebt. Wat je meebrengt: hbo-werk- en denkniveau; minimaal drie jaar ervaring als software engineer; ervaring met Java, bij voorkeur in combinatie met Spring Boot; ervaring met Domain Driven Design (DDD); ervaring met Linux en geautomatiseerd testen (bijvoorbeeld JUnit) is een pre; ervaring met Agile/Scrum-werken; een open en nieuwsgierige houding - bereidheid ook in andere techstacks ervaring op te doen; uitstekende communicatieve vaardigheden in het Nederlands. Over het team De KB werkt aan duurzame toegang tot informatie en zet zich in om het digitale erfgoed van Nederland toegankelijk te maken en houden. In ons agile domeinteam Beheren: Behouden Digitaal werken we met enkele teams, elk met hun eigen focus, gezamenlijk aan het mogelijk maken van die duurzame toegankelijkheid. We geloven in autonome, zelf-organiserende en cross-functionele teams die zich gezamenlijk verantwoordelijk voelen voor de levering van waarde aan onze afnemers. Waar kan je op rekenen? Als je kiest voor de KB, dan kies je ook voor uitstekende arbeidsvoorwaarden. Om precies te zijn valt jouw keuze op onder andere: een bruto maandsalaris tussen € 3.630,- en € 5.758,- (schaal 10). Een dienstverband voor 1 jaar met uitzicht op verlenging voor onbepaalde tijd een goede werk-privébalans. Zo heb je 42 vrije dagen en praten we graag met je over thuiswerken en flexibele werktijden. 100% vergoeding van jouw OV-reiskosten op basis van 2de klas. pensioenopbouw via pensioenfonds ABP, waarbij de KB 70% van de premie betaalt. een dertiende maand (8,33%). Deze arbeidsvoorwaarden gelden voor een fulltime dienstverband van 40 uur per week. Voor de vacature Software engineer domein beheren: behouden digitaal is een dienstverband voor 32 - 40 uur per week aan de orde. Lees hier meer over onze uitstekende secundaire arbeidsvoorwaarden. Over het sollicitatieproces Kom bijdragen aan onze innovatie! We ontvangen graag jouw CV en motivatie. Vragen over de procedure? Nena Lukic geeft antwoord via nena.lukic@kb.nl . Solliciteren kan tot en met 31 december 2026. Na een eerste selectie nodigen we passende kandidaten uit voor een online kennismakingsgesprek. Deze gesprekken vinden plaats in week 1. De eerste selectiegesprekken op locatie staan gepland in week 2. Vervolggesprekken plannen we in week 3. Een referentiecheck en het aanvragen van een Verklaring Omtrent Gedrag (VOG) maken standaard onderdeel uit van onze sollicitatieprocedure. Tijdens de selectieprocedure bewaren we je gegevens. Uiterlijk vier weken na afloop van de procedure verwijderen wij deze conform de Algemene Verordening Gegevensbescherming (AVG). Lees meer hierover in onze privacyverklaring sollicitanten. Wij verzorgen onze eigen wervingen. Acquisitie naar aanleiding van deze publicatie wordt niet op prijs gesteld. Over de KB De KB is de nationale bibliotheek van Nederland. Wat meer mensen mogen weten, is dat de KB innoveert. Samen met meer dan 700 collega’s zetten we ons in om Nederland elke dag slimmer, vaardiger en creatiever te maken. Dit lukt ons door bijvoorbeeld alle digitale publicaties van én over ons land te verzamelen, te bewaren en te delen. En door met elkaar te streven naar een samenleving waar iedereen volwaardig mee kan doen. Zo zijn we er voor de allerjongsten met voorleeskoffertjes, voor senioren met tabletcursussen en voor laaggeletterden met taalhulp. Maatschappelijke uitdagingen zoals deze gaan we aan met onze netwerkpartners. We omarmen de verschillen van al onze collega’s. Sterker nog: we zien dat verschillen elkaar versterken. .",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Wat ga je doen? Als software engineer ben je medeverantwoordelijk voor de ontwikkeling en het onderhoud van meerdere producten en diensten binnen ons domein behouden digitaal, waaronder de IR Harvester valt. Dit is een applicatie die digitale publicaties en bijbehorende metadata automatisch...",
-   "benefits": [
-    "Thuiswerken",
-    "Opleidingsbudget",
-    "Pensioen",
-    "Reiskosten",
-    "Vaste baan",
-    "Flexibele uren"
-   ],
-   "skills": [
-    "Java",
-    "Spring",
-    "REST",
-    "Linux",
-    "Agile",
-    "Unit testing",
-    "Nederlands"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-17T13:12:24.246737+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 70,
-    "matched_skills": [
-     "Java",
-     "REST API’s",
-     "Git"
-    ],
-    "missing_realistic": [
-     "Spring Boot",
-     "dataharvesting"
-    ],
-    "ignored_unrealistic": [
-     "Domain Driven Design"
-    ],
-    "reason": "Je programmeert in Java en hebt de juiste opleiding, maar mist aantoonbare praktijkervaring met Spring Boot en harvesters.",
-    "local_score": 77,
     "ai": true,
     "check": false,
     "visible": true
@@ -9644,32 +9644,29 @@
    "location": "Den Haag, ZH, Netherlands",
    "remote": false,
    "posted_at": "2026-11-17T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=596e1f8f5d61e283",
+   "url": "https://nl.indeed.com/viewjob?jk=599dd2962f7ea64a",
    "salary": "€3533 - €8072 per maand",
    "tags": [
     "",
     "parttime, fulltime"
    ],
-   "full_text": "About this position Within the Radar Electronic Warfare team, you will apply your knowledge, experience, and interests to technical and scientific research projects focused on modelling, simulation, programming, and data analysis in the field of radar electronic warfare. Think of systems that enable the armed forces to disrupt or deceive adversary radar systems. Applications for detecting signals in conflict areas. Or new methods to make better use of available data through advanced analysis. These are diverse challenges, but they all have one thing in common: they contribute directly or indirectly to the security, resilience, and information advantage of the Netherlands and its allies. As a Scientist Analyst Radar Electronic Warfare, you combine scientific depth with practical analysis. You translate complex technical and operational challenges into well-founded models, analyses, and recommendations. In doing so, you connect technological developments to real-world defence applications. You will work within the Electronic Warfare Department, a team of approximately 60 highly skilled physicists, electrical engineers, mathematicians, and software engineers. Together, you develop new concepts, models, algorithms, and analytical methods for radar surveillance and countermeasures. We work for the Ministry of Defence and other security organizations, in close collaboration with national and international partners, research institutes, and NATO working groups. What will be your role? Depending on your background, you will further specialize in modelling, simulation, data analysis, and algorithm development related to radar systems, electromagnetic propagation, and signal processing. This will enable you to quickly contribute as a full team member to projects in radar electronic warfare. From day one, you will work on technically challenging problems with a direct connection to defence operations, while being given the freedom to explore new solution directions and shape the technical content of your work. In practice, your responsibilities will include: Analysing and interpreting radar and sensor data. Conducting technical and operational studies in the field of radar electronic warfare. Developing and applying models, simulations, and analytical methodologies. Assessing the effectiveness of systems, concepts, and countermeasures. Documenting and presenting results to colleagues, project teams, and clients through reports, simulations, demonstrations, and recommendations. What we expect from you Innovation and continuous development come naturally to you. You are proactive and combine scientific rigor with the desire to make a real-world impact. Research is not an end in itself, but a means to answer concrete questions within the defence domain in a thorough and evidence-based manner. You enjoy developing new concepts, models, and analytical approaches, while always keeping practical application in mind. We are looking for someone with broad technical curiosity and the drive to tackle complex challenges, even when the answer is not immediately obvious. You enjoy asking questions and quickly master new topics. Uncertainty does not discourage you. On the contrary, when a problem is not yet fully understood, you see opportunities to work step by step toward effective solutions. You enjoy collaborating with experts from different disciplines, but you can also work independently. You are self-reliant, take initiative and ownership, and are capable of directing your own work. You can structure complex information, distinguish key issues from details, and communicate your conclusions clearly to different audiences. You are open to feedback and committed to continuous learning and development. We welcome candidates with varying levels of experience. The exact number of years of experience is not a decisive factor for us. What else do you bring? A Master's degree from a research university (MSc) in, for example, Physics, Applied Physics, Mathematics, Applied Mathematics, Electrical Engineering, Artificial Intelligence, Computer Science, or another relevant technical or scientific discipline. An interest in defence-related challenges and a willingness to immerse yourself in operational contexts. Demonstrable affinity with and/or experience in modelling, simulation, and numerical analysis, preferably within complex technical systems. Strong programming skills. Experience with Python and/or MATLAB is required; experience with Java is a significant advantage. Demonstrable affinity with electromagnetic phenomena and/or propagation, and digital signal processing. Knowledge of and professional experience with radar technology and/or radar system concepts is considered a major advantage, but is not essential. Relevant professional or research experience is a plus. Excellent command of both Dutch and English, written and spoken. What you'll get in return Challenging and varied work with a real impact. And plenty of opportunities as, at TNO, you are in charge of shaping your career. We offer a gross monthly salary between € 3,533 and € 8,072 (based on your knowledge and experience), 8% holiday pay, a 13th month bonus of 8.33% and a flex budget (5.58% + € 180). In addition, you will be given every opportunity to develop yourself. TNO offers optional employee benefits, enabling you to tailor your benefits package to match your personal situation. You may also expect: An extremely professional, innovative working environment where colleagues are leading experts in their field. The opportunity to attend courses, workshops and conferences, and to receive training and coaching based on your needs. 33 days annual leave plus a flexible holiday that can be used on a cultural, religious, or otherwise important day of your choosing (on a full-time basis). An employer working towards a respectful, inclusive, and equitable work environment where every employee can flourish, with various initiatives such as Jong TNO, numerous",
+   "full_text": "Over deze vacature Binnen het radar electronic warfare team zet je jouw kennis, ervaring en interesses in voor technisch-wetenschappelijke onderzoeksprojecten waarin modelleren, simuleren, programmeren en data-analyse ten behoeve van radar electronic warfare centraal staan. Denk aan een systeem waarmee de krijgsmacht radarsystemen van tegenstanders kan verstoren of misleiden. Een toepassing waarmee signalen in conflictgebieden worden gedetecteerd. Of nieuwe methoden om beschikbare data beter te analyseren. Uiteenlopende vraagstukken, maar met één overeenkomst: ze dragen allemaal direct of indirect bij aan de veiligheid, weerbaarheid en informatiepositie van Nederland en zijn bondgenoten. Als scientist-analist radar electronic warfare combineer je wetenschappelijke diepgang met praktische analyse. Je vertaalt complexe technisch-operationele vraagstukken naar onderbouwde modellen, analyses en adviezen. Daarbij verbind je technologische ontwikkelingen aan concrete vraagstukken uit de defensiepraktijk. Je werkt binnen de afdeling Electronic Warfare, een groep van ongeveer 60 hoogopgeleide fysici, elektrotechnici, wiskundigen en software-engineers. Samen ontwikkelen jullie nieuwe concepten, modellen, algoritmen en analysemethoden voor radar surveillance en countermeasures. We werken voor Defensie en andere veiligheidsorganisaties, in nauwe samenwerking met nationale en internationale partners, kennisinstellingen en NAVO-werkgroepen. Wat ga je doen? Afhankelijk van je achtergrond verdiep je je verder in modellering, simulatie, data-analyse en algoritmeontwikkeling op gebied van radar, elektromagnetische propagatie en signaalverwerking,. Hierdoor kun je snel als volwaardig teamlid bijdragen aan projecten op het gebied van radar electronic warfare. Vanaf het begin werk je mee aan technisch uitdagende vraagstukken met een directe relatie tot de defensiepraktijk en krijg je ruimte om nieuwe oplossingsrichtingen te verkennen en inhoudelijk richting te geven aan je werk. In de praktijk houd je je onder andere bezig met: Het analyseren en interpreteren van radar- en sensordata; Het uitvoeren van technische en operationele studies naar radar electronic warfare; Het ontwikkelen en toepassen van modellen, simulaties en analysemethoden; Het beoordelen van de effectiviteit van systemen, concepten en tegenmaatregelen; Het vastleggen en presenteren van resultaten aan collega’s, projectteams en opdrachtgevers in rapporten, simulaties, demonstraties of adviezen. Wat wij van jou verwachten Innoveren en ontwikkelen is voor jou vanzelfsprekend. Je weet van aanpakken en combineert wetenschappelijke diepgang met de wens om impact te maken in de praktijk. Onderzoek is daarbij geen doel op zich, maar een middel om concrete vraagstukken binnen het defensiedomein zorgvuldig en onderbouwd te beantwoorden. Je vindt het leuk om nieuwe concepten, modellen en analysemethoden te ontwikkelen, maar houdt daarbij altijd oog voor de toepassing. We zoeken iemand met een brede technische nieuwsgierigheid en de drive om complexe vraagstukken verder te brengen, ook wanneer het antwoord nog niet vaststaat. Je stelt graag vragen en maakt je nieuwe onderwerpen snel eigen. Onzekerheid schrikt je niet af; juist wanneer een probleem nog niet volledig is begrepen, zie jij kansen om stap voor stap tot werkbare oplossingen te komen. Je werkt graag samen met experts uit verschillende disciplines, maar kunt ook zelfstandig verder. Je bent zelfredzaam, neemt initiatief en verantwoordelijkheid en geeft richting aan je eigen werk. Je brengt structuur aan in complexe informatie, onderscheidt hoofd- en bijzaken en weet je conclusies helder over te brengen aan verschillende doelgroepen. Je staat open voor feedback en blijft jezelf ontwikkelen. We staan open voor kandidaten met verschillende ervaringsniveaus. Het exacte aantal jaren ervaring is voor ons niet doorslaggevend. Wat je nog meer in huis hebt: Een wo-master in bijvoorbeeld (Technische) Natuurkunde, (Technische) Wiskunde, Elektrotechniek, Kunstmatige Intelligentie, Computer Science of een andere relevante technisch-wetenschappelijke richting. Affiniteit met het werken aan defensie gerelateerde vraagstukken en de bereidheid om je te verdiepen in operationele contexten. Aantoonbare affiniteit met en/of ervaring in modelleren, simuleren en numerieke analyses, bij voorkeur binnen complexe technische systemen. Sterke programmeervaardigheden. Ervaring met Python en/of Matlab; Java is een grote pré. Aantoonbare affiniteit met elektromagnetische effecten en/of propagatie, digitale signaalverwerking; kennis en (werk)ervaring met radartechnologie en/of radarsysteemconcepten is een grote pré, maar niet noodzakelijk. Relevante werk- of onderzoekservaring is een pré. Uitstekende beheersing van de Nederlandse en Engelse taal, zowel mondeling als schriftelijk. Wat wij jou bieden Uitdagend én afwisselend werk met serieuze impact. En volop kansen, want bij TNO heb je grotendeels zelf de regie over je carrière. Naast een bruto (fulltime) maandsalaris tussen € 3.533,- en € 8.072,- (afhankelijk van je kennis en ervaring), vakantiegeld (8%), een 13de maand (8,33%) en een flexbudget (5,58% + € 180), krijg je alle mogelijkheden om jezelf te ontwikkelen. Daarnaast kun je bij TNO een ‘menu’ aan arbeidsvoorwaarden samenstellen dat bij jouw persoonlijke situatie past. Wat je ook mag verwachten: Een uiterst professionele, innovatieve werkomgeving, met topexperts als collega’s. Mogelijkheid om cursussen, opleidingen en workshops te volgen en congressen te bezoeken, en coaching als je daar behoefte aan hebt. 33 vakantiedagen plus een flexibele feestdag, die in te zetten is op een culturele, religieuze of anderszins belangrijke dag naar keuze (bij een fulltime dienstverband). Een werkgever die divers talent waardeert en stimuleert, met initiatieven als Jong TNO, verschillende expertise gildes, onze Rainbow Community en Round Tables over inclusiethema’s. Een uitgebreide en flexibele mobiliteitsregeling, inclusief volledig",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "About this position Within the Radar Electronic Warfare team, you will apply your knowledge, experience, and interests to technical and scientific research projects focused on modelling, simulation, programming, and data analysis in the field of radar electronic warfare. Think of systems that...",
+   "short_desc": "Over deze vacature Binnen het radar electronic warfare team zet je jouw kennis, ervaring en interesses in voor technisch-wetenschappelijke onderzoeksprojecten waarin modelleren, simuleren, programmeren en data-analyse ten behoeve van radar electronic warfare centraal staan. Denk aan een systeem...",
    "benefits": [
-    "Bonus",
+    "Opleidingsbudget",
     "Coaching"
    ],
    "skills": [
     "Python",
     "Java",
     "AI",
-    "Data analyse",
-    "Security",
-    "Engels",
-    "Nederlands"
+    "Data analyse"
    ],
-   "lang": "en",
+   "lang": "nl",
    "linkedin": false,
    "unrealistic_hint": false,
    "first_seen": "2026-11-17T22:14:27.209948+00:00",
@@ -9686,7 +9683,7 @@
     ],
     "ignored_unrealistic": [],
     "reason": "Deze wetenschappelijke rol vraagt diepgaande technische en fysische onderzoeksvaardigheden die buiten jouw software-achtergrond vallen.",
-    "local_score": 86,
+    "local_score": 82,
     "ai": true,
     "check": true,
     "visible": false
@@ -11368,6 +11365,66 @@
    }
   },
   {
+   "id": "51ec9285dc2b",
+   "source": "JobSpy",
+   "title": "Backend developer - C++ - Golang - Database",
+   "company": "MatchMatters BV",
+   "location": "Harderwijk, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-16T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4323bf1014071cce",
+   "salary": "€3500 - €5000 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met zich mee. Denk aan API’s optimaliseren, background services inrichten, integraties bouwen, datastromen managen en de architectuur verder verbeteren. Klinkt goed? Lees dan vooral verder. Wat ga je doen? Je ontwikkelt en onderhoudt backendcomponenten die écht wat doen voor onze gebruikers. Aangezien we van C++ naar GO gaan, is het van belang dat je al wat ervaring hebt op de backend. De taal is hierin niet van enorm belang, maar de interesse in GOLang is van belang. Je denkt mee over architectuur, performance en schaalbaarheid en bouwt mee aan interne services en externe integraties.Je analyseert bottlenecks en komt met slimme oplossingen en werkt nauw samen met frontend developers, testers en product owners. Wat breng je mee? Je hebt al werkervaring met een backend taal (bijv. C++, PHP of GO) Je kent je weg in REST API’s, SQL, background processing, etc. Je snapt hoe je schaalbare systemen bouwt Je houdt van clean code, version control en automatiseren Minimaal 1-2 jaar werkervaring als backender Wat kun je verwachten? Een informeel, nuchter team waar samenwerken centraal staat Ruimte voor eigen initiatief, ideeën en technische verdieping Flexibel en deels remote werken (minimaal 2 dagen op kantoor) Een goed salaris en alles wat je nodig hebt om je werk goed te doen (laptop, tools, etc.). Een fijne werksfeer, met humor, korte lijntjes en regelmatig wat leuks buiten werktijd Zin om kennis te maken? Stuur gewoon even een berichtje – met je cv, GitHub of gewoon wat over jezelf. Geen eindeloze sollicitatieprocedure, we houden het graag laagdrempelig. Tot snel?",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met...",
+   "benefits": [
+    "Thuiswerken",
+    "Laptop"
+   ],
+   "skills": [
+    "C++",
+    "PHP",
+    "Go",
+    "SQL",
+    "REST",
+    "Git",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-19T21:25:51.313481+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "PHP",
+     "REST API's",
+     "SQL",
+     "Git"
+    ],
+    "missing_realistic": [
+     "Go",
+     "C++"
+    ],
+    "ignored_unrealistic": [
+     "1-2 jaar werkervaring"
+    ],
+    "reason": "Je backendervaring in PHP past goed, maar je hebt nog geen professionele ervaring met C++ of Go.",
+    "local_score": 80,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
    "id": "1aa41259dd1f",
    "source": "JobSpy",
    "title": "Python Software Engineer – AI/Automation (m/f/d)",
@@ -12269,66 +12326,6 @@
    }
   },
   {
-   "id": "51ec9285dc2b",
-   "source": "JobSpy",
-   "title": "Backend developer - C++ - Golang - Database",
-   "company": "MatchMatters BV",
-   "location": "Harderwijk, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-16T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4323bf1014071cce",
-   "salary": "€3500 - €5000 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met zich mee. Denk aan API’s optimaliseren, background services inrichten, integraties bouwen, datastromen managen en de architectuur verder verbeteren. Klinkt goed? Lees dan vooral verder. Wat ga je doen? Je ontwikkelt en onderhoudt backendcomponenten die écht wat doen voor onze gebruikers. Aangezien we van C++ naar GO gaan, is het van belang dat je al wat ervaring hebt op de backend. De taal is hierin niet van enorm belang, maar de interesse in GOLang is van belang. Je denkt mee over architectuur, performance en schaalbaarheid en bouwt mee aan interne services en externe integraties.Je analyseert bottlenecks en komt met slimme oplossingen en werkt nauw samen met frontend developers, testers en product owners. Wat breng je mee? Je hebt al werkervaring met een backend taal (bijv. C++, PHP of GO) Je kent je weg in REST API’s, SQL, background processing, etc. Je snapt hoe je schaalbare systemen bouwt Je houdt van clean code, version control en automatiseren Minimaal 1-2 jaar werkervaring als backender Wat kun je verwachten? Een informeel, nuchter team waar samenwerken centraal staat Ruimte voor eigen initiatief, ideeën en technische verdieping Flexibel en deels remote werken (minimaal 2 dagen op kantoor) Een goed salaris en alles wat je nodig hebt om je werk goed te doen (laptop, tools, etc.). Een fijne werksfeer, met humor, korte lijntjes en regelmatig wat leuks buiten werktijd Zin om kennis te maken? Stuur gewoon even een berichtje – met je cv, GitHub of gewoon wat over jezelf. Geen eindeloze sollicitatieprocedure, we houden het graag laagdrempelig. Tot snel?",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met...",
-   "benefits": [
-    "Thuiswerken",
-    "Laptop"
-   ],
-   "skills": [
-    "C++",
-    "PHP",
-    "Go",
-    "SQL",
-    "REST",
-    "Git",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-19T21:25:51.313481+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "PHP",
-     "REST API's",
-     "SQL",
-     "Git"
-    ],
-    "missing_realistic": [
-     "Go",
-     "C++"
-    ],
-    "ignored_unrealistic": [
-     "1-2 jaar werkervaring"
-    ],
-    "reason": "Je backendervaring in PHP past goed, maar je hebt nog geen professionele ervaring met C++ of Go.",
-    "local_score": 80,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "2d30690b2ae5",
    "source": "JobSpy",
    "title": ".NET Ontwikkelaar",
@@ -12442,52 +12439,6 @@
     "ai": true,
     "check": false,
     "visible": false
-   }
-  },
-  {
-   "id": "7fc826bf8f94",
-   "source": "JobSpy",
-   "title": "Software engineer gebouwautomatisering - automated engineering",
-   "company": "Kieback&Peter Nederland",
-   "location": "Zwolle, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-15T00:00:00+00:00",
-   "url": "https://www.glassdoor.nl/job-listing/j?jl=1010326626415",
-   "salary": "€45000 - €70000 per jaar",
-   "tags": [
-    "",
-    "fulltime, contract"
-   ],
-   "full_text": "",
-   "applicants": null,
-   "publisher": "Glassdoor",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "",
-   "benefits": [],
-   "skills": [],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-14T21:24:40.868798+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "AI",
-     "Software Engineering"
-    ],
-    "missing_realistic": [
-     "Gebouwautomatisering",
-     "BACnet",
-     "Modbus"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je hebt sterke software engineering skills en ervaring met AI, maar specifieke gebouwautomatisering ontbreekt nog.",
-    "local_score": 50,
-    "ai": true,
-    "check": false,
-    "visible": true
    }
   },
   {

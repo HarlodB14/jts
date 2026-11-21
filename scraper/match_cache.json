@@ -1,21 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "7fc826bf8f94": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "AI",
-    "Software Engineering"
-   ],
-   "missing_realistic": [
-    "Gebouwautomatisering",
-    "BACnet",
-    "Modbus"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke software engineering skills en ervaring met AI, maar specifieke gebouwautomatisering ontbreekt nog."
-  },
   "eeb91476eae6": {
    "is_junior": true,
    "score": 60,
