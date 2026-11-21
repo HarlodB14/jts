@@ -1,50 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "721195a626f1": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Active Directory",
-    "Windows Server"
-   ],
-   "missing_realistic": [
-    "ervaring als business analist",
-    "kennis van autorisatiemanagement en wet- en regelgeving"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol vraagt om een ervaren business analist in plaats van een software developer."
-  },
-  "9d37e3131f9c": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Active Directory",
-    "Windows Server",
-    "Ubuntu / Linux",
-    "netwerkproblemen",
-    "klantgerichte communicatie"
-   ],
-   "missing_realistic": [
-    "ervaring met aansturen van externe leveranciers"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-ondersteuningservaring en technische mbo-achtergrond sluiten erg goed aan bij deze regiefunctie."
-  },
-  "07439b9b46d5": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "AI",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "ervaring als business analyst",
-    "diepgaande adviesvaardigheden op enterprise niveau"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "De vacature vraagt om een senior business analist, terwijl jouw profiel meer gericht is op software engineering."
-  },
   "7fc826bf8f94": {
    "is_junior": true,
    "score": 75,
@@ -3619,6 +3575,51 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je rol als developer-consultant past bij de advieskant, maar je mist specifieke kennis van AFAS."
+  },
+  "5b121963e52e": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "incidenten oplossen",
+    "gebruikers ondersteunen"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en servicedesk past goed bij deze junior beheerrol."
+  },
+  "881582485eca": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "AWS",
+    "Azure",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [
+    "ervaring als security officer",
+    "risicoanalyses",
+    "threat modelling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze security management rol vraagt te veel senior ervaring en beleidsmatige verantwoordelijkheid."
+  },
+  "b057397c6796": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "REST API's",
+    "klantgesprekken",
+    "analyseren"
+   ],
+   "missing_realistic": [
+    "ervaring als business analyst",
+    "kennis van hypotheken of lending"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je handig bent met klanten, is de specifieke business analist rol te ver verwijderd van developer-consultant."
   }
  }
 }
