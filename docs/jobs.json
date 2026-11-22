@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-21T23:06:39.237106+00:00",
+ "updated_at": "2026-11-22T03:06:36.981207+00:00",
  "sources": {
   "linkedin_apify": 0,
   "jsearch": 0,
-  "jobspy": 493,
+  "jobspy": 494,
   "jobicy": 200,
   "adzuna": 0,
   "jooble": 0,
   "careerjet": 0,
   "arbeitnow": 900,
   "remotive": 40,
-  "himalayas": 0
+  "himalayas": 2
  },
  "count": 275,
  "jobs": [
@@ -1366,56 +1366,6 @@
    }
   },
   {
-   "id": "5af9ef2866cd",
-   "source": "JobSpy",
-   "title": "SAP Retail consultant-Contract",
-   "company": "Wipro",
-   "location": "Den Haag, ZH, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-20T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=2be7453b1e703576",
-   "salary": null,
-   "tags": [
-    "",
-    ""
-   ],
-   "full_text": "Job Title: SAP Retail consultant-Contract City: The Hague State/Province: South Holland Posting Start Date: 11/20/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future-ready, sustainable businesses. With over 230,000 employees and business partners across 65 countries, we deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world. For additional information, visit us at www.wipro.com. SAP Retail consultant Role purpose This role owns SAP Retail at Client end to end, It replaces Dashuan Naidoo, whose role combined SAP Retail, including the SAP side of the new POS project, with support for the current Unisoft POS. The new POS (D365 Commerce) gets its own dedicated support resource after go-live. That leaves this role free to keep the SAP ECC / SAP Retail backbone of the retail landscape stable, correct and improving while the cash registration layer is replaced around it. Scope In scope (this role) Out of scope (POS roles) SAP Retail master data: articles, sites, assortments, listings, pricing conditions D365 Commerce configuration, POS functionality, store devices Store replenishment, stock and goods movements, store POs in ECC HSO delivery management and POS change requests Retail sales posting and inbound sales/financial documents in SAP Azure integration middleware (Service Bus, Functions, Tyk) SAP-side interface ownership (SAP PO / IDocs), including the SAP end of the POS interfaces (Unisoft file-based today, D365 after go-live) POS key-user support and store rollout Retail data feeds to IBP and the replenishment forecast Third-line support to Wipro AMS and change delivery for SAP Retail The interface boundary is the handover point: this role owns what SAP receives and posts, the POS side owns what the POS sends. Support for the legacy Unisoft POS is not required, but a candidate who can take it on is preferred ͏ Key responsibilities Act as functional and technical owner of SAP Retail (IS-Retail): configuration, master data quality and day-to-day stability. Own the SAP side of every retail interface, including inbound sales and settlement from the new POS, and keep document volumes and postings correct. Run the replenishment chain: stock, sales and inbound shipments Act as third line for Wipro AMS on SAP Retail incidents and problems, and deliver SAP Retail changes. Translate business requests from retail, supply chain and finance into specified, tested SAP changes. Contribute SAP Retail expertise to forward ERP decisions (D365 scenarios) and to data migration readiness. ͏ Candidate profile Must have 5+ years hands-on SAP IS-Retail : article and site master, assortments, pricing, replenishment, store inventory management. Solid grasp of retail sales posting (POS inbound / POS DM concepts, IDocs) and its link to FI/CO. Experience with SAP PO or IDoc-based interfaces from the SAP side, including troubleshooting. Able to work independently as single point of expertise, and to hold a clear line with vendors and partners. Fluent English; Dutch is a plus. Nice to have SAP ECC SD/MM exposure. Unisoft POS knowledge (preferred, see Scope). Telecom or consumer electronics retail (serialised devices, handset logistics). Mandatory Skills: SAP IS Retail . Experience: 5-8 Years . Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Job Title: SAP Retail consultant-Contract City: The Hague State/Province: South Holland Posting Start Date: 11/20/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex...",
-   "benefits": [],
-   "skills": [
-    "Go",
-    "Azure",
-    "Consultancy",
-    "Engels",
-    "Nederlands"
-   ],
-   "lang": "en",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-20T20:02:16.438769+00:00",
-   "match": {
-    "is_junior": false,
-    "score": 0,
-    "matched_skills": [],
-    "missing_realistic": [
-     "SAP Retail",
-     "SAP ECC"
-    ],
-    "ignored_unrealistic": [
-     "End to end ownership of SAP Retail landscape"
-    ],
-    "reason": "Je hebt geen ervaring met SAP, aangezien deze rol specifiek vraagt om een SAP Retail consultant is deze niet geschikt.",
-    "local_score": 53,
-    "ai": true,
-    "check": true,
-    "visible": false
-   }
-  },
-  {
    "id": "b1bc76b440f4",
    "source": "JobSpy",
    "title": "Junior Consultant Investment Performance",
@@ -1468,6 +1418,56 @@
     "ai": true,
     "check": true,
     "visible": true
+   }
+  },
+  {
+   "id": "5af9ef2866cd",
+   "source": "JobSpy",
+   "title": "SAP Retail consultant-Contract",
+   "company": "Wipro",
+   "location": "Den Haag, ZH, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-20T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=2be7453b1e703576",
+   "salary": null,
+   "tags": [
+    "",
+    ""
+   ],
+   "full_text": "Job Title: SAP Retail consultant-Contract City: The Hague State/Province: South Holland Posting Start Date: 11/20/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future-ready, sustainable businesses. With over 230,000 employees and business partners across 65 countries, we deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world. For additional information, visit us at www.wipro.com. SAP Retail consultant Role purpose This role owns SAP Retail at Client end to end, It replaces Dashuan Naidoo, whose role combined SAP Retail, including the SAP side of the new POS project, with support for the current Unisoft POS. The new POS (D365 Commerce) gets its own dedicated support resource after go-live. That leaves this role free to keep the SAP ECC / SAP Retail backbone of the retail landscape stable, correct and improving while the cash registration layer is replaced around it. Scope In scope (this role) Out of scope (POS roles) SAP Retail master data: articles, sites, assortments, listings, pricing conditions D365 Commerce configuration, POS functionality, store devices Store replenishment, stock and goods movements, store POs in ECC HSO delivery management and POS change requests Retail sales posting and inbound sales/financial documents in SAP Azure integration middleware (Service Bus, Functions, Tyk) SAP-side interface ownership (SAP PO / IDocs), including the SAP end of the POS interfaces (Unisoft file-based today, D365 after go-live) POS key-user support and store rollout Retail data feeds to IBP and the replenishment forecast Third-line support to Wipro AMS and change delivery for SAP Retail The interface boundary is the handover point: this role owns what SAP receives and posts, the POS side owns what the POS sends. Support for the legacy Unisoft POS is not required, but a candidate who can take it on is preferred ͏ Key responsibilities Act as functional and technical owner of SAP Retail (IS-Retail): configuration, master data quality and day-to-day stability. Own the SAP side of every retail interface, including inbound sales and settlement from the new POS, and keep document volumes and postings correct. Run the replenishment chain: stock, sales and inbound shipments Act as third line for Wipro AMS on SAP Retail incidents and problems, and deliver SAP Retail changes. Translate business requests from retail, supply chain and finance into specified, tested SAP changes. Contribute SAP Retail expertise to forward ERP decisions (D365 scenarios) and to data migration readiness. ͏ Candidate profile Must have 5+ years hands-on SAP IS-Retail : article and site master, assortments, pricing, replenishment, store inventory management. Solid grasp of retail sales posting (POS inbound / POS DM concepts, IDocs) and its link to FI/CO. Experience with SAP PO or IDoc-based interfaces from the SAP side, including troubleshooting. Able to work independently as single point of expertise, and to hold a clear line with vendors and partners. Fluent English; Dutch is a plus. Nice to have SAP ECC SD/MM exposure. Unisoft POS knowledge (preferred, see Scope). Telecom or consumer electronics retail (serialised devices, handset logistics). Mandatory Skills: SAP IS Retail . Experience: 5-8 Years . Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Job Title: SAP Retail consultant-Contract City: The Hague State/Province: South Holland Posting Start Date: 11/20/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex...",
+   "benefits": [],
+   "skills": [
+    "Go",
+    "Azure",
+    "Consultancy",
+    "Engels",
+    "Nederlands"
+   ],
+   "lang": "en",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-20T20:02:16.438769+00:00",
+   "match": {
+    "is_junior": false,
+    "score": 0,
+    "matched_skills": [],
+    "missing_realistic": [
+     "SAP Retail",
+     "SAP ECC"
+    ],
+    "ignored_unrealistic": [
+     "End to end ownership of SAP Retail landscape"
+    ],
+    "reason": "Je hebt geen ervaring met SAP, aangezien deze rol specifiek vraagt om een SAP Retail consultant is deze niet geschikt.",
+    "local_score": 53,
+    "ai": true,
+    "check": true,
+    "visible": false
    }
   },
   {
@@ -6742,12 +6742,12 @@
     "",
     "parttime, fulltime"
    ],
-   "full_text": "Regio Drenthe, Groningen, Friesland Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe is betrouwbare en veilige ICT essentieel voor onze diagnostische dienstverlening. Daarom zoeken we een technisch beheerder die systemen soepel laat draaien, risico’s herkent en beveiliging vanzelfsprekend meeneemt in het dagelijkse werk. Wat ga je doen? Je beheert en verbetert onze technische ICT-omgeving. Samen met collega’s zorg je voor veilige systemen. Daarbij houd je oog voor continuïteit en gebruiksgemak. Je houdt je bezig met: Veilig systeembeheer: systemen veilig inrichten volgens onder meer CIS Benchmarks, patches en kwetsbaarheden aanpakken op basis van risico en impact. Toegangsbeheer: zorgen voor passende rechten, MFA en gescheiden beheeraccounts, met regelmatige controles. Veilige wijzigingen: changes beoordelen op beveiligingsrisico’s en waar nodig tegenhouden of escaleren. Monitoring en incidenten: bruikbare logging inrichten, verdachte activiteiten herkennen en samen met securityspecialisten incidenten onderzoeken. Back-up en herstel: ransomwarebestendige back-ups beheren en herstelprocedures periodiek testen. Automatisering en documentatie: beheerhandelingen veilig automatiseren met PowerShell of Bash en configuraties, wijzigingen en uitzonderingen vastleggen. Het team Het team Technisch Beheer bestaat uit ongeveer twintig collega’s: servicedeskmedewerkers, systeem-, netwerk- en werkplekbeheerders en drie lead engineers. We pakken werkzaamheden zoveel mogelijk samen op binnen verschillende clusters. Je wordt onderdeel van een betrokken team met oog voor elkaar. Je deelt je kennis, zoekt collega’s op en werkt samen aan oplossingen. Na een gedegen inwerkperiode is gedeeltelijk thuiswerken mogelijk. Tevens draai je mee de consignatiediensten. Certe Certe is een organisatie voor integrale medische diagnostiek en advies voor de eerste- en tweedelijnsgezondheidszorg. Wij leveren hoogstaande medische diagnostiek en hiervan afgeleide producten en diensten voor zorgverleners en hun patiënten. Ziekenhuizen, (huis)artsen, verloskundigen en daarmee honderdduizenden mensen vertrouwen al jarenlang op onze zorg. Met vijftien miljoen testen per jaar is Certe dé onmisbare schakel voor de zorg in Noord-Nederland. Zichtbaar én onzichtbaar. Omdat iedereen zorg verdient. In de regio, persoonlijk én dichtbij. Zo zijn we in wát we doen en hóé we het doen, de enige in het Noorden. Wat heb je nodig? Je bent een technisch sterke en nieuwsgierige beheerder met een kritische blik. Je wilt begrijpen hoe systemen werken en waar kwetsbaarheden kunnen ontstaan. Je hebt een dienstverlenende instelling en kunt technische risico’s begrijpelijk uitleggen. Je zoekt naar werkbare oplossingen en durft ook aan te geven wanneer iets nog niet veilig genoeg is. Daarbij help je collega’s te bepalen wat er nodig is om verder te kunnen. Wat breng je mee? Hbo-werk- en denkniveau, bij voorkeur met een relevante opleiding zoals HBO-ICT. Minimaal drie jaar ervaring in technisch beheer, bijvoorbeeld als systeembeheerder of IT engineer. Beveiliging was daarbij een vast onderdeel van je werk. Ervaring met meerdere technologieën uit onze omgeving, zoals Azure, VMware, Windows Server, Virtual Desktop, Microsoft 365, Intune, Microsoft SQL Server en Remote Desktop- en RemoteApp-oplossingen. Praktische ervaring met hardening, patch- en kwetsbaarheidsbeheer. Je kunt risico’s afwegen en afwijkingen onderbouwd vastleggen. Kennis van veilige toegangsverlening, waaronder MFA, gescheiden beheeraccounts en periodieke toegangscontroles. Ervaring met logging, ransomwarebestendige back-ups en het uitvoeren van hersteltesten. Ervaring met PowerShell of Bash en het veilig automatiseren van beheerwerkzaamheden. Ervaring met Topdesk en Jira is welkom. Dat geldt ook voor een relevante security- of platformcertificering, kennis van kwetsbaarheidsscanners, EDR, SIEM[CvdP1] of PAM en ervaring in een omgeving met strenge beveiligings- en compliance-eisen. Wat bieden wij jou? Onze missie is ‘Zeker voor zorg’, maar zekerheid voor onze medewerkers vinden wij net zo belangrijk. Wij bieden: Een salaris conform FWG 55 van cao Ziekenhuizen. € 3.903,- en € 5.503,- op basis van een fulltime dienstverband. Een contract voor één jaar met uitzicht op een vaste aanstelling. Een dienstverband van 32-36 uur per week. 144 vakantie uren en 57 PLB uren op basis van fulltime dienstverband. Een eindejaarsuitkering in de vorm van een 13e maand en 8,33% vakantietoeslag. Wij vinden persoonlijke en professionele ontwikkeling belangrijk, je krijgt diverse (digitale) scholingsmogelijkheden om je kennis en kunde up-to-date te houden. Diverse regelingen waar jij als medewerker aan kan deelnemen. Bijvoorbeeld fiscale uitruil reiskosten, OV-regeling en een fietsregeling. Solliciteren Spreekt deze functie jou aan en herken jij jezelf in het profiel? Dan komen wij graag in contact met jou! Reageren kan tot en met 6 december 2026 via de knop ‘nu solliciteren’. De eerste gesprekken voeren we op 10 en/of 14 december 2026. Voor meer informatie over de vacature kan je contact opnemen met Simon Velis, Teammanager Technisch Beheer, via telefoonnummer 06-38907978.",
+   "full_text": "Regio Drenthe, Friesland, Groningen Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe is betrouwbare en veilige ICT essentieel voor onze diagnostische dienstverlening. Daarom zoeken we een technisch beheerder die systemen soepel laat draaien, risico’s herkent en beveiliging vanzelfsprekend meeneemt in het dagelijkse werk. Wat ga je doen? Je beheert en verbetert onze technische ICT-omgeving. Samen met collega’s zorg je voor veilige systemen. Daarbij houd je oog voor continuïteit en gebruiksgemak. Je houdt je bezig met: Veilig systeembeheer: systemen veilig inrichten volgens onder meer CIS Benchmarks, patches en kwetsbaarheden aanpakken op basis van risico en impact. Toegangsbeheer: zorgen voor passende rechten, MFA en gescheiden beheeraccounts, met regelmatige controles. Veilige wijzigingen: changes beoordelen op beveiligingsrisico’s en waar nodig tegenhouden of escaleren. Monitoring en incidenten: bruikbare logging inrichten, verdachte activiteiten herkennen en samen met securityspecialisten incidenten onderzoeken. Back-up en herstel: ransomwarebestendige back-ups beheren en herstelprocedures periodiek testen. Automatisering en documentatie: beheerhandelingen veilig automatiseren met PowerShell of Bash en configuraties, wijzigingen en uitzonderingen vastleggen. Het team Het team Technisch Beheer bestaat uit ongeveer twintig collega’s: servicedeskmedewerkers, systeem-, netwerk- en werkplekbeheerders en drie lead engineers. We pakken werkzaamheden zoveel mogelijk samen op binnen verschillende clusters. Je wordt onderdeel van een betrokken team met oog voor elkaar. Je deelt je kennis, zoekt collega’s op en werkt samen aan oplossingen. Na een gedegen inwerkperiode is gedeeltelijk thuiswerken mogelijk. Tevens draai je mee de consignatiediensten. Certe Certe is een organisatie voor integrale medische diagnostiek en advies voor de eerste- en tweedelijnsgezondheidszorg. Wij leveren hoogstaande medische diagnostiek en hiervan afgeleide producten en diensten voor zorgverleners en hun patiënten. Ziekenhuizen, (huis)artsen, verloskundigen en daarmee honderdduizenden mensen vertrouwen al jarenlang op onze zorg. Met vijftien miljoen testen per jaar is Certe dé onmisbare schakel voor de zorg in Noord-Nederland. Zichtbaar én onzichtbaar. Omdat iedereen zorg verdient. In de regio, persoonlijk én dichtbij. Zo zijn we in wát we doen en hóé we het doen, de enige in het Noorden. Wat heb je nodig? Je bent een technisch sterke en nieuwsgierige beheerder met een kritische blik. Je wilt begrijpen hoe systemen werken en waar kwetsbaarheden kunnen ontstaan. Je hebt een dienstverlenende instelling en kunt technische risico’s begrijpelijk uitleggen. Je zoekt naar werkbare oplossingen en durft ook aan te geven wanneer iets nog niet veilig genoeg is. Daarbij help je collega’s te bepalen wat er nodig is om verder te kunnen. Wat breng je mee? Hbo-werk- en denkniveau, bij voorkeur met een relevante opleiding zoals HBO-ICT. Minimaal drie jaar ervaring in technisch beheer, bijvoorbeeld als systeembeheerder of IT engineer. Beveiliging was daarbij een vast onderdeel van je werk. Ervaring met meerdere technologieën uit onze omgeving, zoals Azure, VMware, Windows Server, Virtual Desktop, Microsoft 365, Intune, Microsoft SQL Server en Remote Desktop- en RemoteApp-oplossingen. Praktische ervaring met hardening, patch- en kwetsbaarheidsbeheer. Je kunt risico’s afwegen en afwijkingen onderbouwd vastleggen. Kennis van veilige toegangsverlening, waaronder MFA, gescheiden beheeraccounts en periodieke toegangscontroles. Ervaring met logging, ransomwarebestendige back-ups en het uitvoeren van hersteltesten. Ervaring met PowerShell of Bash en het veilig automatiseren van beheerwerkzaamheden. Ervaring met Topdesk en Jira is welkom. Dat geldt ook voor een relevante security- of platformcertificering, kennis van kwetsbaarheidsscanners, EDR, SIEM[CvdP1] of PAM en ervaring in een omgeving met strenge beveiligings- en compliance-eisen. Wat bieden wij jou? Onze missie is ‘Zeker voor zorg’, maar zekerheid voor onze medewerkers vinden wij net zo belangrijk. Wij bieden: Een salaris conform FWG 55 van cao Ziekenhuizen. € 3.903,- en € 5.503,- op basis van een fulltime dienstverband. Een contract voor één jaar met uitzicht op een vaste aanstelling. Een dienstverband van 32-36 uur per week. 144 vakantie uren en 57 PLB uren op basis van fulltime dienstverband. Een eindejaarsuitkering in de vorm van een 13e maand en 8,33% vakantietoeslag. Wij vinden persoonlijke en professionele ontwikkeling belangrijk, je krijgt diverse (digitale) scholingsmogelijkheden om je kennis en kunde up-to-date te houden. Diverse regelingen waar jij als medewerker aan kan deelnemen. Bijvoorbeeld fiscale uitruil reiskosten, OV-regeling en een fietsregeling. Solliciteren Spreekt deze functie jou aan en herken jij jezelf in het profiel? Dan komen wij graag in contact met jou! Reageren kan tot en met 6 december 2026 via de knop ‘nu solliciteren’. De eerste gesprekken voeren we op 10 en/of 14 december 2026. Voor meer informatie over de vacature kan je contact opnemen met Simon Velis, Teammanager Technisch Beheer, via telefoonnummer 06-38907978.",
    "applicants": null,
    "publisher": "Indeed",
    "title_junior": false,
    "traineeship": false,
-   "short_desc": "Regio Drenthe, Groningen, Friesland Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe...",
+   "short_desc": "Regio Drenthe, Friesland, Groningen Publicatiedatum 18 november 2026 Sluitingsdatum 6 december 2026 Technisch beheerder – security minded Zorg jij dat onze IT-omgeving betrouwbaar én veilig blijft? Als technisch beheerder combineer je dagelijks beheer met technische vernieuwing De functie Bij Certe...",
    "benefits": [
     "Thuiswerken",
     "Opleidingsbudget",
@@ -11365,66 +11365,6 @@
    }
   },
   {
-   "id": "51ec9285dc2b",
-   "source": "JobSpy",
-   "title": "Backend developer - C++ - Golang - Database",
-   "company": "MatchMatters BV",
-   "location": "Harderwijk, GE, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-16T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=4323bf1014071cce",
-   "salary": "€3500 - €5000 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met zich mee. Denk aan API’s optimaliseren, background services inrichten, integraties bouwen, datastromen managen en de architectuur verder verbeteren. Klinkt goed? Lees dan vooral verder. Wat ga je doen? Je ontwikkelt en onderhoudt backendcomponenten die écht wat doen voor onze gebruikers. Aangezien we van C++ naar GO gaan, is het van belang dat je al wat ervaring hebt op de backend. De taal is hierin niet van enorm belang, maar de interesse in GOLang is van belang. Je denkt mee over architectuur, performance en schaalbaarheid en bouwt mee aan interne services en externe integraties.Je analyseert bottlenecks en komt met slimme oplossingen en werkt nauw samen met frontend developers, testers en product owners. Wat breng je mee? Je hebt al werkervaring met een backend taal (bijv. C++, PHP of GO) Je kent je weg in REST API’s, SQL, background processing, etc. Je snapt hoe je schaalbare systemen bouwt Je houdt van clean code, version control en automatiseren Minimaal 1-2 jaar werkervaring als backender Wat kun je verwachten? Een informeel, nuchter team waar samenwerken centraal staat Ruimte voor eigen initiatief, ideeën en technische verdieping Flexibel en deels remote werken (minimaal 2 dagen op kantoor) Een goed salaris en alles wat je nodig hebt om je werk goed te doen (laptop, tools, etc.). Een fijne werksfeer, met humor, korte lijntjes en regelmatig wat leuks buiten werktijd Zin om kennis te maken? Stuur gewoon even een berichtje – met je cv, GitHub of gewoon wat over jezelf. Geen eindeloze sollicitatieprocedure, we houden het graag laagdrempelig. Tot snel?",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met...",
-   "benefits": [
-    "Thuiswerken",
-    "Laptop"
-   ],
-   "skills": [
-    "C++",
-    "PHP",
-    "Go",
-    "SQL",
-    "REST",
-    "Git",
-    "API"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-19T21:25:51.313481+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 65,
-    "matched_skills": [
-     "PHP",
-     "REST API's",
-     "SQL",
-     "Git"
-    ],
-    "missing_realistic": [
-     "Go",
-     "C++"
-    ],
-    "ignored_unrealistic": [
-     "1-2 jaar werkervaring"
-    ],
-    "reason": "Je backendervaring in PHP past goed, maar je hebt nog geen professionele ervaring met C++ of Go.",
-    "local_score": 80,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "1aa41259dd1f",
    "source": "JobSpy",
    "title": "Python Software Engineer – AI/Automation (m/f/d)",
@@ -11720,63 +11660,6 @@
    }
   },
   {
-   "id": "c023feeff902",
-   "source": "JobSpy",
-   "title": "Systeem-/netwerkbeheerder",
-   "company": "CID Automatisering",
-   "location": "Winschoten, GR, Netherlands",
-   "remote": false,
-   "posted_at": "2026-11-16T00:00:00+00:00",
-   "url": "https://nl.indeed.com/viewjob?jk=77174814a629af27",
-   "salary": "€2500 - €5200 per maand",
-   "tags": [
-    "",
-    "fulltime"
-   ],
-   "full_text": "Voel jij je thuis in Microsoft 365, zoek je graag uit waarom een systeem niet doet wat het moet doen en werk je het liefst samen aan een goede oplossing? Dan zijn wij op zoek naar jou. Wij zoeken een systeembeheerder die samen met ons uitdagingen aangaat, problemen oplost en klanten ontzorgt. Ben jij de vakman of -vrouw die wij zoeken? Lees dan snel verder! Over de functie systeembeheerder Als systeembeheerder bij CID Automatisering zorg je dat de ICT-omgevingen van onze klanten goed blijven draaien. Je beheert systemen, voert verbeteringen door en lost complexere storingen op. Daarbij kijk je ook vooruit. Welke aanpassingen zijn nodig? Waar kan de beveiliging beter? En hoe zorgen we dat de klant prettig kan blijven werken? Je werkt veel met Microsoft 365 en Microsoft Entra ID. Je richt omgevingen in, beheert gebruikers en licenties en zorgt dat toegangsrechten goed geregeld zijn. Ook de koppeling tussen lokale systemen en de cloud hoort daarbij. Beveiliging is een belangrijk onderdeel van je werk. Je stelt veilige toegang in met bijvoorbeeld multifactorauthenticatie en Conditional Access, onderzoekt beveiligingsmeldingen en helpt bedrijfsgegevens te beschermen. Je begrijpt welke instellingen nodig zijn en kunt een klant ook uitleggen wat die in de praktijk betekenen. Daarnaast werk je samen met collega’s aan migraties, serverbeheer en back-ups. Loopt de helpdesk tegen een lastig vraagstuk aan? Dan denk jij mee en zoek je uit waar het probleem zit. Je deelt je kennis en zorgt dat collega’s verder kunnen met jouw oplossing. Verantwoordelijkheden in het kort · Inrichten, beheren en verbeteren van Microsoft 365-omgevingen. · Beheren van gebruikers, groepen, licenties en beheerdersrollen. · Inrichten en beheren van veilige toegang met Microsoft Entra ID. · Beheren van identiteitssynchronisatie tussen lokale Active Directory en Microsoft Entra ID. · Monitoren van systemen en oplossen van complexere storingen. · Onderzoeken en afhandelen van beveiligingsmeldingen in Microsoft Defender. · Beschermen van bedrijfsgegevens met onder andere bewaarbeleid, vertrouwelijkheidslabels en regels tegen gegevensverlies. · Meewerken aan migraties naar Azure en Microsoft 365. · Beheren en controleren van back-ups en herstelmogelijkheden. · Documenteren van instellingen en wijzigingen en delen van kennis met collega’s. Omgevingen waar wij in werken Bij CID werk je met verschillende systemen en toepassingen. Denk aan: · Microsoft 365, waaronder Exchange Online, Teams, SharePoint en OneDrive. · Microsoft Entra ID en Microsoft Intune. · Microsoft Defender en Microsoft Purview. · Azure Virtual Desktop en Azure Virtual Machines. · Windows 11 en Windows Server. · Veeam en SonicWall. Je hoeft niet alles al van binnen en buiten te kennen. Een stevige basis, praktisch inzicht en de wil om bij te leren vinden we belangrijk. Wat breng jij mee? Je hebt ervaring met systeembeheer en kunt zelfstandig werken aan Microsoft 365-omgevingen. Je begrijpt hoe gebruikers, apparaten, toegangsrechten en beveiliging met elkaar samenhangen. Je werkt zorgvuldig en zoekt graag uit hoe iets beter kan. Verder vragen we: · Kennis van Microsoft 365-beheer op het niveau van MS-102. · Ervaring met Microsoft Entra ID, MFA en Conditional Access. · Kennis van Microsoft Defender en gegevensbescherming binnen Microsoft 365. · Een goede basis in Active Directory, netwerken en DNS. · Ervaring met PowerShell voor het uitvoeren en automatiseren van beheertaken. · Goede communicatieve vaardigheden: je adviseert klanten op een begrijpelijke en praktische manier. · Een positieve instelling, verantwoordelijkheidsgevoel en plezier in samenwerken. · Rijbewijs B. · Heb je het MS-102-examen behaald? Mooi meegenomen. Heb je vergelijkbare kennis en ervaring opgedaan in de praktijk? Dan maken we ook graag kennis met je. Wat kun je van ons verwachten? We zijn een enthousiast, gedreven en nuchter team van vakmensen met een passie voor ICT. We halen ontzettend veel plezier uit het oplossen van uitdagende vraagstukken en het ontzorgen van onze klanten. Daarbij geloven we in samenwerken, open communicatie en jezelf blijven ontwikkelen. Onze klanten variëren van grondverzetbedrijven tot zakelijke dienstverleners. Daardoor kom je verschillende omgevingen en vragen tegen. De ene dag werk je aan een migratie, de volgende dag verbeter je de beveiliging of help je een collega met een lastige storing. Vind je het leuk om op locatie bij klanten te werken? Dan kom je op plekken waar anderen niet komen en leer je meer over verschillende bedrijven en werkzaamheden. Werk je liever vanuit ons kantoor in Winschoten? Ook geen probleem! Jouw collega’s hebben voldoende humor om van elke dag iets leuks te maken. Daarnaast krijg je de mogelijkheid om jezelf te blijven ontwikkelen. We volgen teamtrainingen en individuele opleidingen om onszelf en onze dienstverlening te verbeteren. Wil je een certificering behalen of je ergens verder in verdiepen? Laat het weten, dan kijken we samen wat mogelijk is. We bieden je een bovenmarktconform salaris met uitstekende arbeidsvoorwaarden. Daar vertellen we je graag meer over tijdens een persoonlijk gesprek. Solliciteren Ben jij de vakman of -vrouw die wij zoeken en wil jij aan de slag bij CID Automatisering? Stuur dan jouw cv en motivatie naar solliciteren@cidautomatisering.nl. Zodra we jouw sollicitatie hebben ontvangen, nemen we zo snel mogelijk contact met je op. Salaris: €2.500,00 - €5.200,00 per maand Werklocatie: Fysiek",
-   "applicants": null,
-   "publisher": "Indeed",
-   "title_junior": false,
-   "traineeship": false,
-   "short_desc": "Voel jij je thuis in Microsoft 365, zoek je graag uit waarom een systeem niet doet wat het moet doen en werk je het liefst samen aan een goede oplossing? Dan zijn wij op zoek naar jou. Wij zoeken een systeembeheerder die samen met ons uitdagingen aangaat, problemen oplost en klanten ontzorgt. Ben...",
-   "benefits": [
-    "Opleidingsbudget"
-   ],
-   "skills": [
-    "PowerShell",
-    "Azure",
-    "OAuth",
-    "Networking",
-    "Active Directory",
-    "Windows Server",
-    "Microsoft 365",
-    "Intune"
-   ],
-   "lang": "nl",
-   "linkedin": false,
-   "unrealistic_hint": false,
-   "first_seen": "2026-11-16T20:22:25.813975+00:00",
-   "match": {
-    "is_junior": true,
-    "score": 75,
-    "matched_skills": [
-     "Microsoft Azure",
-     "OAuth / MFA",
-     "Active Directory",
-     "Windows Server"
-    ],
-    "missing_realistic": [
-     "Microsoft Entra ID"
-    ],
-    "ignored_unrealistic": [],
-    "reason": "Je helpdesk- en systeembeheerervaring passen goed bij deze allround beheerfunctie.",
-    "local_score": 74,
-    "ai": true,
-    "check": false,
-    "visible": true
-   }
-  },
-  {
    "id": "641424813977",
    "source": "JobSpy",
    "title": "Systeembeheerder",
@@ -11830,6 +11713,63 @@
     "ignored_unrealistic": [],
     "reason": "Je achtergrond als ICT-medewerker en je kennis van Windows Server en Azure sluiten mooi aan bij deze beheersrol.",
     "local_score": 77,
+    "ai": true,
+    "check": false,
+    "visible": true
+   }
+  },
+  {
+   "id": "c023feeff902",
+   "source": "JobSpy",
+   "title": "Systeem-/netwerkbeheerder",
+   "company": "CID Automatisering",
+   "location": "Winschoten, GR, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-16T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=77174814a629af27",
+   "salary": "€2500 - €5200 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "Voel jij je thuis in Microsoft 365, zoek je graag uit waarom een systeem niet doet wat het moet doen en werk je het liefst samen aan een goede oplossing? Dan zijn wij op zoek naar jou. Wij zoeken een systeembeheerder die samen met ons uitdagingen aangaat, problemen oplost en klanten ontzorgt. Ben jij de vakman of -vrouw die wij zoeken? Lees dan snel verder! Over de functie systeembeheerder Als systeembeheerder bij CID Automatisering zorg je dat de ICT-omgevingen van onze klanten goed blijven draaien. Je beheert systemen, voert verbeteringen door en lost complexere storingen op. Daarbij kijk je ook vooruit. Welke aanpassingen zijn nodig? Waar kan de beveiliging beter? En hoe zorgen we dat de klant prettig kan blijven werken? Je werkt veel met Microsoft 365 en Microsoft Entra ID. Je richt omgevingen in, beheert gebruikers en licenties en zorgt dat toegangsrechten goed geregeld zijn. Ook de koppeling tussen lokale systemen en de cloud hoort daarbij. Beveiliging is een belangrijk onderdeel van je werk. Je stelt veilige toegang in met bijvoorbeeld multifactorauthenticatie en Conditional Access, onderzoekt beveiligingsmeldingen en helpt bedrijfsgegevens te beschermen. Je begrijpt welke instellingen nodig zijn en kunt een klant ook uitleggen wat die in de praktijk betekenen. Daarnaast werk je samen met collega’s aan migraties, serverbeheer en back-ups. Loopt de helpdesk tegen een lastig vraagstuk aan? Dan denk jij mee en zoek je uit waar het probleem zit. Je deelt je kennis en zorgt dat collega’s verder kunnen met jouw oplossing. Verantwoordelijkheden in het kort · Inrichten, beheren en verbeteren van Microsoft 365-omgevingen. · Beheren van gebruikers, groepen, licenties en beheerdersrollen. · Inrichten en beheren van veilige toegang met Microsoft Entra ID. · Beheren van identiteitssynchronisatie tussen lokale Active Directory en Microsoft Entra ID. · Monitoren van systemen en oplossen van complexere storingen. · Onderzoeken en afhandelen van beveiligingsmeldingen in Microsoft Defender. · Beschermen van bedrijfsgegevens met onder andere bewaarbeleid, vertrouwelijkheidslabels en regels tegen gegevensverlies. · Meewerken aan migraties naar Azure en Microsoft 365. · Beheren en controleren van back-ups en herstelmogelijkheden. · Documenteren van instellingen en wijzigingen en delen van kennis met collega’s. Omgevingen waar wij in werken Bij CID werk je met verschillende systemen en toepassingen. Denk aan: · Microsoft 365, waaronder Exchange Online, Teams, SharePoint en OneDrive. · Microsoft Entra ID en Microsoft Intune. · Microsoft Defender en Microsoft Purview. · Azure Virtual Desktop en Azure Virtual Machines. · Windows 11 en Windows Server. · Veeam en SonicWall. Je hoeft niet alles al van binnen en buiten te kennen. Een stevige basis, praktisch inzicht en de wil om bij te leren vinden we belangrijk. Wat breng jij mee? Je hebt ervaring met systeembeheer en kunt zelfstandig werken aan Microsoft 365-omgevingen. Je begrijpt hoe gebruikers, apparaten, toegangsrechten en beveiliging met elkaar samenhangen. Je werkt zorgvuldig en zoekt graag uit hoe iets beter kan. Verder vragen we: · Kennis van Microsoft 365-beheer op het niveau van MS-102. · Ervaring met Microsoft Entra ID, MFA en Conditional Access. · Kennis van Microsoft Defender en gegevensbescherming binnen Microsoft 365. · Een goede basis in Active Directory, netwerken en DNS. · Ervaring met PowerShell voor het uitvoeren en automatiseren van beheertaken. · Goede communicatieve vaardigheden: je adviseert klanten op een begrijpelijke en praktische manier. · Een positieve instelling, verantwoordelijkheidsgevoel en plezier in samenwerken. · Rijbewijs B. · Heb je het MS-102-examen behaald? Mooi meegenomen. Heb je vergelijkbare kennis en ervaring opgedaan in de praktijk? Dan maken we ook graag kennis met je. Wat kun je van ons verwachten? We zijn een enthousiast, gedreven en nuchter team van vakmensen met een passie voor ICT. We halen ontzettend veel plezier uit het oplossen van uitdagende vraagstukken en het ontzorgen van onze klanten. Daarbij geloven we in samenwerken, open communicatie en jezelf blijven ontwikkelen. Onze klanten variëren van grondverzetbedrijven tot zakelijke dienstverleners. Daardoor kom je verschillende omgevingen en vragen tegen. De ene dag werk je aan een migratie, de volgende dag verbeter je de beveiliging of help je een collega met een lastige storing. Vind je het leuk om op locatie bij klanten te werken? Dan kom je op plekken waar anderen niet komen en leer je meer over verschillende bedrijven en werkzaamheden. Werk je liever vanuit ons kantoor in Winschoten? Ook geen probleem! Jouw collega’s hebben voldoende humor om van elke dag iets leuks te maken. Daarnaast krijg je de mogelijkheid om jezelf te blijven ontwikkelen. We volgen teamtrainingen en individuele opleidingen om onszelf en onze dienstverlening te verbeteren. Wil je een certificering behalen of je ergens verder in verdiepen? Laat het weten, dan kijken we samen wat mogelijk is. We bieden je een bovenmarktconform salaris met uitstekende arbeidsvoorwaarden. Daar vertellen we je graag meer over tijdens een persoonlijk gesprek. Solliciteren Ben jij de vakman of -vrouw die wij zoeken en wil jij aan de slag bij CID Automatisering? Stuur dan jouw cv en motivatie naar solliciteren@cidautomatisering.nl. Zodra we jouw sollicitatie hebben ontvangen, nemen we zo snel mogelijk contact met je op. Salaris: €2.500,00 - €5.200,00 per maand Werklocatie: Fysiek",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "Voel jij je thuis in Microsoft 365, zoek je graag uit waarom een systeem niet doet wat het moet doen en werk je het liefst samen aan een goede oplossing? Dan zijn wij op zoek naar jou. Wij zoeken een systeembeheerder die samen met ons uitdagingen aangaat, problemen oplost en klanten ontzorgt. Ben...",
+   "benefits": [
+    "Opleidingsbudget"
+   ],
+   "skills": [
+    "PowerShell",
+    "Azure",
+    "OAuth",
+    "Networking",
+    "Active Directory",
+    "Windows Server",
+    "Microsoft 365",
+    "Intune"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-16T20:22:25.813975+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 75,
+    "matched_skills": [
+     "Microsoft Azure",
+     "OAuth / MFA",
+     "Active Directory",
+     "Windows Server"
+    ],
+    "missing_realistic": [
+     "Microsoft Entra ID"
+    ],
+    "ignored_unrealistic": [],
+    "reason": "Je helpdesk- en systeembeheerervaring passen goed bij deze allround beheerfunctie.",
+    "local_score": 74,
     "ai": true,
     "check": false,
     "visible": true
@@ -12273,6 +12213,66 @@
     "ai": true,
     "check": false,
     "visible": false
+   }
+  },
+  {
+   "id": "51ec9285dc2b",
+   "source": "JobSpy",
+   "title": "Backend developer - C++ - Golang - Database",
+   "company": "MatchMatters BV",
+   "location": "Harderwijk, GE, Netherlands",
+   "remote": false,
+   "posted_at": "2026-11-16T00:00:00+00:00",
+   "url": "https://nl.indeed.com/viewjob?jk=4323bf1014071cce",
+   "salary": "€3500 - €5000 per maand",
+   "tags": [
+    "",
+    "fulltime"
+   ],
+   "full_text": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met zich mee. Denk aan API’s optimaliseren, background services inrichten, integraties bouwen, datastromen managen en de architectuur verder verbeteren. Klinkt goed? Lees dan vooral verder. Wat ga je doen? Je ontwikkelt en onderhoudt backendcomponenten die écht wat doen voor onze gebruikers. Aangezien we van C++ naar GO gaan, is het van belang dat je al wat ervaring hebt op de backend. De taal is hierin niet van enorm belang, maar de interesse in GOLang is van belang. Je denkt mee over architectuur, performance en schaalbaarheid en bouwt mee aan interne services en externe integraties.Je analyseert bottlenecks en komt met slimme oplossingen en werkt nauw samen met frontend developers, testers en product owners. Wat breng je mee? Je hebt al werkervaring met een backend taal (bijv. C++, PHP of GO) Je kent je weg in REST API’s, SQL, background processing, etc. Je snapt hoe je schaalbare systemen bouwt Je houdt van clean code, version control en automatiseren Minimaal 1-2 jaar werkervaring als backender Wat kun je verwachten? Een informeel, nuchter team waar samenwerken centraal staat Ruimte voor eigen initiatief, ideeën en technische verdieping Flexibel en deels remote werken (minimaal 2 dagen op kantoor) Een goed salaris en alles wat je nodig hebt om je werk goed te doen (laptop, tools, etc.). Een fijne werksfeer, met humor, korte lijntjes en regelmatig wat leuks buiten werktijd Zin om kennis te maken? Stuur gewoon even een berichtje – met je cv, GitHub of gewoon wat over jezelf. Geen eindeloze sollicitatieprocedure, we houden het graag laagdrempelig. Tot snel?",
+   "applicants": null,
+   "publisher": "Indeed",
+   "title_junior": false,
+   "traineeship": false,
+   "short_desc": "We zijn op zoek naar een backend developer die blij wordt van solide code, performance optimalisatie en het tackelen van technische uitdagingen. Iemand die graag de diepte in gaat, maar ook snapt dat goede software bouwen teamwerk is. Ons platform groeit hard – en dat brengt mooie uitdagingen met...",
+   "benefits": [
+    "Thuiswerken",
+    "Laptop"
+   ],
+   "skills": [
+    "C++",
+    "PHP",
+    "Go",
+    "SQL",
+    "REST",
+    "Git",
+    "API"
+   ],
+   "lang": "nl",
+   "linkedin": false,
+   "unrealistic_hint": false,
+   "first_seen": "2026-11-19T21:25:51.313481+00:00",
+   "match": {
+    "is_junior": true,
+    "score": 65,
+    "matched_skills": [
+     "PHP",
+     "REST API's",
+     "SQL",
+     "Git"
+    ],
+    "missing_realistic": [
+     "Go",
+     "C++"
+    ],
+    "ignored_unrealistic": [
+     "1-2 jaar werkervaring"
+    ],
+    "reason": "Je backendervaring in PHP past goed, maar je hebt nog geen professionele ervaring met C++ of Go.",
+    "local_score": 80,
+    "ai": true,
+    "check": false,
+    "visible": true
    }
   },
   {
