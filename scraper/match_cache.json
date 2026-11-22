@@ -3605,6 +3605,21 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Hoewel je handig bent met klanten, is de specifieke business analist rol te ver verwijderd van developer-consultant."
+  },
+  "3ed0128e45bb": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "PHP / Laravel",
+    "C# / .NET",
+    "Python",
+    "SQL",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je brede programmeerervaring en achtergrond in maatwerksoftware en koppelingen sluiten erg goed aan bij deze logistieke rol."
   }
  }
 }
