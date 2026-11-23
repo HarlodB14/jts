@@ -1,23 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "eeb91476eae6": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "API's"
-   ],
-   "missing_realistic": [
-    "PID-regelingen",
-    "hydraulische schakelingen",
-    "BACnet",
-    "KNX",
-    "Modbus",
-    "MQTT"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt affiniteit met techniek en API's, maar mist specifieke domeinkennis over gebouwautomatisering zoals HVAC, KNX en BACnet."
-  },
   "de2cd725009e": {
    "is_junior": false,
    "score": 40,
@@ -3620,6 +3603,184 @@
    "missing_realistic": [],
    "ignored_unrealistic": [],
    "reason": "Je brede programmeerervaring en achtergrond in maatwerksoftware en koppelingen sluiten erg goed aan bij deze logistieke rol."
+  },
+  "5bf2dd6fa008": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "C#",
+    "CI/CD"
+   ],
+   "missing_realistic": [
+    "C++",
+    "Embedded Systems"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeerervaring in Python en C# sluit goed aan bij deze testfunctie."
+  },
+  "490c26592952": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Bedrijfskundige of econometrische achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol is gericht op specifieke studies zoals econometrie of bedrijfskunde, wat niet past bij jouw IT-achtergrond."
+  },
+  "a6c99bb8d24e": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Nederlands"
+   ],
+   "missing_realistic": [
+    "Ervaring met data-analyse"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je wo-opleiding en Nederlandse taalvaardigheid passen bij deze werkstudentenrol, al heb je minder directe data-analyse-ervaring."
+  },
+  "d3eaa37aa0bb": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met Operationele Technologie (OT)"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Dit is een consultancerol op medior/senior niveau die specifieke ervaring met operationele technologie vraagt."
+  },
+  "7419263cc33f": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Supply chain achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt diepgaande kennis van supply chain planning, wat buiten jouw IT-profiel valt."
+  },
+  "1cd20931ab8c": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Hardware-analysetechnieken",
+    "Lasersystemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel technische affiniteit, maar mist de specifieke ervaring met hardware- en lasersystemen."
+  },
+  "5fbd1543a561": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "CI/CD"
+   ],
+   "missing_realistic": [
+    "PySpark",
+    "Delta Lake"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-kennis sluit goed aan bij deze data-softwarefunctie, al moet je nog ervaring opdoen met big data tools."
+  },
+  "e0cff02c41b4": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Azure",
+    "SQL",
+    "API’s"
+   ],
+   "missing_realistic": [
+    "Azure Data Factory",
+    "Databricks"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Azure-certificaat en SQL-vaardigheden vormen een goede basis voor deze data-engineeringrol."
+  },
+  "e47be1b42362": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Geospatial data standards",
+    "Metadata integration"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-ervaring past goed bij de ontwikkeling van geautomatiseerde workflows voor onderzoek."
+  },
+  "4dd8656fc645": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Git",
+    "GitHub",
+    "Python",
+    ".NET",
+    "C#"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al sterke GitHub-projecten en werkt graag met AI-tools en de terminal."
+  },
+  "9a19b949e34e": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "AI"
+   ],
+   "missing_realistic": [
+    "PLC",
+    "SCADA",
+    "HMI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met AI, maar mist ervaring met industriële PLC- en SCADA-systemen."
+  },
+  "b2090044226a": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "Linux",
+    "Informatica BSc"
+   ],
+   "missing_realistic": [
+    "Moderne C++"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-achtergrond en Linux-kennis, maar mist diepere C++ ervaring."
+  },
+  "2434e56032b0": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Quantitative finance",
+    "Low-latency pricing systems"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze kwantitatieve rol vraagt gespecialiseerde financiële achtergrond die je niet direct hebt."
+  },
+  "15bd9222e718": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Java",
+    "Clean Code",
+    "Informatica BSc"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je Java-kennis en afgeronde hbo-studie sluiten perfect aan bij dit graduate program."
   }
  }
 }
