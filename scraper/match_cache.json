@@ -1,33 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "a6c459e53d8f": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Python",
-    "REST API’s",
-    "AI-koppelingen",
-    "Git"
-   ],
-   "missing_realistic": [
-    "ervaring met e-commerce webshops en fulfilment-systemen"
-   ],
-   "ignored_unrealistic": [
-    "vloeiend Duits"
-   ],
-   "reason": "Je hebt sterke programmeervaardigheden en affiniteit met AI die goed aansluiten bij deze rol."
-  },
-  "c28a1bfa7304": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "HLO-achtergrond of relevante ervaring binnen immunologie en lab-analysediploma"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze functie vereist een specifieke medische of laboratoriumachtergrond die niet in je IT-cv voorkomt."
-  },
   "1f04839be4bc": {
    "is_junior": true,
    "score": 60,
@@ -3202,6 +3175,221 @@
     "Uitgebreide jarenlange e-commerce suite ervaring"
    ],
    "reason": "Je hebt wel raakvlakken met software en integraties, maar mist specifieke productanalyse- en e-commerceervaring voor deze medior rol."
+  },
+  "aa9e053150e7": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "notariële administratie",
+    "juridische ondersteuning",
+    "kennis van ondernemingsrecht"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een technische achtergrond in IT en software development, terwijl deze rol zich richt op juridische en notariële ondersteuning."
+  },
+  "fc9f4e881541": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "Python"
+   ],
+   "missing_realistic": [
+    "PLC-programmering",
+    "inbedrijfstellen van fysieke machines"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je C#- en .NET-ervaring sluit goed aan bij het ontwerpen van software, al mis je specifieke industriële automatisering en PLC-kennis."
+  },
+  "1ee2d54627b6": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "incidenten oplossen",
+    "ondersteunen van gebruikers"
+   ],
+   "missing_realistic": [
+    "ervaring met onderwijsapplicaties zoals Osiris of Canvas"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in IT-beheer en servicedesk past goed bij het functioneel beheer en de ondersteuning van gebruikers."
+  },
+  "73aca2252ffa": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "data-analyseren"
+   ],
+   "missing_realistic": [
+    "Power BI",
+    "ervaring binnen het sociaal domein of Wmo"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je SQL-vaardigheden en analytische vermogen vormen een goede basis voor data-analyse, al mis je nog ervaring met Power BI."
+  },
+  "6fd3c9c12b60": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Python",
+    "software testen en documenteren"
+   ],
+   "missing_realistic": [
+    "PLC-code",
+    "ervaring met machines en industriële besturing"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeerervaring sluit gedeeltelijk aan, maar de rol vraagt diepgaande kennis van PLC-systemen en machinebouw die je niet hebt."
+  },
+  "3769bcee57f2": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "LLM’s",
+    "AI-koppelingen",
+    "data-extractie"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je Python-vaardigheden, praktijkervaring met LLM's en AI-koppelingen sluiten naadloos aan bij deze vacature."
+  },
+  "1fdaca868509": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Git"
+   ],
+   "missing_realistic": [
+    "ervaring binnen consultancy of private equity"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange senior consultancy ervaring"
+   ],
+   "reason": "Je hebt sterke programmeerskills, maar de context van private equity en consultancy past beter bij een ervaren profiel."
+  },
+  "fe5ad134be86": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "support",
+    "problemen onderzoeken",
+    "REST API’s",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "ervaring met industriële IIoT-systemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in software support, klantcontact en probleemoplossing sluit uitstekend aan bij deze applicatierol."
+  },
+  "f2141fdfe30f": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "OAuth / MFA"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke ervaring met systeembeheer, Active Directory en toegangsbeheer die naadloos aansluit bij deze junior beheerrol."
+  },
+  "fb8b6b744455": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in servicedesk-werk en IT-beheer past uitstekend bij deze ondersteunende rol met Microsoft-componenten."
+  },
+  "4fbb9622f522": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring als data-analist in de zorgsector"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je Python en SQL beheerst, vraagt deze rol om specifieke ervaring met data-analyse en organisatorische advisering in de zorg die je nog mist."
+  },
+  "54565e2c2511": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Ubuntu / Linux",
+    "SQL",
+    "Git / Bitbucket",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je technische ondersteuningservaring en kennis van Linux en databases sluiten goed aan bij deze support- en implementatierol."
+  },
+  "7baf43db7d76": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Master of Science",
+    "Ervaring als regulatory business analyst"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie vraagt specifiek om een afgeronde master en ervaren businessanalyse in de financiële sector, wat niet aansluit bij jouw softwareprofiel."
+  },
+  "2e8b7249f97b": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring als businessanalist in datawarehousing"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke IT-achtergrond, maar mist de gerichte werkervaring als businessanalist voor complexe datawarehouses."
+  },
+  "1ccd13f3654f": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "Python",
+    "JavaScript",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Diepgaande TypeScript-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeervaardigheden in Python en JavaScript zijn sterk, maar de vacature zoekt een ervaren full stack engineer met specifieke focus."
+  },
+  "c12155288a4b": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "AWS"
+   ],
+   "missing_realistic": [
+    "Ervaring als medior/senior data engineer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met Python en cloudopslag, maar de rol van data engineer vraagt meer diepgaande engineeringervaring dan je als starter meebrengt."
   }
  }
 }
