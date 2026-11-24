@@ -1,179 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "1f04839be4bc": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "REST API’s",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [
-    "consultancy ervaring",
-    "IT-strategie"
-   ],
-   "ignored_unrealistic": [
-    "winstdelen",
-    "sabbatical",
-    "oppasdienst"
-   ],
-   "reason": "Je hebt goede communicatieve vaardigheden en zoekt een adviesrol, maar mist specifieke achtergrond in IT-strategie en enterprise transformaties."
-  },
-  "e6ac3eaab450": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "JavaScript",
-    "REST API’s",
-    "Windows Server",
-    "Ubuntu / Linux",
-    "SQL"
-   ],
-   "missing_realistic": [
-    "containers"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in Zorg-IT, datamigraties en je technische vaardigheden sluiten naadloos aan bij deze junior functie."
-  },
-  "7cd08262a8cf": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Linux",
-    "CI/CD",
-    "netwerkmonitoring"
-   ],
-   "missing_realistic": [
-    "Mobile Core Subscriber Data Management",
-    "Ericsson-technologieën"
-   ],
-   "ignored_unrealistic": [
-    "200 collega's in DevOps-organisatie",
-    "miljoenen consumenten"
-   ],
-   "reason": "Je hebt affiniteit met Linux en systemen, maar mist specifieke ervaring met mobiele netwerken en telecomplatforms."
-  },
-  "5fc2495f6e04": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Mbo 4 ICT-beheerder",
-    "gebruikersondersteuning",
-    "testen"
-   ],
-   "missing_realistic": [
-    "Ubeeo"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je MBO ICT-beheer achtergrond en ervaring met helpdesks en support passen goed bij deze functioneel beheer rol."
-  },
-  "86442f992257": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Cyber Security Awareness",
-    "incidentmanagement",
-    "monitoring"
-   ],
-   "missing_realistic": [
-    "24/7 control room ervaring"
-   ],
-   "ignored_unrealistic": [
-    "dertiende maand",
-    "10% Employee Benefit Budget"
-   ],
-   "reason": "Je helpdeskervaring bij OGD en securitykennis sluiten goed aan bij de taken van een control room medewerker."
-  },
-  "a9ac4047fbe2": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "Java",
-    "SQL",
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Spring Boot",
-    "Hibernate",
-    "ETL"
-   ],
-   "ignored_unrealistic": [
-    "Domain Driven Design",
-    "langdurige ervaringsjaren"
-   ],
-   "reason": "Je beheerst Java op basisniveau, maar mist specifieke professionele ervaring met Spring Boot, Hibernate en ETL-processen."
-  },
-  "beaf8d410a4f": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "Java",
-    "REST API’s",
-    "Git"
-   ],
-   "missing_realistic": [
-    "Spring Boot",
-    "dataharvesting"
-   ],
-   "ignored_unrealistic": [
-    "Domain Driven Design"
-   ],
-   "reason": "Je programmeert in Java en hebt de juiste opleiding, maar mist aantoonbare praktijkervaring met Spring Boot en harvesters."
-  },
-  "1d7b913d45d5": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "klantcontact",
-    "advisering"
-   ],
-   "missing_realistic": [
-    "commerciële B2B saleservaring in telecom",
-    "VoIP"
-   ],
-   "ignored_unrealistic": [
-    "aantoonbare ervaring in zakelijke telecomsector"
-   ],
-   "reason": "Je hebt goede klantvaardigheden en consultancy-ambities, maar mist specifieke commerciële telecom- en VoIP-ervaring."
-  },
-  "9682dbe1de5b": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL",
-    "Git / Bitbucket"
-   ],
-   "missing_realistic": [
-    "AFAS beheer kennis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke IT-- en beheerachtergrond, maar mist specifieke AFAS-ervaring voor deze functie."
-  },
-  "f83999d0bb63": {
-   "is_junior": false,
-   "score": 10,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Supply chain en planning ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol richt zich op supply chain en planning in plaats van software engineering of IT-beheer."
-  },
-  "9fac7b6dea0c": {
-   "is_junior": true,
-   "score": 40,
-   "matched_skills": [
-    "Java"
-   ],
-   "missing_realistic": [
-    "iOS",
-    "Swift"
-   ],
-   "ignored_unrealistic": [
-    "Ruime kennis van iOS en Swift 5"
-   ],
-   "reason": "Je hebt programmeerervaring en kent Java, maar je mist specifieke kennis van iOS en Swift."
-  },
   "976b1b4eeeb5": {
    "is_junior": true,
    "score": 85,
@@ -3390,6 +3217,104 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt affiniteit met Python en cloudopslag, maar de rol van data engineer vraagt meer diepgaande engineeringervaring dan je als starter meebrengt."
+  },
+  "aef2e09e00ae": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als ICT-beheerder en servicedeskmedewerker sluit naadloos aan bij deze junior systeembeheerfunctie."
+  },
+  "0c787255a6bd": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [
+    "Terraform",
+    "Bicep",
+    "Azure DevOps"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al basiservaring met Azure en cloud, al mis je nog specifieke tools zoals Terraform en Bicep."
+  },
+  "f1092197472e": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Pega"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol is te senior en vraagt specifieke Pega-ervaring die niet op je cv staat."
+  },
+  "250c6bcc11f1": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "JavaScript"
+   ],
+   "missing_realistic": [
+    "Swift",
+    "iOS app development"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt sterke programmeerskills, maar mist professionele ervaring met Swift en native iOS-ontwikkeling."
+  },
+  "bd33b4cb2f2a": {
+   "is_junior": true,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Opleidingskunde",
+    "Didactiek"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt specifiek om onderwijskundige en didactische vaardigheden in plaats van technische softwareontwikkeling."
+  },
+  "2db1c4a0e5c6": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "JavaScript"
+   ],
+   "missing_realistic": [
+    "Swift",
+    "iOS app development"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke developmentachtergrond past bij softwarebouw, maar je mist de gevraagde Swift- en iOS-ervaring."
+  },
+  "9cdae995e848": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "OutSystems"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke achtergrond in software engineering, maar je mistvaring met het OutSystems low-code platform."
+  },
+  "b2dacfc26881": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "AWS",
+    "Microsoft Azure"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met Python, API's en cloudintegraties sluit goed aan bij deze AI-engineer consultant rol."
   }
  }
 }
