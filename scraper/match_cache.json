@@ -1,284 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "a6306245f575": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Credit Risk Analysis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt geen achtergrond in finance of credit risk analysis voor deze startersrol."
-  },
-  "d3f18e4943ff": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Linux",
-    "AWS",
-    "Azure",
-    "Git"
-   ],
-   "missing_realistic": [
-    "Kubernetes"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond in IT-beheer en cloudtechnologieën sluit erg goed aan bij deze platform engineering rol."
-  },
-  "c710f9ea2f37": {
-   "is_junior": true,
-   "score": 90,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je ervaring bij de servicedesk en je mbo-achtergrond in ICT-beheer passen uitstekend bij deze supportfunctie."
-  },
-  "8158bb8d87f4": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-beheerervaring bij de servicedesk sluit naadloos aan bij deze helpdesk- en beheerfunctie."
-  },
-  "cea4efba1aeb": {
-   "is_junior": false,
-   "score": 50,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "OAuth / MFA"
-   ],
-   "missing_realistic": [
-    "PowerShell",
-    "Bash"
-   ],
-   "ignored_unrealistic": [
-    "CIS Benchmarks"
-   ],
-   "reason": "Hoewel je beheerervaring hebt, vraagt deze functie specifiek om zelfstandig technisch systeembeheer."
-  },
-  "5bab5aa13bdc": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "REST API’s"
-   ],
-   "missing_realistic": [
-    "Functioneel beheer",
-    "Procesverbetering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze coördinerende en procesgerichte rol past minder goed bij jouw technische software- en beheerachtergrond."
-  },
-  "82ecb5a5352b": {
-   "is_junior": true,
-   "score": 55,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Finance Reporting",
-    "Business Analysis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt een sterke IT-opleiding, maar mist specifieke affiniteit met financiële processen en reporting."
-  },
-  "b8ca67e5e208": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Financial Planning and Analysis"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je profiel is technisch en past niet bij deze financieel-analytische functie."
-  },
-  "5c1e176da949": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "zorg-it",
-    "patiëntenportaal",
-    "testen"
-   ],
-   "missing_realistic": [
-    "HiX EPD kennis",
-    "functioneel beheer ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt ervaring met zorg-IT en patiëntportalen, maar mist specifieke kennis van het HiX EPD."
-  },
-  "53bb503143b8": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Support"
-   ],
-   "missing_realistic": [
-    "Teams-telefonie",
-    "Zoom"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je IT-ondersteuningservaring sluit aan, maar je mist specifieke achtergrond in telefonieomgevingen."
-  },
-  "411cb8d9aec7": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Klantcontact",
-    "Consultancy",
-    "Support"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je klantgerichte houding en IT-achtergrond passen goed bij deze ondersteunende adviesrol."
-  },
-  "73165f567fd9": {
-   "is_junior": true,
-   "score": 80,
-   "matched_skills": [
-    "Windows Server",
-    "Active Directory",
-    "Linux",
-    "Systeembeheer"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je achtergrond als systeembeheerder sluit goed aan bij de gevraagde infrastructuurtaken."
-  },
-  "f97119e753a9": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Microsoft 365",
-    "Support",
-    "Functioneel beheer"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt sterke ervaring met helpdesksupport en de digitale werkplek."
-  },
-  "432445238083": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Functioneel beheer"
-   ],
-   "missing_realistic": [
-    "Jaren relevante HR- en P&O-beheerervaring"
-   ],
-   "ignored_unrealistic": [
-    "Salarisindicatie die wijst op ervaren profiel"
-   ],
-   "reason": "Deze functie is te senior voor een startersrol vanwege de diepgaande P&O-processen."
-  },
-  "256742b34462": {
-   "is_junior": false,
-   "score": 45,
-   "matched_skills": [
-    "Analytisch vermogen"
-   ],
-   "missing_realistic": [
-    "Ervaring als volwaardig business analist"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "De rol vraagt om meer senior strategische analyse-ervaring dan je op dit moment hebt."
-  },
-  "1aeb3d6e72c8": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "Consultancy",
-    "Hbo-niveau"
-   ],
-   "missing_realistic": [
-    "HR-processen",
-    "Salarisadministratie"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je communicatieve skills passen goed bij consultancy, maar je mist kennis van salarissoftware."
-  },
-  "01855992ff9f": {
-   "is_junior": true,
-   "score": 70,
-   "matched_skills": [
-    "SQL",
-    "Python",
-    "Analytische vaardigheden"
-   ],
-   "missing_realistic": [
-    "HR-data-analysespecialisatie"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je technische en analytische achtergrond sluiten goed aan bij data-analyse."
-  },
-  "6c486f9b2acb": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "SQL"
-   ],
-   "missing_realistic": [
-    "Data Analytics ervaring",
-    "Dashboarding tools zoals PowerBI of Tableau"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt wel wat ervaring met data en SQL uit je studie en minor, maar de vacature vraagt specifiek om een data-analist in plaats van een software engineer."
-  },
-  "fd4ef8579567": {
-   "is_junior": true,
-   "score": 75,
-   "matched_skills": [
-    "Playwright (testing)",
-    "End-to-end testing"
-   ],
-   "missing_realistic": [
-    "Tricentis Suite"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je ervaring met end-to-end testen en Playwright sluit goed aan bij deze testfunctie, al moet je wel de specifieke testtool leren."
-  },
-  "8a3a3267e4ba": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "C#",
-    "Software engineering"
-   ],
-   "missing_realistic": [
-    "PLC-programmering",
-    "DCS-systemen",
-    "Industriële automatisering"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol is gericht op PLC- en industriële automatisering, wat niet aansluit bij jouw achtergrond in web- en software development."
-  },
-  "8234333288cb": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "C#",
-    "Software engineering"
-   ],
-   "missing_realistic": [
-    "PLC-programmering",
-    "Maritieme systemen",
-    "Power Management Systems"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze functie vraagt om specifieke PLC- en energiesystemen voor superjachten, wat buiten jouw expertise als software en system engineer valt."
-  },
   "205dd793fc0e": {
    "is_junior": false,
    "score": 0,
@@ -4080,6 +3802,283 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een hbo-diploma Informatica, maar geen affiniteit of opleiding in water- en bodembeheer."
+  },
+  "49565dfb87f4": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-achtergrond en ervaring met Java en API's die goed aansluiten bij deze junior rol."
+  },
+  "273f958492a4": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Azure",
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je IT-beheerervaring en Azure-kennis sluiten uitstekend aan bij deze gecombineerde junior ICT- en developerfunctie."
+  },
+  "c62ff21993cf": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Java",
+    "REST API’s",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-achtergrond en ervaring met Java en API's die goed aansluiten bij deze junior rol."
+  },
+  "415c328a5bd8": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "AI EN INTEGRATIES",
+    "REST API’s",
+    "Python"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je analytische achtergrond en affiniteit met AI en ontwikkeling passen goed bij deze junior analyse- en automatiseringsrol."
+  },
+  "06af531e52e7": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring met RPA-specifieke tools"
+   ],
+   "ignored_unrealistic": [
+    "Salaris tot 6244 euro dat past bij een hogere schaal"
+   ],
+   "reason": "Deze functie is ingedeeld in een hogere salarisschaal en vraagt specifieke ervaring die meer richting medior/senior neigt."
+  },
+  "914d675dc8fc": {
+   "is_junior": true,
+   "score": 95,
+   "matched_skills": [
+    "Windows Server",
+    "Python",
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke technische basis en ervaring met klantcontact sluiten naadloos aan bij de wensen voor deze consultancyfunctie."
+  },
+  "4d299a5d378c": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Python",
+    "JavaScript",
+    "Vue / Nuxt",
+    "Git / Bitbucket"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al goede ervaring met full-stack development en AI-tools die in deze rol goed van pas komen."
+  },
+  "263fe9bf22d7": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Rust",
+    "Go"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze vacature vraagt specifieke programmeertalen zoals Rust en Go waarin je geen ervaring hebt opgedaan in je cv."
+  },
+  "c81ec3a2b6aa": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "REST API’s",
+    "MCP / AI-koppelingen"
+   ],
+   "missing_realistic": [
+    "ervaring met EPD systemen",
+    "functioneel beheer ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt al ervaring met klantcontact en AI-koppelingen, wat goed aansluit bij deze support- en adviesrol."
+  },
+  "7297dc438bd2": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "ERP-strategie",
+    "bedrijfskundige procesanalyse"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange ervaring met ERP-implementaties"
+   ],
+   "reason": "Deze consultantrol vraagt meer bedrijfskundige senioriteit in ERP-strategie dan je tot nu toe hebt opgebouwd."
+  },
+  "251f6e112c31": {
+   "is_junior": false,
+   "score": 30,
+   "matched_skills": [
+    "Cyber Security Awareness",
+    "Principles of Secure Coding"
+   ],
+   "missing_realistic": [
+    "SOC-analist ervaring",
+    "uitgebreide cybersecurity werkervaring"
+   ],
+   "ignored_unrealistic": [
+    "schaal 11 salarisniveau",
+    "diepgaande specialistische security-ervaring"
+   ],
+   "reason": "Deze dubbelrol als SOC-analist en senior cybersecurity adviseur vraagt om meer diepgaande security-ervaring."
+  },
+  "fb1eefd3365b": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "helpdesk"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en ervaring bij OGD sluiten naadloos aan op deze junior systeembeheerdersrol."
+  },
+  "8b6b10440ca4": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux",
+    "klantcontact"
+   ],
+   "missing_realistic": [
+    "ervaring bij een MSP"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je brede technische achtergrond en klantgerichte ervaring maken je een geschikte kandidaat voor dit beheerwerk."
+  },
+  "038e701bb8d7": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "klantcontact",
+    "analytisch vermogen"
+   ],
+   "missing_realistic": [
+    "ervaring met zorgtechnologie",
+    "functioneel beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Hoewel je affiniteit hebt met de zorg, vraagt een zelfstandige functie als functioneel beheerder om specifieke werkervaring in die rol."
+  },
+  "254845174e0c": {
+   "is_junior": false,
+   "score": 60,
+   "matched_skills": [
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Oracle PL/SQL",
+    "Oracle APEX"
+   ],
+   "ignored_unrealistic": [
+    "jarenlange ervaring met Oracle-ecosystemen"
+   ],
+   "reason": "Je hebt goede analytische vaardigheden en SQL-kennis, maar mist de specifieke Oracle-ervaring."
+  },
+  "9237e8768eda": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "Data Science",
+    "AI"
+   ],
+   "missing_realistic": [
+    "commerciële data-analist ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je opleiding in Informatica en ervaring met Python en AI sluiten goed aan bij de wensen voor deze data-analist."
+  },
+  "2bd6468e5fe6": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Power BI"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je data- en Python-ervaring sluit redelijk aan, maar je mist specifieke Power BI-kennis."
+  },
+  "0aaed170aa8c": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Commerciële marketingervaring",
+    "Online marketing tools"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische achtergrond en Python-skills passen goed, maar je mist specifieke marketingervaring."
+  },
+  "3fb49e99a60d": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "JavaScript",
+    "REST API’s"
+   ],
+   "missing_realistic": [
+    "Conversie-optimalisatie",
+    "Websitemanagement"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische basis is sterk, maar de rol vraagt meer specifieke websitemanagement en conversie-ervaring."
+  },
+  "cb67af38b978": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Financiële achtergrond",
+    "Financial controlling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je affiniteit met data en AI is aanwezig, maar je hebt geen financiële achtergrond voor deze controllersfunctie."
   }
  }
 }
