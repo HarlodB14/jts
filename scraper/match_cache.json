@@ -1,33 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "205dd793fc0e": {
-   "is_junior": false,
-   "score": 0,
-   "matched_skills": [],
-   "missing_realistic": [
-    "Mechanical engineering degree",
-    "CAD software experience"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Deze rol vraagt om een werktuigbouwkundige achtergrond die niet in je IT-cv past."
-  },
-  "48a29531da7e": {
-   "is_junior": false,
-   "score": 20,
-   "matched_skills": [
-    "SQL",
-    "Python"
-   ],
-   "missing_realistic": [
-    "Ervaring met data governance",
-    "Ervaring als data management consultant"
-   ],
-   "ignored_unrealistic": [
-    "Salarisindicatie die past bij een senior profiel"
-   ],
-   "reason": "Deze consultancyfunctie vraagt meerjarige ervaring op het gebied van data governance die je als starter nog niet hebt."
-  },
   "6735774b38f4": {
    "is_junior": false,
    "score": 0,
@@ -4079,6 +4052,369 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je affiniteit met data en AI is aanwezig, maar je hebt geen financiële achtergrond voor deze controllersfunctie."
+  },
+  "414ee813009e": {
+   "is_junior": true,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je kunt deze vacature niet beoordelen omdat de inhoud ontbreekt."
+  },
+  "2f2e1351cc4f": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "elektrotechnische ontwerpen",
+    "besturingstekeningen",
+    "industriële hardware"
+   ],
+   "ignored_unrealistic": [
+    "begeleiden van junior engineers"
+   ],
+   "reason": "Je hebt geen achtergrond in elektrotechnische hardwareontwikkeling omdat je ICT- en software-opleidingen hebt gevolgd."
+  },
+  "9f3f76f8e38f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt"
+   ],
+   "missing_realistic": [
+    "React"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je brengt sterke frontend-ervaring mee in JavaScript en moderne frameworks, hoewel je specifiek met Vue/Nuxt werkt in plaats van React."
+  },
+  "bdce17e691d9": {
+   "is_junior": true,
+   "score": 40,
+   "matched_skills": [
+    "REST API's",
+    "softwareontwikkeling"
+   ],
+   "missing_realistic": [
+    "Salesforce",
+    "Apex"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een sterke basis in software engineering en API's, maar mist specifieke Salesforce-ervaring."
+  },
+  "8ff3e45afa8f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt"
+   ],
+   "missing_realistic": [
+    "React"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt goede frontend-vaardigheden in JavaScript en moderne frameworks, hoewel je ervaring met Vue ligt en de rol om React vraagt."
+  },
+  "9f8f832b8210": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "JavaScript",
+    "Vue / Nuxt"
+   ],
+   "missing_realistic": [
+    "React"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sluit goed aan met je JavaScript- en frontend-kennis, al programmeer je voornamelijk in Vue in plaats van in de gevraagde techniek React."
+  },
+  "e63789717b6c": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "PHP",
+    "Laravel",
+    "JavaScript",
+    "Vue / Nuxt",
+    "SQL",
+    "REST API's"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je technische stack met PHP, Laravel, JavaScript en Nuxt sluit uitstekend aan bij een allround developer rol."
+  },
+  "7884f7b3f115": {
+   "is_junior": true,
+   "score": 50,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Oracle APEX",
+    "PL/SQL"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een goede basis in SQL en database-kennis, maar mist specifieke ervaring met Oracle APEX en PL/SQL."
+  },
+  "826c8f8d3bad": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Datawarehouse ervaring",
+    "BI ontwikkeling"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel SQL en Python, maar deze rol vraagt specifiek om datawarehouse- en BI-ervaring."
+  },
+  "b2a4900bee58": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "Python",
+    "Java"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke achtergrond in C# en Python sluit uitstekend aan bij deze technische software engineering rol."
+  },
+  "6f135981a9d0": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "JavaScript",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt ruime ervaring met C# en .NET die direct aansluit bij de wensen voor dit team."
+  },
+  "93d7af369a36": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C#",
+    ".NET",
+    "JavaScript",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je .NET- en C#-ervaring past perfect bij de techniekeisen van deze functie."
+  },
+  "32061065ebaa": {
+   "is_junior": true,
+   "score": 88,
+   "matched_skills": [
+    "JavaScript",
+    "Vue",
+    "Nuxt",
+    "PHP",
+    "Laravel",
+    "SQL"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt veel ervaring met de gevraagde full-stack technieken zoals Laravel en Vue."
+  },
+  "35ad5b4d3dec": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "C#",
+    ".NET"
+   ],
+   "missing_realistic": [
+    "Robotica specifieke ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeerervaring in Python en C# sluit goed aan, al mis je directe robotica-ervaring."
+  },
+  "bd6e28e2ddf0": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "SQL",
+    "Python"
+   ],
+   "missing_realistic": [
+    "Consultancy-ervaring in data"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt affiniteit met data en communicatieve vaardigheden, maar mist specifieke data-consultancy."
+  },
+  "e2f3d396f119": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Cyber Security",
+    "Windows Server",
+    "Linux",
+    "Active Directory"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in ICT-beheer en security-certificaten sluit goed aan bij een rol als SOC analist."
+  },
+  "a45cb02c0971": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Nederlands"
+   ],
+   "missing_realistic": [
+    "Process Mining ervaring",
+    "Consultancy achtergrond in process optimalisatie"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel de Nederlandse taalvaardigheid, maar mist specifieke process mining ervaring voor deze consultancyrol."
+  },
+  "d499de9c729a": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "SQL",
+    "C# / .NET"
+   ],
+   "missing_realistic": [
+    "Ervaring met ERP- of bedrijfsapplicaties"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische basis met C# en SQL sluit redelijk aan, maar je mist gerichte ervaring met bedrijfsapplicaties."
+  },
+  "c460280ec6ad": {
+   "is_junior": false,
+   "score": 35,
+   "matched_skills": [
+    "Cyber Security Awareness"
+   ],
+   "missing_realistic": [
+    "Ervaring als CISO of security governance adviseur"
+   ],
+   "ignored_unrealistic": [
+    "Jarenlange senior advieservaring"
+   ],
+   "reason": "Je hebt basiskennis van security, maar de rol vraagt om senior governance en CISO-ervaring die je nog niet hebt."
+  },
+  "1990d160f855": {
+   "is_junior": true,
+   "score": 85,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond als ICT-medewerker en mbo-opleidingen in systeembeheer sluiten heel goed aan bij deze beheerrol."
+  },
+  "f5487cf5e8b1": {
+   "is_junior": true,
+   "score": 80,
+   "matched_skills": [
+    "Windows Server",
+    "Active Directory",
+    "Ubuntu / Linux"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt relevante praktijkervaring opgedaan als ICT-medewerker en systemen beheren past goed bij je mbo-achtergrond."
+  },
+  "3b64b63f898d": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Ervaring als functioneel beheerder"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt technische ervaring met systemen en SQL, maar mist nog specifieke ervaring met functioneel beheer."
+  },
+  "318a7c6a3151": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met domotica",
+    "Ervaren achtergrond in functioneel beheer"
+   ],
+   "ignored_unrealistic": [
+    "Ervaren niveau"
+   ],
+   "reason": "De vacature vraagt om een ervaren kracht in specifiek domoticabeheer, wat niet aansluit bij jouw software- en supportachtergrond."
+  },
+  "3d02b3b1f8b6": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring als IT-recruiter"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze HR- en recruitmentrol sluit niet aan bij jouw technische achtergrond in software engineering en systeembeheer."
+  },
+  "56ccaae58ac5": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol is te ver verwijderd van je software engineering en consultancy achtergrond."
+  },
+  "bf49169f30b7": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie is te gefocust op data-analyse in plaats van softwareontwikkeling."
+  },
+  "73f14bdcadba": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "De functie richt zich puur op data-analyse en logistieke BI in plaats van development."
+  },
+  "25811d700e94": {
+   "is_junior": true,
+   "score": 90,
+   "matched_skills": [
+    "C# / .NET",
+    "JavaScript",
+    "Git / Bitbucket",
+    "PHP / Laravel"
+   ],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Je C#, JavaScript en PHP ervaring sluiten naadloos aan bij de gevraagde systeemintegratie."
+  },
+  "682945d13172": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "De vacaturetekst ontbreekt in de input om een goede beoordeling te maken."
+  },
+  "603eadd89637": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Dit is een financieel georiënteerde rol en past niet bij je technische achtergrond."
   }
  }
 }
