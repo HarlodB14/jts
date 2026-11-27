@@ -1,23 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "5064c074a225": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Linux",
-    "REST API's"
-   ],
-   "missing_realistic": [
-    "Broadcom Layer7 API Gateway",
-    "Jenkins Groovy",
-    "Ansible"
-   ],
-   "ignored_unrealistic": [
-    "Ervaring met grootschalige kritieke overheidsinfrastructuur"
-   ],
-   "reason": "Je hebt wel Linux- en API-ervaring, maar deze complexe infrastructuurrol vraagt te specifieke enterprise-tools zoals Ansible en Jenkins Groovy."
-  },
   "a8b87d9355d8": {
    "is_junior": false,
    "score": 0,
@@ -4393,6 +4376,259 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt een relevante hbo-bachelor en ervaring met data, waardoor deze meewerkstage goed aansluit bij je achtergrond."
+  },
+  "c0462b112ec4": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Electrical Engineering background"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol vraagt een specifieke achtergrond in electrical engineering die niet in je cv staat."
+  },
+  "d9f13870b562": {
+   "is_junior": false,
+   "score": 40,
+   "matched_skills": [
+    "Agile/Scrum"
+   ],
+   "missing_realistic": [
+    "Ervaring als zelfstandig Scrum Master"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel ervaring met Agile/Scrum, maar mist de gevraagde senioriteit als volwaardig Scrum Master."
+  },
+  "6465f87ee114": {
+   "is_junior": false,
+   "score": 35,
+   "matched_skills": [
+    "Linux",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Diepgaande Platform/DevOps engineering ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "De rol richt zich op platform engineering op medior/senior niveau, wat te zwaar is voor een startende rol."
+  },
+  "09d079822b9f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "API's",
+    "Software testing",
+    "Cloud"
+   ],
+   "missing_realistic": [
+    "Ervaring met energiesystemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in software engineering en API-koppelingen past goed bij deze technische ontwikkelfunctie."
+  },
+  "b01c16bee268": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "API's",
+    "Cloud",
+    "Testing"
+   ],
+   "missing_realistic": [
+    "Domeinkennis van energiesystemen"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je technische vaardigheden sluiten goed aan bij het ontwikkelen en testen van softwarekoppelingen."
+  },
+  "38e6caf5d331": {
+   "is_junior": false,
+   "score": 45,
+   "matched_skills": [
+    "Hbo-opleiding Informatica"
+   ],
+   "missing_realistic": [
+    "Aantoonbare werkervaring in een vergelijkbare consultancysituatie voor meldkamers"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt een relevante hbo-opleiding, maar mist de vereiste werkervaring voor deze zelfstandige consultantrol."
+  },
+  "7bbc8739460d": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met SAP Employee Central"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze managementconsultancyrol vraagt specifieke SAP-kennis die niet in je profiel voorkomt."
+  },
+  "272425a24042": {
+   "is_junior": false,
+   "score": 20,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Ervaring met SAP Work Zone"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je mist de specifieke SAP-ervaring die nodig is voor deze managementconsultancyfunctie."
+  },
+  "1391bf63e230": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol sluit niet aan bij jouw softwareontwikkeling- en consultancyervaring."
+  },
+  "1bc122699cc4": {
+   "is_junior": false,
+   "score": 0,
+   "matched_skills": [],
+   "missing_realistic": [],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie sluit onvoldoende aan bij jouw achtergrond in software engineering."
+  },
+  "603055132cde": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Zorg-IT",
+    "support",
+    "testen"
+   ],
+   "missing_realistic": [
+    "ervaring met HiX"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je achtergrond in zorg-IT en support past goed bij deze functie als functioneel beheerder."
+  },
+  "c17c2015c535": {
+   "is_junior": true,
+   "score": 65,
+   "matched_skills": [
+    "klantcontact",
+    "software"
+   ],
+   "missing_realistic": [
+    "ervaring met functioneel beheer"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je ervaring met klantgescripten en software past redelijk bij deze functie."
+  },
+  "9e446c0e4901": {
+   "is_junior": true,
+   "score": 60,
+   "matched_skills": [
+    "Python",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "gerichte data-analyse ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je programmeer- en data-ervaring sluiten deels aan bij deze startersfunctie."
+  },
+  "ad32331bb90d": {
+   "is_junior": false,
+   "score": 50,
+   "matched_skills": [
+    "klantcontact",
+    "analyseren"
+   ],
+   "missing_realistic": [
+    "ervaring als business analist"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je consultancy-ervaring helpt, maar de rol vraagt meer specifieke business analyse."
+  },
+  "70b37278d9fd": {
+   "is_junior": false,
+   "score": 55,
+   "matched_skills": [
+    "Python",
+    "AI",
+    "data"
+   ],
+   "missing_realistic": [
+    "ervaring als business analist"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je AI- en data-achtergrond sluiten aan, maar de rol is te zwaar op business analyse."
+  },
+  "11760290d386": {
+   "is_junior": true,
+   "score": 55,
+   "matched_skills": [
+    "analytisch vermogen"
+   ],
+   "missing_realistic": [
+    "financiële of bedrijfsmatige achtergrond"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je analytische vaardigheden passen enigszins, maar de context is heel anders."
+  },
+  "edf8a80cf378": {
+   "is_junior": true,
+   "score": 45,
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "Engels"
+   ],
+   "missing_realistic": [
+    "Ervaring met data-analyse in real estate of facility management"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je hebt wel programmeer- en analysedata-achtergrond, maar mist specifieke vastgoed- en facility-ervaring."
+  },
+  "59ed0e9b68bd": {
+   "is_junior": false,
+   "score": 10,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Medische of biologische achtergrond voor moleculaire diagnostiek"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze rol is medisch en biologisch georiënteerd, wat niet aansluit bij je IT- en software-achtergrond."
+  },
+  "a69f717b8d5c": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Git"
+   ],
+   "missing_realistic": [
+    "Specifieke dbt- of moderne data stack-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je sterke programmeer- en SQL-vaardigheden sluiten goed aan bij een junior analytics engineer rol."
+  },
+  "fc9fb1cabb1d": {
+   "is_junior": false,
+   "score": 15,
+   "matched_skills": [],
+   "missing_realistic": [
+    "Laboratoriumervaring en farmaceutische kwaliteitscontrole"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Deze functie richt zich op chemische en farmaceutische lab-kwaliteitscontrole, wat buiten jouw IT-domein valt."
+  },
+  "9ccc10247917": {
+   "is_junior": true,
+   "score": 70,
+   "matched_skills": [
+    "Klantgesprekken",
+    "Agile/Scrum",
+    "Adviseren"
+   ],
+   "missing_realistic": [
+    "Diepgaande procesoptimalisatie-ervaring"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je consultancy- en klantvaardigheden passen goed bij een rol als business proces analist."
   }
  }
 }
