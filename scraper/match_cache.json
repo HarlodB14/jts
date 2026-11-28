@@ -1,115 +1,6 @@
 {
  "cv_hash": "2ee06dbb22b325d1",
  "results": {
-  "6d170fefcbeb": {
-   "is_junior": false,
-   "score": 15,
-   "matched_skills": [
-    "Agile/Scrum"
-   ],
-   "missing_realistic": [
-    "Mendix certificering",
-    "DevOps ervaring"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt geen ervaring met Mendix, waardoor deze rol niet bij je achtergrond past."
-  },
-  "2c45af019deb": {
-   "is_junior": false,
-   "score": 30,
-   "matched_skills": [
-    "Python",
-    "C#",
-    "Java"
-   ],
-   "missing_realistic": [
-    "Embedded systems",
-    "Space industry experience"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je programmeerkennis is sterk, maar je mist de specifieke ruimtevaart- en embedded achtergrond."
-  },
-  "39e8d0d84947": {
-   "is_junior": false,
-   "score": 35,
-   "matched_skills": [
-    "Klantgesprekken",
-    "Adviseren"
-   ],
-   "missing_realistic": [
-    "Inkoopervaring",
-    "Business analyse"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je hebt goede communicatieve vaardigheden, maar mist de specifieke inkoopervaring voor deze rol."
-  },
-  "44ffe0cb419b": {
-   "is_junior": false,
-   "score": 40,
-   "matched_skills": [
-    "Klantcontact",
-    "Processen"
-   ],
-   "missing_realistic": [
-    "Functioneel specificeren",
-    "Informatiemanagement"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je technische achtergrond is breed, maar de focus ligt hier te veel op functionele analyse."
-  },
-  "8baf0f7d80ef": {
-   "is_junior": true,
-   "score": 50,
-   "matched_skills": [
-    "Communicatief vaardig"
-   ],
-   "missing_realistic": [
-    "Recruitmentervaring",
-    "Commerciële achtergrond"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je praat makkelijk met mensen, maar je achtergrond ligt in software engineering in plaats van recruitment."
-  },
-  "06f6bca5d375": {
-   "is_junior": true,
-   "score": 65,
-   "matched_skills": [
-    "Python",
-    "REST API's",
-    "Klantgerichtheid"
-   ],
-   "missing_realistic": [
-    "Enterprise architecture"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je ervaring met klantadvies en development sluit goed aan bij deze klantgerichte technische rol."
-  },
-  "b3a704b6843e": {
-   "is_junior": true,
-   "score": 85,
-   "matched_skills": [
-    "Python",
-    "AI",
-    "REST API's",
-    "MCP-koppelingen"
-   ],
-   "missing_realistic": [],
-   "ignored_unrealistic": [],
-   "reason": "Je recente ervaring met AI-koppelingen, LLM's en Python sluit naadloos aan bij deze vacature."
-  },
-  "afe47c1d35a6": {
-   "is_junior": true,
-   "score": 60,
-   "matched_skills": [
-    "Klantadvies",
-    "Consultancy"
-   ],
-   "missing_realistic": [
-    "AFAS software"
-   ],
-   "ignored_unrealistic": [],
-   "reason": "Je rol als developer-consultant past bij de advieskant, maar je mist specifieke kennis van AFAS."
-  },
   "5b121963e52e": {
    "is_junior": true,
    "score": 90,
@@ -4124,6 +4015,21 @@
    ],
    "ignored_unrealistic": [],
    "reason": "Je hebt goede algemene IT- en programmeervaardigheden, maar mist specifieke ervaring met data-analysetools zoals Power BI."
+  },
+  "fe250252a51f": {
+   "is_junior": true,
+   "score": 75,
+   "matched_skills": [
+    "Python",
+    "REST API’s",
+    "AI",
+    "SQL"
+   ],
+   "missing_realistic": [
+    "Financiële domeinkennis"
+   ],
+   "ignored_unrealistic": [],
+   "reason": "Je Python- en AI-ervaring sluiten goed aan bij de junior rol, al mis ik specifieke financiële achtergrond."
   }
  }
 }
